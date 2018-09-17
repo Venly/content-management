@@ -2,5 +2,6 @@
   "name": "FundRequest",
   "symbol": "FND",
   "address": "0x4df47b4969b2911c966506e3592c41389493953b",
-  "decimals": 18
+  "decimals": 18,
+  "type": "ERC20"
 }
