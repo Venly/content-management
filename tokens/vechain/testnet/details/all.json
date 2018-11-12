@@ -1,1 +1,16 @@
-[{"name":"SafeHaven","symbol":"SHA","address":"0x9c6e62b3334294d70c8e410941f52d482557955b","decimals":18,"type":"ERC20"}]
+[
+  {
+    "name": "SafeHaven",
+    "symbol": "SHA",
+    "address": "0x9c6e62b3334294d70c8e410941f52d482557955b",
+    "decimals": 18,
+    "type": "VIP180"
+  },
+  {
+    "name": "VeThor",
+    "symbol": "VTHO",
+    "address": "0x0000000000000000000000000000456e65726779",
+    "decimals": 18,
+    "type": "VIP180"
+  }
+]
