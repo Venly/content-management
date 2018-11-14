@@ -1,1 +1,44 @@
-[{"name":"VeThor","symbol":"VTHO","address":"0x0000000000000000000000000000456e65726779","decimals":18,"type":"VIP180"},{"name":"OceanEx","symbol":"OCE","address":"0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14","decimals":18,"type":"VIP180"},{"name":"DecentBet","symbol":"DBET","address":"0x1b8EC6C2A45ccA481Da6F243Df0d7A5744aFc1f8","decimals":18,"type":"VIP180"},{"name":"SafeHaven","symbol":"SHA","address":"0x5db3C8A942333f6468176a870dB36eEf120a34DC","decimals":18,"type":"VIP180"},{"name":"Plair","symbol":"PLA","address":"0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f","decimals":18,"type":"VIP180"},{"name":"TicTalk","symbol":"TIC","address":"0xa94a33f776073423e163088a5078feac31373990","decimals":18,"type":"VIP180"}]
+[
+  {
+    "name": "VeThor",
+    "symbol": "VTHO",
+    "address": "0x0000000000000000000000000000456e65726779",
+    "decimals": 18,
+    "type": "VIP180"
+  },
+  {
+    "name": "OceanEx",
+    "symbol": "OCE",
+    "address": "0x0ce6661b4ba86a0ea7ca2bd86a0de87b0b860f14",
+    "decimals": 18,
+    "type": "VIP180"
+  },
+  {
+    "name": "DecentBet",
+    "symbol": "DBET",
+    "address": "0x1b8EC6C2A45ccA481Da6F243Df0d7A5744aFc1f8",
+    "decimals": 18,
+    "type": "VIP180"
+  },
+  {
+    "name": "SafeHaven",
+    "symbol": "SHA",
+    "address": "0x5db3C8A942333f6468176a870dB36eEf120a34DC",
+    "decimals": 18,
+    "type": "VIP180"
+  },
+  {
+    "name": "Plair",
+    "symbol": "PLA",
+    "address": "0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f",
+    "decimals": 18,
+    "type": "VIP180"
+  },
+  {
+    "name": "TicTalk",
+    "symbol": "TIC",
+    "address": "0xa94a33f776073423e163088a5078feac31373990",
+    "decimals": 18,
+    "type": "VIP180"
+  }
+]
