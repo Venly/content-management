@@ -93,6 +93,7 @@ eel
 eland
 elephant
 elk
+
 emu
 falcon
 ferret
@@ -321,3 +322,4 @@ xenomorph
 yacare
 yak
 zebra
+gamora
