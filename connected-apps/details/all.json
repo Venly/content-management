@@ -6,4 +6,6 @@
 {"name": "Devoxx", "description":"Devoxx 2018 Demo application for showcasing a very basic wallet using Arkane Connect", "url": "http://localhost:4000"}
 ,
 {"name": "ThorBlock", "description":"The first communal funding turnkey solution on the VechainThor Blockchain", "url": "https://thorblock.io"}
+,
+{"name": "FundRequest", "description":"Easy and secure way to request development bugfixes, security audits, ... to the Open Source developer community.", "url": "https://fundrequest.io"}
 ]
