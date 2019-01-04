@@ -1,6 +1,6 @@
 [
   {
-    "icon": "coinstats",
+    "icon": "coinstats.png",
     "name": "Coin Stats",
     "description": "Next Gen P2P Secret Data Delivery Platform.",
     "ctaText": "Join Now!",
@@ -8,7 +8,7 @@
     "viewIn": ["ETHEREUM", "VECHAIN"]
   },
   {
-    "icon": "fundrequest",
+    "icon": "fundrequest.png",
     "name": "FundRequest",
     "description": "Open Source bounty program power by Blockchain.",
     "ctaText": "Start Code Now!",
@@ -16,7 +16,7 @@
     "viewIn": ["ETHEREUM", "VECHAIN"]
   },
   {
-    "icon": "arkane-network",
+    "icon": "arkane-network.png",
     "name": "Arkane Network",
     "description": "Your advertimesment here?",
     "ctaText": "Contact Us",
