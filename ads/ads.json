@@ -11,7 +11,7 @@
     "icon": "fundrequest.png",
     "name": "FundRequest",
     "description": "Open Source bounty program power by Blockchain.",
-    "ctaText": "Start Code Now!",
+    "ctaText": "Start Coding Now!",
     "ctaLink": "https://fundrequest.io/requests?phase=open&utm_source=arkane.network",
     "viewIn": ["ETHEREUM", "VECHAIN"]
   },
