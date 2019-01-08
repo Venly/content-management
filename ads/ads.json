@@ -2,7 +2,7 @@
   {
     "icon": "coinstats.png",
     "name": "Coin Stats",
-    "description": "Next Gen P2P Secret Data Delivery Platform.",
+    "description": "Crypto portfolio tracker, live prices and charts.",
     "ctaText": "Join Now!",
     "ctaLink": "https://coinstats.app/?utm_source=arkane.network",
     "viewIn": ["ETHEREUM", "VECHAIN"]
