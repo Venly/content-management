@@ -2,7 +2,7 @@
   {
     "name": "Bandwidth",
     "symbol": "bandwidth",
-    "address": "BANDWIDTH",
+    "address": "bandwidth",
     "decimals": 0,
     "type": "BANDWIDTH"
   },
