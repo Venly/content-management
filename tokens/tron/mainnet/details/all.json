@@ -4,7 +4,8 @@
     "symbol": "bandwidth",
     "address": "bandwidth",
     "decimals": 0,
-    "type": "BANDWIDTH"
+    "type": "BANDWIDTH",
+    "transferable": "false"
   },
   {
     "name": "BitTorrent",
