@@ -1,6 +1,5 @@
 [
   {
-    "address": "0xb74c4ebd95f70dd9794d8c49053a297689950b63",
     "from": {
       "secretType": "VECHAIN",
       "symbol": "VET",
@@ -13,7 +12,6 @@
     }
   },
   {
-    "address": "0xb74c4ebd95f70dd9794d8c49053a297689950b63",
     "from": {
       "secretType": "VECHAIN",
       "symbol": "VET",
@@ -25,9 +23,7 @@
       "tokenAddress": "0x9c6e62b3334294d70c8e410941f52d482557955b"
     }
   },
-
   {
-    "address": "0xb74c4ebd95f70dd9794d8c49053a297689950b63",
     "from": {
       "secretType": "VECHAIN",
       "symbol": "VTHO",
@@ -40,7 +36,6 @@
     }
   },
   {
-    "address": "0xb74c4ebd95f70dd9794d8c49053a297689950b63",
     "from": {
       "secretType": "VECHAIN",
       "symbol": "SHA",
