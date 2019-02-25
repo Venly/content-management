@@ -1,1 +1,3290 @@
-[{"address": "0x701564aa6e26816147d4fa211a0779f1b774bb9b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "0xBTC", "tokenAddress": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31"}}, {"address": "0xb800445dd982c1311523fd465ac44f55093b2b5b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ADX", "tokenAddress": "0x4470BB87d77b963A013DB939BE332f927f2b992e"}}, {"address": "0x27f99de8a71f09e9e567050192ce3005f0dcd0b3", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "AERGO", "tokenAddress": "0xAE31b85Bfe62747d0836B82608B4830361a3d37a"}}, {"address": "0xdf02ffeafdb79e564ae9fdac6545c5f4c2178400", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "AGI", "tokenAddress": "0x8eB24319393716668D768dCEC29356ae9CfFe285"}}, {"address": "0x164c93580839f40609ce0250dd4c98a25da175de", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "AMIS", "tokenAddress": "0x949bEd886c739f1A3273629b3320db0C5024c719"}}, {"address": "0x077d52b047735976dfda76fef74d4d988ac25196", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ANT", "tokenAddress": "0x960b236A07cf122663c4303350609A66A7B288C0"}}, {"address": "0xbd4479c98dc21563ba822c3c206d8339698e2dd4", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ASTRO", "tokenAddress": "0x7B22938ca841aA392C93dBB7f4c42178E3d65E88"}}, {"address": "0x8aa3cc2bf30cb47f290fd4e9b660bc3a685b9b3e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "AWC", "tokenAddress": "0xaD22f63404f7305e4713CcBd4F296f34770513f4"}}, {"address": "0x2e642b8d59b45a1d8c5aef716a84ff44ea665914", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BAT", "tokenAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"}}, {"address": "0x3c3351e44d32b36bf2af97de6f40b548b00cf654", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BBO", "tokenAddress": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F"}}, {"address": "0xe9078a97eef2bb502a9f792169f9c03626649248", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BEE", "tokenAddress": "0x4D8fc1453a0F359e99c9675954e656D80d996FbF"}}, {"address": "0x7eb81c7a0b322d31c11064105e14dce6e852e8c1", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BLUE", "tokenAddress": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b"}}, {"address": "0x255e60c9d597dcaa66006a904ed36424f7b26286", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BNB", "tokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"}}, {"address": "0xd1f3e9b413f5c9fd56f044699c64ff710e7e5a9a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BNTY", "tokenAddress": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3"}}, {"address": "0x262275a4989c96cc6ecde77eb2dda6e13d508c4e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BOI", "tokenAddress": "0x439cE375e3eE4Dc203D71958BECA3c0f417d65cb"}}, {"address": "0x5a67d8ea5c9bf381fe0da2862cec1ec90a5ca329", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BOOTY", "tokenAddress": "0x824C0659F6940604506Aa8FA829D13FDe17fB900"}}, {"address": "0x4e0e28d426caf318747b8e05c8b0564a580e39a7", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BORIS", "tokenAddress": "0x919D0131fA5F77D99FBBBBaCe50bCb6E62332bf2"}}, {"address": "0xb2744df7bfbb4802f44fd1b1fd9012502d4af704", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BPT", "tokenAddress": "0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8"}}, {"address": "0xea3a62838477082d8f2106c43796d636dc78d8a4", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "BTU", "tokenAddress": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f"}}, {"address": "0xf7b5a4b934658025390ff69db302bc7f2ac4a542", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "C20", "tokenAddress": "0x26E75307Fc0C021472fEb8F727839531F112f317"}}, {"address": "0x066198694b1db74d67007d19a7c4f2fc3a061075", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CAN", "tokenAddress": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0"}}, {"address": "0x53e31a941b76ef1b486e86aa39bcd5ae56829870", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CMCT", "tokenAddress": "0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb"}}, {"address": "0x21b8a991a203a440c83450564fdefa3db10a5004", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CND", "tokenAddress": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa"}}, {"address": "0xe31a245102fc1ae72f80c6969f6475e85c897bbe", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CNN", "tokenAddress": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343"}}, {"address": "0x30b16fc2b530dbf991e1b15ed953cc4585f0b27c", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CNUS", "tokenAddress": "0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308"}}, {"address": "0xbb7cf8a9d6b2aa7d98fb0bf3548a589a68ddb774", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CNX", "tokenAddress": "0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079"}}, {"address": "0x2135d193bf81abbead93906166f2be32b2492c04", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CRO", "tokenAddress": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b"}}, {"address": "0xe1e005d82922303ca9fb5cb6426c2eb07f8e5c84", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CRPHT", "tokenAddress": "0xcd7D0042FDb92F3dDE312aa61AF084953Aa914ee"}}, {"address": "0x1c6c712b1f4a7c263b1dbd8f97fb447c945d3b9a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "CVC", "tokenAddress": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"}}, {"address": "0x09cabec1ead1c0ba254b09efb3ee13841712be14", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DAI", "tokenAddress": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359"}}, {"address": "0x4f0d6e2179938828cff93da40a8ba1df7519ca8c", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DATA", "tokenAddress": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023"}}, {"address": "0x9709ef0958b831865a97682d9ec08f897fe3b56f", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DENT", "tokenAddress": "0x3597bfD533a99c9aa083587B074434E61Eb0A258"}}, {"address": "0xb92de8b30584392af27726d5ce04ef3c4e5c9924", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DGX", "tokenAddress": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF"}}, {"address": "0xc3b03664126f2f192ec658e1c62798c9ebd0ff08", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DKC", "tokenAddress": "0x7365877678C744B435eD03B1Cac12AB407CBa13a"}}, {"address": "0xaa3b3810c8aada6cbd2ce262699903ad7ae6a7ef", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DNT", "tokenAddress": "0x0AbdAce70D3790235af448C88547603b945604ea"}}, {"address": "0xed9d5aa6124a3310b80a2468c67763627653887d", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DONUT", "tokenAddress": "0x23D80c4EE8Fb55D4183dd9329296E176dC7464e1"}}, {"address": "0xe18256cd23efcdc4f95581e86f61ea1b09afd02a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "DTH", "tokenAddress": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190"}}, {"address": "0x0045d5d2cac7688f7fc36313e69fb5350958936c", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "EDU", "tokenAddress": "0xa0872eE815B8dd0F6937386Fd77134720d953581"}}, {"address": "0x2995b7f65cbc1b0ae8095eae314246508c49182a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "EMONT", "tokenAddress": "0x95dAaaB98046846bF4B2853e23cba236fa394A31"}}, {"address": "0x884715e2dce8757c9ee19739c366b2c7c65f05b1", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ENG", "tokenAddress": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4"}}, {"address": "0xa1c467dc897a36689dbbadcc212b212b4f526e49", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ENTRP", "tokenAddress": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3"}}, {"address": "0xf50bac10faf905e95ffdc9f35b75ee67117dad2a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ERC20", "tokenAddress": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA"}}, {"address": "0x32a29c4269dee1a9e87eb75d66da71591a7aee96", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "FAC", "tokenAddress": "0x4b4a70cae3F7c84E36ce9aa19Abc98F85Db7f058"}}, {"address": "0xf79cb3bea83bd502737586a6e8b133c378fd1ff2", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "FOAM", "tokenAddress": "0x4946Fcea7C692606e8908002e55A582af44AC121"}}, {"address": "0xf5bb20e73c59e0f643ae4bcd89d761ebdec83b73", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "FT", "tokenAddress": "0x78a73B6CBc5D183CE56e786f6e905CaDEC63547B"}}, {"address": "0x60a87cc7fca7e53867facb79da73181b1bb4238b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "FUN", "tokenAddress": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"}}, {"address": "0x62ccb0577aa63b8d72449b9fd13b3cdbcf3787d6", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "GCB", "tokenAddress": "0x74436AE1DB59c62BBb3DE88d268f7e058dce6D50"}}, {"address": "0xe8e45431b93215566ba923a7e611b7342ea954df", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "GNO", "tokenAddress": "0x6810e776880C02933D47DB1b9fc05908e5386b96"}}, {"address": "0x7d839eb463b121790c99e0f017c21f0189dcc167", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "GNT", "tokenAddress": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"}}, {"address": "0x4b17685b330307c751b47f33890c8398df4fe407", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "GRID", "tokenAddress": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD"}}, {"address": "0xd883264737ed969d2696ee4b4caf529c2fc2a141", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "GUSD", "tokenAddress": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"}}, {"address": "0x78bac62f2a4cd3a7cb7da2991affc7b11590f682", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "HAY", "tokenAddress": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e"}}, {"address": "0xd1a8c5ba35752e4b62c71c795a3f6481faa4d36e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "HBZ", "tokenAddress": "0xE34e1944E776f39B9252790a0527eBDa647aE668"}}, {"address": "0x059ad96e38f027ccd127567dc09b164762bcd695", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "HERC", "tokenAddress": "0x6251583e7D997DF3604bc73B9779196e94A090Ce"}}, {"address": "0xd4777e164c6c683e10593e08760b803d58529a8e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "HOT", "tokenAddress": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2"}}, {"address": "0xfe3f05c7da9fe53591fab3f920798a67a95747ed", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "HPT", "tokenAddress": "0xa66Daa57432024023DB65477BA87D4E7F5f95213"}}, {"address": "0x7d31fc38ddd7d6907f820f4268f1d8d5d5797826", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "HUM", "tokenAddress": "0xecF3958d0f82291CA1FF6c9BDa8Eb3c50eE41cE3"}}, {"address": "0x467fb51d54d7e51ee925f7f1a81ad5f2a0211169", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ICN", "tokenAddress": "0x888666CA69E0f178DED6D75b5726Cee99A87D698"}}, {"address": "0x3fbc2275de71427aaebbe0e5e6bc13fe8f27fa9e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "IDT", "tokenAddress": "0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB"}}, {"address": "0x20149f1672175c7118bdbf966bfb6a02bf733810", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ITT", "tokenAddress": "0x0aeF06DcCCC531e581f0440059E6FfCC206039EE"}}, {"address": "0x657184e418d43a661a91d567182dc3d1a4179ec4", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "JCD", "tokenAddress": "0x0Ed024d39d55e486573EE32e583bC37Eb5A6271f"}}, {"address": "0xb7520a5f8c832c573d6bd0df955fc5c9b72400f7", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "KIN", "tokenAddress": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5"}}, {"address": "0x380fdc8bb8722915076a09479d1bbc75e69c8be0", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "KIWI", "tokenAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D"}}, {"address": "0x49c4f9bc14884f6210f28342ced592a633801a8b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "KNC", "tokenAddress": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"}}, {"address": "0x08850bd3ce3a8f6b64d724c3dabdbf6f4f8561fc", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "KRH", "tokenAddress": "0x4dadF81edf74e9b1a9Ad1F364D51a176be48f0ac"}}, {"address": "0x28991ac221054bee3a38ae9ad0fb3d0c3e45d0cf", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LAToken", "tokenAddress": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf"}}, {"address": "0xe79fe64771d5351b936eeac6222682c3d878063e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LBA", "tokenAddress": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657"}}, {"address": "0xf173214c720f58e03e194085b1db28b50acdeead", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LINK", "tokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA"}}, {"address": "0xb580a2b495917b8577d9a612be068f591e8c20f9", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LIRA", "tokenAddress": "0x49AAa160506F7e07E6C3F6cD6316b6866025cDcB"}}, {"address": "0x417cb32bc991fbbdcae230c7c4771cc0d69daa6b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LOOM", "tokenAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"}}, {"address": "0xe69ea0f00b6d399a11030eb6d79e54c486c0e1d1", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LOT", "tokenAddress": "0xDCEf0710B10aD66bC2194b412fb37C65D4D0A965"}}, {"address": "0xc4a1c45d5546029fd57128483ae65b56124bfa6a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LPT", "tokenAddress": "0x58b6A8A3302369DAEc383334672404Ee733aB239"}}, {"address": "0xe3406e7d0155e0a83236ec25d34cd3d903036669", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "LQD", "tokenAddress": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4"}}, {"address": "0xc6581ce3a005e2801c1e0903281bbd318ec5b5c2", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MANA", "tokenAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"}}, {"address": "0xe2f548a3b898eca923bd61919f2635b071a7f95e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MAS", "tokenAddress": "0x23Ccc43365D9dD3882eab88F43d515208f832430"}}, {"address": "0xedc485266aa0ebe9ccbfc1f255bb5ffea1f9e3cc", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MCO", "tokenAddress": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d"}}, {"address": "0x68326300df49ec6387e75690857424c2ae111750", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MEDIBIT", "tokenAddress": "0x737fA0372c8D001904Ae6aCAf0552d4015F9c947"}}, {"address": "0x8809c63af18ec760547426a5c3e122e0a3efbf27", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MGN", "tokenAddress": "0xb9625381f086e7B8512e4825f6Af1117E9c84D43"}}, {"address": "0x2c4bd064b998838076fa341a83d007fc2fa50957", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MKR", "tokenAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"}}, {"address": "0xaec97872d14ac79e95fff18c169bfd183efc6962", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MLN", "tokenAddress": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"}}, {"address": "0xbe478403ac906d329fa8ebef1d3f9e0a48067d57", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MOR", "tokenAddress": "0xa6A7fCe4AFFe059548Fc39eBbc74555952A6Fb0d"}}, {"address": "0xb684f9b231accdef385f06038395e27a4e3aa86b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "MYU", "tokenAddress": "0xf3bE20da25B31Bd6Ee4CE4496985b2064304C125"}}, {"address": "0x069c97dba948175d10af4b2414969e0b88d44669", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "NEXO", "tokenAddress": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206"}}, {"address": "0x2bf5a5ba29e60682fc56b2fcf9ce07bef4f6196f", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "NMR", "tokenAddress": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"}}, {"address": "0xddee242662323a3cff3f9aa139ffa496ac3c73b0", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "OMG", "tokenAddress": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"}}, {"address": "0x7174ef6b9cb528e954508264a9912da905977422", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PAI", "tokenAddress": "0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3"}}, {"address": "0x95efaafe52e89992bfd4f33c96ad971fccdc31f6", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PATH", "tokenAddress": "0x7b94A1281Db0335C9Efd68AcA5c98B494d775C70"}}, {"address": "0xc040d51b07aea5d94a89bc21e8078b77366fc6c7", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PAX", "tokenAddress": "0x8E870D67F660D95d5be530380D0eC0bd388289E1"}}, {"address": "0x6f1c46e91ce29d430e31205ead148b0bee46b9fc", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PAY", "tokenAddress": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"}}, {"address": "0x329c9642efe33a62161dda6b4eb3821965191441", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PITCH", "tokenAddress": "0x87f56Ee356B434187105b40F96B230F5283c0AB4"}}, {"address": "0xf43b2329130cfd87b322e49b96681e09f1ef172f", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PLAY", "tokenAddress": "0xE477292f1B3268687A29376116B0ED27A9c76170"}}, {"address": "0xcc36e05eeffac3eb61b696d0bb328f2b08389fb5", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PMA", "tokenAddress": "0x846C66cf71C43f80403B51fE3906B3599D63336f"}}, {"address": "0xf506828b166de88ca2edb2a98d960abba0d2402a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PNK", "tokenAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d"}}, {"address": "0xa2e6b3ef205feaee475937c4883b24e6eb717eef", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "POA20", "tokenAddress": "0x6758B7d441a9739b98552B373703d8d3d14f9e62"}}, {"address": "0x6fca96a679490ed8a80c7344799f1b090fd4c94d", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "POW", "tokenAddress": "0x9709907Cb2cF9e16Df841f7b145b78c230d8205E"}}, {"address": "0x817e391baf312dc5078cd7a98a7a0255ac63ca48", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PRG", "tokenAddress": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D"}}, {"address": "0xe8bc0a210aaf86dab4dd600faca5cfe492e2e084", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "PTOY", "tokenAddress": "0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06"}}, {"address": "0x755899f0540c3548b99e68c59adb0f15d2695188", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "QCH", "tokenAddress": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e"}}, {"address": "0xd91ff16ef92568fc27f466c3c5613e43313ab1dc", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "RCN", "tokenAddress": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"}}, {"address": "0x7d03cecb36820b4666f45e1b4ca2538724db271c", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "RDN", "tokenAddress": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6"}}, {"address": "0x43892992b0b102459e895b88601bb2c76736942c", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "REN", "tokenAddress": "0x408e41876cCCDC0F92210600ef50372656052a38"}}, {"address": "0x48b04d2a05b6b604d8d5223fd1984f191ded51af", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "REP", "tokenAddress": "0x1985365e9f78359a9B6AD760e32412f4a445E862"}}, {"address": "0xbcdf538581f7167ec8228ec2c9b1cfc2f74788c7", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "REQ", "tokenAddress": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"}}, {"address": "0x394e524b47a3ab3d3327f7ff6629dc378c1494a3", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "RHOC", "tokenAddress": "0x168296bb09e24A88805CB9c33356536B980D3fC5"}}, {"address": "0xa825cae02b310e9901b4776806ce25db520c8642", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "RLC", "tokenAddress": "0x607F4C5BB672230e8672085532f7e901544a7375"}}, {"address": "0xb7836492f5850d9b61d6b71c73697c5b9676208d", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ROL", "tokenAddress": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65"}}, {"address": "0x3fb2f18065926ddb33e7571475c509541d15da0e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "RPL", "tokenAddress": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"}}, {"address": "0xc0c59cde851bfcbdddd3377ec10ea54a18efb937", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SALT", "tokenAddress": "0x4156D3342D5c385a87D264F90653733592000581"}}, {"address": "0x8a8d7ad4b89d91983cd069c58c4aa9f2f4166298", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SAN", "tokenAddress": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098"}}, {"address": "0xa0513d82f17c491dc6ab34efd89dc372bb180378", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SCHAP", "tokenAddress": "0x3638c9e50437F00Ae53a649697F288ba68888cC1"}}, {"address": "0x0b5ce6f7cbe0627aa8ad2e7e69ed554c0fe79162", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SENT", "tokenAddress": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037"}}, {"address": "0x174dfb6e6e78c95678580b553eee7f282b28c795", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SIM", "tokenAddress": "0x86c8bF8532AA2601151c9DbbF4e4C4804e042571"}}, {"address": "0x1aec8f11a7e78dc22477e91ed924fab46e3a88fd", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SNT", "tokenAddress": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"}}, {"address": "0x23228ec35e810569495bd0aa4d56e9fad759bb29", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SNX", "tokenAddress": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F"}}, {"address": "0x4e395304655f0796bc3bc63709db72173b9ddf98", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SPANK", "tokenAddress": "0x42d6622deCe394b54999Fbd73D108123806f6a18"}}, {"address": "0x2afc64cd5e64a32a363ea84b8cad1ce5239a1a3d", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "STX", "tokenAddress": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"}}, {"address": "0xc3c028721f854bc75967cbe432fb0e221908baa1", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SWM", "tokenAddress": "0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A"}}, {"address": "0x755160062e3e09d34af0a00ff8cab8500e81e0d7", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "SWT", "tokenAddress": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607"}}, {"address": "0xb6cfbf322db47d39331e306005dc7e5e6549942b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "TKN", "tokenAddress": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a"}}, {"address": "0x38577ccec0ceffd178fd3be66e1c6f531bfa410e", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "TRAC", "tokenAddress": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F"}}, {"address": "0x95e4649f5209dd292caf1f087b8f1db3be24927f", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "TRST", "tokenAddress": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"}}, {"address": "0x4f30e682d0541eac91748bd38a648d759261b8f3", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "TUSD", "tokenAddress": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E"}}, {"address": "0x2263fd7c62914ab8ec2b5e7b00bc8371a6c0d221", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "UFR", "tokenAddress": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977"}}, {"address": "0x28d9353611c5a0d5a026a648c05e5d6523e41cbf", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ULT", "tokenAddress": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7"}}, {"address": "0x601c32e0580d3aef9437db52d09f5a5d7e60ec22", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "UNI-V1", "tokenAddress": "0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14"}}, {"address": "0x97dec872013f6b5fb443861090ad931542878126", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "USDC", "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"}}, {"address": "0x17e5bf07d696eaf0d14caa4b44ff8a1e17b34de3", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "VERI", "tokenAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"}}, {"address": "0x4d2f5cfba55ae412221182d8475bc85799a5644b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "WBTC", "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"}}, {"address": "0xa2881a90bf33f03e7a3f803765cd2ed5c8928dfb", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "WETH", "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"}}, {"address": "0x72208a7d8c11cb28c8e6d32e1a070015786c0823", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "WPR", "tokenAddress": "0x4CF488387F035FF08c371515562CBa712f9015d4"}}, {"address": "0x8de0d002dc83478f479dc31f76cb0a8aa7ccea17", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "XCHF", "tokenAddress": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08"}}, {"address": "0xcfcc608f03c0cee86589e11224f24779212f0fe5", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ZCI", "tokenAddress": "0x236149288602c07b84387D0d75784d73f133142b"}}, {"address": "0x1c116d67e0bf0cf5cb0ad5a74a041d26e89271e7", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ZCN", "tokenAddress": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78"}}, {"address": "0x7dc095a5cf7d6208cc680fa9866f80a53911041a", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ZIL", "tokenAddress": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27"}}, {"address": "0xae76c84c9262cdb9abc0c2c8888e62db8e22a0bf", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "ZRX", "tokenAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"}}, {"address": "0x4785cedbd89c818d60988dc5979b029f3900b54b", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "e11", "tokenAddress": "0x4805F9568bCA23bEf099C2A317346b42146384a1"}}, {"address": "0x69f276abd6456152d519d23086031da7c73f91b8", "from": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}, "to": {"secretType": "ETHEREUM", "symbol": "sUSD", "tokenAddress": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3"}}, {"address": "0x701564aa6e26816147d4fa211a0779f1b774bb9b", "from": {"secretType": "ETHEREUM", "symbol": "0xBTC", "tokenAddress": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb800445dd982c1311523fd465ac44f55093b2b5b", "from": {"secretType": "ETHEREUM", "symbol": "ADX", "tokenAddress": "0x4470BB87d77b963A013DB939BE332f927f2b992e"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x27f99de8a71f09e9e567050192ce3005f0dcd0b3", "from": {"secretType": "ETHEREUM", "symbol": "AERGO", "tokenAddress": "0xAE31b85Bfe62747d0836B82608B4830361a3d37a"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xdf02ffeafdb79e564ae9fdac6545c5f4c2178400", "from": {"secretType": "ETHEREUM", "symbol": "AGI", "tokenAddress": "0x8eB24319393716668D768dCEC29356ae9CfFe285"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x164c93580839f40609ce0250dd4c98a25da175de", "from": {"secretType": "ETHEREUM", "symbol": "AMIS", "tokenAddress": "0x949bEd886c739f1A3273629b3320db0C5024c719"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x077d52b047735976dfda76fef74d4d988ac25196", "from": {"secretType": "ETHEREUM", "symbol": "ANT", "tokenAddress": "0x960b236A07cf122663c4303350609A66A7B288C0"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xbd4479c98dc21563ba822c3c206d8339698e2dd4", "from": {"secretType": "ETHEREUM", "symbol": "ASTRO", "tokenAddress": "0x7B22938ca841aA392C93dBB7f4c42178E3d65E88"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x8aa3cc2bf30cb47f290fd4e9b660bc3a685b9b3e", "from": {"secretType": "ETHEREUM", "symbol": "AWC", "tokenAddress": "0xaD22f63404f7305e4713CcBd4F296f34770513f4"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x2e642b8d59b45a1d8c5aef716a84ff44ea665914", "from": {"secretType": "ETHEREUM", "symbol": "BAT", "tokenAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x3c3351e44d32b36bf2af97de6f40b548b00cf654", "from": {"secretType": "ETHEREUM", "symbol": "BBO", "tokenAddress": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe9078a97eef2bb502a9f792169f9c03626649248", "from": {"secretType": "ETHEREUM", "symbol": "BEE", "tokenAddress": "0x4D8fc1453a0F359e99c9675954e656D80d996FbF"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x7eb81c7a0b322d31c11064105e14dce6e852e8c1", "from": {"secretType": "ETHEREUM", "symbol": "BLUE", "tokenAddress": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x255e60c9d597dcaa66006a904ed36424f7b26286", "from": {"secretType": "ETHEREUM", "symbol": "BNB", "tokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xd1f3e9b413f5c9fd56f044699c64ff710e7e5a9a", "from": {"secretType": "ETHEREUM", "symbol": "BNTY", "tokenAddress": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x262275a4989c96cc6ecde77eb2dda6e13d508c4e", "from": {"secretType": "ETHEREUM", "symbol": "BOI", "tokenAddress": "0x439cE375e3eE4Dc203D71958BECA3c0f417d65cb"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x5a67d8ea5c9bf381fe0da2862cec1ec90a5ca329", "from": {"secretType": "ETHEREUM", "symbol": "BOOTY", "tokenAddress": "0x824C0659F6940604506Aa8FA829D13FDe17fB900"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x4e0e28d426caf318747b8e05c8b0564a580e39a7", "from": {"secretType": "ETHEREUM", "symbol": "BORIS", "tokenAddress": "0x919D0131fA5F77D99FBBBBaCe50bCb6E62332bf2"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb2744df7bfbb4802f44fd1b1fd9012502d4af704", "from": {"secretType": "ETHEREUM", "symbol": "BPT", "tokenAddress": "0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xea3a62838477082d8f2106c43796d636dc78d8a4", "from": {"secretType": "ETHEREUM", "symbol": "BTU", "tokenAddress": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xf7b5a4b934658025390ff69db302bc7f2ac4a542", "from": {"secretType": "ETHEREUM", "symbol": "C20", "tokenAddress": "0x26E75307Fc0C021472fEb8F727839531F112f317"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x066198694b1db74d67007d19a7c4f2fc3a061075", "from": {"secretType": "ETHEREUM", "symbol": "CAN", "tokenAddress": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x53e31a941b76ef1b486e86aa39bcd5ae56829870", "from": {"secretType": "ETHEREUM", "symbol": "CMCT", "tokenAddress": "0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x21b8a991a203a440c83450564fdefa3db10a5004", "from": {"secretType": "ETHEREUM", "symbol": "CND", "tokenAddress": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe31a245102fc1ae72f80c6969f6475e85c897bbe", "from": {"secretType": "ETHEREUM", "symbol": "CNN", "tokenAddress": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x30b16fc2b530dbf991e1b15ed953cc4585f0b27c", "from": {"secretType": "ETHEREUM", "symbol": "CNUS", "tokenAddress": "0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xbb7cf8a9d6b2aa7d98fb0bf3548a589a68ddb774", "from": {"secretType": "ETHEREUM", "symbol": "CNX", "tokenAddress": "0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x2135d193bf81abbead93906166f2be32b2492c04", "from": {"secretType": "ETHEREUM", "symbol": "CRO", "tokenAddress": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe1e005d82922303ca9fb5cb6426c2eb07f8e5c84", "from": {"secretType": "ETHEREUM", "symbol": "CRPHT", "tokenAddress": "0xcd7D0042FDb92F3dDE312aa61AF084953Aa914ee"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x1c6c712b1f4a7c263b1dbd8f97fb447c945d3b9a", "from": {"secretType": "ETHEREUM", "symbol": "CVC", "tokenAddress": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x09cabec1ead1c0ba254b09efb3ee13841712be14", "from": {"secretType": "ETHEREUM", "symbol": "DAI", "tokenAddress": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x4f0d6e2179938828cff93da40a8ba1df7519ca8c", "from": {"secretType": "ETHEREUM", "symbol": "DATA", "tokenAddress": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x9709ef0958b831865a97682d9ec08f897fe3b56f", "from": {"secretType": "ETHEREUM", "symbol": "DENT", "tokenAddress": "0x3597bfD533a99c9aa083587B074434E61Eb0A258"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb92de8b30584392af27726d5ce04ef3c4e5c9924", "from": {"secretType": "ETHEREUM", "symbol": "DGX", "tokenAddress": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xc3b03664126f2f192ec658e1c62798c9ebd0ff08", "from": {"secretType": "ETHEREUM", "symbol": "DKC", "tokenAddress": "0x7365877678C744B435eD03B1Cac12AB407CBa13a"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xaa3b3810c8aada6cbd2ce262699903ad7ae6a7ef", "from": {"secretType": "ETHEREUM", "symbol": "DNT", "tokenAddress": "0x0AbdAce70D3790235af448C88547603b945604ea"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xed9d5aa6124a3310b80a2468c67763627653887d", "from": {"secretType": "ETHEREUM", "symbol": "DONUT", "tokenAddress": "0x23D80c4EE8Fb55D4183dd9329296E176dC7464e1"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe18256cd23efcdc4f95581e86f61ea1b09afd02a", "from": {"secretType": "ETHEREUM", "symbol": "DTH", "tokenAddress": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x0045d5d2cac7688f7fc36313e69fb5350958936c", "from": {"secretType": "ETHEREUM", "symbol": "EDU", "tokenAddress": "0xa0872eE815B8dd0F6937386Fd77134720d953581"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x2995b7f65cbc1b0ae8095eae314246508c49182a", "from": {"secretType": "ETHEREUM", "symbol": "EMONT", "tokenAddress": "0x95dAaaB98046846bF4B2853e23cba236fa394A31"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x884715e2dce8757c9ee19739c366b2c7c65f05b1", "from": {"secretType": "ETHEREUM", "symbol": "ENG", "tokenAddress": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xa1c467dc897a36689dbbadcc212b212b4f526e49", "from": {"secretType": "ETHEREUM", "symbol": "ENTRP", "tokenAddress": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xf50bac10faf905e95ffdc9f35b75ee67117dad2a", "from": {"secretType": "ETHEREUM", "symbol": "ERC20", "tokenAddress": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x32a29c4269dee1a9e87eb75d66da71591a7aee96", "from": {"secretType": "ETHEREUM", "symbol": "FAC", "tokenAddress": "0x4b4a70cae3F7c84E36ce9aa19Abc98F85Db7f058"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xf79cb3bea83bd502737586a6e8b133c378fd1ff2", "from": {"secretType": "ETHEREUM", "symbol": "FOAM", "tokenAddress": "0x4946Fcea7C692606e8908002e55A582af44AC121"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xf5bb20e73c59e0f643ae4bcd89d761ebdec83b73", "from": {"secretType": "ETHEREUM", "symbol": "FT", "tokenAddress": "0x78a73B6CBc5D183CE56e786f6e905CaDEC63547B"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x60a87cc7fca7e53867facb79da73181b1bb4238b", "from": {"secretType": "ETHEREUM", "symbol": "FUN", "tokenAddress": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x62ccb0577aa63b8d72449b9fd13b3cdbcf3787d6", "from": {"secretType": "ETHEREUM", "symbol": "GCB", "tokenAddress": "0x74436AE1DB59c62BBb3DE88d268f7e058dce6D50"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe8e45431b93215566ba923a7e611b7342ea954df", "from": {"secretType": "ETHEREUM", "symbol": "GNO", "tokenAddress": "0x6810e776880C02933D47DB1b9fc05908e5386b96"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x7d839eb463b121790c99e0f017c21f0189dcc167", "from": {"secretType": "ETHEREUM", "symbol": "GNT", "tokenAddress": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x4b17685b330307c751b47f33890c8398df4fe407", "from": {"secretType": "ETHEREUM", "symbol": "GRID", "tokenAddress": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xd883264737ed969d2696ee4b4caf529c2fc2a141", "from": {"secretType": "ETHEREUM", "symbol": "GUSD", "tokenAddress": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x78bac62f2a4cd3a7cb7da2991affc7b11590f682", "from": {"secretType": "ETHEREUM", "symbol": "HAY", "tokenAddress": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xd1a8c5ba35752e4b62c71c795a3f6481faa4d36e", "from": {"secretType": "ETHEREUM", "symbol": "HBZ", "tokenAddress": "0xE34e1944E776f39B9252790a0527eBDa647aE668"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x059ad96e38f027ccd127567dc09b164762bcd695", "from": {"secretType": "ETHEREUM", "symbol": "HERC", "tokenAddress": "0x6251583e7D997DF3604bc73B9779196e94A090Ce"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xd4777e164c6c683e10593e08760b803d58529a8e", "from": {"secretType": "ETHEREUM", "symbol": "HOT", "tokenAddress": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xfe3f05c7da9fe53591fab3f920798a67a95747ed", "from": {"secretType": "ETHEREUM", "symbol": "HPT", "tokenAddress": "0xa66Daa57432024023DB65477BA87D4E7F5f95213"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x7d31fc38ddd7d6907f820f4268f1d8d5d5797826", "from": {"secretType": "ETHEREUM", "symbol": "HUM", "tokenAddress": "0xecF3958d0f82291CA1FF6c9BDa8Eb3c50eE41cE3"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x467fb51d54d7e51ee925f7f1a81ad5f2a0211169", "from": {"secretType": "ETHEREUM", "symbol": "ICN", "tokenAddress": "0x888666CA69E0f178DED6D75b5726Cee99A87D698"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x3fbc2275de71427aaebbe0e5e6bc13fe8f27fa9e", "from": {"secretType": "ETHEREUM", "symbol": "IDT", "tokenAddress": "0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x20149f1672175c7118bdbf966bfb6a02bf733810", "from": {"secretType": "ETHEREUM", "symbol": "ITT", "tokenAddress": "0x0aeF06DcCCC531e581f0440059E6FfCC206039EE"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x657184e418d43a661a91d567182dc3d1a4179ec4", "from": {"secretType": "ETHEREUM", "symbol": "JCD", "tokenAddress": "0x0Ed024d39d55e486573EE32e583bC37Eb5A6271f"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb7520a5f8c832c573d6bd0df955fc5c9b72400f7", "from": {"secretType": "ETHEREUM", "symbol": "KIN", "tokenAddress": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x380fdc8bb8722915076a09479d1bbc75e69c8be0", "from": {"secretType": "ETHEREUM", "symbol": "KIWI", "tokenAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x49c4f9bc14884f6210f28342ced592a633801a8b", "from": {"secretType": "ETHEREUM", "symbol": "KNC", "tokenAddress": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x08850bd3ce3a8f6b64d724c3dabdbf6f4f8561fc", "from": {"secretType": "ETHEREUM", "symbol": "KRH", "tokenAddress": "0x4dadF81edf74e9b1a9Ad1F364D51a176be48f0ac"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x28991ac221054bee3a38ae9ad0fb3d0c3e45d0cf", "from": {"secretType": "ETHEREUM", "symbol": "LAToken", "tokenAddress": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe79fe64771d5351b936eeac6222682c3d878063e", "from": {"secretType": "ETHEREUM", "symbol": "LBA", "tokenAddress": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xf173214c720f58e03e194085b1db28b50acdeead", "from": {"secretType": "ETHEREUM", "symbol": "LINK", "tokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb580a2b495917b8577d9a612be068f591e8c20f9", "from": {"secretType": "ETHEREUM", "symbol": "LIRA", "tokenAddress": "0x49AAa160506F7e07E6C3F6cD6316b6866025cDcB"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x417cb32bc991fbbdcae230c7c4771cc0d69daa6b", "from": {"secretType": "ETHEREUM", "symbol": "LOOM", "tokenAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe69ea0f00b6d399a11030eb6d79e54c486c0e1d1", "from": {"secretType": "ETHEREUM", "symbol": "LOT", "tokenAddress": "0xDCEf0710B10aD66bC2194b412fb37C65D4D0A965"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xc4a1c45d5546029fd57128483ae65b56124bfa6a", "from": {"secretType": "ETHEREUM", "symbol": "LPT", "tokenAddress": "0x58b6A8A3302369DAEc383334672404Ee733aB239"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe3406e7d0155e0a83236ec25d34cd3d903036669", "from": {"secretType": "ETHEREUM", "symbol": "LQD", "tokenAddress": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xc6581ce3a005e2801c1e0903281bbd318ec5b5c2", "from": {"secretType": "ETHEREUM", "symbol": "MANA", "tokenAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe2f548a3b898eca923bd61919f2635b071a7f95e", "from": {"secretType": "ETHEREUM", "symbol": "MAS", "tokenAddress": "0x23Ccc43365D9dD3882eab88F43d515208f832430"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xedc485266aa0ebe9ccbfc1f255bb5ffea1f9e3cc", "from": {"secretType": "ETHEREUM", "symbol": "MCO", "tokenAddress": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x68326300df49ec6387e75690857424c2ae111750", "from": {"secretType": "ETHEREUM", "symbol": "MEDIBIT", "tokenAddress": "0x737fA0372c8D001904Ae6aCAf0552d4015F9c947"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x8809c63af18ec760547426a5c3e122e0a3efbf27", "from": {"secretType": "ETHEREUM", "symbol": "MGN", "tokenAddress": "0xb9625381f086e7B8512e4825f6Af1117E9c84D43"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x2c4bd064b998838076fa341a83d007fc2fa50957", "from": {"secretType": "ETHEREUM", "symbol": "MKR", "tokenAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xaec97872d14ac79e95fff18c169bfd183efc6962", "from": {"secretType": "ETHEREUM", "symbol": "MLN", "tokenAddress": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xbe478403ac906d329fa8ebef1d3f9e0a48067d57", "from": {"secretType": "ETHEREUM", "symbol": "MOR", "tokenAddress": "0xa6A7fCe4AFFe059548Fc39eBbc74555952A6Fb0d"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb684f9b231accdef385f06038395e27a4e3aa86b", "from": {"secretType": "ETHEREUM", "symbol": "MYU", "tokenAddress": "0xf3bE20da25B31Bd6Ee4CE4496985b2064304C125"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x069c97dba948175d10af4b2414969e0b88d44669", "from": {"secretType": "ETHEREUM", "symbol": "NEXO", "tokenAddress": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x2bf5a5ba29e60682fc56b2fcf9ce07bef4f6196f", "from": {"secretType": "ETHEREUM", "symbol": "NMR", "tokenAddress": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xddee242662323a3cff3f9aa139ffa496ac3c73b0", "from": {"secretType": "ETHEREUM", "symbol": "OMG", "tokenAddress": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x7174ef6b9cb528e954508264a9912da905977422", "from": {"secretType": "ETHEREUM", "symbol": "PAI", "tokenAddress": "0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x95efaafe52e89992bfd4f33c96ad971fccdc31f6", "from": {"secretType": "ETHEREUM", "symbol": "PATH", "tokenAddress": "0x7b94A1281Db0335C9Efd68AcA5c98B494d775C70"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xc040d51b07aea5d94a89bc21e8078b77366fc6c7", "from": {"secretType": "ETHEREUM", "symbol": "PAX", "tokenAddress": "0x8E870D67F660D95d5be530380D0eC0bd388289E1"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x6f1c46e91ce29d430e31205ead148b0bee46b9fc", "from": {"secretType": "ETHEREUM", "symbol": "PAY", "tokenAddress": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x329c9642efe33a62161dda6b4eb3821965191441", "from": {"secretType": "ETHEREUM", "symbol": "PITCH", "tokenAddress": "0x87f56Ee356B434187105b40F96B230F5283c0AB4"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xf43b2329130cfd87b322e49b96681e09f1ef172f", "from": {"secretType": "ETHEREUM", "symbol": "PLAY", "tokenAddress": "0xE477292f1B3268687A29376116B0ED27A9c76170"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xcc36e05eeffac3eb61b696d0bb328f2b08389fb5", "from": {"secretType": "ETHEREUM", "symbol": "PMA", "tokenAddress": "0x846C66cf71C43f80403B51fE3906B3599D63336f"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xf506828b166de88ca2edb2a98d960abba0d2402a", "from": {"secretType": "ETHEREUM", "symbol": "PNK", "tokenAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xa2e6b3ef205feaee475937c4883b24e6eb717eef", "from": {"secretType": "ETHEREUM", "symbol": "POA20", "tokenAddress": "0x6758B7d441a9739b98552B373703d8d3d14f9e62"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x6fca96a679490ed8a80c7344799f1b090fd4c94d", "from": {"secretType": "ETHEREUM", "symbol": "POW", "tokenAddress": "0x9709907Cb2cF9e16Df841f7b145b78c230d8205E"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x817e391baf312dc5078cd7a98a7a0255ac63ca48", "from": {"secretType": "ETHEREUM", "symbol": "PRG", "tokenAddress": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xe8bc0a210aaf86dab4dd600faca5cfe492e2e084", "from": {"secretType": "ETHEREUM", "symbol": "PTOY", "tokenAddress": "0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x755899f0540c3548b99e68c59adb0f15d2695188", "from": {"secretType": "ETHEREUM", "symbol": "QCH", "tokenAddress": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xd91ff16ef92568fc27f466c3c5613e43313ab1dc", "from": {"secretType": "ETHEREUM", "symbol": "RCN", "tokenAddress": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x7d03cecb36820b4666f45e1b4ca2538724db271c", "from": {"secretType": "ETHEREUM", "symbol": "RDN", "tokenAddress": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x43892992b0b102459e895b88601bb2c76736942c", "from": {"secretType": "ETHEREUM", "symbol": "REN", "tokenAddress": "0x408e41876cCCDC0F92210600ef50372656052a38"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x48b04d2a05b6b604d8d5223fd1984f191ded51af", "from": {"secretType": "ETHEREUM", "symbol": "REP", "tokenAddress": "0x1985365e9f78359a9B6AD760e32412f4a445E862"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xbcdf538581f7167ec8228ec2c9b1cfc2f74788c7", "from": {"secretType": "ETHEREUM", "symbol": "REQ", "tokenAddress": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x394e524b47a3ab3d3327f7ff6629dc378c1494a3", "from": {"secretType": "ETHEREUM", "symbol": "RHOC", "tokenAddress": "0x168296bb09e24A88805CB9c33356536B980D3fC5"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xa825cae02b310e9901b4776806ce25db520c8642", "from": {"secretType": "ETHEREUM", "symbol": "RLC", "tokenAddress": "0x607F4C5BB672230e8672085532f7e901544a7375"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb7836492f5850d9b61d6b71c73697c5b9676208d", "from": {"secretType": "ETHEREUM", "symbol": "ROL", "tokenAddress": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x3fb2f18065926ddb33e7571475c509541d15da0e", "from": {"secretType": "ETHEREUM", "symbol": "RPL", "tokenAddress": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xc0c59cde851bfcbdddd3377ec10ea54a18efb937", "from": {"secretType": "ETHEREUM", "symbol": "SALT", "tokenAddress": "0x4156D3342D5c385a87D264F90653733592000581"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x8a8d7ad4b89d91983cd069c58c4aa9f2f4166298", "from": {"secretType": "ETHEREUM", "symbol": "SAN", "tokenAddress": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xa0513d82f17c491dc6ab34efd89dc372bb180378", "from": {"secretType": "ETHEREUM", "symbol": "SCHAP", "tokenAddress": "0x3638c9e50437F00Ae53a649697F288ba68888cC1"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x0b5ce6f7cbe0627aa8ad2e7e69ed554c0fe79162", "from": {"secretType": "ETHEREUM", "symbol": "SENT", "tokenAddress": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x174dfb6e6e78c95678580b553eee7f282b28c795", "from": {"secretType": "ETHEREUM", "symbol": "SIM", "tokenAddress": "0x86c8bF8532AA2601151c9DbbF4e4C4804e042571"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x1aec8f11a7e78dc22477e91ed924fab46e3a88fd", "from": {"secretType": "ETHEREUM", "symbol": "SNT", "tokenAddress": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x23228ec35e810569495bd0aa4d56e9fad759bb29", "from": {"secretType": "ETHEREUM", "symbol": "SNX", "tokenAddress": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x4e395304655f0796bc3bc63709db72173b9ddf98", "from": {"secretType": "ETHEREUM", "symbol": "SPANK", "tokenAddress": "0x42d6622deCe394b54999Fbd73D108123806f6a18"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x2afc64cd5e64a32a363ea84b8cad1ce5239a1a3d", "from": {"secretType": "ETHEREUM", "symbol": "STX", "tokenAddress": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xc3c028721f854bc75967cbe432fb0e221908baa1", "from": {"secretType": "ETHEREUM", "symbol": "SWM", "tokenAddress": "0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x755160062e3e09d34af0a00ff8cab8500e81e0d7", "from": {"secretType": "ETHEREUM", "symbol": "SWT", "tokenAddress": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xb6cfbf322db47d39331e306005dc7e5e6549942b", "from": {"secretType": "ETHEREUM", "symbol": "TKN", "tokenAddress": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x38577ccec0ceffd178fd3be66e1c6f531bfa410e", "from": {"secretType": "ETHEREUM", "symbol": "TRAC", "tokenAddress": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x95e4649f5209dd292caf1f087b8f1db3be24927f", "from": {"secretType": "ETHEREUM", "symbol": "TRST", "tokenAddress": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x4f30e682d0541eac91748bd38a648d759261b8f3", "from": {"secretType": "ETHEREUM", "symbol": "TUSD", "tokenAddress": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x2263fd7c62914ab8ec2b5e7b00bc8371a6c0d221", "from": {"secretType": "ETHEREUM", "symbol": "UFR", "tokenAddress": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x28d9353611c5a0d5a026a648c05e5d6523e41cbf", "from": {"secretType": "ETHEREUM", "symbol": "ULT", "tokenAddress": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x601c32e0580d3aef9437db52d09f5a5d7e60ec22", "from": {"secretType": "ETHEREUM", "symbol": "UNI-V1", "tokenAddress": "0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x97dec872013f6b5fb443861090ad931542878126", "from": {"secretType": "ETHEREUM", "symbol": "USDC", "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x17e5bf07d696eaf0d14caa4b44ff8a1e17b34de3", "from": {"secretType": "ETHEREUM", "symbol": "VERI", "tokenAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x4d2f5cfba55ae412221182d8475bc85799a5644b", "from": {"secretType": "ETHEREUM", "symbol": "WBTC", "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xa2881a90bf33f03e7a3f803765cd2ed5c8928dfb", "from": {"secretType": "ETHEREUM", "symbol": "WETH", "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x72208a7d8c11cb28c8e6d32e1a070015786c0823", "from": {"secretType": "ETHEREUM", "symbol": "WPR", "tokenAddress": "0x4CF488387F035FF08c371515562CBa712f9015d4"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x8de0d002dc83478f479dc31f76cb0a8aa7ccea17", "from": {"secretType": "ETHEREUM", "symbol": "XCHF", "tokenAddress": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xcfcc608f03c0cee86589e11224f24779212f0fe5", "from": {"secretType": "ETHEREUM", "symbol": "ZCI", "tokenAddress": "0x236149288602c07b84387D0d75784d73f133142b"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x1c116d67e0bf0cf5cb0ad5a74a041d26e89271e7", "from": {"secretType": "ETHEREUM", "symbol": "ZCN", "tokenAddress": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x7dc095a5cf7d6208cc680fa9866f80a53911041a", "from": {"secretType": "ETHEREUM", "symbol": "ZIL", "tokenAddress": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0xae76c84c9262cdb9abc0c2c8888e62db8e22a0bf", "from": {"secretType": "ETHEREUM", "symbol": "ZRX", "tokenAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x4785cedbd89c818d60988dc5979b029f3900b54b", "from": {"secretType": "ETHEREUM", "symbol": "e11", "tokenAddress": "0x4805F9568bCA23bEf099C2A317346b42146384a1"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}, {"address": "0x69f276abd6456152d519d23086031da7c73f91b8", "from": {"secretType": "ETHEREUM", "symbol": "sUSD", "tokenAddress": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3"}, "to": {"secretType": "ETHEREUM", "symbol": "ETH", "tokenAddress": ""}}]
+[
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "0xBTC",
+            "tokenAddress": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ADX",
+            "tokenAddress": "0x4470BB87d77b963A013DB939BE332f927f2b992e"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "AERGO",
+            "tokenAddress": "0xAE31b85Bfe62747d0836B82608B4830361a3d37a"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "AGI",
+            "tokenAddress": "0x8eB24319393716668D768dCEC29356ae9CfFe285"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "AMIS",
+            "tokenAddress": "0x949bEd886c739f1A3273629b3320db0C5024c719"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ANT",
+            "tokenAddress": "0x960b236A07cf122663c4303350609A66A7B288C0"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ASTRO",
+            "tokenAddress": "0x7B22938ca841aA392C93dBB7f4c42178E3d65E88"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "AWC",
+            "tokenAddress": "0xaD22f63404f7305e4713CcBd4F296f34770513f4"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BAT",
+            "tokenAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BBO",
+            "tokenAddress": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BEE",
+            "tokenAddress": "0x4D8fc1453a0F359e99c9675954e656D80d996FbF"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BLUE",
+            "tokenAddress": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BNB",
+            "tokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BNTY",
+            "tokenAddress": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BOI",
+            "tokenAddress": "0x439cE375e3eE4Dc203D71958BECA3c0f417d65cb"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BOOTY",
+            "tokenAddress": "0x824C0659F6940604506Aa8FA829D13FDe17fB900"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BORIS",
+            "tokenAddress": "0x919D0131fA5F77D99FBBBBaCe50bCb6E62332bf2"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BPT",
+            "tokenAddress": "0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "BTU",
+            "tokenAddress": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "C20",
+            "tokenAddress": "0x26E75307Fc0C021472fEb8F727839531F112f317"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CAN",
+            "tokenAddress": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CMCT",
+            "tokenAddress": "0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CND",
+            "tokenAddress": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CNN",
+            "tokenAddress": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CNUS",
+            "tokenAddress": "0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CNX",
+            "tokenAddress": "0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CRO",
+            "tokenAddress": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CRPHT",
+            "tokenAddress": "0xcd7D0042FDb92F3dDE312aa61AF084953Aa914ee"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "CVC",
+            "tokenAddress": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DAI",
+            "tokenAddress": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DATA",
+            "tokenAddress": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DENT",
+            "tokenAddress": "0x3597bfD533a99c9aa083587B074434E61Eb0A258"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DGX",
+            "tokenAddress": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DKC",
+            "tokenAddress": "0x7365877678C744B435eD03B1Cac12AB407CBa13a"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DNT",
+            "tokenAddress": "0x0AbdAce70D3790235af448C88547603b945604ea"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DONUT",
+            "tokenAddress": "0x23D80c4EE8Fb55D4183dd9329296E176dC7464e1"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DTH",
+            "tokenAddress": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "EDU",
+            "tokenAddress": "0xa0872eE815B8dd0F6937386Fd77134720d953581"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "EMONT",
+            "tokenAddress": "0x95dAaaB98046846bF4B2853e23cba236fa394A31"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ENG",
+            "tokenAddress": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ENTRP",
+            "tokenAddress": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ERC20",
+            "tokenAddress": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "FAC",
+            "tokenAddress": "0x4b4a70cae3F7c84E36ce9aa19Abc98F85Db7f058"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "FOAM",
+            "tokenAddress": "0x4946Fcea7C692606e8908002e55A582af44AC121"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "FT",
+            "tokenAddress": "0x78a73B6CBc5D183CE56e786f6e905CaDEC63547B"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "FUN",
+            "tokenAddress": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "GCB",
+            "tokenAddress": "0x74436AE1DB59c62BBb3DE88d268f7e058dce6D50"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "GNO",
+            "tokenAddress": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "GNT",
+            "tokenAddress": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "GRID",
+            "tokenAddress": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "GUSD",
+            "tokenAddress": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "HAY",
+            "tokenAddress": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "HBZ",
+            "tokenAddress": "0xE34e1944E776f39B9252790a0527eBDa647aE668"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "HERC",
+            "tokenAddress": "0x6251583e7D997DF3604bc73B9779196e94A090Ce"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "HOT",
+            "tokenAddress": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "HPT",
+            "tokenAddress": "0xa66Daa57432024023DB65477BA87D4E7F5f95213"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "HUM",
+            "tokenAddress": "0xecF3958d0f82291CA1FF6c9BDa8Eb3c50eE41cE3"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ICN",
+            "tokenAddress": "0x888666CA69E0f178DED6D75b5726Cee99A87D698"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "IDT",
+            "tokenAddress": "0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ITT",
+            "tokenAddress": "0x0aeF06DcCCC531e581f0440059E6FfCC206039EE"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "JCD",
+            "tokenAddress": "0x0Ed024d39d55e486573EE32e583bC37Eb5A6271f"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "KIN",
+            "tokenAddress": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "KIWI",
+            "tokenAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "KNC",
+            "tokenAddress": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "KRH",
+            "tokenAddress": "0x4dadF81edf74e9b1a9Ad1F364D51a176be48f0ac"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LAToken",
+            "tokenAddress": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LBA",
+            "tokenAddress": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LINK",
+            "tokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LIRA",
+            "tokenAddress": "0x49AAa160506F7e07E6C3F6cD6316b6866025cDcB"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LOOM",
+            "tokenAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LOT",
+            "tokenAddress": "0xDCEf0710B10aD66bC2194b412fb37C65D4D0A965"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LPT",
+            "tokenAddress": "0x58b6A8A3302369DAEc383334672404Ee733aB239"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "LQD",
+            "tokenAddress": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MANA",
+            "tokenAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MAS",
+            "tokenAddress": "0x23Ccc43365D9dD3882eab88F43d515208f832430"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MCO",
+            "tokenAddress": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MEDIBIT",
+            "tokenAddress": "0x737fA0372c8D001904Ae6aCAf0552d4015F9c947"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MGN",
+            "tokenAddress": "0xb9625381f086e7B8512e4825f6Af1117E9c84D43"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MKR",
+            "tokenAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MLN",
+            "tokenAddress": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MOR",
+            "tokenAddress": "0xa6A7fCe4AFFe059548Fc39eBbc74555952A6Fb0d"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "MYU",
+            "tokenAddress": "0xf3bE20da25B31Bd6Ee4CE4496985b2064304C125"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "NEXO",
+            "tokenAddress": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "NMR",
+            "tokenAddress": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "OMG",
+            "tokenAddress": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PAI",
+            "tokenAddress": "0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PATH",
+            "tokenAddress": "0x7b94A1281Db0335C9Efd68AcA5c98B494d775C70"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PAX",
+            "tokenAddress": "0x8E870D67F660D95d5be530380D0eC0bd388289E1"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PAY",
+            "tokenAddress": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PITCH",
+            "tokenAddress": "0x87f56Ee356B434187105b40F96B230F5283c0AB4"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PLAY",
+            "tokenAddress": "0xE477292f1B3268687A29376116B0ED27A9c76170"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PMA",
+            "tokenAddress": "0x846C66cf71C43f80403B51fE3906B3599D63336f"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PNK",
+            "tokenAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "POA20",
+            "tokenAddress": "0x6758B7d441a9739b98552B373703d8d3d14f9e62"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "POW",
+            "tokenAddress": "0x9709907Cb2cF9e16Df841f7b145b78c230d8205E"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PRG",
+            "tokenAddress": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "PTOY",
+            "tokenAddress": "0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "QCH",
+            "tokenAddress": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "RCN",
+            "tokenAddress": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "RDN",
+            "tokenAddress": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "REN",
+            "tokenAddress": "0x408e41876cCCDC0F92210600ef50372656052a38"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "REP",
+            "tokenAddress": "0x1985365e9f78359a9B6AD760e32412f4a445E862"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "REQ",
+            "tokenAddress": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "RHOC",
+            "tokenAddress": "0x168296bb09e24A88805CB9c33356536B980D3fC5"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "RLC",
+            "tokenAddress": "0x607F4C5BB672230e8672085532f7e901544a7375"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ROL",
+            "tokenAddress": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "RPL",
+            "tokenAddress": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SALT",
+            "tokenAddress": "0x4156D3342D5c385a87D264F90653733592000581"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SAN",
+            "tokenAddress": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SCHAP",
+            "tokenAddress": "0x3638c9e50437F00Ae53a649697F288ba68888cC1"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SENT",
+            "tokenAddress": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SIM",
+            "tokenAddress": "0x86c8bF8532AA2601151c9DbbF4e4C4804e042571"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SNT",
+            "tokenAddress": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SNX",
+            "tokenAddress": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SPANK",
+            "tokenAddress": "0x42d6622deCe394b54999Fbd73D108123806f6a18"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "STX",
+            "tokenAddress": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SWM",
+            "tokenAddress": "0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "SWT",
+            "tokenAddress": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "TKN",
+            "tokenAddress": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "TRAC",
+            "tokenAddress": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "TRST",
+            "tokenAddress": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "TUSD",
+            "tokenAddress": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "UFR",
+            "tokenAddress": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ULT",
+            "tokenAddress": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "UNI-V1",
+            "tokenAddress": "0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "USDC",
+            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "VERI",
+            "tokenAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "WBTC",
+            "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "WETH",
+            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "WPR",
+            "tokenAddress": "0x4CF488387F035FF08c371515562CBa712f9015d4"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "XCHF",
+            "tokenAddress": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZCI",
+            "tokenAddress": "0x236149288602c07b84387D0d75784d73f133142b"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZCN",
+            "tokenAddress": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZIL",
+            "tokenAddress": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZRX",
+            "tokenAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "e11",
+            "tokenAddress": "0x4805F9568bCA23bEf099C2A317346b42146384a1"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "sUSD",
+            "tokenAddress": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "0xBTC",
+            "tokenAddress": "0xB6eD7644C69416d67B522e20bC294A9a9B405B31"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ADX",
+            "tokenAddress": "0x4470BB87d77b963A013DB939BE332f927f2b992e"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "AERGO",
+            "tokenAddress": "0xAE31b85Bfe62747d0836B82608B4830361a3d37a"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "AGI",
+            "tokenAddress": "0x8eB24319393716668D768dCEC29356ae9CfFe285"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "AMIS",
+            "tokenAddress": "0x949bEd886c739f1A3273629b3320db0C5024c719"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ANT",
+            "tokenAddress": "0x960b236A07cf122663c4303350609A66A7B288C0"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ASTRO",
+            "tokenAddress": "0x7B22938ca841aA392C93dBB7f4c42178E3d65E88"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "AWC",
+            "tokenAddress": "0xaD22f63404f7305e4713CcBd4F296f34770513f4"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BAT",
+            "tokenAddress": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BBO",
+            "tokenAddress": "0x84F7c44B6Fed1080f647E354D552595be2Cc602F"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BEE",
+            "tokenAddress": "0x4D8fc1453a0F359e99c9675954e656D80d996FbF"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BLUE",
+            "tokenAddress": "0x539EfE69bCDd21a83eFD9122571a64CC25e0282b"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BNB",
+            "tokenAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BNTY",
+            "tokenAddress": "0xd2d6158683aeE4Cc838067727209a0aAF4359de3"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BOI",
+            "tokenAddress": "0x439cE375e3eE4Dc203D71958BECA3c0f417d65cb"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BOOTY",
+            "tokenAddress": "0x824C0659F6940604506Aa8FA829D13FDe17fB900"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BORIS",
+            "tokenAddress": "0x919D0131fA5F77D99FBBBBaCe50bCb6E62332bf2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BPT",
+            "tokenAddress": "0x327682779bAB2BF4d1337e8974ab9dE8275A7Ca8"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "BTU",
+            "tokenAddress": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "C20",
+            "tokenAddress": "0x26E75307Fc0C021472fEb8F727839531F112f317"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CAN",
+            "tokenAddress": "0x1d462414fe14cf489c7A21CaC78509f4bF8CD7c0"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CMCT",
+            "tokenAddress": "0x47bc01597798DCD7506DCCA36ac4302fc93a8cFb"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CND",
+            "tokenAddress": "0xd4c435F5B09F855C3317c8524Cb1F586E42795fa"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CNN",
+            "tokenAddress": "0x8713d26637CF49e1b6B4a7Ce57106AaBc9325343"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CNUS",
+            "tokenAddress": "0x722F2f3EaC7e9597C73a593f7CF3de33Fbfc3308"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CNX",
+            "tokenAddress": "0x94d6b4fB35fB08Cb34Aa716ab40049Ec88002079"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CRO",
+            "tokenAddress": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CRPHT",
+            "tokenAddress": "0xcd7D0042FDb92F3dDE312aa61AF084953Aa914ee"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "CVC",
+            "tokenAddress": "0x41e5560054824eA6B0732E656E3Ad64E20e94E45"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DAI",
+            "tokenAddress": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DATA",
+            "tokenAddress": "0x0Cf0Ee63788A0849fE5297F3407f701E122cC023"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DENT",
+            "tokenAddress": "0x3597bfD533a99c9aa083587B074434E61Eb0A258"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DGX",
+            "tokenAddress": "0x4f3AfEC4E5a3F2A6a1A411DEF7D7dFe50eE057bF"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DKC",
+            "tokenAddress": "0x7365877678C744B435eD03B1Cac12AB407CBa13a"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DNT",
+            "tokenAddress": "0x0AbdAce70D3790235af448C88547603b945604ea"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DONUT",
+            "tokenAddress": "0x23D80c4EE8Fb55D4183dd9329296E176dC7464e1"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DTH",
+            "tokenAddress": "0x5adc961D6AC3f7062D2eA45FEFB8D8167d44b190"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "EDU",
+            "tokenAddress": "0xa0872eE815B8dd0F6937386Fd77134720d953581"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "EMONT",
+            "tokenAddress": "0x95dAaaB98046846bF4B2853e23cba236fa394A31"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ENG",
+            "tokenAddress": "0xf0Ee6b27b759C9893Ce4f094b49ad28fd15A23e4"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ENTRP",
+            "tokenAddress": "0x5BC7e5f0Ab8b2E10D2D0a3F21739FCe62459aeF3"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ERC20",
+            "tokenAddress": "0xc3761EB917CD790B30dAD99f6Cc5b4Ff93C4F9eA"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "FAC",
+            "tokenAddress": "0x4b4a70cae3F7c84E36ce9aa19Abc98F85Db7f058"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "FOAM",
+            "tokenAddress": "0x4946Fcea7C692606e8908002e55A582af44AC121"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "FT",
+            "tokenAddress": "0x78a73B6CBc5D183CE56e786f6e905CaDEC63547B"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "FUN",
+            "tokenAddress": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "GCB",
+            "tokenAddress": "0x74436AE1DB59c62BBb3DE88d268f7e058dce6D50"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "GNO",
+            "tokenAddress": "0x6810e776880C02933D47DB1b9fc05908e5386b96"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "GNT",
+            "tokenAddress": "0xa74476443119A942dE498590Fe1f2454d7D4aC0d"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "GRID",
+            "tokenAddress": "0x12B19D3e2ccc14Da04FAe33e63652ce469b3F2FD"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "GUSD",
+            "tokenAddress": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "HAY",
+            "tokenAddress": "0xfA3E941D1F6B7b10eD84A0C211bfA8aeE907965e"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "HBZ",
+            "tokenAddress": "0xE34e1944E776f39B9252790a0527eBDa647aE668"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "HERC",
+            "tokenAddress": "0x6251583e7D997DF3604bc73B9779196e94A090Ce"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "HOT",
+            "tokenAddress": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "HPT",
+            "tokenAddress": "0xa66Daa57432024023DB65477BA87D4E7F5f95213"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "HUM",
+            "tokenAddress": "0xecF3958d0f82291CA1FF6c9BDa8Eb3c50eE41cE3"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ICN",
+            "tokenAddress": "0x888666CA69E0f178DED6D75b5726Cee99A87D698"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "IDT",
+            "tokenAddress": "0x02C4C78C462E32cCa4a90Bc499bF411Fb7bc6aFB"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ITT",
+            "tokenAddress": "0x0aeF06DcCCC531e581f0440059E6FfCC206039EE"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "JCD",
+            "tokenAddress": "0x0Ed024d39d55e486573EE32e583bC37Eb5A6271f"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "KIN",
+            "tokenAddress": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "KIWI",
+            "tokenAddress": "0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "KNC",
+            "tokenAddress": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "KRH",
+            "tokenAddress": "0x4dadF81edf74e9b1a9Ad1F364D51a176be48f0ac"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LAToken",
+            "tokenAddress": "0xE50365f5D679CB98a1dd62D6F6e58e59321BcdDf"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LBA",
+            "tokenAddress": "0xfe5F141Bf94fE84bC28deD0AB966c16B17490657"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LINK",
+            "tokenAddress": "0x514910771AF9Ca656af840dff83E8264EcF986CA"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LIRA",
+            "tokenAddress": "0x49AAa160506F7e07E6C3F6cD6316b6866025cDcB"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LOOM",
+            "tokenAddress": "0xA4e8C3Ec456107eA67d3075bF9e3DF3A75823DB0"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LOT",
+            "tokenAddress": "0xDCEf0710B10aD66bC2194b412fb37C65D4D0A965"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LPT",
+            "tokenAddress": "0x58b6A8A3302369DAEc383334672404Ee733aB239"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "LQD",
+            "tokenAddress": "0xD29F0b5b3F50b07Fe9a9511F7d86F4f4bAc3f8c4"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MANA",
+            "tokenAddress": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MAS",
+            "tokenAddress": "0x23Ccc43365D9dD3882eab88F43d515208f832430"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MCO",
+            "tokenAddress": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MEDIBIT",
+            "tokenAddress": "0x737fA0372c8D001904Ae6aCAf0552d4015F9c947"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MGN",
+            "tokenAddress": "0xb9625381f086e7B8512e4825f6Af1117E9c84D43"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MKR",
+            "tokenAddress": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MLN",
+            "tokenAddress": "0xBEB9eF514a379B997e0798FDcC901Ee474B6D9A1"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MOR",
+            "tokenAddress": "0xa6A7fCe4AFFe059548Fc39eBbc74555952A6Fb0d"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "MYU",
+            "tokenAddress": "0xf3bE20da25B31Bd6Ee4CE4496985b2064304C125"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "NEXO",
+            "tokenAddress": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "NMR",
+            "tokenAddress": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "OMG",
+            "tokenAddress": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PAI",
+            "tokenAddress": "0xB9bb08AB7E9Fa0A1356bd4A39eC0ca267E03b0b3"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PATH",
+            "tokenAddress": "0x7b94A1281Db0335C9Efd68AcA5c98B494d775C70"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PAX",
+            "tokenAddress": "0x8E870D67F660D95d5be530380D0eC0bd388289E1"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PAY",
+            "tokenAddress": "0xB97048628DB6B661D4C2aA833e95Dbe1A905B280"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PITCH",
+            "tokenAddress": "0x87f56Ee356B434187105b40F96B230F5283c0AB4"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PLAY",
+            "tokenAddress": "0xE477292f1B3268687A29376116B0ED27A9c76170"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PMA",
+            "tokenAddress": "0x846C66cf71C43f80403B51fE3906B3599D63336f"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PNK",
+            "tokenAddress": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "POA20",
+            "tokenAddress": "0x6758B7d441a9739b98552B373703d8d3d14f9e62"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "POW",
+            "tokenAddress": "0x9709907Cb2cF9e16Df841f7b145b78c230d8205E"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PRG",
+            "tokenAddress": "0x7728dFEF5aBd468669EB7f9b48A7f70a501eD29D"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "PTOY",
+            "tokenAddress": "0x8Ae4BF2C33a8e667de34B54938B0ccD03Eb8CC06"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "QCH",
+            "tokenAddress": "0x687BfC3E73f6af55F0CccA8450114D107E781a0e"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "RCN",
+            "tokenAddress": "0xF970b8E36e23F7fC3FD752EeA86f8Be8D83375A6"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "RDN",
+            "tokenAddress": "0x255Aa6DF07540Cb5d3d297f0D0D4D84cb52bc8e6"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "REN",
+            "tokenAddress": "0x408e41876cCCDC0F92210600ef50372656052a38"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "REP",
+            "tokenAddress": "0x1985365e9f78359a9B6AD760e32412f4a445E862"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "REQ",
+            "tokenAddress": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "RHOC",
+            "tokenAddress": "0x168296bb09e24A88805CB9c33356536B980D3fC5"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "RLC",
+            "tokenAddress": "0x607F4C5BB672230e8672085532f7e901544a7375"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ROL",
+            "tokenAddress": "0x2e071D2966Aa7D8dECB1005885bA1977D6038A65"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "RPL",
+            "tokenAddress": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SALT",
+            "tokenAddress": "0x4156D3342D5c385a87D264F90653733592000581"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SAN",
+            "tokenAddress": "0x7C5A0CE9267ED19B22F8cae653F198e3E8daf098"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SCHAP",
+            "tokenAddress": "0x3638c9e50437F00Ae53a649697F288ba68888cC1"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SENT",
+            "tokenAddress": "0xa44E5137293E855B1b7bC7E2C6f8cD796fFCB037"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SIM",
+            "tokenAddress": "0x86c8bF8532AA2601151c9DbbF4e4C4804e042571"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SNT",
+            "tokenAddress": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SNX",
+            "tokenAddress": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SPANK",
+            "tokenAddress": "0x42d6622deCe394b54999Fbd73D108123806f6a18"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "STX",
+            "tokenAddress": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SWM",
+            "tokenAddress": "0x9e88613418cF03dCa54D6a2cf6Ad934A78C7A17A"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "SWT",
+            "tokenAddress": "0xB9e7F8568e08d5659f5D29C4997173d84CdF2607"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "TKN",
+            "tokenAddress": "0xaAAf91D9b90dF800Df4F55c205fd6989c977E73a"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "TRAC",
+            "tokenAddress": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "TRST",
+            "tokenAddress": "0xCb94be6f13A1182E4A4B6140cb7bf2025d28e41B"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "TUSD",
+            "tokenAddress": "0x8dd5fbCe2F6a956C3022bA3663759011Dd51e73E"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "UFR",
+            "tokenAddress": "0xEA097A2b1dB00627B2Fa17460Ad260c016016977"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ULT",
+            "tokenAddress": "0x09617F6fD6cF8A71278ec86e23bBab29C04353a7"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "UNI-V1",
+            "tokenAddress": "0x09cabEC1eAd1c0Ba254B09efb3EE13841712bE14"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "USDC",
+            "tokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "VERI",
+            "tokenAddress": "0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "WBTC",
+            "tokenAddress": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "WETH",
+            "tokenAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "WPR",
+            "tokenAddress": "0x4CF488387F035FF08c371515562CBa712f9015d4"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "XCHF",
+            "tokenAddress": "0xB4272071eCAdd69d933AdcD19cA99fe80664fc08"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZCI",
+            "tokenAddress": "0x236149288602c07b84387D0d75784d73f133142b"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZCN",
+            "tokenAddress": "0xb9EF770B6A5e12E45983C5D80545258aA38F3B78"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZIL",
+            "tokenAddress": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ZRX",
+            "tokenAddress": "0xE41d2489571d322189246DaFA5ebDe1F4699F498"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "e11",
+            "tokenAddress": "0x4805F9568bCA23bEf099C2A317346b42146384a1"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "sUSD",
+            "tokenAddress": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    }
+]
