@@ -1,0 +1,74 @@
+[
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DAI",
+            "tokenAddress": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "FND",
+            "tokenAddress": "0x02f96ef85cad6639500ca1cc8356f0b5ca5bf1d2"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DAI",
+            "tokenAddress": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "FND",
+            "tokenAddress": "0x02f96ef85cad6639500ca1cc8356f0b5ca5bf1d2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "ETH",
+            "tokenAddress": ""
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "FND",
+            "tokenAddress": "0x02f96ef85cad6639500ca1cc8356f0b5ca5bf1d2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "DAI",
+            "tokenAddress": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2"
+        }
+    },
+    {
+        "from": {
+            "secretType": "ETHEREUM",
+            "symbol": "DAI",
+            "tokenAddress": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2"
+        },
+        "to": {
+            "secretType": "ETHEREUM",
+            "symbol": "FND",
+            "tokenAddress": "0x02f96ef85cad6639500ca1cc8356f0b5ca5bf1d2"
+        }
+    }
+]

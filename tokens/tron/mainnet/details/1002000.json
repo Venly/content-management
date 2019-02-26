@@ -1,0 +1,7 @@
+{
+  "name": "BitTorrent",
+  "symbol": "BTT",
+  "address": "1002000",
+  "decimals": 6,
+  "type": "TRC10"
+}

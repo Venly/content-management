@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bandwidth",
+    "symbol": "bandwidth",
+    "address": "bandwidth",
+    "decimals": 0,
+    "type": "BANDWIDTH",
+    "transferable": "false"
+  },
+  {
+    "name": "BitTorrent",
+    "symbol": "BTT",
+    "address": "1002000",
+    "decimals": 6,
+    "type": "TRC10"
+  }
+]
