@@ -75,7 +75,7 @@
     "from": {
       "secretType": "VECHAIN",
       "symbol": "PLA",
-      "tokenAddress": "0x89827F7bB951Fd8A56f8eF13C5bFEE38522F2E1F"
+      "tokenAddress": "0x89827f7bb951fd8a56f8ef13c5bfee38522f2e1f"
     },
     "to": {
       "secretType": "VECHAIN",
