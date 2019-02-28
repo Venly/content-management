@@ -7,6 +7,12 @@
 ,
 {"name": "FundRequest", "description":"Harness the power of Open Source developers - Easy and secure way to request development bugfixes, security audits, ... to the Open Source developer community.", "url": "http://fundrequest.io"}
 ,
+{
+  "name": "Gilded",
+  "description": "Crypto Accounting Made Simple. Forget spreadsheets. Gilded makes crypto accounting a breeze.",
+  "url": "https://gilded.finance"
+}
+,
 {"name": "ThorBlock", "description":"The first communal funding turnkey solution on the VechainThor Blockchain", "url": "https://thorblock.io"}
 ,
 {"name": "Vexchange", "description":"The first decentralized exchange powered by the VeChainThor blockchain", "url": "https://vexchange.io"}
