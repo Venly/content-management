@@ -15,6 +15,8 @@
   "url": "https://gilded.finance"
 }
 ,
+{"name": "SafeWallet", "description":"An interface for the vechain blockchain", "url": "https://wallets.safehaven.io"}
+,
 {"name": "ThorBlock", "description":"The first communal funding turnkey solution on the VechainThor Blockchain", "url": "https://thorblock.io"}
 ,
 {"name": "Vexchange", "description":"The first decentralized exchange powered by the VeChainThor blockchain", "url": "https://vexchange.io"}
