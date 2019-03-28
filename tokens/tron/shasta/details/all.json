@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Bandwidth",
+    "symbol": "bandwidth",
+    "address": "bandwidth",
+    "decimals": 0,
+    "type": "BANDWIDTH",
+    "transferable": "false"
+  },
+  {
+  "name": "ARKANE",
+  "symbol": "RKN",
+  "address": "1000246",
+  "decimals": 6,
+  "type": "TRC10"
+  }
+]
