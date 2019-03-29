@@ -20,4 +20,6 @@
 {"name": "ThorBlock", "description":"The first communal funding turnkey solution on the VechainThor Blockchain", "url": "https://thorblock.io"}
 ,
 {"name": "Vexchange", "description":"The first decentralized exchange powered by the VeChainThor blockchain", "url": "https://vexchange.io"}
+,
+{"name": "vios", "description":"vios network", "url": "http://alpha.vios.network"}
 ]
