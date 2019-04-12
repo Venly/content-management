@@ -5,6 +5,8 @@
 ,
 {"name": "Cindercloud", "description":"Open Source Wallet and Block Explorer", "url": "https://cinder.cloud"}
 ,
+{"name": "CoinStats", "description":"Crypto portfolio tracker", "url": "https://coinstats.app"}
+,
 {"name": "Devoxx", "description":"Devoxx 2018 Demo application for showcasing a very basic wallet using Arkane Connect", "url": "http://localhost:4000"}
 ,
 {"name": "FundRequest", "description":"Harness the power of Open Source developers - Easy and secure way to request development bugfixes, security audits, ... to the Open Source developer community.", "url": "http://fundrequest.io"}
