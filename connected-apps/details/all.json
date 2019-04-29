@@ -19,6 +19,10 @@
   "url": "https://gilded.finance"
 }
 ,
+{"name": "Huddln", "description":"The Huddl Staking App", "url": "https://localhost.com"}
+,
+{"name": "MFCoinArk", "description":"Cryptocurrency of Freeland virtual state", "url": "https://wallet.mfcoin.su"}
+,
 {"name": "SafeWallet", "description":"An interface for the vechain blockchain", "url": "https://wallets.safehaven.io"}
 ,
 {"name": "ThorBlock", "description":"The first communal funding turnkey solution on the VechainThor Blockchain", "url": "https://thorblock.io"}
