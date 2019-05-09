@@ -36,7 +36,7 @@
   },
   {
     "name": "Polymath Network",
-    "symbol": "K-POLY",
+    "symbol": "POLY",
     "address": "0xB06d72a24df50D4E2cAC133B320c5E7DE3ef94cB",
     "decimals": 18,
     "type": "ERC20"
