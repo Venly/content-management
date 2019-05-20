@@ -5,7 +5,7 @@
     "description": "Crypto portfolio tracker, live prices and charts.",
     "ctaText": "Join Now!",
     "ctaLink": "https://coinstats.app/?utm_source=arkane.network",
-    "viewIn": ["ETHEREUM", "VECHAIN"]
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN"]
   },
   {
     "icon": "fundrequest.png",
@@ -13,7 +13,15 @@
     "description": "Open Source bounty program powered by Blockchain.",
     "ctaText": "Start Coding Now!",
     "ctaLink": "https://fundrequest.io/requests?phase=open&utm_source=arkane.network",
-    "viewIn": ["ETHEREUM", "VECHAIN"]
+    "viewIn": ["ETHEREUM"]
+  },
+  {
+    "icon": "kryptokrauts.png",
+    "name": "kryptokrauts",
+    "description": "Help us creating the best crypto-timeline ever!",
+    "ctaText": "Check it out!",
+    "ctaLink": "https://fundrequest.io/requests?phase=open&utm_source=arkane.network",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY"]
   },
   {
     "icon": "arkane-network.png",
@@ -21,6 +29,6 @@
     "description": "Your advertisement here?",
     "ctaText": "Contact Us",
     "ctaLink": "https://arkane-network.typeform.com/to/nYda30",
-    "viewIn": ["ETHEREUM", "VECHAIN"]
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY"]
   }
 ]
