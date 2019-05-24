@@ -27,7 +27,7 @@
     "icon": "vexchange.png",
     "name": "Vexchange",
     "description": "Decentralized Exchange powered by VeChain.",
-    "ctaText": "Trade all VIP-180s now, no registration required",
+    "ctaText": "Trade Now!",
     "ctaLink": "http://vexchange.io",
     "viewIn": ["VECHAIN"]
   },
