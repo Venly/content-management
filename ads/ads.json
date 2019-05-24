@@ -16,6 +16,14 @@
     "viewIn": ["ETHEREUM"]
   },
   {
+    "icon": "gilded.png",
+    "name": "Gilded",
+    "description": "Crypto Accounting Made Simple.",
+    "ctaText": "Sign up now!",
+    "ctaLink": "https://gilded.finance",
+    "viewIn": ["ETHEREUM"]
+  },
+  {
     "icon": "vexchange.png",
     "name": "Vexchange",
     "description": "Decentralized Exchange powered by VeChain.",
