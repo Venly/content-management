@@ -16,6 +16,14 @@
     "viewIn": ["ETHEREUM"]
   },
   {
+    "icon": "vexchange.png",
+    "name": "Vexchange",
+    "description": "Decentralized Exchange powered by VeChain.",
+    "ctaText": "Trade all VIP-180s now, no registration required",
+    "ctaLink": "http://vexchange.io",
+    "viewIn": ["VECHAIN"]
+  },
+  {
     "icon": "kryptokrauts.png",
     "name": "kryptokrauts",
     "description": "Help us creating the best crypto-timeline ever!",
