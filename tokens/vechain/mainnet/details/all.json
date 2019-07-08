@@ -40,5 +40,12 @@
     "address": "0xa94a33f776073423e163088a5078feac31373990",
     "decimals": 18,
     "type": "VIP180"
+  },
+  {
+    "name": "8Hours Token",
+    "symbol": "EHRT",
+    "address": "0xf8e1fAa0367298b55F57Ed17F7a2FF3F5F1D1628",
+    "decimals": 18,
+    "type": "VIP180"
   }
 ]
