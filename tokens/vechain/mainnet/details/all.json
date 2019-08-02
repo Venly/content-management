@@ -47,5 +47,6 @@
     "address": "0xf8e1fAa0367298b55F57Ed17F7a2FF3F5F1D1628",
     "decimals": 18,
     "type": "VIP180"
-  }
+  },
+  {"name":"Global Funeral Care","symbol":"GFCS","address":"0xfb67218c32168ee54dC23ED63F76159DCDA09Ba6","decimals":18,"type":"VIP180"}
 ]
