@@ -10,7 +10,7 @@
   {
     "icon": "egamers.png",
     "name": "Egamers.io",
-    "description": "News about Blockchain Games, Reviews, Game Lists and Community Discussions.",
+    "description": "News about Blockchain Games, Reviews, Game Lists.",
     "ctaText": "Start Reading!",
     "ctaLink": "https://egamers.io/requests?utm_source=arkane.network",
     "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
