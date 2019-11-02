@@ -23,6 +23,8 @@
 ,
 {"name": "Huddln", "description":"The Huddl Staking App", "url": "https://localhost.com"}
 ,
+{"name": "LLeon", "description":"Dapp development", "url": "https://snaz.pro:57880"}
+,
 {"name": "MFCoinArk", "description":"Cryptocurrency of Freeland virtual state", "url": "https://wallet.mfcoin.su"}
 ,
 {"name": "SafeWallet", "description":"An interface for the vechain blockchain", "url": "https://mysafewallet.io/"}
