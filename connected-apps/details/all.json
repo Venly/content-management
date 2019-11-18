@@ -1,7 +1,7 @@
 [
 {"name": "0xGames", "description":"Blockchain Games", "url": "https://0x.games"}
 ,
-{"name": "Arketype", "description":"Sandbox application for showcasing Arkane integration", "url": "http://localhost:4000"}
+{"name": "Arketype", "description":"Sandbox application for showcasing Arkane integration", "url": "https://demo.arkane.network"}
 ,
 {"name": "Cindercloud", "description":"Open Source Wallet and Block Explorer", "url": "https://cinder.cloud"}
 ,
@@ -42,4 +42,6 @@
 {"name": "Jokersk 119", "description":"Testing purposes only", "url": "https://codeman.io"}
 ,
 {"name": "vios", "description":"vios network", "url": "http://alpha.vios.network"}
+,
+{"name": "ArkaneMarket", "description":"", "url": "https://arkane.market"}
 ]
