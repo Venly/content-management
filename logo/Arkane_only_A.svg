@@ -8,20 +8,6 @@
       <stop offset="1" stop-color="#f74989" stop-opacity="1"/>
     </linearGradient>
     <style>
-      .text {
-        font-size: 29px;
-        stroke: #000;
-        stroke-miterlimit: 10;
-        stroke-width: 0.25px;
-        font-family: HelveticaNeue-Thin, Helvetica Neue;
-        letter-spacing: 0.04em;
-      }
-
-      .text-small {
-        font-size: 25px;
-        letter-spacing: 0.04em;
-      }
-
       .path-a {
         clip-path: url(#clip-path-a);
       }
