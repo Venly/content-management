@@ -67,7 +67,7 @@
 {"name":"Spectre.ai D-Token","symbol":"SXDT","address":"0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf","decimals":18,"type":"ERC20"},
 {"name":"Cofoundit","symbol":"CFI","address":"0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e","decimals":18,"type":"ERC20"},
 {"name":"MoneyToken","symbol":"IMT","address":"0x13119e34e140097a507b07a5564bde1bc375d9e6","decimals":18,"type":"ERC20"},
-{"name":"Eternity","symbol":"CORP1","address":"0x137ce274199a106b1aa3036241d6757c06968c21","decimals":0,"type":"ERC20"},
+{"name":"Eternity","symbol":"CORP1","address":"0x137cE274199a106b1AA3036241D6757C06968c21","decimals":0,"type":"ERC20"},
 {"name":"Musiconomi","symbol":"MCI","address":"0x138a8752093f4f9a79aaedf48d4b9248fab93c9c","decimals":18,"type":"ERC20"},
 {"name":"BoutsPro","symbol":"BOUTS","address":"0x139d9397274bb9e2c29a9aa8aa0b5874d30d62e3","decimals":18,"type":"ERC20"},
 {"name":"PHI Token","symbol":"PHI","address":"0x13c2fab6354d3790d8ece4f0f1a3280b4a25ad96","decimals":18,"type":"ERC20"},
