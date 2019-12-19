@@ -7,11 +7,11 @@
     "type": "BANDWIDTH",
     "transferable": "false"
   },
-  {
-  "name": "ARKANE",
-  "symbol": "RKN",
-  "address": "1000246",
+{
+  "name": "Banana",
+  "symbol": "BNA",
+  "address": "1000031",
   "decimals": 6,
   "type": "TRC10"
-  }
+}
 ]
