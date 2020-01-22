@@ -440,6 +440,7 @@
 {"name":"iEthereum","symbol":"iETH","address":"0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b","decimals":8,"type":"ERC20"},
 {"name":"Telcoin","symbol":"TEL","address":"0x85e076361cc813a908ff672f9bad1541474402b2","decimals":2,"type":"ERC20"},
 {"name":"Cryptrust","symbol":"CTRT","address":"0x8606a8f28e1e2fd50b9074d65c01548b1f040b32","decimals":8,"type":"ERC20"},
+{"name":"0xUniverse Energy","symbol":"0XE","address":"0x865a0a385b805cc4146c0f4061586a3da25e5c1f","decimals":9,"type":"ERC20"},
 {"name":"Moss Coin","symbol":"MOC","address":"0x865ec58b06bf6305b886793aa20a2da31d034e68","decimals":18,"type":"ERC20"},
 {"name":"Oxycoin","symbol":"OXY","address":"0x869b1f57380ae501d387b19262efd3c0eb7501b0","decimals":18,"type":"ERC20"},
 {"name":"CNN Token","symbol":"CNN","address":"0x8713d26637cf49e1b6b4a7ce57106aabc9325343","decimals":18,"type":"ERC20"},
