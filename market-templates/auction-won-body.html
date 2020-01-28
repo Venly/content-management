@@ -3,7 +3,9 @@
   <div style="margin-bottom:16px!important;text-align:center!important" align="center">
 
     <p style="line-height:2.5;margin:0 0 17px;text-align:center!important; width:100%" align="center">
-     <button onclick="window.location.href = 'https://arkane.market';" th:onclick="'window.location.href=\'' + ${link} + '\''" style="cursor: pointer; margin-left: auto;margin-right: auto; color: white; border-radius: 5px; padding:12px 7px; font-size: medium; background-color:#358dab;" align="center">Outbid your competitor</button>
+    <form action="https://arkane.market" th:action="${link}">
+     <input type="submit" style="cursor: pointer; margin-left: auto;margin-right: auto; color: white; border-radius: 5px; padding:12px 7px; font-size: medium; background-color:#358dab;" align="center" value="See details"></input>
+     </form>
     </p>
 
   </div>
