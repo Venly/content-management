@@ -821,5 +821,6 @@
 {"name":"OneRoot Network Token","symbol":"RNT","address":"0xff603f43946a3a28df5e6a73172555d8c8b02386","decimals":18,"type":"ERC20"},
 {"name":"Distributed Credit Chain","symbol":"DCC","address":"0xffa93aacf49297d51e211817452839052fdfb961","decimals":18,"type":"ERC20"},
 {"name":"NANJCOIN","symbol":"NANJ","address":"0xffe02ee4c69edf1b340fcad64fbd6b37a7b9e265","decimals":8,"type":"ERC20"},
-{"name":"CryptoDash","symbol":"CDASH","address":"0x86b300ef935284a99fa5d148a9a6ccc5103b21a8","decimals":18,"type":"ERC20"},  
+{"name":"CryptoDash","symbol":"CDASH","address":"0x86b300ef935284a99fa5d148a9a6ccc5103b21a8","decimals":18,"type":"ERC20"},
+  {"name":"IntelliShare","symbol":"INE","address":"0x86e6a4f512b1290c043970b04e0b570d4fc98291","decimals":18,"type":"ERC20"},
 {"name":"Hedge","symbol":"HDG","address":"0xffe8196bc259e8dedc544d935786aa4709ec3e64","decimals":18,"type":"ERC20"}]
