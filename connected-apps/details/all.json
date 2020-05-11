@@ -5,6 +5,8 @@
 ,
 {"name": "Arketype", "description":"Sandbox application for showcasing Arkane integration", "url": "https://demo.arkane.network"}
 ,
+{"name": "BitPal", "description":"BitPal enables merchants to accept payments for the sale of goods and services in Bitcoin, Aeternity, Ether, Dash, and EOS. The platform is targeting small, medium, and large businesses that operate online or physical stores.", "url": "https://bitpal.africa"}
+,
 {"name": "Cindercloud", "description":"Open Source Wallet and Block Explorer", "url": "https://cinder.cloud"}
 ,
 {"name": "CoinRequest", "description":"Easily request your cryptocurrency", "url": "https://coinrequest.io"}
