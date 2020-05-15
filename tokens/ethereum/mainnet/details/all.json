@@ -1,5 +1,6 @@
 [
 {"name":"IPSX","symbol":"IPSX","address":"0x001f0aa5da15585e5b2305dbab2bac425ea71007","decimals":18,"type":"ERC20"},
+{"name":"EMONT","symbol":"EMONT","address":"0x95daaab98046846bf4b2853e23cba236fa394a31","decimals":8,"type":"ERC20"},
 {"name":"KickToken","symbol":"KICK","address":"0xc12d1c73ee7dc3615ba4e37e4abfdbddfa38907e","decimals":8,"type":"ERC20"},
 {"name":"USDT","symbol":"USDT","address":"0xdac17f958d2ee523a2206206994597c13d831ec7","decimals":18,"type":"ERC20"},
 {"name":"Stox","symbol":"STX","address":"0x006bea43baa3f7a6f765f14f10a1a1b08334ef45","decimals":18,"type":"ERC20"},
