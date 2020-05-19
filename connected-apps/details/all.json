@@ -47,6 +47,8 @@
 ,
 {"name": "Web3Connect", "description":"Web3Connect is an easy-to-use library to help developers add support for multiple providers in their apps with a simple customizable configuration.", "url": "https://web3connect.com"}
 ,
+{"name": "Bamboo Relay", "description":"Trade, lend and borrow tokens directly from your wallet", "url": "https://bamboorelay.com/"}
+,
 {"name": "Emergency Shutdown Redemption", "description":"If MakerDAO triggers and Emergency Shutdown of MCD, this app can be used to automate the process of redeeming Dai for collateral, and swapping the collateral for USDC", "url": "https://emergency-shutdown-redemption.web.app"}
 ,
 {"name": "Jokersk 119", "description":"Testing purposes only", "url": "https://codeman.io"}
