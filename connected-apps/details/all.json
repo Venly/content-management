@@ -37,6 +37,8 @@
 ,
 {"name": "SafeWallet", "description":"An interface for the vechain blockchain", "url": "https://mysafewallet.io/"}
 ,
+{"name": "The Sandbox", "description":"The Sandbox is a virtual world where players can build, own, and monetize their own voxel gaming experiences on the Ethereum blockchain.", "url": "http://www.sandbox.game"}
+,
 {"name": "ThorBlock", "description":"The first communal funding turnkey solution on the VechainThor Blockchain", "url": "https://thorblock.io"}
 ,
 {"name": "Totle", "description":"Totle aggregates decentralized exchanges for easy access to all the top DEXs so users can get the best possible prices.", "url": "https://app.totle.com"}
