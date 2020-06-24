@@ -51,6 +51,8 @@
 ,
 {"name": "Bamboo Relay", "description":"Trade, lend and borrow tokens directly from your wallet", "url": "https://bamboorelay.com/"}
 ,
+{"name": "bountyblok", "description":"Powering third-party applications to create challenges and tasks that utilize gaming mechanics to motivate and promote user engagement.", "url": "https://bountyblok.io"}
+,
 {"name": "Emergency Shutdown Redemption", "description":"If MakerDAO triggers and Emergency Shutdown of MCD, this app can be used to automate the process of redeeming Dai for collateral, and swapping the collateral for USDC", "url": "https://emergency-shutdown-redemption.web.app"}
 ,
 {"name": "Jokersk 119", "description":"Testing purposes only", "url": "https://codeman.io"}
