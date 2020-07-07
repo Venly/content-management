@@ -37,6 +37,8 @@
 ,
 {"name": "MFCoinArk", "description":"Cryptocurrency of Freeland virtual state", "url": "https://wallet.mfcoin.su"}
 ,
+{"name": "Rabbids", "description":"Rabbids Tokens are like the Rabbids themselves: mischievous, unpredictable and elusive! They transform every time they get a new owner. Catching them is easy and for a good cause — you make a donation to UNICEF when you nab one from its owner!", "url": "https://rabbidstoken.ubisoft.com"}
+,
 {"name": "SafeWallet", "description":"An interface for the vechain blockchain", "url": "https://mysafewallet.io/"}
 ,
 {"name": "The Sandbox", "description":"The Sandbox is a virtual world where players can build, own, and monetize their own voxel gaming experiences on the Ethereum blockchain.", "url": "http://www.sandbox.game"}
