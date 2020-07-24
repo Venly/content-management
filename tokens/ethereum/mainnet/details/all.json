@@ -724,7 +724,7 @@
 {"name":"YUP","symbol":"YUP","address":"0xd9a12cde03a86e800496469858de8581d3a5353d","decimals":18,"type":"ERC20"},
 {"name":"cVToken","symbol":"cV","address":"0xda6cb58a0d0c01610a29c5a65c303e13e885887c","decimals":18,"type":"ERC20"},
 {"name":"BrokerNekoNetwork","symbol":"BNN","address":"0xda80b20038bdf968c7307bb5907a469482cf6251","decimals":8,"type":"ERC20"},
-{"name":"USDT","symbol":"USDT","address":"0xdac17f958d2ee523a2206206994597c13d831ec7","decimals":18,"type":"ERC20"}
+{"name":"USDT","symbol":"USDT","address":"0xdac17f958d2ee523a2206206994597c13d831ec7","decimals":6,"type":"ERC20"}
 ,
 {"name":"InterValue","symbol":"INVE","address":"0xdac4ae188ace3c8985765edc6c9b4739d4845ddc","decimals":18,"type":"ERC20"},
 {"name":"TokiaToken","symbol":"TKA","address":"0xdae1baf249964bc4b6ac98c3122f0e3e785fd279","decimals":18,"type":"ERC20"},
