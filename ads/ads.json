@@ -13,7 +13,7 @@
     "description": "News about Blockchain Games, Reviews, Game Lists.",
     "ctaText": "Start Reading!",
     "ctaLink": "https://egamers.io/?utm_source=arkane",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO",'MATIC']
   },
   {
     "icon": "ethermon.png",
@@ -21,7 +21,7 @@
     "description": "Become a trainer and discover the wonderfull world of Ethermon and it is Mons.",
     "ctaText": "gotta catch em all",
     "ctaLink": "https://ethermon.io/?utm_source=arkane",
-    "viewIn": ["ETHEREUM"]
+    "viewIn": ["ETHEREUM","MATIC"]
   },
   {
     "icon": "thesandbox.png",
@@ -29,7 +29,7 @@
     "description": "A community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain",
     "ctaText": "Join us Now!",
     "ctaLink": "https://www.sandbox.game/?utm_source=arkane",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   },
   {
     "icon": "arkane-network.png",
@@ -37,6 +37,6 @@
     "description": "Your advertisement here?",
     "ctaText": "Contact Us",
     "ctaLink": "https://arkane-network.typeform.com/to/nYda30",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   }
 ]
