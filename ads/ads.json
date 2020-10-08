@@ -26,8 +26,8 @@
   {
     "icon": "thesandbox.png",
     "name": "The Sandbox",
-    "description": "A community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain",
-    "ctaText": "Join us Now!",
+    "description": "Take your creative freedom to the next level & monetize it in",
+    "ctaText": "Create & Play!",
     "ctaLink": "https://www.sandbox.game/?utm_source=arkane",
     "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   },
