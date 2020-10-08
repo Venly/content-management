@@ -4,7 +4,7 @@
     "name": "Coin Stats",
     "description": "Crypto portfolio tracker, live prices and charts.",
     "ctaText": "Join Now!",
-    "ctaLink": "https://coinstats.app/?utm_source=arkane.network",
+    "ctaLink": "https://coinstats.app/?utm_source=arkane",
     "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN"]
   },
   {
@@ -12,7 +12,7 @@
     "name": "Egamers.io",
     "description": "News about Blockchain Games, Reviews, Game Lists.",
     "ctaText": "Start Reading!",
-    "ctaLink": "https://egamers.io/requests?utm_source=arkane.network",
+    "ctaLink": "https://egamers.io/?utm_source=arkane",
     "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
   },
   {
