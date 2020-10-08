@@ -18,7 +18,7 @@
   {
     "icon": "ethermon.png",
     "name": "Ethermon",
-    "description": "Become a trainer and discover the wonderfull world of Ethermon and it is Mons.",
+    "description": "Discover the wonderfull world of Ethermon and it is Mons.",
     "ctaText": "gotta catch em all",
     "ctaLink": "https://ethermon.io/?utm_source=arkane",
     "viewIn": ["ETHEREUM","MATIC"]
