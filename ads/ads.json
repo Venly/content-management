@@ -1,11 +1,11 @@
 [
   {
-    "icon": "coinstats.png",
-    "name": "Coin Stats",
-    "description": "Crypto portfolio tracker, live prices and charts.",
-    "ctaText": "Join Now!",
-    "ctaLink": "https://coinstats.app/?utm_source=arkane",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN"]
+    "icon": "bountyblok.png",
+    "name": "Bountyblok",
+    "description": "Gamification powered on the blockchain.",
+    "ctaText": "Request a demo",
+    "ctaLink": "https://bountyblok.io/?utm_source=arkane",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   },
   {
     "icon": "egamers.png",
