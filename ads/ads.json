@@ -13,7 +13,7 @@
     "description": "News about Blockchain Games, Reviews, Game Lists.",
     "ctaText": "Start Reading!",
     "ctaLink": "https://egamers.io/?utm_source=arkane",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO",'MATIC']
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   },
   {
     "icon": "ethermon.png",
