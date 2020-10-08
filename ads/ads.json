@@ -16,28 +16,20 @@
     "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
   },
   {
-    "icon": "gilded.png",
-    "name": "Gilded",
-    "description": "Crypto Accounting Made Simple.",
-    "ctaText": "Sign up now!",
-    "ctaLink": "https://gilded.finance",
+    "icon": "ethermon.png",
+    "name": "Ethermon",
+    "description": "Become a trainer and discover the wonderfull world of Ethermon and it is Mons.",
+    "ctaText": "gotta catch em all",
+    "ctaLink": "https://ethermon.io/?utm_source=arkane",
     "viewIn": ["ETHEREUM"]
   },
   {
-    "icon": "vexchange.png",
-    "name": "Vexchange",
-    "description": "Decentralized Exchange powered by VeChain.",
-    "ctaText": "Trade Now!",
-    "ctaLink": "http://vexchange.io",
-    "viewIn": ["VECHAIN"]
-  },
-  {
-    "icon": "kryptokrauts.png",
-    "name": "kryptokrauts",
-    "description": "Help us creating the best crypto-timeline ever!",
-    "ctaText": "Check it out!",
-    "ctaLink": "https://kryptokrauts.com/timeline",
-    "viewIn": ["AETERNITY"]
+    "icon": "thesandbox.png",
+    "name": "The Sandbox",
+    "description": "A community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain",
+    "ctaText": "Join us Now!",
+    "ctaLink": "https://www.sandbox.game/?utm_source=arkane",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
   },
   {
     "icon": "arkane-network.png",
