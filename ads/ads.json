@@ -1,43 +1,35 @@
 [
   {
-    "icon": "coinstats.png",
-    "name": "Coin Stats",
-    "description": "Crypto portfolio tracker, live prices and charts.",
-    "ctaText": "Join Now!",
-    "ctaLink": "https://coinstats.app/?utm_source=arkane.network",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN"]
+    "icon": "bountyblok.png",
+    "name": "Bountyblok",
+    "description": "Gamification powered on the blockchain.",
+    "ctaText": "Request a demo",
+    "ctaLink": "https://bountyblok.io/?utm_source=arkane",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   },
   {
     "icon": "egamers.png",
     "name": "Egamers.io",
     "description": "News about Blockchain Games, Reviews, Game Lists.",
     "ctaText": "Start Reading!",
-    "ctaLink": "https://egamers.io/requests?utm_source=arkane.network",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
+    "ctaLink": "https://egamers.io/?utm_source=arkane",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   },
   {
-    "icon": "gilded.png",
-    "name": "Gilded",
-    "description": "Crypto Accounting Made Simple.",
-    "ctaText": "Sign up now!",
-    "ctaLink": "https://gilded.finance",
-    "viewIn": ["ETHEREUM"]
+    "icon": "ethermon.png",
+    "name": "Ethermon",
+    "description": "Discover the wonderfull world of Ethermon and it is Mons.",
+    "ctaText": "gotta catch em all",
+    "ctaLink": "https://ethermon.io/?utm_source=arkane",
+    "viewIn": ["ETHEREUM","MATIC"]
   },
   {
-    "icon": "vexchange.png",
-    "name": "Vexchange",
-    "description": "Decentralized Exchange powered by VeChain.",
-    "ctaText": "Trade Now!",
-    "ctaLink": "http://vexchange.io",
-    "viewIn": ["VECHAIN"]
-  },
-  {
-    "icon": "kryptokrauts.png",
-    "name": "kryptokrauts",
-    "description": "Help us creating the best crypto-timeline ever!",
-    "ctaText": "Check it out!",
-    "ctaLink": "https://kryptokrauts.com/timeline",
-    "viewIn": ["AETERNITY"]
+    "icon": "thesandbox.png",
+    "name": "The Sandbox",
+    "description": "Take your creative freedom to the next level & monetize it in",
+    "ctaText": "Create & Play!",
+    "ctaLink": "https://www.sandbox.game/?utm_source=arkane",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   },
   {
     "icon": "arkane-network.png",
@@ -45,6 +37,6 @@
     "description": "Your advertisement here?",
     "ctaText": "Contact Us",
     "ctaLink": "https://arkane-network.typeform.com/to/nYda30",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO"]
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   }
 ]
