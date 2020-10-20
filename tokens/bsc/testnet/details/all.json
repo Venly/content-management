@@ -1,3 +1,17 @@
 [
-{"name":"Banana","symbol":"BNA","address":"0xA7cE868f6490186Ac57fA12174dF770672EC0950","decimals":18,"type":"BEP20"}
+{"name":"USDT Token","symbol":"USDT","address":"0x337610d27c682e347c9cd60bd4b3b107c9d34ddd","decimals":18,"type":"BEP20"}
+,
+{"name":"USDC Token","symbol":"USDC","address":"0x64544969ed7ebf5f083679233325356ebe738930","decimals":18,"type":"BEP20"}
+,
+{"name":"Bitcoin (Pegged)","symbol":"BTCB","address":"0x6ce8da28e2f864420840cf74474eff5fd80e65b8","decimals":18,"type":"BEP20"}
+,
+{"name":"Banana","symbol":"BNA","address":"0xa7ce868f6490186ac57fa12174df770672ec0950","decimals":18,"type":"BEP20"}
+,
+{"name":"XRP (Pegged)","symbol":"XRP","address":"0xa83575490d7df4e2f47b7d38ef351a2722ca45b9","decimals":18,"type":"BEP20"}
+,
+{"name":"Ethereum (Pegged)","symbol":"ETH","address":"0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378","decimals":18,"type":"BEP20"}
+,
+{"name":"DAI Token","symbol":"DAI","address":"0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867","decimals":18,"type":"BEP20"}
+,
+{"name":"Binance USD","symbol":"BUSD","address":"0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee","decimals":18,"type":"BEP20"}
 ]
