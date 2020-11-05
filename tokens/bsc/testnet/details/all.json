@@ -9,6 +9,8 @@
 ,
 {"name":"XRP (Pegged)","symbol":"XRP","address":"0xa83575490d7df4e2f47b7d38ef351a2722ca45b9","decimals":18,"type":"BEP20"}
 ,
+{"name":"Wrapped BNB","symbol":"WBNB","address":"0xae13d989dac2f0debff460ac112a837c89baa7cd","decimals":18,"type":"BEP20"}
+,
 {"name":"Ethereum (Pegged)","symbol":"ETH","address":"0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378","decimals":18,"type":"BEP20"}
 ,
 {"name":"DAI Token","symbol":"DAI","address":"0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867","decimals":18,"type":"BEP20"}
