@@ -1,5 +1,5 @@
 [
-{"name":"Uniswap V2","symbol":"UNI-V2","address":"0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74","decimals":18,"type":"ERC20"}  
+{"name":"Uniswap V2","symbol":"UNI-V2","address":"0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74","decimals":18,"type":"ERC20"},  
 {"name":"SAND","symbol":"SAND","address":"0x3845badade8e6dff049820680d1f14bd3903a5d0","decimals":18,"type":"ERC20"},
 {"name":"Proton","symbol":"XPR","address":"0xD7EFB00d12C2c13131FD319336Fdf952525dA2af","decimals":4,"type":"ERC20"},
 {"name":"IPSX","symbol":"IPSX","address":"0x001f0aa5da15585e5b2305dbab2bac425ea71007","decimals":18,"type":"ERC20"},
