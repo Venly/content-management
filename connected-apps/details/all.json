@@ -1,6 +1,7 @@
 [
-{"name": "0xGames", "description":"Blockchain Games", "url": "https://0x.games"}
-,
+{"name": "0xGames", "description":"Blockchain Games", "url": "https://0x.games"},
+{"name": "Pirates2048", "description":"Pirates 2048 is a browser based, multiplayer, retro-futuristic pirate ship battle game, with elements of action and strategy.", "url": "https://pirates2048.com"},
+{"name": "CryptoAssault", "description":"CryptoAssault is a massively multiplayer online war game (MMO). Users enter a huge 3D world with thousands of players. Moving in real-time to capture territory, mine resources, and battle other units.", "url": "https://cryptoassault.io/"},
 {"name": "ArkaneMarket", "description":"", "url": "https://arkane.market"}
 ,
 {"name": "Arketype", "description":"Sandbox application for showcasing Arkane integration", "url": "https://demo.arkane.network"}
