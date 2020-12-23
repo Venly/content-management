@@ -1,12 +1,17 @@
 [
-{"name": "0xGames", "description":"Blockchain Games", "url": "https://0x.games"},
-{"name": "Pirates2048", "description":"Pirates 2048 is a browser based, multiplayer, retro-futuristic pirate ship battle game, with elements of action and strategy.", "url": "https://pirates2048.com"},
-{"name": "CryptoAssault", "description":"CryptoAssault is a massively multiplayer online war game (MMO). Users enter a huge 3D world with thousands of players. Moving in real-time to capture territory, mine resources, and battle other units.", "url": "https://cryptoassault.io/"},
+{"name": "0xGames", "description":"Blockchain Games", "url": "https://0x.games"}
+,
+{"name": "Aavegotchi", "description":"Collect, compete, and combine your Aavegotchis for the ultimate gamified DeFi experience!", "url": "https://aavegotchi.com/"}
+,
+{"name": "Alethea", "description":"Alethea AI lets you generate AI-powered Avatars that can be featured in various types of digital media.", "url": "https://alethea.ai"}
+,
 {"name": "ArkaneMarket", "description":"", "url": "https://arkane.market"}
 ,
 {"name": "Arketype", "description":"Sandbox application for showcasing Arkane integration", "url": "https://demo.arkane.network"}
 ,
 {"name": "BattleRacers", "description":"Battle Racers is an action-packed arcade game where you build, race, and battle model cars on arcade-sized tracks.", "url": "https://battleracers.io"}
+,
+{"name": "BinanceBridge", "description":"Peg any Coin & Token on Binance Chains The safest, fastest and most secure way to bring cross-chain assets to Binance Chain and Binance Smart Chain.", "url": "https://www.binance.org/en/bridge"}
 ,
 {"name": "BitPal", "description":"BitPal enables merchants to accept payments for the sale of goods and services in Bitcoin, Aeternity, Ether, Dash, and EOS. The platform is targeting small, medium, and large businesses that operate online or physical stores.", "url": "https://bitpal.africa"}
 ,
@@ -16,6 +21,10 @@
 ,
 {"name": "CoinStats", "description":"Crypto portfolio tracker", "url": "https://coinstats.app"}
 ,
+{"name": "CommunityGaming", "description":"Community Gaming makes it easy for anyone to organize custom tournaments in less than 5 minutes. The platform facilitates Ethereum-powered payments that are automated, transparent, and require no blockchain knowledge to utilize.", "url": "https://communitygaming.io"}
+,
+{"name": "CryptoAssault", "description":"CryptoAssault is a massively multiplayer online war game (MMO). Users enter a huge 3D world with thousands of players. Moving in real-time to capture territory, mine resources, and battle other units.", "url": "https://cryptoassault.io/"}
+,
 {"name": "CryptoPick", "description":"A simple alternative to trade crypto.", "url": "https://cryptopick.net"}
 ,
 {"name": "Devoxx", "description":"Devoxx 2018 Demo application for showcasing a very basic wallet using Arkane Connect", "url": "http://localhost:4000"}
@@ -23,6 +32,8 @@
 {"name": "Diadem.Network", "description":"Cryptocurrency charity platform", "url": "https://diadem.network"}
 ,
 {"name": "Ethermon", "description":"Ethermon is a decentralized game where you can catch, train, transform digital Monsters and trade them for real values. In Ethermon, your assets are protected thanks to the blockchain technology, they fully belong to you and will never be taken away.", "url": "https://ethermon.io/"}
+,
+{"name": "FuegoHD", "description":"Mobile Blochain Games", "url": "https://fuegohd.games/"}
 ,
 {"name": "FundRequest", "description":"Harness the power of Open Source developers - Easy and secure way to request development bugfixes, security audits, ... to the Open Source developer community.", "url": "http://fundrequest.io"}
 ,
@@ -36,13 +47,25 @@
 ,
 {"name": "Huddln", "description":"The Huddl Staking App", "url": "https://localhost.com"}
 ,
+{"name": "2120", "description":"2120 is an art project by ICON. Virtual fashion items set in a futuristic world, one hundred years from now.", "url": "https://2120.vision/"}
+,
 {"name": "LLeon", "description":"Dapp development", "url": "https://snaz.pro:57880"}
 ,
 {"name": "MFCoinArk", "description":"Cryptocurrency of Freeland virtual state", "url": "https://wallet.mfcoin.su"}
 ,
+{"name": "Metiisto", "description":"Metiisto is a interactive digital works gallery. A decentralized platform for exposure, access and acquisition to interactive digital experiences on blockchain.", "url": "https://metiisto.art/"}
+,
+{"name": "OinkAR", "description":"An AR Pet Simulator featuring mysterious Pig-like creatures (Related to the "Crypt-Oink" Project).", "url": "https://urbanelectronicgames.com/"}
+,
+{"name": "OpenSea", "description":"A peer-to-peer marketplace for rare digital items and crypto collectibles. Buy, sell, auction, and discover CryptoKitties, Decentraland, Gods Unchained cards, ...", "url": "https://opensea.io"}
+,
+{"name": "Pirates2048", "description":"Pirates 2048 is a browser based, multiplayer, retro-futuristic pirate ship battle game, with elements of action and strategy.", "url": "https://pirates2048.com"}
+,
 {"name": "Rabbids", "description":"Rabbids Tokens are like the Rabbids themselves: mischievous, unpredictable and elusive! They transform every time they get a new owner. Catching them is easy and for a good cause — you make a donation to UNICEF when you nab one from its owner!", "url": "https://rabbidstoken.ubisoft.com"}
 ,
 {"name": "SafeWallet", "description":"An interface for the vechain blockchain", "url": "https://mysafewallet.io/"}
+,
+{"name": "Splinterlands", "description":"Splinterlands is an epic, multiplayer fantasy card game within which thousands of gamers battle every day with monsters in a fight for control of a chaotic world at war.", "url": "https://splinterlands.com"}
 ,
 {"name": "TheSandbox", "description":"The Sandbox is a virtual world where players can build, own, and monetize their own voxel gaming experiences on the Ethereum blockchain.", "url": "http://www.sandbox.game"}
 ,
@@ -55,6 +78,8 @@
 {"name": "Vexchange", "description":"The first decentralized exchange powered by the VeChainThor blockchain", "url": "https://vexchange.io"}
 ,
 {"name": "Web3Connect", "description":"Web3Connect is an easy-to-use library to help developers add support for multiple providers in their apps with a simple customizable configuration.", "url": "https://web3connect.com"}
+,
+{"name": "WolfRost", "description":"Wolf Rost playground", "url": "https:localhost:8080//"}
 ,
 {"name": "Bamboo Relay", "description":"Trade, lend and borrow tokens directly from your wallet", "url": "https://bamboorelay.com/"}
 ,
