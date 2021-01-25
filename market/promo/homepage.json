@@ -1,0 +1,48 @@
+{
+  "page": "home",
+  "promo_items": 
+  [
+    {
+      "id": 1,
+      "prd" : 1,
+      "name": "Battle Racers",
+      "logo": "https://google.com",
+      "backdrop": "https://google.com"
+    },
+    {
+      "id": 2,
+      "prd" : 0,
+      "name": "Blockchain cuties",
+      "logo": "https://google.com",
+      "backdrop": "https://google.com"
+    },
+    {
+      "id": 3,
+      "prd" : 0,
+      "name": "Aavegotchi",
+      "logo": "https://google.com",
+      "backdrop": "https://google.com"
+    },
+    {
+      "id": 4,
+      "prd": 0,
+      "name": "CryptoPick",
+      "logo": "https://google.com",
+      "backdrop": "https://google.com"
+    },
+    {
+      "id": 5,
+      "prd": 0,
+      "name": "AnRKeY X",
+      "logo": "https://google.com",
+      "backdrop": "https://google.com"
+    },
+    {
+      "id": 6,
+      "prd": 0,
+      "name": "IOI Games",
+      "logo": "https://google.com",
+      "backdrop": "https://google.com"
+    }
+  ]
+}
