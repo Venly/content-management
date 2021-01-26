@@ -4,42 +4,42 @@
   [
     {
       "id": 1,
-      "prd" : 1,
+      "enable_in_prd" : true,
       "name": "Battle Racers",
       "logo": "https://content.arkane.network/market/promo/img/Battle%20Racers%20logo.png",
       "backdrop": "https://content.arkane.network/market/promo/img/Battle%20racers.jpg"
     },
     {
       "id": 2,
-      "prd" : 0,
+      "enable_in_prd" : false,
       "name": "Blockchain cuties",
       "logo": "https://content.arkane.network/market/promo/img/Blockchain%20cuties%20logo.png",
       "backdrop": "https://content.arkane.network/market/promo/img/Blockchain%20cuties.jpeg"
     },
     {
       "id": 3,
-      "prd" : 0,
+      "enable_in_prd" : false,
       "name": "Aavegotchi",
       "logo": "https://content.arkane.network/market/promo/img/Aavegotchi%20logo.png",
       "backdrop": "https://content.arkane.network/market/promo/img/Aavegotchi.jpg"
     },
     {
       "id": 4,
-      "prd": 0,
+      "enable_in_prd": false,
       "name": "CryptoPick",
       "logo": "https://content.arkane.network/market/promo/img/Cryptopick%20logo.png",
       "backdrop": "https://content.arkane.network/market/promo/img/Cryptopick.png"
     },
     {
       "id": 5,
-      "prd": 0,
+      "enable_in_prd": false,
       "name": "AnRKeY X",
       "logo": "https://content.arkane.network/market/promo/img/logo-anrkeyx.png",
       "backdrop": "https://content.arkane.network/market/promo/img/AnRKey.png"
     },
     {
       "id": 6,
-      "prd": 0,
+      "enable_in_prd": false,
       "name": "IOI Games",
       "logo": "https://content.arkane.network/market/promo/img/ioi%20games%20logo.png",
       "backdrop": "https://content.arkane.network/market/promo/img/ioi-games.jpg"
