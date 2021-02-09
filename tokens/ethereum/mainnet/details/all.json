@@ -1,6 +1,6 @@
 [
 {"name":"Uniswap V2","symbol":"UNI-V2","address":"0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74","decimals":18,"type":"ERC20"},
-{"name":"Bounty Token","symbol":"BONDLY","address":"0xd2dda223b2617cb616c1580db421e4cfae6a8a85","decimals":18,"type":"ERC20"},  
+{"name":"Bondly Token","symbol":"BONDLY","address":"0xd2dda223b2617cb616c1580db421e4cfae6a8a85","decimals":18,"type":"ERC20"},  
 {"name":"AtariToken","symbol":"ATRI","address":"0xdacd69347de42babfaecd09dc88958378780fb62","decimals":0,"type":"ERC20"},
 {"name":"SAND","symbol":"SAND","address":"0x3845badade8e6dff049820680d1f14bd3903a5d0","decimals":18,"type":"ERC20"},
 {"name":"Proton","symbol":"XPR","address":"0xD7EFB00d12C2c13131FD319336Fdf952525dA2af","decimals":4,"type":"ERC20"},
