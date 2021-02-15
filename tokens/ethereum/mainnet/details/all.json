@@ -1,9 +1,4 @@
 [
-{"name":"Uniswap V2","symbol":"UNI-V2","address":"0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74","decimals":18,"type":"ERC20"},
-{"name":"Bondly Token","symbol":"BONDLY","address":"0xd2dda223b2617cb616c1580db421e4cfae6a8a85","decimals":18,"type":"ERC20"},  
-{"name":"AtariToken","symbol":"ATRI","address":"0xdacd69347de42babfaecd09dc88958378780fb62","decimals":0,"type":"ERC20"},
-{"name":"SAND","symbol":"SAND","address":"0x3845badade8e6dff049820680d1f14bd3903a5d0","decimals":18,"type":"ERC20"},
-{"name":"Proton","symbol":"XPR","address":"0xD7EFB00d12C2c13131FD319336Fdf952525dA2af","decimals":4,"type":"ERC20"},
 {"name":"IPSX","symbol":"IPSX","address":"0x001f0aa5da15585e5b2305dbab2bac425ea71007","decimals":18,"type":"ERC20"},
 {"name":"Stox","symbol":"STX","address":"0x006bea43baa3f7a6f765f14f10a1a1b08334ef45","decimals":18,"type":"ERC20"},
 {"name":"Knoxstertoken","symbol":"FKX","address":"0x009e864923b49263c7f10d19b7f8ab7a9a5aad33","decimals":18,"type":"ERC20"},
@@ -201,6 +196,8 @@
 {"name":"AidCoin","symbol":"AID","address":"0x37e8789bb9996cac9156cd5f5fd32599e6b91289","decimals":18,"type":"ERC20"},
 {"name":"SPHTX","symbol":"SPHTX","address":"0x3833dda0aeb6947b98ce454d89366cba8cc55528","decimals":18,"type":"ERC20"},
 {"name":"Bezop","symbol":"Bez","address":"0x3839d8ba312751aa0248fed6a8bacb84308e20ed","decimals":18,"type":"ERC20"},
+{"name":"SAND","symbol":"SAND","address":"0x3845badade8e6dff049820680d1f14bd3903a5d0","decimals":18,"type":"ERC20"}
+,
 {"name":"Embers","symbol":"EMB","address":"0x386467f1f3ddbe832448650418311a479eecfc57","decimals":0,"type":"ERC20"},
 {"name":"Theta Token","symbol":"THETA","address":"0x3883f5e181fccaf8410fa61e12b59bad963fb645","decimals":18,"type":"ERC20"},
 {"name":"Speed Mining Service","symbol":"SMS","address":"0x39013f961c378f02c2b82a6e1d31e9812786fd9d","decimals":3,"type":"ERC20"},
@@ -216,6 +213,8 @@
 {"name":"Dominion","symbol":"CORP2","address":"0x3e55cbaeaa14765536073c3967f0f990eb4d07f7","decimals":0,"type":"ERC20"}
 ,
 {"name":"CYBERFM","symbol":"CYFM","address":"0x3f06b5d78406cd97bdf10f5c420b241d32759c80","decimals":18,"type":"ERC20"},
+ {"name":"GHOST","symbol":"GHST","address":"0x3f382dbd960e3a9bbceae22651e88158d2791550","decimals":18,"type":"ERC20"}
+,
 {"name":"Rotharium","symbol":"RTH","address":"0x3fd8f39a962efda04956981c31ab89fab5fb8bc8","decimals":18,"type":"ERC20"},
 {"name":"MobileGo Token","symbol":"MGO","address":"0x40395044Ac3c0C57051906dA938B54BD6557F212","decimals":8,"type":"ERC20"},
 {"name":"Republic Token","symbol":"REN","address":"0x408e41876cccdc0f92210600ef50372656052a38","decimals":18,"type":"ERC20"},
@@ -565,6 +564,7 @@
 {"name":"Hive Project Token","symbol":"HVN","address":"0xC0Eb85285d83217CD7c891702bcbC0FC401E2D9D","decimals":8,"type":"ERC20"},
 {"name":"aXpire","symbol":"AXPR","address":"0xC39E626A04C5971D770e319760D7926502975e47","decimals":18,"type":"ERC20"},
 {"name":"Soarcoin","symbol":"Soar","address":"0xD65960FAcb8E4a2dFcb2C2212cb2e44a02e2a57E","decimals":6,"type":"ERC20"},
+{"name":"Proton","symbol":"XPR","address":"0xD7EFB00d12C2c13131FD319336Fdf952525dA2af","decimals":4,"type":"ERC20"},
 {"name":"Pluton","symbol":"PLU","address":"0xD8912C10681D8B21Fd3742244f44658dBA12264E","decimals":18,"type":"ERC20"},
 {"name":"BOB Token","symbol":"BOB","address":"0xDF347911910b6c9A4286bA8E2EE5ea4a39eB2134","decimals":18,"type":"ERC20"},
 {"name":"Forge","symbol":"CORP0","address":"0xde56eaf3d5a683a386ad9249eb9ea2bc622aae8d","decimals":0,"type":"ERC20"}
@@ -709,6 +709,8 @@
 {"name":"OMGToken","symbol":"OMG","address":"0xd26114cd6EE289AccF82350c8d8487fedB8A0C07","decimals":18,"type":"ERC20"},
 {"name":"Vikky Token","symbol":"VIKKY","address":"0xd2946be786f35c3cc402c29b323647abda799071","decimals":8,"type":"ERC20"},
 {"name":"Bounty0x Token","symbol":"BNTY","address":"0xd2d6158683aee4cc838067727209a0aaf4359de3","decimals":18,"type":"ERC20"},
+{"name":"Bondly Token","symbol":"BONDLY","address":"0xd2dda223b2617cb616c1580db421e4cfae6a8a85","decimals":18,"type":"ERC20"}
+,
 {"name":"Origami Network","symbol":"ORI","address":"0xd2fa8f92ea72abb35dbd6deca57173d22db2ba49","decimals":18,"type":"ERC20"},
 {"name":"onG","symbol":"ONG","address":"0xd341d1680eeee3255b8c4c75bcce7eb57f144dae","decimals":18,"type":"ERC20"},
 {"name":"WILD Token","symbol":"WILD","address":"0xd3c00772b24d997a812249ca637a921e81357701","decimals":18,"type":"ERC20"},
@@ -732,6 +734,8 @@
 {"name":"USDT","symbol":"USDT","address":"0xdac17f958d2ee523a2206206994597c13d831ec7","decimals":6,"type":"ERC20"}
 ,
 {"name":"InterValue","symbol":"INVE","address":"0xdac4ae188ace3c8985765edc6c9b4739d4845ddc","decimals":18,"type":"ERC20"},
+{"name":"AtariToken","symbol":"ATRI","address":"0xdacd69347de42babfaecd09dc88958378780fb62","decimals":0,"type":"ERC20"}
+,
 {"name":"TokiaToken","symbol":"TKA","address":"0xdae1baf249964bc4b6ac98c3122f0e3e785fd279","decimals":18,"type":"ERC20"},
 {"name":"STASIS EURS Token","symbol":"EURS","address":"0xdb25f211ab05b1c97d595516f45794528a807ad8","decimals":2,"type":"ERC20"},
 {"name":"Jury.Online Token","symbol":"JOT","address":"0xdb455c71c1bc2de4e80ca451184041ef32054001","decimals":18,"type":"ERC20"},
