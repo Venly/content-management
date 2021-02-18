@@ -2,7 +2,7 @@
 	"page": "home",
 	"promoItems": [{
 			"id": 1,
-			"environments": ["qa", "staging", "prod"],
+			"environments": ["qa", "staging", "production"],
 			"name": "Battle Racers",
 			"logo": "https://content.arkane.network/market/promo/img/Battle%20Racers%20logo.png",
 			"backdrop": "https://content.arkane.network/market/promo/img/Battle%20racers.jpg"
