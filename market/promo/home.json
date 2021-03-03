@@ -2,45 +2,52 @@
 	"page": "home",
 	"promoItems": [{
 			"id": 1,
-			"environments": ["qa", "staging", "production"],
+			"environments": ["qa"],
 			"name": "Battle Racers",
 			"logo": "https://content.arkane.network/market/promo/img/Battle%20Racers%20logo.png",
 			"backdrop": "https://content.arkane.network/market/promo/img/Battle%20racers.jpg"
 		},
 		{
 			"id": 2,
-			"environments": ["qa", "staging"],
+			"environments": ["qa"],
 			"name": "Blockchain cuties",
 			"logo": "https://content.arkane.network/market/promo/img/Blockchain%20cuties%20logo.png",
 			"backdrop": "https://content.arkane.network/market/promo/img/Blockchain%20cuties.jpeg"
 		},
 		{
 			"id": 3,
-			"environments": ["qa", "staging"],
+			"environments": ["qa"],
 			"name": "Aavegotchi",
 			"logo": "https://content.arkane.network/market/promo/img/Aavegotchi%20logo.png",
 			"backdrop": "https://content.arkane.network/market/promo/img/Aavegotchi.jpg"
 		},
 		{
 			"id": 4,
-			"environments": ["qa", "staging"],
+			"environments": ["qa"],
 			"name": "CryptoPick",
 			"logo": "https://content.arkane.network/market/promo/img/Cryptopick%20logo.png",
 			"backdrop": "https://content.arkane.network/market/promo/img/Cryptopick.png"
 		},
 		{
 			"id": 5,
-			"environments": ["qa", "staging"],
+			"environments": ["qa"],
 			"name": "AnRKeY X",
 			"logo": "https://content.arkane.network/market/promo/img/logo-anrkeyx.png",
 			"backdrop": "https://content.arkane.network/market/promo/img/AnRKey.png"
 		},
 		{
 			"id": 6,
-			"environments": ["qa", "staging"],
+			"environments": ["qa"],
 			"name": "IOI Games",
 			"logo": "https://content.arkane.network/market/promo/img/ioi%20games%20logo.png",
 			"backdrop": "https://content.arkane.network/market/promo/img/ioi-games.jpg"
-		}
+		},
+                {
+                        "id": 7,
+                        "environments": ["qa", "staging","production"],
+                        "name": "Bondly",
+                        "logo": "https://assets.coingecko.com/coins/images/13322/large/logomark.png?1607474416",
+                        "backdrop": "https://content.arkane.network/market/promo/img/bondly-logan.png"
+                }
 	]
 }
