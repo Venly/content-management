@@ -2,13 +2,13 @@
     {
         "from": {
             "secretType": "ETHEREUM",
-            "symbol": "DAI",
-            "tokenAddress": "0x6b175474e89094c44da98b954eedeac495271d0f"
+            "symbol": "1INCH",
+            "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
         },
         "to": {
             "secretType": "ETHEREUM",
-            "symbol": "1INCH",
-            "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
+            "symbol": "ETH",
+            "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
         }
     },
     {
@@ -19,6 +19,30 @@
         },
         "to": {
             "secretType": "ETHEREUM",
+            "symbol": "1INCH",
+            "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
+        }
+    },
+    {
+        "from": {
+            "secretType": "BSC",
+            "symbol": "1INCH",
+            "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
+        },
+        "to": {
+            "secretType": "BSC",
+            "symbol": "ETH",
+            "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+        }
+    },
+    {
+        "from": {
+            "secretType": "BSC",
+            "symbol": "ETH",
+            "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+        },
+        "to": {
+            "secretType": "BSC",
             "symbol": "1INCH",
             "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
         }
