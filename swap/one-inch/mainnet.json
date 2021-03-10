@@ -31,14 +31,14 @@
         },
         "to": {
             "secretType": "BSC",
-            "symbol": "ETH",
+            "symbol": "BNB",
             "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
         }
     },
     {
         "from": {
             "secretType": "BSC",
-            "symbol": "ETH",
+            "symbol": "BNB",
             "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
         },
         "to": {
