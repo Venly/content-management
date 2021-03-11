@@ -16,7 +16,7 @@
         "symbol": "",
         "url": "https:\/\/www.youtube.com\/channel\/UCG8rbF3g2AMX70yOd8vqIZg",
         "imageUrl": "https:\/\/raw.githubusercontent.com\/ArkaneNetwork\/content-management\/master\/img\/arkane.market\/logal_paul_profile.png",
-        "media": [{"type":"youtube","value":"https:\/\/www.youtube.com\/embed\/1dFgZwpeokk"}],
+        "media": "https:\/\/www.youtube.com\/embed\/1dFgZwpeokk",
         "type": ""
     }
 ]
