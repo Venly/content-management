@@ -1,9 +1,4 @@
 [
-  {
-    "name": "TurboWallet Tokens",
-    "symbol": "TURBO",
-    "address": "0x37C93A80b5702A820CbC3050f0e9eC48a1D5e738",
-    "decimals": 18,
-    "type": "GO20"
-  }
+  {"name": "TurboWallet Tokens", "symbol": "TURBO", "address": "0x37C93A80b5702A820CbC3050f0e9eC48a1D5e738", "decimals": 18, "type": "GO20"},
+  {"name": "OMI Token","symbol": "OMI","address": "0x5347fdea6aa4d7770b31734408da6d34a8a07bdf","decimals": 18,"type": "GO20"}
 ]
