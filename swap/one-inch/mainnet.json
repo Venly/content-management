@@ -1054,4 +1054,48 @@
 		"symbol": "USDT",
 		"tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
 	}
+}, {
+        "from": {
+                "secretType": "ETHEREUM",
+                "symbol": "PYR",
+                "tokenAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+        },
+        "to": {
+                "secretType": "ETHEREUM",
+                "symbol": "USDT",
+                "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        }
+}, {
+        "from": {
+                "secretType": "ETHEREUM",
+                "symbol": "PYR",
+                "tokenAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+        },
+        "to": {
+                "secretType": "ETHEREUM",
+                "symbol": "ETH",
+                "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+        }
+}, {
+        "from": {
+                "secretType": "ETHEREUM",
+                "symbol": "USDT",
+                "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        },
+        "to": {
+                "secretType": "ETHEREUM",
+                "symbol": "PYR",
+                "tokenAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+        }
+}, {
+        "from": {
+                "secretType": "ETHEREUM",
+                "symbol": "ETH",
+                "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+        },
+        "to": {
+                "secretType": "ETHEREUM",
+                "symbol": "PYR",
+                "tokenAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+        }
 }]
