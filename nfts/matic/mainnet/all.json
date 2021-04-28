@@ -1,4 +1,19 @@
-[{
+[	{
+		"name": "Puzzle in a Bag",
+		"description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
+		"address": "0xf81e107ff398043c1faec02e684960a8007ff145",
+		"symbol": "PIAB",
+		"url": "https://www.puzzleinabag.com/",
+		"imageUrl": "https://img.arkane.network/marketing/PIAB/logo.png",
+		"media": "https://img.arkane.network/marketing/PIAB/banner.png",
+		"type": "ERC_1155",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"Collectibles",
+			"Digital Art"
+		]
+	},	{
 		"name": "Market Discounts",
 		"description": "Special collection of NFTs that can be redeemed for credits in the Arkane Market. Don't know how to redeem? Just contact us via the support chat.",
 		"address": "0xe845833d4d9e85a13ff7a2c04ad48fbaa4e0f667",
