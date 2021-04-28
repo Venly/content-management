@@ -18,5 +18,15 @@
         "imageUrl": "https:\/\/raw.githubusercontent.com\/ArkaneNetwork\/content-management\/master\/img\/arkane.market\/logal_paul_profile.png",
         "media": "https:\/\/www.youtube.com\/embed\/1dFgZwpeokk",
         "type": ""
+    },
+    {
+        "name": "Digimon",
+        "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
+        "verified": true,
+        "premium": true,
+        "categories": [
+			"Collectibles",
+			"Game Items"
+		]
     }
 ]
