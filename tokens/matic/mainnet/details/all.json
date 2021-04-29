@@ -1,4 +1,6 @@
 [
 {"name":"GHOST","symbol":"GHST","address":"0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7","decimals":18,"type":"ERC20"},
-{"name":"PYR Token","symbol":"PYR","address":"0x348e62131fce2f4e0d5ead3fe1719bc039b380a9","decimals":18,"type":"ERC20"}
+{"name":"PYR Token","symbol":"PYR","address":"0x348e62131fce2f4e0d5ead3fe1719bc039b380a9","decimals":18,"type":"ERC20"},
+{"name":"Ethermon Token","symbol":"EMON","address":"0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a","decimals":18,"type":"ERC20"},
+{"name":"Wrapped Ether","symbol":"wETH","address":"0x7ceb23fd6bc0add59e62ac25578270cff1b9f619","decimals":18,"type":"ERC20"} 
 ]
