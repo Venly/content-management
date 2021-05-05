@@ -78,8 +78,7 @@
 {"name":"Paxos Standard","symbol":"PAX","address":"0xb7f8cd00c5a06c0537e2abff0b58033d02e5e094","decimals":18,"type":"BEP20"},
 {"name":"Phoswap","symbol":"PHO","address":"0xb9784c1633ef3b839563b988c323798634714368","decimals":8,"type":"BEP20"},
 {"name":"Dogecoin","symbol":"DOGE","address":"0xba2ae424d960c26247dd6c32edc70b295c744c43","decimals":8,"type":"BEP20"},
-{"name":"Wrapped BNB","symbol":"WBNB","address":"0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c","decimals":18,"type":"BEP20"}
-,
+{"name":"Wrapped BNB","symbol":"WBNB","address":"0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c","decimals":18,"type":"BEP20"},
 {"name":"Uniswap","symbol":"UNI","address":"0xbf5140a22578168fd562dccf235e5d43a02ce9b1","decimals":18,"type":"BEP20"},
 {"name":"Bunny Token","symbol":"BUNNY","address":"0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51","decimals":18,"type":"BEP20"},
 {"name":"Token Club","symbol":"TCT","address":"0xca0a9df6a8cad800046c1ddc5755810718b65c44","decimals":18,"type":"BEP20"},
@@ -105,4 +104,5 @@
 {"name":"ChainLink Token","symbol":"LINK","address":"0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd","decimals":18,"type":"BEP20"},
 {"name":"Venus FIL","symbol":"vFIL","address":"0xf91d58b5ae142dacc749f58a49fcbac340cb0343","decimals":8,"type":"BEP20"},
 {"name":"Venus USDT","symbol":"vUSDT","address":"0xfd5840cd36d94d7229439859c0112a4185bc0255","decimals":8,"type":"BEP20"},
-{"name":"Ontology Token","symbol":"ONT","address":"0xfd7b3a77848f1c2d67e05e54d78d174a0c850335","decimals":18,"type":"BEP20"}]
+{"name":"Ontology Token","symbol":"ONT","address":"0xfd7b3a77848f1c2d67e05e54d78d174a0c850335","decimals":18,"type":"BEP20"},
+{"name":"BSIT Token","symbol":"BSIT","address":"0x5620df01076cdc1ad6a0d8e8d9a99d72f1cfb04c","decimals":4,"type":"BEP20"}]
