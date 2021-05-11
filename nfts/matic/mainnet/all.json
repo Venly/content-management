@@ -1,4 +1,19 @@
 [	{
+		"name": "Ethermon",
+		"description": "Circa 2017, Ethermon was the very first blockchain battle game on Ethereum. Fast forward to present, Ethermon NFT collectors can now take their Ethermon to explore in the world famous decentralized 3D world (Decentraland) and challenging other players on battle ladders on the classic website Ethermon.io. Now also on Matic Polygon, Players can continue to use their old and new ethermon to join forces and continue their journey with one of the earliest and prestigious blockchain collectable assets.",
+		"address": "0x9928A8ea82d86290DfD1920E126B3872890525b3",
+		"symbol": "EMONS",
+		"url": "http://ethermon.io",
+		"imageUrl": "https://img.arkane.network/marketing/Ethermon/logo.png",
+		"media": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
+		"type": "ERC_1155",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"Collectibles",
+			"Game Items"
+		]
+	},{
 		"name": "Puzzle in a Bag",
 		"description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
 		"address": "0xf81e107ff398043c1faec02e684960a8007ff145",
