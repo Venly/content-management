@@ -1,4 +1,5 @@
 [
+{"name":"SAFEMOON","symbol":"SAFEMOON","address":"0x8076c74c5e3f5852037f31ff0093eeb8c8add8d3","decimals":9,"type":"BEP20"},
 {"name":"CanYaCoin","symbol":"CAN","address":"0x007ea5c0ea75a8df45d288a4debdd5bb633f9e56","decimals":18,"type":"BEP20"},
 {"name":"StableX Token","symbol":"STAX","address":"0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4","decimals":18,"type":"BEP20"},
 {"name":"PancakeSwap Token","symbol":"Cake","address":"0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82","decimals":18,"type":"BEP20"},
