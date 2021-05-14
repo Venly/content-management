@@ -6,7 +6,7 @@
 		"url": "http://ethermon.io",
 		"imageUrl": "https://img.arkane.network/marketing/Ethermon/logo.png",
 		"media": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
-		"type": "ERC_1155",
+		"type": "ERC_721",
 		"verified": "true",
 		"premium": "true",
 		"categories": [
