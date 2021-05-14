@@ -28,5 +28,14 @@
 			"Collectibles",
 			"Game Items"
 		]
+    },
+    {
+        "name": "Gaimin",
+        "address": "0x475a04288882a8e200bbd34489dcda38035dde26",
+        "verified": true,
+        "premium": true,
+        "categories": [
+			"Game Items"
+		]
     }
 ]
