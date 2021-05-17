@@ -71,9 +71,9 @@
 		"type": "",
 		"verified": "true",
 		"premium": "false",
-		"categories": [{
-			"type": "Digital Art"
-		}]
+		"categories": [
+			"Digital Art"
+		]
 	},
 	{
 		"name": "Logan Paul Digital Collectibles",
