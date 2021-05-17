@@ -101,6 +101,12 @@
   "decimals" : 18,
   "type" : "ERC20"
 }, {
+  "name" : "Bsit Token (PoS)",
+  "symbol" : "BSIT",
+  "address" : "0x5e765e58A4d15262123a8Db42a31c8BA99Ae48ab",
+  "decimals" : 4,
+  "type" : "ERC20"
+}, {
   "name" : "BTU Protocol (PoS)",
   "symbol" : "BTU",
   "address" : "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
