@@ -25,8 +25,8 @@
         "verified": true,
         "premium": true,
         "categories": [
-			"Collectibles",
-			"Game Items"
+			"collectibles",
+			"game_items"
 		]
     },
     {
@@ -35,7 +35,7 @@
         "verified": true,
         "premium": true,
         "categories": [
-			"Game Items"
+			"game_items"
 		]
     }
 ]
