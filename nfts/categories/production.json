@@ -6,7 +6,7 @@
 		"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg",
 		"cta_text": "Explore items",
 		"cta_link": "https://arkane.market/search?contractName=CryptoPick",
-    "background": "primary"
+    "style": "primary"
 	},{
  		"id": 2, 
     "name": "game_items",
@@ -15,7 +15,7 @@
 		"banner": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
 		"cta_text": "Catch em all",
 		"cta_link": "https://arkane.market/search?contractName=Ethermon",
-    "background": "primary"
+    "style": "primary"
 	}, {
  		"id": 1, 
     "name": "digital_art",
@@ -24,7 +24,7 @@
 		"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
 		"cta_text": "Explore items",
 		"cta_link": "https://arkane.market/search?contractName=Polygon%20NFT%20Minter",
-    "background": "dark"
+    "style": "dark"
 	},{
  		"id": 0, 
  		"name": "all",
@@ -33,6 +33,6 @@
 		"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
 		"cta_text": " Explore items",
 		"cta_link": "https://arkane.market/search?contractName=Neon%20District",
-    "background": "dark"
+    "style": "dark"
 	}
 ]
