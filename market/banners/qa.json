@@ -1,38 +1,44 @@
-[	{
- 		"id": 3, 
-    "name": "collectibles",
-		"displayName": "Collectibles",
-    "tagline": "Logan Paul: Experience the largest box break in history",
-		"banner": "https://api.maverickchamp.com/images/GOLD.gif",
-		"ctaText": "Explore items",
-		"ctaLink": "https://qa.arkane.market/search?contractName=Logan%20Paul%20Digital%20Collectibles",
-    "style": "dark"
-	},{
- 		"id": 2, 
-    "name": "game_items",
-		"displayName": "Game Items",
-    "tagline": "Digimon: Gotta catch em all",
-		"banner": "https://fr.web.img6.acsta.net/newsv7/20/04/06/16/05/1848858.jpg",
-		"ctaText": "Catch em all",
-		"ctaLink": "https://qa.arkane.market/search?contractName=Digimon",
-    "style": "primary"
-	}, {
- 		"id": 1, 
-    "name": "digital_art",
-		"displayName": "Digital Art",
-    "tagline": "Discover the crazyness : Space Chickens",
-		"banner": "https://dg31sz3gwrwan.cloudfront.net/fanart/355763/1357791-0-q80.jpg",
-		"ctaText": "Explore items",
-		"ctaLink": "https://qa.arkane.market/search?contractName=Space%20Chickens",
-    "style": "dark"
-	},{
- 		"id": 0, 
- 		"name": "all",
-    "displayName": "All",
-    "tagline": "Neon District: Exclusive new items added",
-		"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
-		"ctaText": " Explore items",
-		"ctaLink": "https://qa.arkane.market/search?contractName=Neon%20District%20Season%20One%20Item",
-    "style": "dark"
-	}
-]
+{
+  "banners": [
+    {
+      "category": "collectibles",
+      "tagline": "Logan Paul: Experience the largest box break in history",
+      "banner": "https://api.maverickchamp.com/images/GOLD.gif",
+      "style": "dark",
+      "cta": {
+        "text": "Explore items",
+        "link": "https://qa.arkane.market/search?contractName=Logan%20Paul%20Digital%20Collectibles"
+      }
+    },
+    {
+      "category": "game_items",
+      "tagline": "Digimon: Gotta catch em all",
+      "banner": "https://fr.web.img6.acsta.net/newsv7/20/04/06/16/05/1848858.jpg",
+      "style": "primary",
+      "cta": {
+        "text": "Catch em all",
+        "link": "https://qa.arkane.market/search?contractName=Digimon"
+      }
+    },
+    {
+      "category": "digital_art",
+      "tagline": "Discover the crazyness : Space Chickens",
+      "banner": "https://dg31sz3gwrwan.cloudfront.net/fanart/355763/1357791-0-q80.jpg",
+      "style": "primary",
+      "cta": {
+        "text": "Explore items",
+        "link": "https://qa.arkane.market/search?contractName=Space%20Chickens"
+      }
+    },
+    {
+      "category": "all",
+      "tagline": "Neon District: Exclusive new items added",
+      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
+      "style": "dark",
+      "cta": {
+        "text": "Explore items",
+        "link": "https://qa.arkane.market/search?contractName=Neon%20District%20Season%20One%20Item"
+      }
+    }
+  ]
+}
