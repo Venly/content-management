@@ -5320,4 +5320,10 @@
   "address" : "0x08d32b0da63e2C3bcF8019c9c5d849d7a9d791e6",
   "decimals" : 0,
   "type" : "ERC20"
+}, {
+  "name" : "renDOGE",
+  "symbol" : "renDOGE",
+  "address" : "0x3832d2f059e55934220881f831be501d180671a7",
+  "decimals" : 8,
+  "type" : "ERC20"
 } ]
