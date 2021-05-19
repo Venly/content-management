@@ -389,12 +389,6 @@
   "decimals" : 18,
   "type" : "ERC20"
 }, {
-  "name" : "Matic Token",
-  "symbol" : "MATIC",
-  "address" : "0x0000000000000000000000000000000000001010",
-  "decimals" : 18,
-  "type" : "ERC20"
-}, {
   "name" : "Matic Aave interest bearing TUSD",
   "symbol" : "maTUSD",
   "address" : "0xF4b8888427b00d7caf21654408B7CBA2eCf4EbD9",
