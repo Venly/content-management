@@ -1,38 +1,45 @@
-[	{
- 		"id": 3, 
-    "name": "collectibles",
-		"displayName": "Collectibles",
-    "tagline": "CryptoPick: Start increasing your Claw Power",
-		"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg",
-		"ctaText": "Explore items",
-		"ctaLink": "https://arkane.market/search?contractName=CryptoPick",
-    "style": "primary"
-	},{
- 		"id": 2, 
-    "name": "game_items",
-		"displayName": "Game Items",
-    "tagline": "Ethermon: Gotta catch em all",
-		"banner": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
-		"ctaText": "Catch em all",
-		"ctaLink": "https://arkane.market/search?contractName=Ethermon",
-    "style": "primary"
-	}, {
- 		"id": 1, 
-    "name": "digital_art",
-		"displayName": "Digital Art",
-    "tagline": "HIDDRA Art: Exclusiveling availble",
-		"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
-		"ctaText": "Explore items",
-		"ctaLink": "https://arkane.market/search?contractName=Polygon%20NFT%20Minter",
-    "style": "dark"
-	},{
- 		"id": 0, 
- 		"name": "all",
-    "displayName": "All",
-    "tagline": "Neon District: Exclusive new items added",
-		"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
-		"ctaText": " Explore items",
-		"ctaLink": "https://arkane.market/search?contractName=Neon%20District",
-    "style": "dark"
-	}
-]
+{
+  "banners": [
+    {
+      "category": "collectibles",
+      "tagline": "CryptoPick: Start increasing your Claw Power",
+      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg",
+      "style": "dark",
+      "cta": {
+        "text": "Explore items",
+        "link": "https://arkane.market/search?contractName=CryptoPick"
+      }
+    },
+    {
+      "category": "game_items",
+      "tagline": "Ethermon: Gotta catch em all",
+      "banner": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
+      "style": "primary",
+      "cta": {
+        "text": "Catch em all",
+        "link": "https://arkane.market/search?contractName=Ethermon"
+      }
+    },
+    {
+      "category": "digital_art",
+      "tagline": "HIDDRA Art: Exclusiveling availble",
+      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
+      "style": "dark",
+      "cta": {
+        "text": "Explore items",
+        "link": "https://arkane.market/search?contractName=Polygon%20NFT%20Minter"
+      }
+    },
+    {
+      "category": "all",
+      "tagline": "Neon District: Exclusive new items added",
+      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
+      "style": "dark",
+      "cta": {
+        "text": "Explore items",
+        "link": "https://arkane.market/search?contractName=Neon%20District"
+      }
+    }
+  ]
+}
+	  
