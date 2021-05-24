@@ -212,5 +212,21 @@
 		"categories": [
 			"digital_art"
 		]
+	} ,
+	{
+		"name": "TaaviLehtonenArt",
+		"description": "Taavi Lehtonen is an artist who uses traditional methods and makes his art available on Ethereum. The owner of the NFT token owns the original painting. No computer generated art!",
+		"address": "0x73c9d0e2215cae6b25238927e9c29eb31a51519b",
+		"symbol": "TAAVI",
+		"url": "https://taavilehtonen.com",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d6ea3397-7688-4b88-b2e2-63b7b25756f5",
+		"media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/444ac120-b4e2-49f1-837d-21124ba5d248",
+		"type": "",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"digital_art"
+		]
 	}
+
 ]
