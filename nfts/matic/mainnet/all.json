@@ -227,6 +227,15 @@
 		"categories": [
 			"digital_art"
 		]
+	},
+	{
+		"name": "Big Fat Sexy Collectible Card Experience",
+		"address": "0x53ac5ed41bfe023c8b0ee5c80380d19756af7df9",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
 	}
 
 ]
