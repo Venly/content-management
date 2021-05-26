@@ -17,7 +17,11 @@
         "url": "https:\/\/www.youtube.com\/channel\/UCG8rbF3g2AMX70yOd8vqIZg",
         "imageUrl": "https:\/\/raw.githubusercontent.com\/ArkaneNetwork\/content-management\/master\/img\/arkane.market\/logal_paul_profile.png",
         "media": "https:\/\/www.youtube.com\/embed\/1dFgZwpeokk",
-        "type": ""
+        "verified": false,
+        "premium": false,
+        "categories": [
+			"collectibles"
+		]
     },
     {
         "name": "Digimon",
@@ -27,15 +31,6 @@
         "categories": [
 			"collectibles",
 			"game_items"
-		]
-    },
-    {
-        "name": "Logan Paul Digital Collectibles",
-        "address": "0x12348ceef9eda580f4dd7191a93bbce5e16d9182",
-        "verified": false,
-        "premium": false,
-        "categories": [
-			"collectibles"
 		]
     },
     {
@@ -47,17 +42,6 @@
 			"collectibles"
 		]
     },
-    {
-        "name": "Digimon",
-        "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
-        "verified": true,
-        "premium": true,
-        "categories": [
-			"collectibles",
-			"game_items"
-		]
-    },
-
     {
         "name": "MoCDA Exhibitions",
         "address": "0x7e2e2d4fd68bb4100100fc26803e58368ff8881c",
