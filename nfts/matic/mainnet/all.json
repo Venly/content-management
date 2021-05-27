@@ -10,7 +10,6 @@
 		"verified": "true",
 		"premium": "true",
 		"categories": [
-			"collectibles",
 			"game_items"
 		]
 	},{
@@ -236,6 +235,96 @@
 		"categories": [
 			"collectibles"
 		]
+	},
+	{
+		"name": "MoCDA Exhibitions",
+		"address": "0x6af28284fe73e8d72e8dcc042fa0b0b0c9d17892",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"digital_art"
+		]
+	},
+ 	{
+		"name": "Open NFTs",
+		"address": "0xbeaab0f00d236862527dcf5a88df3ced043ab253",
+		"verified": "false",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+	},
+ 	{
+		"name": "MARBLE-NFT",
+		"address": "0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+	},
+ 	{
+		"name": "Indelible Ink",
+		"address": "0x25a4aa94bf19ff9867ace23dc31a5be908d2348d",
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"collectibles"
+		]
+	},
+ 	{
+		"name": "Coin Artist 50K",
+		"address": "0x4ec174ce35acad1cd9b3be80a638b1feec76ee07",
+		"verified": "false",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+	},
+ 	{
+		"name": "WiV Wine",
+		"address": "0xfc5be93dd225359b614236ee2262a6c02a1095c2",
+		"description": "WiV makes it easier for producers and merchants to offer their wares, distributors to know where specific bottles are, and buyers to understand the provenance of what they are buying. WiV is working with producers to tokenize entire vintages of investment-grade wine, significantly increasing the volume of wine assets on the platform and ensuring this wine has a digital record of its provenance from the moment that it is bottled.",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
+	},
+ 	{
+		"name": "6ix9ine Digital Collection",
+		"address": "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726",
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"collectibles"
+		]
+	},
+ 	{
+		"name": "ASSET",
+		"address": "0x1e9dc2903cf07a047ebddb28b14174ea3a86a775",
+		"verified": "false",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+	},
+ 	{
+		"name": "Digivatar - Profanity Paraffins Collection",
+		"address": "0xeb3d94bd0e71dba1826925f36634bc93d94f0310",
+		"verified": "false",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+	},
+ 	{
+		"name": "EETHs",
+		"address": "0xfa781ed91fba381f73c477327641242ce55fab5b",
+		"verified": "false",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
 	}
-
-]
+ ]
