@@ -12,7 +12,21 @@
 		"categories": [
 			"game_items"
 		]
-	},{
+	},
+       {
+		"name": "Ember Sword",
+		"description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
+		"address": "0xE7e16f2Da731265778f87cB8D7850E31b84b7b86",
+		"url": "https://embersword.com/",
+		"imageUrl": "https://img.arkane.network/marketing/EmberSword/ember_logo.png",
+		"media": "https://img.arkane.network/marketing/EmberSword/ember_banner.jpeg",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+	},
+        {
 		"name": "Puzzle in a Bag",
 		"description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
 		"address": "0xf81e107ff398043c1faec02e684960a8007ff145",
