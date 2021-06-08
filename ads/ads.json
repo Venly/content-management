@@ -30,13 +30,5 @@
     "ctaText": "Create & Play!",
     "ctaLink": "https://www.sandbox.game/?utm_source=arkane",
     "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
-  },
-  {
-    "icon": "arkane-network.png",
-    "name": "Arkane Network",
-    "description": "Your advertisement here?",
-    "ctaText": "Contact Us",
-    "ctaLink": "https://arkane-network.typeform.com/to/nYda30",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
   }
 ]
