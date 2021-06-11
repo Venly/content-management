@@ -24,6 +24,20 @@
 		]
     },
     {
+        "name": "Crypto Colosseum",
+        "description": "Crypto Colosseum is a game of whimsical violence and deep crypto economics. Players place bets on AI-fueled gladiator battles using Prestige coin ($PTG). Players win untold fortunes, climb the ranks and go from pleb to patrician. Prestige ($PTG) is the in-game currency of the Crypto Colosseum. $PTG enables players to acquire (income generating) gladiator NFT contracts or purchase additional items used to manipulate battle outcomes.",
+        "address": "0xd8BB5D498F5BeCB4992C22D13e672a919D362b51",
+        "symbol": "",
+        "url": "https://cryptocolosseum.com",
+        "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f3e403fa-5c42-415e-8654-9a0a32fbde06",
+        "media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f7e97bb8-bf1a-4d65-95b8-1aa27c06fd99",
+        "verified": true,
+        "premium": false,
+        "categories": [
+			"game_items"
+		]
+    },
+    {
         "name": "Digimon",
         "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
         "verified": true,
