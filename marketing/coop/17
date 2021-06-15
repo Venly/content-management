@@ -1,0 +1,64 @@
+{
+  "name" : "Promo- Bootcamp",
+  "description" : "The first BLAST NFT ever minted - make sure to sign up at blastchickencoop.digital to claim this limited edition BLAST Premier chicken!",
+  "image" : "https://content.arkane.network/marketing/coop/17.png",
+  "imagePreview" : "https://content.arkane.network/marketing/coop/17.png",
+  "imageThumbnail" : "https://content.arkane.network/marketing/coop/17.png",
+  "backgroundColor" : "#ffffff",
+  "background_color" : "#ffffff",
+  "animationUrls" : [ ],
+  "attributes" : [ {
+    "type" : "property",
+    "name" : "BLAST Player Chicken",
+    "value" : "Promo",
+    "traitType" : "BLAST Player Chicken",
+    "trait_type" : "BLAST Player Chicken"
+  }, {
+    "type" : "property",
+    "name" : "Collection",
+    "value" : "BLAST Promotion",
+    "traitType" : "Collection",
+    "trait_type" : "Collection"
+  }, {
+    "type" : "property",
+    "name" : "BLAST Team",
+    "value" : "No Team",
+    "traitType" : "BLAST Team",
+    "trait_type" : "BLAST Team"
+  }, {
+    "type" : "property",
+    "name" : "Edition",
+    "value" : "Promotional Edition",
+    "traitType" : "Edition",
+    "trait_type" : "Edition"
+  } ],
+  "contract" : {
+    "address" : "0xE8655dFE6AED805A508F585569e492ee0d3BFcC1",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/hero-17.png",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/hero-17.png",
+    "image_url" : "https://content.arkane.network/marketing/coop/hero-17.png",
+    "description" : "The first BLAST NFT ever minted - make sure to sign up at blastchickencoop.digital to claim this limited edition BLAST Premier chicken!",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "type" : "ERC_1155"
+  },
+  "asset_contract" : {
+    "address" : "0xE8655dFE6AED805A508F585569e492ee0d3BFcC1",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/hero-17.png",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/hero-17.png",
+    "image_url" : "https://content.arkane.network/marketing/coop/hero-17.png",
+    "description" : "The first BLAST NFT ever minted - make sure to sign up at blastchickencoop.digital to claim this limited edition BLAST Premier chicken!",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "type" : "ERC_1155"
+  },
+  "fungible" : true
+}
