@@ -3,7 +3,7 @@
     {
       "category": "collectibles",
       "tagline": "Logan Paul: Experience the largest box break in history",
-      "banner": "https://api.maverickchamp.com/images/GOLD.gif",
+      "banner": "https://img.arkane.network/img/banners/logan.png",
       "style": "dark",
       "cta": {
         "text": "Explore items",
@@ -12,18 +12,18 @@
     },
     {
       "category": "game_items",
-      "tagline": "Digimon: Gotta catch em all",
-      "banner": "https://fr.web.img6.acsta.net/newsv7/20/04/06/16/05/1848858.jpg",
+      "tagline": "Battle Racers: Winner takes all!",
+      "banner": "https://img.arkane.network/img/banners/battle.png",
       "style": "primary",
       "cta": {
-        "text": "Catch em all",
-        "link": "https://qa.arkane.market/search?contractName=Digimon"
+        "text": "Pimp your ride",
+        "link": "https://qa.arkane.market/search?contractName=Battle%20Racers"
       }
     },
     {
       "category": "digital_art",
       "tagline": "Discover the crazyness : Space Chickens",
-      "banner": "https://dg31sz3gwrwan.cloudfront.net/fanart/355763/1357791-0-q80.jpg",
+      "banner": "https://img.arkane.network/img/banners/chicken.png",
       "style": "primary",
       "cta": {
         "text": "Explore items",
@@ -33,7 +33,7 @@
     {
       "category": "all",
       "tagline": "Neon District: Exclusive new items added",
-      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
+      "banner": "https://img.arkane.network/img/banners/neon.png",
       "style": "dark",
       "cta": {
         "text": "Explore items",
