@@ -6,12 +6,6 @@
   "imageThumbnail" : "https://content.arkane.network/marketing/coop/5.gif",
   "backgroundColor" : "#ffffff",
   "background_color" : "#ffffff",
-  "animationUrl" : ".gif",
-  "animation_url" : ".gif",
-  "animationUrls" : [ {
-    "type" : "unknown",
-    "value" : ".gif"
-  } ],
   "attributes" : [ {
     "type" : "property",
     "name" : "Big Red",
