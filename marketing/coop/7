@@ -4,8 +4,8 @@
   "image" : "https://content.arkane.network/marketing/coop/7.gif",
   "imagePreview" : "https://content.arkane.network/marketing/coop/7.gif",
   "imageThumbnail" : "https://content.arkane.network/marketing/coop/7.gif",
-  "backgroundColor" : "#ffffff",
-  "background_color" : "#ffffff",
+  "backgroundColor" : "#000000",
+  "background_color" : "#000000",
   "attributes" : [ {
     "type" : "property",
     "name" : "Chuck",
