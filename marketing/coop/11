@@ -1,0 +1,89 @@
+{
+  "name" : "Bree Cooper - Gun Metal P90",
+  "description" : "Fearless Blue Team leader. Bree's presence on the battlefield is unmatched, her confidence and command of her squad the tale of legend. Always the first through a breached door, you can find her at the heart of the action.",
+  "image" : "https://content.arkane.network/marketing/coop/11.gif",
+  "imagePreview" : "https://content.arkane.network/marketing/coop/11.gif",
+  "imageThumbnail" : "https://content.arkane.network/marketing/coop/11.gif",
+  "backgroundColor" : "#ffffff",
+  "background_color" : "#ffffff",
+  "animationUrl" : ".gif",
+  "animation_url" : ".gif",
+  "animationUrls" : [ {
+    "type" : "unknown",
+    "value" : ".gif"
+  } ],
+  "attributes" : [ {
+    "type" : "property",
+    "name" : "Bree Cooper",
+    "value" : "BLAST Player Chicken",
+    "traitType" : "Bree Cooper",
+    "trait_type" : "Bree Cooper"
+  }, {
+    "type" : "property",
+    "name" : "BLAST Spring Final 2021",
+    "value" : "Collection",
+    "traitType" : "BLAST Spring Final 2021",
+    "trait_type" : "BLAST Spring Final 2021"
+  }, {
+    "type" : "property",
+    "name" : "Blue Team",
+    "value" : "BLAST Team",
+    "traitType" : "Blue Team",
+    "trait_type" : "Blue Team"
+  }, {
+    "type" : "property",
+    "name" : "First Edition",
+    "value" : "Edition",
+    "traitType" : "First Edition",
+    "trait_type" : "First Edition"
+  }, {
+    "type" : "property",
+    "name" : " eldridgeque",
+    "value" : "Art By",
+    "traitType" : " eldridgeque",
+    "trait_type" : " eldridgeque"
+  }, {
+    "type" : "property",
+    "name" : "Asulaart",
+    "value" : "Card Design By",
+    "traitType" : "Asulaart",
+    "trait_type" : "Asulaart"
+  } ],
+  "contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Fearless Blue Team leader. Bree's presence on the battlefield is unmatched, her confidence and command of her squad the tale of legend. Always the first through a breached door, you can find her at the heart of the action.",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "asset_contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Fearless Blue Team leader. Bree's presence on the battlefield is unmatched, her confidence and command of her squad the tale of legend. Always the first through a breached door, you can find her at the heart of the action.",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "fungible" : true
+}

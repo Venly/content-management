@@ -1,0 +1,77 @@
+{
+  "name" : "Purple Egg",
+  "description" : "Redeem this egg with your favorite player chicken at https://bswap.app/nftpools for an upgraded chicken!",
+  "image" : "https://content.arkane.network/marketing/coop/19.png",
+  "imagePreview" : "https://content.arkane.network/marketing/coop/19.png",
+  "imageThumbnail" : "https://content.arkane.network/marketing/coop/19.png",
+  "backgroundColor" : "#ffffff",
+  "background_color" : "#ffffff",
+  "animationUrl" : ".png",
+  "animation_url" : ".png",
+  "animationUrls" : [ {
+    "type" : "unknown",
+    "value" : ".png"
+  } ],
+  "attributes" : [ {
+    "type" : "property",
+    "name" : "Egg",
+    "value" : "BLAST Player Chicken",
+    "traitType" : "Egg",
+    "trait_type" : "Egg"
+  }, {
+    "type" : "property",
+    "name" : "BLAST Spring Final 2021",
+    "value" : "Collection",
+    "traitType" : "BLAST Spring Final 2021",
+    "trait_type" : "BLAST Spring Final 2021"
+  }, {
+    "type" : "property",
+    "name" : "No Team",
+    "value" : "BLAST Team",
+    "traitType" : "No Team",
+    "trait_type" : "No Team"
+  }, {
+    "type" : "property",
+    "name" : "First Edition",
+    "value" : "Edition",
+    "traitType" : "First Edition",
+    "trait_type" : "First Edition"
+  } ],
+  "contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Redeem this egg with your favorite player chicken at https://bswap.app/nftpools for an upgraded chicken!",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "asset_contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Redeem this egg with your favorite player chicken at https://bswap.app/nftpools for an upgraded chicken!",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "fungible" : true
+}
