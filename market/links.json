@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "id": "get_verified",
+      "link": "https://get.venly.io"
+    },
+    {
+      "id": "report_collection",
+      "link": "https://get.venly.io"
+    }
+  ]
+}
