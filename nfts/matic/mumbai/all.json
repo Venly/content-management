@@ -7,6 +7,7 @@
         "url": "https:\/\/battleracers.io",
         "imageUrl": "https:\/\/github.com\/ArkaneNetwork\/content-management\/blob\/master\/img\/arkane.market\/BattleRacers-logo.jpeg?raw=true",
         "media": "https:\/\/github.com\/ArkaneNetwork\/content-management\/blob\/master\/img\/arkane.market\/BattleRacers-banner.jpeg?raw=true",
+	"banner": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/battleracers_banner.png?raw=true",
         "type": ""
     },
     {
@@ -40,6 +41,7 @@
     {
         "name": "Digimon",
         "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
+   	"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/digimon_banner.png",
         "verified": true,
         "premium": true,
         "categories": [
@@ -68,6 +70,7 @@
     {
         "name": "Gaimin",
         "address": "0x475a04288882a8e200bbd34489dcda38035dde26",
+       	"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/gaimin_banner.png",
         "verified": true,
         "premium": true,
         "categories": [
