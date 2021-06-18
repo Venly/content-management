@@ -131,6 +131,12 @@
   "decimals" : 4,
   "type" : "ERC20"
 }, {
+  "name" : "Conceal (PoS)",
+  "symbol" : "wCCX",
+  "address" : "0x137Ee749f0F8c2eD34cA00dE33BB59E3dafA494A",
+  "decimals" : 6,
+  "type" : "ERC20"
+}, {
   "name" : "Chain Games",
   "symbol" : "CHAIN",
   "address" : "0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509",
