@@ -1,0 +1,71 @@
+{
+  "name" : "Beaker - Gold Glock-18",
+  "description" : "Prioritizing winning above all, Beaker brings an intense focus to Red Team that moves the squad towards their objectives. Snarky, ruthless, and always planning for contingencies, they are the driving tactitian, making sure Red Team always makes it home to enjoy some gourmet granola.",
+  "image" : "https://content.arkane.network/marketing/coop/58.gif",
+  "imagePreview" : "https://content.arkane.network/marketing/coop/58.gif",
+  "imageThumbnail" : "https://content.arkane.network/marketing/coop/58.gif",
+  "backgroundColor" : "#000000",
+  "background_color" : "#000000",
+  "attributes" : [ {
+    "type" : "property",
+    "name" : "Beaker",
+    "value" : "BLAST Player Chicken",
+    "traitType" : "Beaker",
+    "trait_type" : "Beaker"
+  }, {
+    "type" : "property",
+    "name" : "BLAST Spring Final 2021",
+    "value" : "Collection",
+    "traitType" : "BLAST Spring Final 2021",
+    "trait_type" : "BLAST Spring Final 2021"
+  }, {
+    "type" : "property",
+    "name" : "Red Team",
+    "value" : "BLAST Team",
+    "traitType" : "Red Team",
+    "trait_type" : "Red Team"
+  }, {
+    "type" : "property",
+    "name" : "First Edition",
+    "value" : "Edition",
+    "traitType" : "First Edition",
+    "trait_type" : "First Edition"
+  } ],
+  "contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Prioritizing winning above all, Beaker brings an intense focus to Red Team that moves the squad towards their objectives. Snarky, ruthless, and always planning for contingencies, they are the driving tactitian, making sure Red Team always makes it home to enjoy some gourmet granola.",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "asset_contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Prioritizing winning above all, Beaker brings an intense focus to Red Team that moves the squad towards their objectives. Snarky, ruthless, and always planning for contingencies, they are the driving tactitian, making sure Red Team always makes it home to enjoy some gourmet granola.",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "fungible" : true
+}
