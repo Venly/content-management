@@ -47,15 +47,20 @@
 		]
     },
     {
-        "name": "Digimon",
-        "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
-   	"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/digimon_banner.png",
-        "verified": true,
-        "premium": true,
-        "categories": [
-			"collectibles",
-			"game_items"
-		]
+      "name": "Digimon",
+      "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
+      "media": [
+        {
+          "type": "banner",
+          "value": "https://content.arkane.network/img/arkane.market/digimon_banner.png"
+        }
+      ],
+      "verified": true,
+      "premium": true,
+      "categories": [
+        "collectibles",
+        "game_items"
+      ]
     },
     {
         "name": "PewDiePie",
