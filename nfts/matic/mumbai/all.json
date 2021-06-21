@@ -6,8 +6,10 @@
         "symbol": "",
         "url": "https:\/\/battleracers.io",
         "imageUrl": "https:\/\/github.com\/ArkaneNetwork\/content-management\/blob\/master\/img\/arkane.market\/BattleRacers-logo.jpeg?raw=true",
-        "media": "https:\/\/github.com\/ArkaneNetwork\/content-management\/blob\/master\/img\/arkane.market\/BattleRacers-banner.jpeg?raw=true",
-	"banner": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/battleracers_banner.png?raw=true",
+        "media": {
+		"image": "https:\/\/github.com\/ArkaneNetwork\/content-management\/blob\/master\/img\/arkane.market\/BattleRacers-banner.jpeg?raw=true",
+		"banner": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/battleracers_banner.png?raw=true"
+	}
         "type": ""
     },
     {
