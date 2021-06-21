@@ -81,13 +81,16 @@
 		]
     },
     {
-        "name": "Gaimin",
-        "address": "0x475a04288882a8e200bbd34489dcda38035dde26",
-       	"banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/gaimin_banner.png",
-        "verified": true,
-        "premium": true,
-        "categories": [
-			"game_items"
-		]
+      "name": "Gaimin",
+      "address": "0x475a04288882a8e200bbd34489dcda38035dde26",
+      "media": [{
+        "type": "banner",
+        "value": "https://content.arkane.network/img/arkane.market/gaimin_banner.png"
+      }],
+      "verified": true,
+      "premium": true,
+      "categories": [
+        "game_items"
+      ]
     }
 ]
