@@ -363,5 +363,23 @@
 		"categories": [
 			"collectibles"
 		]
+	},
+ 	{
+		"address": "0x335944b36b02401fb35ca3aa64cc9468e5eb3742",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+	},
+ 	{
+		"address": "0xa39388c49b9cfc6d7710181a3d71d81b9103f3bb",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
 	}
+
+
  ]
