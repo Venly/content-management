@@ -354,5 +354,14 @@
 		"categories": [
 			"digital_art"
 		]
+	},
+ 	{
+		"name": "HOK Main",
+		"address": "0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
 	}
  ]
