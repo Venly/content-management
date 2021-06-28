@@ -7,7 +7,7 @@
       "style": "dark",
       "cta": {
         "text": "Explore items",
-        "link": "https://arkane.market/search?contractName=CryptoPick"
+        "link": "https://venly.market/search?contractName=CryptoPick"
       }
     },
     {
@@ -17,7 +17,7 @@
       "style": "primary",
       "cta": {
         "text": "Catch em all",
-        "link": "https://arkane.market/search?contractName=Ethermon"
+        "link": "https://venly.market/search?contractName=Ethermon"
       }
     },
     {
@@ -27,7 +27,7 @@
       "style": "dark",
       "cta": {
         "text": "Explore items",
-        "link": "https://arkane.market/search?contractName=Polygon%20NFT%20Minter"
+        "link": "https://venly.market/search?contractName=Polygon%20NFT%20Minter"
       }
     },
     {
@@ -37,7 +37,7 @@
       "style": "dark",
       "cta": {
         "text": "Explore items",
-        "link": "https://arkane.market/search?contractName=Neon%20District"
+        "link": "https://venly.market/search?contractName=Neon%20District"
       }
     }
   ]
