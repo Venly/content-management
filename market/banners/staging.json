@@ -7,7 +7,13 @@
       "style": "dark",
       "cta": {
         "text": "Explore items",
-        "link": "https://qa.arkane.market/search?contractName=Logan%20Paul%20Digital%20Collectibles"
+        "link": "https://staging.arkane.market/search?contractName=Logan%20Paul%20Digital%20Collectibles",
+        "filters": [
+          {
+            "type": "contractName",
+            "value": "Logan Paul Digital Collectibles"
+          }
+        ]
       }
     },
     {
@@ -17,7 +23,13 @@
       "style": "primary",
       "cta": {
         "text": "Pimp your ride",
-        "link": "https://qa.arkane.market/search?contractName=Battle%20Racers"
+        "link": "https://staging.arkane.market/search?contractName=Battle%20Racers",
+        "filters": [
+          {
+            "type": "contractName",
+            "value": "Battle Racers"
+          }
+        ]
       }
     },
     {
@@ -27,7 +39,13 @@
       "style": "primary",
       "cta": {
         "text": "Explore items",
-        "link": "https://qa.arkane.market/search?contractName=Space%20Chickens"
+        "link": "https://staging.arkane.market/search?contractName=Space%20Chickens",
+        "filters": [
+          {
+            "type": "contractName",
+            "value": "Space Chickens"
+          }
+        ]
       }
     },
     {
@@ -37,9 +55,14 @@
       "style": "dark",
       "cta": {
         "text": "Explore items",
-        "link": "https://qa.arkane.market/search?contractName=Neon%20District%20Season%20One%20Item"
+        "link": "https://staging.arkane.market/search?contractName=Neon%20District%20Season%20One%20Item",
+        "filters": [
+          {
+            "type": "contractName",
+            "value": "Neon District Season One Item"
+          }
+        ]
       }
     }
   ]
 }
-
