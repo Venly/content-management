@@ -1,36 +1,35 @@
 {
-  "name" : "Promo- Bootcamp",
+  "name" : "Promo - Bootcamp",
   "description" : "The first BLAST NFT ever minted - make sure to sign up at blastchickencoop.digital to claim this limited edition BLAST Premier chicken!",
   "image" : "https://content.arkane.network/marketing/coop/17.png",
   "imagePreview" : "https://content.arkane.network/marketing/coop/17.png",
   "imageThumbnail" : "https://content.arkane.network/marketing/coop/17.png",
-  "backgroundColor" : "#ffffff",
-  "background_color" : "#ffffff",
-  "animationUrls" : [ ],
+  "backgroundColor" : "#000000",
+  "background_color" : "#000000",
   "attributes" : [ {
     "type" : "property",
-    "name" : "BLAST Player Chicken",
-    "value" : "Promo",
-    "traitType" : "BLAST Player Chicken",
-    "trait_type" : "BLAST Player Chicken"
+    "name" : "Promo",
+    "value" : "BLAST Player Chicken",
+    "traitType" : "Promo",
+    "trait_type" : "Promo"
   }, {
     "type" : "property",
-    "name" : "Collection",
-    "value" : "BLAST Promotion",
-    "traitType" : "Collection",
-    "trait_type" : "Collection"
+    "name" : "BLAST Promotion",
+    "value" : "Collection",
+    "traitType" : "BLAST Promotion",
+    "trait_type" : "BLAST Promotion"
   }, {
     "type" : "property",
-    "name" : "BLAST Team",
-    "value" : "No Team",
-    "traitType" : "BLAST Team",
-    "trait_type" : "BLAST Team"
+    "name" : "No Team",
+    "value" : "BLAST Team",
+    "traitType" : "No Team",
+    "trait_type" : "No Team"
   }, {
     "type" : "property",
-    "name" : "Edition",
-    "value" : "Promotional Edition",
-    "traitType" : "Edition",
-    "trait_type" : "Edition"
+    "name" : "Promotional Edition",
+    "value" : "Edition",
+    "traitType" : "Promotional Edition",
+    "trait_type" : "Promotional Edition"
   } ],
   "contract" : {
     "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
@@ -39,7 +38,7 @@
     "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
-    "description" : "The first BLAST NFT ever minted - make sure to sign up at blastchickencoop.digital to claim this limited edition BLAST Premier chicken!",
+    "description" : "Have you ever wanted to build your own squad of strategic chicken operators? Now you can! With 6 player chickens created by BLAST Premier and Bondly, build your base team and collect eggs to level them up. Exclusive upgrades and perks are unlocked along the way!",
     "externalLink" : "https://www.twitch.tv/blastpremier",
     "external_link" : "https://www.twitch.tv/blastpremier",
     "externalUrl" : "https://www.twitch.tv/blastpremier",
@@ -57,7 +56,7 @@
     "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
-    "description" : "The first BLAST NFT ever minted - make sure to sign up at blastchickencoop.digital to claim this limited edition BLAST Premier chicken!",
+    "description" : "Have you ever wanted to build your own squad of strategic chicken operators? Now you can! With 6 player chickens created by BLAST Premier and Bondly, build your base team and collect eggs to level them up. Exclusive upgrades and perks are unlocked along the way!",
     "externalLink" : "https://www.twitch.tv/blastpremier",
     "external_link" : "https://www.twitch.tv/blastpremier",
     "externalUrl" : "https://www.twitch.tv/blastpremier",

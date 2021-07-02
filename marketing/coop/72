@@ -1,17 +1,17 @@
 {
-  "name" : "Gold Team - Team Photo Reward",
-  "description" : "Winner-winner chicken dinner! As the winner of one of two golden tickets, featuring this exclusive Gold Team NFT!",
-  "image" : "https://content.arkane.network/marketing/coop/72.gif",
-  "imagePreview" : "https://content.arkane.network/marketing/coop/72.gif",
-  "imageThumbnail" : "https://content.arkane.network/marketing/coop/72.gif",
+  "name" : "Gold Red Team - Team Photo Reward",
+  "description" : "Have you assembled Gold Red Team? Collect Gold Beaker, Big Red, and Cuddles to unlock this exclusive team photo, available only to our top collectors!",
+  "image" : "https://content.arkane.network/marketing/coop/72.png",
+  "imagePreview" : "https://content.arkane.network/marketing/coop/72.png",
+  "imageThumbnail" : "https://content.arkane.network/marketing/coop/72.png",
   "backgroundColor" : "#000000",
   "background_color" : "#000000",
   "attributes" : [ {
     "type" : "property",
-    "name" : "Gold Team",
+    "name" : "Gold Red Team",
     "value" : "BLAST Player Chicken",
-    "traitType" : "Gold Team",
-    "trait_type" : "Gold Team"
+    "traitType" : "Gold Red Team",
+    "trait_type" : "Gold Red Team"
   }, {
     "type" : "property",
     "name" : "BLAST Spring Final 2021",
@@ -38,7 +38,7 @@
     "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
-    "description" : "Winner-winner chicken dinner! As the winner of one of two golden tickets, featuring this exclusive Gold Team NFT!",
+    "description" : "Have you ever wanted to build your own squad of strategic chicken operators? Now you can! With 6 player chickens created by BLAST Premier and Bondly, build your base team and collect eggs to level them up. Exclusive upgrades and perks are unlocked along the way!",
     "externalLink" : "https://www.twitch.tv/blastpremier",
     "external_link" : "https://www.twitch.tv/blastpremier",
     "externalUrl" : "https://www.twitch.tv/blastpremier",
@@ -56,7 +56,7 @@
     "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
     "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
-    "description" : "Winner-winner chicken dinner! As the winner of one of two golden tickets, featuring this exclusive Gold Team NFT!",
+    "description" : "Have you ever wanted to build your own squad of strategic chicken operators? Now you can! With 6 player chickens created by BLAST Premier and Bondly, build your base team and collect eggs to level them up. Exclusive upgrades and perks are unlocked along the way!",
     "externalLink" : "https://www.twitch.tv/blastpremier",
     "external_link" : "https://www.twitch.tv/blastpremier",
     "externalUrl" : "https://www.twitch.tv/blastpremier",

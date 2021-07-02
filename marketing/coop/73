@@ -1,0 +1,71 @@
+{
+  "name" : "Gold Blue Team - Team Photo Reward",
+  "description" : "Have you assembled Gold Blue Team? Collect Gold Bree Cooper, Eggs Benny, and Fowler to unlock this exclusive team photo, available only to our top collectors!",
+  "image" : "https://content.arkane.network/marketing/coop/73.png",
+  "imagePreview" : "https://content.arkane.network/marketing/coop/73.png",
+  "imageThumbnail" : "https://content.arkane.network/marketing/coop/73.png",
+  "backgroundColor" : "#000000",
+  "background_color" : "#000000",
+  "attributes" : [ {
+    "type" : "property",
+    "name" : "Gold Blue Team",
+    "value" : "BLAST Player Chicken",
+    "traitType" : "Gold Blue Team",
+    "trait_type" : "Gold Blue Team"
+  }, {
+    "type" : "property",
+    "name" : "BLAST Spring Final 2021",
+    "value" : "Collection",
+    "traitType" : "BLAST Spring Final 2021",
+    "trait_type" : "BLAST Spring Final 2021"
+  }, {
+    "type" : "property",
+    "name" : "Gold Team",
+    "value" : "BLAST Team",
+    "traitType" : "Gold Team",
+    "trait_type" : "Gold Team"
+  }, {
+    "type" : "property",
+    "name" : "First Edition",
+    "value" : "Edition",
+    "traitType" : "First Edition",
+    "trait_type" : "First Edition"
+  } ],
+  "contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Have you ever wanted to build your own squad of strategic chicken operators? Now you can! With 6 player chickens created by BLAST Premier and Bondly, build your base team and collect eggs to level them up. Exclusive upgrades and perks are unlocked along the way!",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "asset_contract" : {
+    "address" : "0x35322134Ec933D55797930d0c045B51C2203CBae",
+    "name" : "Blast Premier Chicken Coop",
+    "symbol" : "COOP",
+    "image" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "imageUrl" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "image_url" : "https://content.arkane.network/marketing/coop/contract.jpeg",
+    "description" : "Have you ever wanted to build your own squad of strategic chicken operators? Now you can! With 6 player chickens created by BLAST Premier and Bondly, build your base team and collect eggs to level them up. Exclusive upgrades and perks are unlocked along the way!",
+    "externalLink" : "https://www.twitch.tv/blastpremier",
+    "external_link" : "https://www.twitch.tv/blastpremier",
+    "externalUrl" : "https://www.twitch.tv/blastpremier",
+    "external_url" : "https://www.twitch.tv/blastpremier",
+    "media" : [ {
+      "type" : "unknown",
+      "value" : "https://content.arkane.network/marketing/coop/hero.jpg"
+    } ],
+    "type" : "ERC_1155"
+  },
+  "fungible" : true
+}
