@@ -91,7 +91,14 @@
       "media": [{
         "type": "banner",
         "value": "https://content.arkane.network/img/arkane.market/gaimin_banner.png"
-      }],
+      },{
+        "type": "twitter",
+        "value": "https://twitter.com/Venly_io"
+      },{
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      }
+	       ],
       "verified": true,
       "premium": true,
       "categories": [
