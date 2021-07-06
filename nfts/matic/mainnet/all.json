@@ -286,9 +286,10 @@
 		"name": "MARBLE-NFT",
 		"address": "0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
 		"verified": "true",
-		"premium": "false",
+		"premium": "true",
 		"categories": [
-			"digital_art"
+			"digital_art",
+			"collectibles"
 		]
 	},
  	{
