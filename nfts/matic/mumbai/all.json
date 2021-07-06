@@ -92,5 +92,17 @@
       "categories": [
         "game_items"
       ]
+    },
+    {
+      "name": "Puzzle in a Bag",
+      "address": "0x2aaaee990f595f21a88c1264f57d617ece271bd3",
+      "media": [{
+        "type": "banner",
+        "value": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg"
+      }],
+      "verified": true,
+      "categories": [
+        "collectibles"
+      ]
     }
 ]
