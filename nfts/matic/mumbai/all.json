@@ -16,7 +16,12 @@
           "value": "https://content.arkane.network/img/arkane.market/battleracers_banner.png?raw=true"
         }
       ],
-      "type": ""
+      "verified": true,
+      "premium": true,
+      "type": "",
+      "categories": [
+			"game_items"
+		]
     },
     {
         "name": "Logan Paul Digital Collectibles",
