@@ -12,6 +12,10 @@
           {
             "type": "contractName",
             "value": "CryptoPick"
+          },
+          {
+            "type": "category",
+            "value": "collectibles"
           }
         ]
       }
@@ -27,6 +31,10 @@
         "filters": [
           {
             "type": "contractName",
+            "value": "Ethermon"
+          },
+          {
+            "type": "category",
             "value": "Ethermon"
           }
         ]
@@ -44,6 +52,10 @@
           {
             "type": "contractName",
             "value": "HIIDRA Studio"
+          },
+          {
+            "type": "category",
+            "value": "digital_art"
           }
         ]
       }
