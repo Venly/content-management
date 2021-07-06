@@ -7,11 +7,14 @@
       "style": "dark",
       "cta": {
         "text": "Explore items",
-        "link": "https://qa.arkane.market/search?contractName=Logan%20Paul%20Digital%20Collectibles",
         "filters": [
           {
             "type": "contractName",
             "value": "Logan Paul Digital Collectibles"
+          },
+          {
+            "type": "category",
+            "value": "collectibles"
           }
         ]
       }
@@ -23,11 +26,14 @@
       "style": "primary",
       "cta": {
         "text": "Pimp your ride",
-        "link": "https://qa.arkane.market/search?contractName=Battle%20Racers",
         "filters": [
           {
             "type": "contractName",
             "value": "Battle Racers"
+          },
+          {
+            "type": "category",
+            "value": "game_items"
           }
         ]
       }
@@ -44,6 +50,10 @@
           {
             "type": "contractName",
             "value": "Space Chickens"
+          },
+          {
+            "type": "category",
+            "value": "digital_art"
           }
         ]
       }
@@ -55,7 +65,6 @@
       "style": "dark",
       "cta": {
         "text": "Explore items",
-        "link": "https://qa.arkane.market/search?contractName=Neon%20District%20Season%20One%20Item",
         "filters": [
           {
             "type": "contractName",
