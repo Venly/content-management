@@ -12,6 +12,10 @@
           {
             "type": "contractName",
             "value": "Logan Paul Digital Collectibles"
+          },
+          {
+            "type": "category",
+            "value": "collectibles"
           }
         ]
       }
@@ -28,6 +32,10 @@
           {
             "type": "contractName",
             "value": "Battle Racers"
+          },
+          {
+            "type": "category",
+            "value": "game_items"
           }
         ]
       }
@@ -44,6 +52,10 @@
           {
             "type": "contractName",
             "value": "Space Chickens"
+          },
+          {
+            "type": "category",
+            "value": "digital_art"
           }
         ]
       }
