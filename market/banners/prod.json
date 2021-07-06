@@ -42,16 +42,16 @@
     },
     {
       "category": "digital_art",
-      "tagline": "HIDDRA Art: Exclusiveling availble",
-      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
-      "style": "dark",
+      "tagline": "Puzzle in a Bag: Collection an exclusive Musketon design",
+      "banner": "https://img.arkane.network/marketing/PIAB/puzzelinabag_banner.png",
+      "style": "primary",
       "cta": {
         "text": "Explore items",
-        "link": "https://venly.market/search?contractName=HIIDRA%20Studio",
+        "link": "https://venly.market/search?contractName=Puzzle%20in%20a%20Bag",
         "filters": [
           {
             "type": "contractName",
-            "value": "HIIDRA Studio"
+            "value": "Puzzle in a Bag"
           },
           {
             "type": "category",
