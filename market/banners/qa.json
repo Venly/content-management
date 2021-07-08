@@ -6,36 +6,29 @@
       "banner": "https://img.arkane.network/img/banners/logan.png",
       "style": "dark",
       "cta": {
+        "type": "filter",
         "text": "Explore items",
-        "filters": [
-          {
-            "type": "contractName",
-            "value": "Logan Paul Digital Collectibles"
-          },
-          {
-            "type": "category",
-            "value": "collectibles"
-          }
-        ]
+        "value": [
+                {
+                  "type": "contractName",
+                  "value": "Logan Paul Digital Collectibles"
+                },
+                {
+                  "type": "category",
+                  "value": "collectibles"
+                }
+         ]
       }
     },
     {
       "category": "game_items",
-      "tagline": "Battle Racers: Winner takes all!",
-      "banner": "https://img.arkane.network/img/banners/battle.png",
-      "style": "primary",
+      "tagline": "Gaimin: Colonizing the far end of Space",
+      "banner": "https://img.arkane.network/img/banners/gaimin.png",
+      "style": "dark",
       "cta": {
-        "text": "Pimp your ride",
-        "filters": [
-          {
-            "type": "contractName",
-            "value": "Battle Racers"
-          },
-          {
-            "type": "category",
-            "value": "game_items"
-          }
-        ]
+        "type": "redirect",
+        "text": "Explore items",
+        "value": "/collection/Gaimin"
       }
     },
     {
@@ -44,18 +37,18 @@
       "banner": "https://img.arkane.network/img/banners/chicken.png",
       "style": "primary",
       "cta": {
+        "type": "filter",
         "text": "Explore items",
-        "link": "https://qa.arkane.market/search?contractName=Space%20Chickens",
-        "filters": [
-          {
-            "type": "contractName",
-            "value": "Space Chickens"
-          },
-          {
-            "type": "category",
-            "value": "digital_art"
-          }
-        ]
+        "value": [
+                {
+                  "type": "contractName",
+                  "value": "Space Chickens"
+                },
+                {
+                  "type": "category",
+                  "value": "digital_art"
+                }
+         ]
       }
     },
     {
@@ -64,13 +57,14 @@
       "banner": "https://img.arkane.network/img/banners/neon.png",
       "style": "dark",
       "cta": {
+        "type": "filter",
         "text": "Explore items",
-        "filters": [
-          {
-            "type": "contractName",
-            "value": "Neon District Season One Item"
-          }
-        ]
+        "value": [
+                {
+                  "type": "contractName",
+                  "value": "Neon District Season One Item"
+                }
+         ]
       }
     }
   ]
