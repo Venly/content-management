@@ -1,4 +1,6 @@
 [
+ {"name": "myNFT", "description":"The marketplace that puts the power back in your hands", "url": "https://www.mynft.com/"}
+,
 {"name": "0xGames", "description":"Blockchain Games", "url": "https://0x.games"}
 ,
 {"name": "Aavegotchi", "description":"Collect, compete, and combine your Aavegotchis for the ultimate gamified DeFi experience!", "url": "https://aavegotchi.com/"}
@@ -55,7 +57,7 @@
 ,
 {"name": "Metiisto", "description":"Metiisto is a interactive digital works gallery. A decentralized platform for exposure, access and acquisition to interactive digital experiences on blockchain.", "url": "https://metiisto.art/"}
 ,
-{"name": "OinkAR", "description":"An AR Pet Simulator featuring mysterious Pig-like creatures (Related to the "Crypt-Oink" Project).", "url": "https://urbanelectronicgames.com/"}
+{"name": "OinkAR", "description":"An AR Pet Simulator featuring mysterious Pig-like creatures (Related to the Crypt-Oink Project).", "url": "https://urbanelectronicgames.com/"}
 ,
 {"name": "OpenSea", "description":"A peer-to-peer marketplace for rare digital items and crypto collectibles. Buy, sell, auction, and discover CryptoKitties, Decentraland, Gods Unchained cards, ...", "url": "https://opensea.io"}
 ,
