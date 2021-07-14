@@ -1,4 +1,14 @@
-[
+[ 
+	{
+		"name": "House of Kibaa",
+		"address": "0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
+		"media": "https://img.arkane.network/img/arkane.market/hok_hero.png",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
+	},
        {
 		"name": "Aavegotchi",
 		"description": "Aavegotchis are on-chain collectible ghosts staked with Aave’s interest-generating aTokens. Compete for player rewards by earning XP, leveling up, and increasing the rarity of your Aavegotchi fren. Owned by the community, Aavegotchi is governed by the AavegotchiDAO and the native eco-governance token GHST. Summon your first Aavegotchi today and join the future of playable NFTs staked with DeFi!",
