@@ -1,5 +1,30 @@
 {
-  "collections": [
-    
-  ]
+   "collections":[
+      {
+         "name":"Aavegotchi",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://content.arkane.network/img/arkane.market/battleracers_banner.png?raw=true",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/aavegotchi"
+            },
+           {
+               "type":"discord",
+               "value":"https://discord.com/invite/aavegotchi"
+            }
+           ,
+           {
+               "type":"medium",
+               "value":"https://aavegotchi.medium.com/"
+            }
+         ]
+      }
+   ]
 }
