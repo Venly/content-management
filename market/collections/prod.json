@@ -1,6 +1,33 @@
 {
    "collections":[
       {
+         "name":"House of Kibaa",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/hok_banner.png",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/houseofkibaa"
+            },
+           {
+               "type":"discord",
+               "value":"https://discord.gg/houseofkibaa"
+            }
+           ,
+           {
+               "type":"medium",
+               "value":"https://house-of-kibaa.medium.com/"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Aavegotchi",
          "verified":true,
          "contracts":[
