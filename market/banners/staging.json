@@ -8,7 +8,7 @@
       "cta": {
         "type": "filter",
         "text": "Explore items",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "Logan Paul Digital Collectibles"
@@ -28,7 +28,7 @@
       "cta": {
         "type": "filter",
         "text": "Pimp your ride",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "Battle Racers"
@@ -48,7 +48,7 @@
       "cta": {
         "type": "filter",
         "text": "Explore items",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "Space Chickens"
@@ -68,7 +68,7 @@
       "cta": {
         "type": "filter",
         "text": "Explore items",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "Neon District Season One Item"
