@@ -14,7 +14,16 @@
 		"address": "0x301817312598f8f48cb7d898d659ca4a4d457ad8",
 		"url": "https://noftgames.io/",
 		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/561eb5bb-99df-413f-bb42-a64a6481444f",
-		"media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34e5588c-ecf5-44f9-a80f-4ad5e9576da4",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34e5588c-ecf5-44f9-a80f-4ad5e9576da4"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/noft_banner.png"
+			}
+	        ],
 		"verified": "true",
 		"premium": "true",
 		"categories": [
