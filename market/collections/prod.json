@@ -1,6 +1,33 @@
 {
    "collections":[
-     {
+      {
+         "name":"Venly NFT",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0xd3b22fA46EDCFBB8B194Ed2f1F24722a4A171Eef",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/venly-banner.png",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/Venly_io"
+            },
+           {
+               "type":"discord",
+               "value":"https://venly.io/discord"
+            }
+           ,
+            {
+               "type":"medium",
+               "value":"https://medium.com/arkane-network"
+            }
+         ]
+      }
+      ,
+      {
          "name":"CryptoPick",
          "verified":true,
          "contracts":[
