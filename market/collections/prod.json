@@ -1,5 +1,37 @@
 {
    "collections":[
+     {
+         "name":"CryptoPick",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0xaf791509b3e8a5bf1703918e457a2fdd50783319",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/cryptopick-banner.png",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/CryptoPickHQ"
+            },
+           {
+               "type":"discord",
+               "value":"https://discord.com/invite/KwuuYRm"
+            }
+           ,
+           {
+               "type":"facebook",
+               "value":"https://www.facebook.com/CryptoPick"
+            }
+            ,
+            {
+               "type":"medium",
+               "value":"https://cryptopick.medium.com/"
+            }
+         ]
+      }
+      ,
       {
          "name":"House of Kibaa",
          "verified":true,
