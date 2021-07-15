@@ -2,7 +2,16 @@
 	{
 		"name": "House of Kibaa",
 		"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
-		"media": "https://img.arkane.network/img/arkane.market/hok_hero.png",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://img.arkane.network/img/arkane.market/hok_hero.png"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/hok_banner.png"
+			}
+	        ],
 		"verified": "true",
 		"premium": "true",
 		"categories": [
@@ -15,7 +24,16 @@
 		"address": "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
 		"url": "https://aavegotchi.com/",
 		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/82279530-b75a-4e2f-9730-e23024d3a505",
-		"media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe",
+	       "media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
+		}
+	      ],
 		"verified": "true",
 		"premium": "true",
 		"categories": [
@@ -29,8 +47,16 @@
 		"symbol": "EMONS",
 		"url": "https://ethermon.io",
 		"imageUrl": "https://img.arkane.network/marketing/Ethermon/logo.png",
-		"media": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
-		"type": "ERC_721",
+		"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/marketing/Ethermon/banner.jpg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/ethermon_banner.png"
+		}
+	      ],
 		"verified": "true",
 		"premium": "true",
 		"categories": [
@@ -71,7 +97,16 @@
 		"symbol": "PIAB",
 		"url": "https://www.puzzleinabag.com/",
 		"imageUrl": "https://img.arkane.network/marketing/PIAB/logo.png",
-		"media": "https://img.arkane.network/marketing/PIAB/banner.png",
+		"media": [
+		      {
+			"type": "image",
+			"value": "https://img.arkane.network/marketing/PIAB/banner.png"
+		      },
+		      {
+			"type": "banner",
+			"value": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg"
+		      }
+		],
 		"type": "ERC_1155",
 		"verified": "true",
 		"premium": "true",
@@ -163,8 +198,16 @@
 		"symbol": "",
 		"url": "https://cryptopick.net",
 		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-logo.png",
-		"media": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg",
-		"type": "",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/cryptopick-banner.png"
+			}
+	        ],
 		"verified": "true",
 		"premium": "true",
 		"categories": [
@@ -397,7 +440,14 @@
 		]
 	},
  	{
+		"name":"Venly NFT",
 		"address": "0xd3b22fA46EDCFBB8B194Ed2f1F24722a4A171Eef",
+		"media": [
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/venly-banner.png"
+			}
+	        ],
 		"verified": "true",
 		"premium": "true",
 		"url": "https://venly.io",
