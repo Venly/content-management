@@ -53,5 +53,27 @@
             }
          ]
       }
+      ,
+       {
+         "name":"Noft Games",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x301817312598f8f48cb7d898d659ca4a4d457ad8",
+               "chain":"BSC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/noft_banner.png",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/noftgames"
+            },
+           {
+               "type":"instagram",
+               "value":"https://www.instagram.com/noftgames/"
+            }
+         ]
+      }
    ]
 }
