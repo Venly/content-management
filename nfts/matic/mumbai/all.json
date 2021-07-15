@@ -100,7 +100,7 @@
       }
 	       ],
       "verified": true,
-      "premium": true,
+      "premium": false,
       "categories": [
         "game_items"
       ]
@@ -113,6 +113,7 @@
         "value": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg"
       }],
       "verified": true,
+      "premium": true,
       "categories": [
         "collectibles"
       ]
