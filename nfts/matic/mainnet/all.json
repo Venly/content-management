@@ -381,15 +381,6 @@
 		]
 	},
  	{
-		"name": "HOK Main",
-		"address": "0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
 		"address": "0x335944b36b02401fb35ca3aa64cc9468e5eb3742",
 		"verified": "true",
 		"premium": "true",
