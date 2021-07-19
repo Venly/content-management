@@ -1,7 +1,7 @@
 {
    "collections":[
       {
-         "name":"Battle Racers",
+         "name":"Battle Racers #2",
          "verified":false,
          "contracts":[
             {
@@ -14,7 +14,7 @@
             },
             {
                "address":"0x753d61c8a7b7a6e8adb6c759eb49190ef6a24401",
-               "chain":"MATIC"
+               "chain":"ETHEREUM"
             }
          ],
          "banner":"https://content.arkane.network/img/arkane.market/battleracers_banner.png?raw=true",
