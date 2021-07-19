@@ -6,9 +6,10 @@
       "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg",
       "style": "dark",
       "cta": {
+        "type": "filter",
         "text": "Explore items",
         "link": "https://venly.market/search?contractName=CryptoPick",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "CryptoPick"
@@ -26,9 +27,10 @@
       "banner": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
       "style": "primary",
       "cta": {
+        "type": "filter",
         "text": "Catch em all",
         "link": "https://venly.market/search?contractName=Ethermon",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "Ethermon"
@@ -46,9 +48,10 @@
       "banner": "https://img.arkane.network/marketing/PIAB/puzzelinabag_banner.png",
       "style": "primary",
       "cta": {
+        "type": "filter",
         "text": "Explore items",
         "link": "https://venly.market/search?contractName=Puzzle%20in%20a%20Bag",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "Puzzle in a Bag"
@@ -66,9 +69,10 @@
       "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
       "style": "dark",
       "cta": {
+        "type": "filter",
         "text": "Explore items",
         "link": "https://venly.market/search?contractName=Neon%20District",
-        "filters": [
+        "value": [
           {
             "type": "contractName",
             "value": "Neon District"

@@ -1,4 +1,11 @@
-[ {
+[ 
+  {
+    "name":"Spacelens",
+    "symbol":"SPACE",
+    "address":"0xcc7ab8d78dBA187dC95bF3bB86e65E0C26d0041f",
+    "decimals":18,
+    "type":"ERC20"
+  },{
   "name" : "0xBitcoin Token",
   "symbol" : "0xBTC",
   "address" : "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",

@@ -1,12 +1,62 @@
-[	{
+[ 
+	{
+		"name": "House of Kibaa",
+		"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://img.arkane.network/img/arkane.market/hok_hero.png"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/hok_banner.png"
+			}
+	        ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
+	},
+       {
+		"name": "Aavegotchi",
+		"description": "Aavegotchis are on-chain collectible ghosts staked with Aave’s interest-generating aTokens. Compete for player rewards by earning XP, leveling up, and increasing the rarity of your Aavegotchi fren. Owned by the community, Aavegotchi is governed by the AavegotchiDAO and the native eco-governance token GHST. Summon your first Aavegotchi today and join the future of playable NFTs staked with DeFi!",
+		"address": "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+		"url": "https://aavegotchi.com/",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/82279530-b75a-4e2f-9730-e23024d3a505",
+	       "media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
+		}
+	      ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+	},
+	{
 		"name": "Ethermon",
 		"description": "Circa 2017, Ethermon was the very first blockchain battle game on Ethereum. Fast forward to present, Ethermon NFT collectors can now take their Ethermon to explore in the world famous decentralized 3D world (Decentraland) and challenging other players on battle ladders on the classic website Ethermon.io. Now also on Matic Polygon, Players can continue to use their old and new ethermon to join forces and continue their journey with one of the earliest and prestigious blockchain collectable assets.",
 		"address": "0x9928A8ea82d86290DfD1920E126B3872890525b3",
 		"symbol": "EMONS",
-		"url": "http://ethermon.io",
+		"url": "https://ethermon.io",
 		"imageUrl": "https://img.arkane.network/marketing/Ethermon/logo.png",
-		"media": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
-		"type": "ERC_721",
+		"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/marketing/Ethermon/banner.jpg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/ethermon_banner.png"
+		}
+	      ],
 		"verified": "true",
 		"premium": "true",
 		"categories": [
@@ -47,7 +97,16 @@
 		"symbol": "PIAB",
 		"url": "https://www.puzzleinabag.com/",
 		"imageUrl": "https://img.arkane.network/marketing/PIAB/logo.png",
-		"media": "https://img.arkane.network/marketing/PIAB/banner.png",
+		"media": [
+		      {
+			"type": "image",
+			"value": "https://img.arkane.network/marketing/PIAB/banner.png"
+		      },
+		      {
+			"type": "banner",
+			"value": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg"
+		      }
+		],
 		"type": "ERC_1155",
 		"verified": "true",
 		"premium": "true",
@@ -112,7 +171,7 @@
 		"media": "https://www.youtube.com/embed/1dFgZwpeokk",
 		"type": "",
 		"verified": "true",
-		"premium": "true",
+		"premium": "false",
 		"categories": [
 			"collectibles"
 		]
@@ -127,7 +186,7 @@
 		"media": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg",
 		"type": "",
 		"verified": "true",
-		"premium": "true",
+		"premium": "false",
 		"categories": [
 			"digital_art"
 		]
@@ -139,8 +198,16 @@
 		"symbol": "",
 		"url": "https://cryptopick.net",
 		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-logo.png",
-		"media": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg",
-		"type": "",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/cryptopick-banner.png"
+			}
+	        ],
 		"verified": "true",
 		"premium": "true",
 		"categories": [
@@ -154,7 +221,16 @@
 		"symbol": "",
 		"url": "https://neondistrict.io",
 		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_logo.jpg",
-		"media": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/neon_banner.png"
+			}
+	        ],
 		"type": "",
 		"verified": "true",
 		"premium": "true",
@@ -173,7 +249,7 @@
 		"media": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/TRM-banner.jpeg?raw=true",
 		"type": "",
 		"verified": "true",
-		"premium": "true",
+		"premium": "false",
 		"categories": [
 			"game_items"
 		]
@@ -185,7 +261,7 @@
 		"address": "0xfd1dbd4114550a867ca46049c346b6cd452ec919",
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
-		"imageUrl": "http://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
 		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
 		"type": "",
 		"verified": "false",
@@ -201,7 +277,7 @@
 		"address": "0x72b6dc1003e154ac71c76d3795a3829cfd5e33b9",
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
-		"imageUrl": "http://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
 		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
 		"type": "",
 		"verified": "false",
@@ -216,7 +292,7 @@
 		"address": "0xd52a86110c9a7597a057ae2bb4f577b6cd42a639",
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
-		"imageUrl": "http://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
 		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
 		"type": "",
 		"verified": "false",
@@ -231,7 +307,7 @@
 		"address": "0xd05a795d339886bb8dd46cfe2ac009d7f1e48a64",
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
-		"imageUrl": "http://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
 		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
 		"type": "",
 		"verified": "false",
@@ -268,7 +344,7 @@
 		"name": "MoCDA Exhibitions",
 		"address": "0x6af28284fe73e8d72e8dcc042fa0b0b0c9d17892",
 		"verified": "true",
-		"premium": "true",
+		"premium": "false",
 		"categories": [
 			"digital_art"
 		]
@@ -315,7 +391,7 @@
 		"address": "0xfc5be93dd225359b614236ee2262a6c02a1095c2",
 		"description": "WiV makes it easier for producers and merchants to offer their wares, distributors to know where specific bottles are, and buyers to understand the provenance of what they are buying. WiV is working with producers to tokenize entire vintages of investment-grade wine, significantly increasing the volume of wine assets on the platform and ensuring this wine has a digital record of its provenance from the moment that it is bottled.",
 		"verified": "true",
-		"premium": "true",
+		"premium": "false",
 		"categories": [
 			"collectibles"
 		]
@@ -357,15 +433,6 @@
 		]
 	},
  	{
-		"name": "HOK Main",
-		"address": "0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
 		"address": "0x335944b36b02401fb35ca3aa64cc9468e5eb3742",
 		"verified": "true",
 		"premium": "true",
@@ -382,9 +449,17 @@
 		]
 	},
  	{
+		"name":"Venly NFT",
 		"address": "0xd3b22fA46EDCFBB8B194Ed2f1F24722a4A171Eef",
+		"media": [
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/venly-banner.png"
+			}
+	        ],
 		"verified": "true",
 		"premium": "true",
+		"url": "https://venly.io",
 		"categories": [
 			"collectibles"
 		]
