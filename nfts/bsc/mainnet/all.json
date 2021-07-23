@@ -18,7 +18,8 @@
 		"verified": "true",
 		"premium": "true",
 		"categories": [
-			"collectibles"
+			"collectibles",
+			"game_items"
 		]
 	},	
  	{
