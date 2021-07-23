@@ -1,6 +1,38 @@
 {
    "collections":[
       {
+         "name":"Polychain Monsters",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
+               "chain":"BSC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/4e5f0aa2-46cf-454c-a06c-61f3f3b4f7d8",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/polychainmon"
+            },
+           {
+               "type":"discord",
+               "value":"https://discord.com/invite/2JBNG9C3vz"
+            }
+           ,
+            {
+               "type":"medium",
+               "value":"https://medium.com/polychainmonsters"
+            }
+            ,
+            {
+               "type":"telegram",
+               "value":"https://t.me/polychainmonsters"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Venly NFT",
          "verified":true,
          "contracts":[
