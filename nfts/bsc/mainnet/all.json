@@ -1,4 +1,26 @@
-[	
+[
+	{
+		"name": "Polychain Monsters",
+		"description": "Polychain Monsters are exquisitely animated digital collectibles created using blockchain technology. Each Polymon is backed by a truly unique NFT that is indistinguishable from any other NFT and can be unpacked with $PMON tokens, the native ERC-20 and BEP-20 tokens in the Polyverse. Each collectible is inimitable, authentic, and differs in rarity. The Polychain Monsters NFT collection can easily be integrated into modern games, art, and other blockchain-connected products.",
+		"address": "0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
+		"url": "https://polychainmonsters.com/",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/25061590-3022-473a-94c9-ff0f3c3f635b",
+	       "media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de72d8f3-7fdc-4c96-936a-8b98c6d9cac1"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4e5f0aa2-46cf-454c-a06c-61f3f3b4f7d8"
+		}
+	      ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
+	},	
  	{
 		"address": " 0x9aef9c18c104607c0198ad84c8a85d8e4753969c",
 		"verified": "true",
