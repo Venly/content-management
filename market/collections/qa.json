@@ -26,6 +26,53 @@
                "value":"@battleracers"
             }
          ]
+      },
+      {
+         "name":"Gaimin",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x475a04288882a8e200bbd34489dcda38035dde26",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://content.arkane.network/img/arkane.market/gaimin_banner.png",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/polychainmon"
+            },
+           {
+               "type":"discord",
+               "value":"https://discord.com/invite/2JBNG9C3vz"
+            }
+           ,
+            {
+               "type":"medium",
+               "value":"https://medium.com/polychainmonsters"
+            }
+            ,
+            {
+               "type":"telegram",
+               "value":"https://t.me/polychainmonsters"
+            }
+            ,
+            {
+               "type":"youtube",
+               "value":"https://www.youtube.com/watch?v=VeeRxGe9OK0"
+            }
+            ,
+            {
+               "type":"facebook",
+               "value":"https://www.facebook.com/ArkaneNetwork/"
+            }
+            ,
+            {
+               "type":"instagram",
+               "value":"https://www.instagram.com/ester_espositox/"
+            }
+
+         ]
       }
    ]
 }
