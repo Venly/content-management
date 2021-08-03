@@ -141,7 +141,7 @@
 		"media": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-banner.jpeg?raw=true",
 		"type": "",
 		"verified": "true",
-		"premium": "false",
+		"premium": "true",
 		"categories": [
 			"game_items"
 		]
