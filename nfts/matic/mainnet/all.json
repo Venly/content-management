@@ -241,7 +241,7 @@
 	},
 	{
 		"name": "Trade Race Manager by IOI",
-		"description": "First crypto gaming manager powered by IOI and NFTs!",
+		"description": "IOI Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
 		"address": "0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
 		"symbol": "TRM",
 		"url": "https://traderacemanager.com/",
@@ -249,7 +249,7 @@
 		"media": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/TRM-banner.jpeg?raw=true",
 		"type": "",
 		"verified": "true",
-		"premium": "false",
+		"premium": "true",
 		"categories": [
 			"game_items"
 		]
