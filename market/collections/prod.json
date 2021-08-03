@@ -1,9 +1,46 @@
 {
    "collections":[
       {
+         "name":"Battle Racers",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x7f8d8f602c37999385f370b11c6075d53ae94f52",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/battle_racers_banner.png",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/BattleRacers"
+            },
+           {
+               "type":"telegram",
+               "value":"https://t.me/battleracers"
+            }
+           ,
+            {
+               "type":"medium",
+               "value":"https://medium.com/battle-racers"
+            }
+            ,
+            {
+               "type":"discord",
+               "value":"https://discord.gg/gfEPSra"
+            }
+            ,
+            {
+               "type":"facebook",
+               "value":"https://www.facebook.com/battleracersgame/"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Trade Race Manager by IOI",
          "verified":true,
-         "description": "IOI Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income."
+         "description": "IOI Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
          "contracts":[
             {
                "address":"0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
