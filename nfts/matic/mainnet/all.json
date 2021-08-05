@@ -138,7 +138,16 @@
 		"symbol": "",
 		"url": "https://battleracers.io",
 		"imageUrl": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-logo.jpeg?raw=true",
-		"media": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-banner.jpeg?raw=true",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-banner.jpeg?raw=true"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/battle_racers_banner.png"
+			}
+	        ],
 		"type": "",
 		"verified": "true",
 		"premium": "true",
