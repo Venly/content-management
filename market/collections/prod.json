@@ -1,6 +1,33 @@
 {
    "collections":[
       {
+         "name":"The Cryptoz NFT Universe",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x8a0C542bA7bBBab7cF3551fFcc546CdC5362d2a1",
+               "chain":"BSC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/871eb3b8-cbb7-4395-982e-da6301217742",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/CryptozNFT"
+            },
+           {
+               "type":"telegram",
+               "value":"https://t.me/cryptozcard"
+            }
+           ,
+            {
+               "type":"medium",
+               "value":"https://cryptoz-cards.medium.com/"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Battle Racers",
          "verified":true,
          "contracts":[
