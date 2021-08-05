@@ -1,4 +1,26 @@
 [
+	 {
+		"name": "The Cryptoz NFT Universe",
+		"description": "Cryptoz is a fresh take on gamified NFT collectibles built on scarcity, rarity and community. Mint rare booster NFTs based on a random lottery pull, each NFT is a uniquely printed token with deep trading card attributes. Earn the in-game CryptoZ eXPerience (CZXP) token for game actions and recruiting players in your affiliate network while always seeking the most scarce of cards!",
+		"address": "0x8a0C542bA7bBBab7cF3551fFcc546CdC5362d2a1",
+		"url": "https://bsc.cryptoz.cards/",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/464513d6-2be0-4e4c-8fdc-dff7a6f81012",
+	       "media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bce38a9f-cab5-40be-9a5b-5f846145cab5"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/871eb3b8-cbb7-4395-982e-da6301217742"
+		}
+	      ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+	},
 	{
 		"name": "Polychain Monsters",
 		"description": "Polychain Monsters are exquisitely animated digital collectibles created using blockchain technology. Each Polymon is backed by a truly unique NFT that is indistinguishable from any other NFT and can be unpacked with $PMON tokens, the native ERC-20 and BEP-20 tokens in the Polyverse. Each collectible is inimitable, authentic, and differs in rarity. The Polychain Monsters NFT collection can easily be integrated into modern games, art, and other blockchain-connected products.",
