@@ -1,6 +1,37 @@
 {
    "collections":[
       {
+         "name":"NFT Hub",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0xbc3bb04CAa50b9D5393f09AAa3bcafe671E29d7b",
+               "chain":"MATIC"
+            },
+            {
+               "address":"0x453A92e38A8382F550465dd21068d757aBd2D437",
+               "chain":"MATIC"
+            },
+            {
+               "address":"0x68C2f79ae67fA8f466815e3010fe8e0500e95366",
+               "chain":"MATIC"
+            },
+            {
+               "address":"0x34bFb2aD92cF171ee4D6f1C4ac1E546B9c9D0345",
+               "chain":"MATIC"
+            },
+            {
+               "address":"0x00e711094C351d1bb43123CcF8ED47230444a72F",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/goos_banner.png",
+         "socials":[
+            
+         ]
+      }
+      ,
+      {
          "name":"The Cryptoz NFT Universe",
          "verified":true,
          "contracts":[
