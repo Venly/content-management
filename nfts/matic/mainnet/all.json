@@ -378,9 +378,20 @@
 	},
  	{
 		"name": "MARBLE-NFT",
+		"description": "MarbleCards are NFTs based on URLs from across the web. Every web page can be “marbled” one time and created into a unique digital card. The meta-data from the URL generates the image and text while the frame is randomized. At MarbleCards you are essentially bookmarking the web with NFTs that can gain yield when entering the NFTs into a gamified user popularity arena.",
 		"address": "0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
 		"verified": "true",
 		"premium": "true",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://oresundstartups.com/wp-content/uploads/2019/05/marble-cards-helsingborg-startup-cphftw-768x506.jpg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/marble_banner.jpg"
+			}
+	        ],
 		"categories": [
 			"digital_art",
 			"collectibles"
