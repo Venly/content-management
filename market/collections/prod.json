@@ -1,6 +1,33 @@
 {
    "collections":[
       {
+         "name":"MarbleCards",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/marble_banner.jpg",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/MemeExplorers"
+            },
+           {
+               "type":"telegram",
+               "value":"https://t.me/MemeExplorers"
+            }
+           ,
+            {
+               "type":"discord",
+               "value":"https://discord.gg/KY4V5MT"
+            }
+         ]
+      }
+      ,
+      {
          "name":"NFT Hub",
          "verified":true,
          "contracts":[
