@@ -24,13 +24,13 @@
     },
     {
       "category": "digital_art",
-      "tagline": "Your project here: Get your project featured on the Venly Market.",
-      "banner": "https://img.arkane.network/img/arkane.market/advertise.png",
+      "tagline": "Puzzle together an exclusive artwork of Musketon",
+      "banner": "https://img.arkane.network/marketing/PIAB/banner.png",
       "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Request media kit",
-        "value": "mailto:yan@venly.io"
+        "text": "Collect piece by piece",
+        "value": "collection/Puzzle in a Bag"
       }  
     },
     {
