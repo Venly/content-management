@@ -8,7 +8,7 @@
       "cta": {
         "type": "redirect",
         "text": "Collect a monster",
-        "value": "collection/Polychain%20Monsters"
+        "value": "collection/Polychain Monsters"
       } 
     },
     {
@@ -19,7 +19,7 @@
       "cta": {
         "type": "redirect",
         "text": "Shop a car",
-        "value": "collection/Trade%20Race%20Manager%20by%20IOI"
+        "value": "collection/Trade Race Manager by IOI"
       }  
     },
     {
