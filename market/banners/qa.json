@@ -2,69 +2,46 @@
   "banners": [
     {
       "category": "collectibles",
-      "tagline": "Logan Paul: Experience the largest box break in history",
-      "banner": "https://img.arkane.network/img/banners/logan.png",
-      "style": "dark",
+      "tagline": "Polychain Monsters: discover the cutest NFT monsters",
+      "banner": "https://img.arkane.network/img/arkane.market/polly_ad.png",
+      "style": "primary",
       "cta": {
-        "type": "filter",
-        "text": "Explore items",
-        "value": [
-                {
-                  "type": "contractName",
-                  "value": "Logan Paul Digital Collectibles"
-                },
-                {
-                  "type": "category",
-                  "value": "collectibles"
-                }
-         ]
-      }
+        "type": "redirect",
+        "text": "Collect a monster",
+        "value": "collection/Polychain Monsters"
+      } 
     },
     {
       "category": "game_items",
-      "tagline": "Gaimin: Colonizing the far end of Space",
-      "banner": "https://img.arkane.network/img/banners/gaimin.png",
-      "style": "dark",
+      "tagline": "Trade Race Manager by IOI: pick your car and play to earn.",
+      "banner": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/TRM-banner.jpeg?raw=true",
+      "style": "primary",
       "cta": {
         "type": "redirect",
-        "text": "Explore items",
-        "value": "/collection/a20e5ae2-c180-4772-8be4-a2372d1bf017"
-      }
+        "text": "Shop a car",
+        "value": "collection/Trade Race Manager by IOI"
+      }  
     },
     {
       "category": "digital_art",
-      "tagline": "Discover the crazyness : Space Chickens",
-      "banner": "https://img.arkane.network/img/banners/chicken.png",
-      "style": "primary",
+      "tagline": "Your project here: Get your project featured on the Venly Market.",
+      "banner": "https://img.arkane.network/img/arkane.market/advertise.png",
+      "style": "dark",
       "cta": {
-        "type": "filter",
-        "text": "Explore items",
-        "value": [
-                {
-                  "type": "contractName",
-                  "value": "Space Chickens"
-                },
-                {
-                  "type": "category",
-                  "value": "digital_art"
-                }
-         ]
-      }
+        "type": "redirect",
+        "text": "Request media kit",
+        "value": "mailto:yan@venly.io"
+      }  
     },
     {
       "category": "all",
-      "tagline": "Neon District: Exclusive new items added",
-      "banner": "https://img.arkane.network/img/banners/neon.png",
+      "tagline": "Join our Discord: and get notified about exclusive drops",
+      "banner": "https://img.arkane.network/img/arkane.market/Discord.png",
       "style": "dark",
       "cta": {
-        "type": "filter",
-        "text": "Explore items",
-        "value": [
-                {
-                  "type": "contractName",
-                  "value": "Neon District Season One Item"
-                }
-         ]
+        "type": "redirect",
+        "text": "Join Discord",
+        "value": "https://venly.io/discord"
       }
     }
   ]
