@@ -2,82 +2,46 @@
   "banners": [
     {
       "category": "collectibles",
-      "tagline": "CryptoPick: Start increasing your Claw Power",
-      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg",
-      "style": "dark",
+      "tagline": "Polychain Monsters: discover the cutest NFT monsters",
+      "banner": "https://img.arkane.network/img/arkane.market/polly_ad.png",
+      "style": "primary",
       "cta": {
-        "type": "filter",
-        "text": "Explore items",
-        "link": "https://venly.market/search?contractName=CryptoPick",
-        "value": [
-          {
-            "type": "contractName",
-            "value": "CryptoPick"
-          },
-          {
-            "type": "category",
-            "value": "collectibles"
-          }
-        ]
-      }
+        "type": "redirect",
+        "text": "Collect a monster",
+        "value": "collection/Polychain%20Monsters"
+      } 
     },
     {
       "category": "game_items",
-      "tagline": "Ethermon: Gotta catch em all",
-      "banner": "https://img.arkane.network/marketing/Ethermon/banner.jpg",
+      "tagline": "Trade Race Manager by IOI: pick your car and play to earn.",
+      "banner": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/TRM-banner.jpeg?raw=true",
       "style": "primary",
       "cta": {
-        "type": "filter",
-        "text": "Catch em all",
-        "link": "https://venly.market/search?contractName=Ethermon",
-        "value": [
-          {
-            "type": "contractName",
-            "value": "Ethermon"
-          },
-          {
-            "type": "category",
-            "value": "Ethermon"
-          }
-        ]
-      }
+        "type": "redirect",
+        "text": "Shop a car",
+        "value": "collection/Trade%20Race%20Manager%20by%20IOI"
+      }  
     },
     {
       "category": "digital_art",
-      "tagline": "Puzzle in a Bag: Collect an exclusive Musketon piece of Art",
-      "banner": "https://img.arkane.network/marketing/PIAB/puzzelinabag_banner.png",
-      "style": "primary",
+      "tagline": "Your project here: Get your project featured on the Venly Market.",
+      "banner": "https://img.arkane.network/img/arkane.market/advertise.png",
+      "style": "dark",
       "cta": {
-        "type": "filter",
-        "text": "Explore items",
-        "link": "https://venly.market/search?contractName=Puzzle%20in%20a%20Bag",
-        "value": [
-          {
-            "type": "contractName",
-            "value": "Puzzle in a Bag"
-          },
-          {
-            "type": "category",
-            "value": "digital_art"
-          }
-        ]
-      }
+        "type": "redirect",
+        "text": "Request media kit",
+        "value": "mailto:yan@venly.io"
+      }  
     },
     {
       "category": "all",
-      "tagline": "Neon District: Exclusive level 5 items available",
-      "banner": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg",
+      "tagline": "Join our Discord: and get notified about exclusive drops",
+      "banner": "https://img.arkane.network/img/arkane.market/Discord.png",
       "style": "dark",
       "cta": {
-        "type": "filter",
-        "text": "Explore items",
-        "link": "https://venly.market/search?contractName=Neon%20District",
-        "value": [
-          {
-            "type": "contractName",
-            "value": "Neon District"
-          }
-        ]
+        "type": "redirect",
+        "text": "Join Discord",
+        "value": "https://venly.io/discord"
       }
     }
   ]
