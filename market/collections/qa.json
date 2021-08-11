@@ -3,7 +3,7 @@
       {
          "name":"Battle Racers #2",
 		 "publicIdentifier": "BattleRacers2",
-         "verified":false,
+         "verified":true,
          "contracts":[
             {
                "address":"0xa4572039e7925bb175944f0f519ae603f25e16c2",
