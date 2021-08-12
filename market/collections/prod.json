@@ -1,6 +1,38 @@
 {
    "collections":[
       {
+         "name":"Oort Digital",
+         "publicIdentifier": "OortDigital",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0xBcAC889C2De88D67d25d54B9E41626f7082232B6",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/oort_banner.png",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/OortDigital"
+            },
+            {
+               "type":"medium",
+               "value":"https://medium.com/oort-digital"
+            },
+           {
+               "type":"telegram",
+               "value":"https://t.me/oortdigital"
+            }
+           ,
+            {
+               "type":"discord",
+               "value":"https://discord.com/invite/fNsaAECGaS"
+            }
+         ]
+      }
+      ,
+        {
          "name":"MarbleCards",
          "verified":true,
          "contracts":[
