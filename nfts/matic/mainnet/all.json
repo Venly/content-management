@@ -18,6 +18,27 @@
 			"collectibles"
 		]
 	},
+	{
+		"name": "Oort Digital",
+		"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
+		"url": "https://oortdigital.com/",
+		"description": "Oort Heroes are the avatars of the whole Oort Universe (Oortverse). Oort Digital aims to put your NFTs to work through DeFi + games. Oort Heroes play the role of the bridge to allow any NFTs to interoperate with any games/Metaverse.",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://img.arkane.network/img/arkane.market/oort_hero.png"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/oort_banner.png"
+			}
+	        ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
+	},
        {
 		"name": "Aavegotchi",
 		"description": "Aavegotchis are on-chain collectible ghosts staked with Aave’s interest-generating aTokens. Compete for player rewards by earning XP, leveling up, and increasing the rarity of your Aavegotchi fren. Owned by the community, Aavegotchi is governed by the AavegotchiDAO and the native eco-governance token GHST. Summon your first Aavegotchi today and join the future of playable NFTs staked with DeFi!",
