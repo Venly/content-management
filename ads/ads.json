@@ -1,34 +1,10 @@
 [
   {
     "icon": "bountyblok.png",
-    "name": "Bountyblok",
-    "description": "Gamification powered on the blockchain.",
-    "ctaText": "Request a demo",
-    "ctaLink": "https://bountyblok.io/?utm_source=arkane",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
-  },
-  {
-    "icon": "egamers.png",
-    "name": "Egamers.io",
-    "description": "News about Blockchain Games, Reviews, Game Lists.",
-    "ctaText": "Start Reading!",
-    "ctaLink": "https://egamers.io/?utm_source=arkane",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
-  },
-  {
-    "icon": "ethermon.png",
-    "name": "Ethermon",
-    "description": "Discover the wonderfull world of Ethermon and it is Mons.",
-    "ctaText": "gotta catch em all",
-    "ctaLink": "https://ethermon.io/?utm_source=arkane",
-    "viewIn": ["ETHEREUM","MATIC"]
-  },
-  {
-    "icon": "thesandbox.png",
-    "name": "The Sandbox",
-    "description": "Take your creative freedom to the next level & monetize it in",
-    "ctaText": "Create & Play!",
-    "ctaLink": "https://www.sandbox.game/?utm_source=arkane",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC"]
+    "name": "Venly",
+    "description": "Join our NFT community and stay up to date on the latest NFT drops",
+    "ctaText": "Join our Discord",
+    "ctaLink": "https://venly.io/discord",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC","BSC","AVAC"]
   }
 ]
