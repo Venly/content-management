@@ -28,7 +28,7 @@
       "banner": "https://img.arkane.network/img/arkane.market/advertise.png",
       "style": "dark",
       "cta": {
-        "type": "redirect",
+        "type": "externalRedirect",
         "text": "Request media kit",
         "value": "mailto:yan@venly.io"
       }  
@@ -39,7 +39,7 @@
       "banner": "https://img.arkane.network/img/arkane.market/Discord.png",
       "style": "dark",
       "cta": {
-        "type": "redirect",
+        "type": "externalRedirect",
         "text": "Join Discord",
         "value": "https://venly.io/discord"
       }
