@@ -1,6 +1,51 @@
 {
    "collections":[
       {
+         "name":"REVV Racing",
+         "publicIdentifier": "REVVRacing",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x51ac4a13054d5d7e1fa795439821484177e7e828",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/revv_banner.png",
+         "logo":"https://img.arkane.network/img/arkane.market/revv_logo.png",
+         "socials":[
+           {
+               "type":"medium",
+               "value":"https://revv-token.medium.com/"
+            }
+           ,
+            {
+               "type":"youtube",
+               "value":"https://www.youtube.com/channel/UCf0qBtJHCyx4xcilSyPpJMA"
+            }
+           ,
+            {
+               "type":"discord",
+               "value":"https://discord.com/invite/eWn6D8pCUJ"
+            }
+           ,
+            {
+               "type":"telegram",
+               "value":"https://t.me/REVVCommunity"
+            }
+           ,
+            {
+               "type":"instagram",
+               "value":"https://www.instagram.com/revvmotorsport/"
+            }
+           ,
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/REVV_Token"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Riot Racers",
          "publicIdentifier": "RiotRacers",
          "verified":true,
