@@ -32,6 +32,25 @@
 		]
 	},
 	{
+		"name": "REVV Racing",
+		"address": "0x51ac4a13054d5d7e1fa795439821484177e7e828",
+		"url": "https://www.revvracing.com/",
+		"imageUrl": "https://img.arkane.network/img/arkane.market/revv_logo.png",
+		"description": "REVV Racing is the latest Play-to-Earn competitive racing metaverse from the REVV Motorsport team. This ecosystem is designed from the ground-up to be cross-chain, utilising the REVV token, and providing collectable and gameplay experiences for racing game players - competitive and casual, collectors, and fans of motorsports.",
+		"media": [
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/revv_banner.png"
+			}
+	        ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		
+		]
+	},
+	{
 		"name": "Sapien Medicine",
 		"address": "0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
 		"url": "https://www.youtube.com/c/sapienmedicine",
