@@ -19,6 +19,18 @@
 		]
 	},
 	{
+		"name": "ZED RUN",
+		"address": "0xa5f1ea7df861952863df2e8d1312f7305dabf215",
+		"url": "https://zed.run/",
+		"imageUrl": "https://img.arkane.network/img/arkane.market/zed_logo.png",
+		"description": "OWN. RACE. EARN. The future of digital racehorse ownership is here. Race your way to the top and build your legacy today.",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+	},
+	{
 		"name": "Brave Frontier Heroes",
 		"address": "0x819e58e51d64ab05efa132a133de0af5089954cf",
 		"url": "https://bravefrontierheroes.com/",
