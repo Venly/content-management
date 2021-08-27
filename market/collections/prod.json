@@ -1,6 +1,31 @@
 {
    "collections":[
       {
+         "name":"Riot Racers",
+         "publicIdentifier": "RiotRacers",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x82bbf7be0eb9a6024b7a641ba179e00812bdae53",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"",
+         "logo":"https://img.arkane.network/img/arkane.market/riot_racing_icon.png",
+         "socials":[
+           {
+               "type":"discord",
+               "value":"https://discord.com/invite/riotracers"
+            }
+           ,
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/RiotRacers"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Sapien Medicine",
          "publicIdentifier": "SapienMedicine",
          "verified":true,
