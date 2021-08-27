@@ -19,6 +19,19 @@
 		]
 	},
 	{
+		"name": "Riot Racers",
+		"address": "0x82bbf7be0eb9a6024b7a641ba179e00812bdae53",
+		"url": "https://app.riot.fun/",
+		"imageUrl": "https://img.arkane.network/img/arkane.market/riot_racing_icon.png",
+		"description": "Riot Racers is a play to earn car racing game where players and participants own parts of the game. Players can earn by playing the game or by simply owning parts of the game. All ownable parts of the game are in the form of verifiably owned NFTs. Players can own parts of the game including cars, gas stations, racetrack land, billboard land, and mechanic shops. Join us!",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+			
+		]
+	},
+	{
 		"name": "Sapien Medicine",
 		"address": "0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
 		"url": "https://www.youtube.com/c/sapienmedicine",
@@ -37,8 +50,8 @@
 		"verified": "true",
 		"premium": "true",
 		"categories": [
-			"collectibles",
-			
+			"digital_art"
+		
 		]
 	},
 	{
