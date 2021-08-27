@@ -19,6 +19,19 @@
 		]
 	},
 	{
+		"name": "Brave Frontier Heroes",
+		"address": "0x819e58e51d64ab05efa132a133de0af5089954cf",
+		"url": "https://bravefrontierheroes.com/",
+		"imageUrl": "https://img.arkane.network/img/arkane.market/bfh_logo.png",
+		"description": "BFH is the crossover of the extremely successful mobile game BRAVE FRONTIER and the top blockchain game My Crypto Heroes. It combines the proven gameplay of BRAVE FRONTIER with the proven game economy of My Crypto Heroes.",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+			
+		]
+	},
+	{
 		"name": "Riot Racers",
 		"address": "0x82bbf7be0eb9a6024b7a641ba179e00812bdae53",
 		"url": "https://app.riot.fun/",
