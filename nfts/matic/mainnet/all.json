@@ -26,6 +26,12 @@
 		"description": "OWN. RACE. EARN. The future of digital racehorse ownership is here. Race your way to the top and build your legacy today.",
 		"verified": "true",
 		"premium": "true",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://img.arkane.network/img/arkane.market/zed_hero.jpeg"
+			}
+	        ],
 		"categories": [
 			"game_items"
 		]
