@@ -46,6 +46,31 @@
       }
       ,
       {
+         "name":"Brave Frontier Heroe",
+         "publicIdentifier": "BraveFrontierHeroe",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x819e58e51d64ab05efa132a133de0af5089954cf",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"",
+         "logo":"https://img.arkane.network/img/arkane.market/bfh_logo.png",
+         "socials":[
+           {
+               "type":"discord",
+               "value":"https://discord.com/invite/X5kuKdc"
+            }
+           ,
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/bfh_global"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Riot Racers",
          "publicIdentifier": "RiotRacers",
          "verified":true,
