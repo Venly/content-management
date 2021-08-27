@@ -1,6 +1,31 @@
 {
    "collections":[
       {
+         "name":"Sapien Medicine",
+         "publicIdentifier": "SapienMedicine",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/ea0b7b47-f6ab-4f60-acc0-7aa87b63b471",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/0a7f7297-8cab-49a6-8fc8-f958fb9e5508",
+         "socials":[
+           {
+               "type":"instagram",
+               "value":"https://www.instagram.com/sapienmed/?hl=en"
+            }
+           ,
+            {
+               "type":"youtube",
+               "value":"https://www.youtube.com/c/SapienMedicine"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Oort Digital",
          "publicIdentifier": "OortDigital",
          "verified":true,
