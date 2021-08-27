@@ -19,6 +19,29 @@
 		]
 	},
 	{
+		"name": "Sapien Medicine",
+		"address": "0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
+		"url": "https://www.youtube.com/c/sapienmedicine",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0a7f7297-8cab-49a6-8fc8-f958fb9e5508",
+		"description": "The Sapien Medicine NFT collection, where art and energy create magic in your life.",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ede2502d-9be4-4d1e-92e1-ca10f46e718f"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ea0b7b47-f6ab-4f60-acc0-7aa87b63b471"
+			}
+	        ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles",
+			
+		]
+	},
+	{
 		"name": "Oort Digital",
 		"address": "0xBcAC889C2De88D67d25d54B9E41626f7082232B6",
 		"url": "https://oortdigital.com/",
