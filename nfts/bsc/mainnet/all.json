@@ -1,4 +1,29 @@
 [
+	{
+		
+		"name": "Lootex Creator Series",
+		"description": "Built for creators by magic and heart.",
+		"address": "0xf6401646676a87bbd0fa952fbbe8869516cc541c",
+		"symbol": "",
+		"url": "dex.lootex.io",
+		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_icon.png",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/lootex_banner.jpg"
+			}
+	        ],
+		"type": "",
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+	},
 	 {
 		"name": "The Cryptoz NFT Universe",
 		"description": "Cryptoz is a fresh take on gamified NFT collectibles built on scarcity, rarity and community. Mint rare booster NFTs based on a random lottery pull, each NFT is a uniquely printed token with deep trading card attributes. Earn the in-game CryptoZ eXPerience (CZXP) token for game actions and recruiting players in your affiliate network while always seeking the most scarce of cards!",
