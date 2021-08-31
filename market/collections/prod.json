@@ -1,6 +1,40 @@
 {
    "collections":[
       {
+         "name":"Lootex",
+         "publicIdentifier": "Lootex",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x6c02d180ec61ea90e6831bfbfdd8bba8af23b90c",
+               "chain":"MATIC"
+            },
+            {
+               "address":"0xf6401646676a87bbd0fa952fbbe8869516cc541c",
+               "chain":"BSC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/lootex_banner.jpg",
+         "logo":"https://img.arkane.network/img/arkane.market/lootex_icon.png",
+         "socials":[
+           {
+               "type":"medium",
+               "value":"https://medium.com/lootex"
+            }
+           ,
+            {
+               "type":"telegram",
+               "value":"https://t.me/lootexIO"
+            }
+           ,
+            {
+               "type":"facebook",
+               "value":"https://facebook.com/lootex.io"
+            }
+         ]
+      }
+      ,
+      {
          "name":"REVV Racing",
          "publicIdentifier": "REVVRacing",
          "verified":true,
