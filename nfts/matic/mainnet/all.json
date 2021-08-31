@@ -294,13 +294,23 @@
 		]
 	},
 	{
+		
 		"name": "Lootex Creator Series",
 		"description": "Built for creators by magic and heart.",
 		"address": "0x6c02d180ec61ea90e6831bfbfdd8bba8af23b90c",
 		"symbol": "",
 		"url": "dex.lootex.io",
 		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_icon.png",
-		"media": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/lootex_banner.jpg"
+			}
+	        ],
 		"type": "",
 		"verified": "true",
 		"premium": "false",
