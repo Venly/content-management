@@ -30,6 +30,7 @@
       },
       {
          "name":"Gaimin",
+		 "publicIdentifier": "gaimin_collection",
          "verified":true,
          "contracts":[
             {
