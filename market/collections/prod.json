@@ -1,6 +1,31 @@
 {
    "collections":[
       {
+         "name":"MythArt",
+         "publicIdentifier": "Myth Art",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0xa011ae350081cf76c981d47f8c10e5d695f7f42b",
+               "chain":"BSC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/MythArt_banner.jpeg",
+         "logo":"https://img.arkane.network/img/arkane.market/MythArt_logo.jpegg",
+         "socials":[
+            {
+               "type":"telegram",
+               "value":"https://t.me/joinchat/gX1G6hsi4MUwNWJl"
+            }
+           ,
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/MythNft"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Lootex",
          "publicIdentifier": "Lootex",
          "verified":true,
