@@ -37,28 +37,6 @@
 		]
 	},
 	{
-		"name": "MythArt",
-		"address": "0xa011ae350081cf76c981d47f8c10e5d695f7f42b",
-		"url": "https://myth.art/home-page",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b9ddffd5-9279-40b4-890f-ce5395ca1c3c",
-		"description": "Myth Art offers a huge collection of original NFT works for users to collect and a free limited-edition card every day. They are committed to enabling users to get their first NFT asset.",
-		"verified": "true",
-		"premium": "true",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/94ceb3c6-cc9c-4884-b4d9-e74094135ae5"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c6b465b1-38b9-46fe-b1b7-640d8a5f9090"
-			}
-	        ],
-		"categories": [
-			"digital_art"
-		]
-	},
-	{
 		"name": "Brave Frontier Heroes",
 		"address": "0x819e58e51d64ab05efa132a133de0af5089954cf",
 		"url": "https://bravefrontierheroes.com/",
