@@ -624,15 +624,6 @@
 		]
 	},
  	{
-		"name": "6ix9ine Digital Collection",
-		"address": "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
 		"name": "ASSET",
 		"address": "0x1e9dc2903cf07a047ebddb28b14174ea3a86a775",
 		"verified": "false",
