@@ -24,6 +24,28 @@
 			"digital_art"
 		]
 	},
+	{
+		"name": "MythArt",
+		"address": "0xa011ae350081cf76c981d47f8c10e5d695f7f42b",
+		"url": "https://myth.art",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b9ddffd5-9279-40b4-890f-ce5395ca1c3c",
+		"description": "Myth Art offers a huge collection of original NFT works for users to collect and a free limited-edition card every day. They are committed to enabling users to get their first NFT asset.",
+		"verified": "true",
+		"premium": "true",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/94ceb3c6-cc9c-4884-b4d9-e74094135ae5"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c6b465b1-38b9-46fe-b1b7-640d8a5f9090"
+			}
+	        ],
+		"categories": [
+			"digital_art"
+		]
+	},
 	 {
 		"name": "The Cryptoz NFT Universe",
 		"description": "Cryptoz is a fresh take on gamified NFT collectibles built on scarcity, rarity and community. Mint rare booster NFTs based on a random lottery pull, each NFT is a uniquely printed token with deep trading card attributes. Earn the in-game CryptoZ eXPerience (CZXP) token for game actions and recruiting players in your affiliate network while always seeking the most scarce of cards!",
