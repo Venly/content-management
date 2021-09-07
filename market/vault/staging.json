@@ -2,17 +2,17 @@
    "openings":[
       {
          "name":"Battle Rush",
-         "open":"2021-09-02T15:00:00.00000Z",
+         "open":"2021-09-02T15:00:00",
          "durationInMinutes":60
       },
       {
          "name":"Avatar Rush",
-         "open":"2021-09-09T15:00:00.00000Z",
+         "open":"2021-09-09T15:00:00",
          "durationInMinutes":60
       },
       {
          "name":"Lightning Rush",
-         "open":"2021-09-12T13:15:00.00000Z",
+         "open":"2021-09-12T13:15:00",
          "durationInMinutes":15
       }
    ]
