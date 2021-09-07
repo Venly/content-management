@@ -307,7 +307,12 @@
 		"symbol": "",
 		"url": "https://www.youtube.com/channel/UCG8rbF3g2AMX70yOd8vqIZg",
 		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/logal_paul_profile.png",
-		"media": "https://www.youtube.com/embed/1dFgZwpeokk",
+		"media": [
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/logan_banner.png"
+			}
+	        ],
 		"type": "",
 		"verified": "true",
 		"premium": "false",
@@ -315,6 +320,27 @@
 			"collectibles"
 		]
 	},
+		{
+		"name": "6ix9ine Digital",
+		"description": "Daniel Hernandez, known professionally as Tekashi69 or 6ix9ine, is an American rapper and songwriter. The New York born artist has taken the music industry by storm, consistently sparking outrage and controversy that has given way to a feverish popularity",
+		"address": "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726",
+		"symbol": "",
+		"url": "https://www.instagram.com/6ix9ine/?hl=en",
+		"imageUrl": "https://pbs.twimg.com/media/EhCdO35VoAItK0C.jpg",
+		"media": [
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/tekashi_banner.png"
+			}
+	        ],
+		"type": "",
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"collectibles"
+		]
+	},
+
 	{
 		
 		"name": "Lootex Creator Series",
@@ -519,6 +545,12 @@
 		"address": "0x53ac5ed41bfe023c8b0ee5c80380d19756af7df9",
 		"verified": "true",
 		"premium": "true",
+		"media": [
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/lewis_banner.jpg"
+			}
+	        ],
 		"categories": [
 			"collectibles"
 		]
@@ -585,15 +617,6 @@
 		"name": "WiV Wine",
 		"address": "0xfc5be93dd225359b614236ee2262a6c02a1095c2",
 		"description": "WiV makes it easier for producers and merchants to offer their wares, distributors to know where specific bottles are, and buyers to understand the provenance of what they are buying. WiV is working with producers to tokenize entire vintages of investment-grade wine, significantly increasing the volume of wine assets on the platform and ensuring this wine has a digital record of its provenance from the moment that it is bottled.",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"name": "6ix9ine Digital Collection",
-		"address": "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726",
 		"verified": "true",
 		"premium": "false",
 		"categories": [
