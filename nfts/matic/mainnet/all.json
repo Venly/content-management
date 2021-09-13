@@ -784,6 +784,14 @@
 		"categories": [
 			"collectibles"
 		]
+	},
+ 	{
+		"address": " 0x4372597f1c600d86598675dcb6cf5713bb7525cf",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
 	}
 	
  ]
