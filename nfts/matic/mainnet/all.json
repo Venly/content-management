@@ -37,6 +37,28 @@
 		]
 	},
 	{
+		"name": "Snook",
+		"address": "0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
+		"url": "https://playsnook.com/",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02",
+		"description": "Snook is a unique NFT Game. It's like Snake much like Bruce Banner is like the Hulk. A kill-or-be-killed adrenaline charged multiplayer game that is pioneering NFT game characters. That means players' performance directly affects the NFT face value - or if you play an awesome game you'll make a killing.",
+		"verified": "true",
+		"premium": "true",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/a4d7752f-9b25-4e41-8df9-0cba0c111e47"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292"
+			}
+	        ],
+		"categories": [
+			"game_items"
+		]
+	},
+	{
 		"name": "Brave Frontier Heroes",
 		"address": "0x819e58e51d64ab05efa132a133de0af5089954cf",
 		"url": "https://bravefrontierheroes.com/",
