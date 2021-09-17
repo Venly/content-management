@@ -1,6 +1,36 @@
 {
    "collections":[
       {
+         "name":"Snook",
+         "publicIdentifier": "Snook",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02",
+         "socials":[
+            {
+               "type":"telegram",   
+               "value":"https://t.me/playsnook_com"
+            }
+           ,
+           {
+               "type":"discord",   
+               "value":"https://discord.gg/f7QQyJC4Ug"
+            }
+           ,
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/Playsnook_com"
+            }
+         ]
+      }
+      ,
+      {
          "name":"MythArt",
          "publicIdentifier": "Myth Art",
          "verified":true,
@@ -11,7 +41,7 @@
             }
          ],
          "banner":"https://img.arkane.network/img/arkane.market/MythArt_banner.jpeg",
-         "logo":"https://img.arkane.network/img/arkane.market/MythArt_logo.jpegg",
+         "logo":"https://img.arkane.network/img/arkane.market/MythArt_logo.jpeg",
          "socials":[
             {
                "type":"telegram",
