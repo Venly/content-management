@@ -124,6 +124,9 @@
    },
    {
 	"address": "0x346cebe796d25943472f4f2decac9e23a8a954d6",
-	"scam": true
+	"scam": true,
+     "categories": [
+        "collectibles", "scam"
+      ]
    }
 ]
