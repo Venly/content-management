@@ -31,6 +31,27 @@
       }
       ,
       {
+         "name":"Cryptotars",
+         "publicIdentifier": "Cryptotars",
+         "description":"The Cryptotars are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person and stored on the Polygon (Matic) blockchain",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/9d4595bc-7afc-4221-b0ab-6733b0d58daf",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/0097b85c-262f-4ac4-b11d-c3fac103fbbf",
+         "socials":[
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/cryptotarsnft"
+            }
+         ]
+      }
+      ,
+      {
          "name":"MythArt",
          "publicIdentifier": "Myth Art",
          "verified":true,
