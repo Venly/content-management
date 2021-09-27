@@ -295,6 +295,7 @@
       ,
         {
          "name":"MarbleCards",
+         "publicIdentifier": "MarbleCards",
          "verified":true,
          "contracts":[
             {
@@ -322,6 +323,7 @@
       ,
       {
          "name":"NFT Hub",
+         "publicIdentifier": "NFTHub",
          "verified":true,
          "contracts":[
             {
@@ -353,6 +355,7 @@
       ,
       {
          "name":"The Cryptoz NFT Universe",
+         "publicIdentifier": "Cryptoznftuniverse",
          "verified":true,
          "contracts":[
             {
@@ -380,6 +383,7 @@
       ,
       {
          "name":"Battle Racers",
+         "publicIdentifier": "BattleRacers",
          "verified":true,
          "contracts":[
             {
@@ -452,6 +456,7 @@
       ,
       {
          "name":"Polychain Monsters",
+         "publicIdentifier": "PolychainMonsters",
          "verified":true,
          "contracts":[
             {
@@ -484,6 +489,7 @@
       ,
       {
          "name":"Venly NFT",
+         "publicIdentifier": "VenlyNFT",
          "verified":true,
          "contracts":[
             {
@@ -511,6 +517,7 @@
       ,
       {
          "name":"CryptoPick",
+         "publicIdentifier": "CryptoPick",
          "verified":true,
          "contracts":[
             {
@@ -543,6 +550,7 @@
       ,
       {
          "name":"House of Kibaa",
+         "publicIdentifier": "House of Kibaa",
          "verified":true,
          "contracts":[
             {
@@ -570,6 +578,7 @@
       ,
       {
          "name":"Aavegotchi",
+         "publicIdentifier": "Aavegotchi",
          "verified":true,
          "contracts":[
             {
@@ -602,6 +611,7 @@
       ,
        {
          "name":"Noft Games",
+         "publicIdentifier": "NoftGames",
          "verified":true,
          "contracts":[
             {
