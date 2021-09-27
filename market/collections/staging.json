@@ -1,5 +1,20 @@
 {
   "collections": [
-    
+    {
+         "name":"Puzzle in a Bag",
+		     "publicIdentifier": "piab",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x2aaaee990f595f21a88c1264f57d617ece271bd3",
+               "chain":"MATIC"
+            }
+         "socials":[
+            {
+               "type":"Instagram",
+               "value":"@battleracers"
+            }
+         ]
+      }
   ]
 }
