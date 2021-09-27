@@ -19,6 +19,28 @@
 		]
 	},
 	{
+		"name": "Cryptotars",
+		"address": "0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
+		"url": "https://polygonscan.com/token/0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0097b85c-262f-4ac4-b11d-c3fac103fbbf",
+		"description": "The Cryptotars are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person and stored on the Polygon (Matic) blockchain.",
+		"verified": "true",
+		"premium": "false",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/23b98d18-a1be-4d00-b246-4a463be0d46f"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9d4595bc-7afc-4221-b0ab-6733b0d58daf"
+			}
+	        ],
+		"categories": [
+			"game_items"
+		]
+	},
+	{
 		"name": "ZED RUN",
 		"address": "0xa5f1ea7df861952863df2e8d1312f7305dabf215",
 		"url": "https://zed.run/",
