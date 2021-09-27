@@ -186,8 +186,8 @@
       }
       ,
       {
-         "name":"Brave Frontier Heroe",
-         "publicIdentifier": "BraveFrontierHeroe",
+         "name":"Brave Frontier Heroes",
+         "publicIdentifier": "BraveFrontierHeroes",
          "verified":true,
          "contracts":[
             {
