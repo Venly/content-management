@@ -395,30 +395,31 @@
       }
       ,
       {
-         "name":"Trade Race Manager by IOI",
+         "name":"QORPO",
+         "publicIdentifier": "QORPO",
          "verified":true,
-         "description": "IOI Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
-         "logo":"https://img.arkane.network/img/arkane.market/ioi-logo.png",
+         "description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
+         "logo":"https://img.arkane.network/img/arkane.market/QORPO-logo.png",
          "contracts":[
             {
                "address":"0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
                "chain":"MATIC"
             }
          ],
-         "banner":"https://img.arkane.network/img/arkane.market/ioi_banner.jpg",
+         "banner":"https://img.arkane.network/img/arkane.market/QORPO-banner.png",
          "socials":[
             {
                "type":"twitter",
-               "value":"https://twitter.com/ioi_game"
+               "value":"https://twitter.com/trmgame"
             },
            {
                "type":"telegram",
-               "value":"https://t.me/IOIGAME"
+               "value":"https://t.me/trmgame"
             }
            ,
             {
                "type":"facebook",
-               "value":"https://www.facebook.com/IOI-Game-103864621267922/"
+               "value":"https://www.facebook.com/trmgame"
             }
             ,
             {
