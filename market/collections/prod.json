@@ -31,6 +31,36 @@
       }
       ,
       {
+         "name":"NFL Helmet Madness",
+         "publicIdentifier": "NFLHelmetMadness",
+         "description": "NFT Helmets Madness is a collection of 10000 algorithmically generated NFL helmet designs crafted from a selection of over 200 unique traits and minted as NFTs. Each NFT Helmet is created using a unique combination of Shells, Face Masks, Top Shell Graphics layers, Bottom Shell Graphics layers, Backgrounds, and more. If you are a sports fan and love NFL helmet designs like we are, you can grab a cool NFL Madness Helmet collectible early. Be a proud owner of an awesome and unique NFL helmet design",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x235f313caf4f3e8c079013d538b0346e2e190645",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/ff4d0392-fe6d-4df0-b535-f8f53b59a93f",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/e77f8d45-9a27-4a4d-bb27-ba11c2e86b3d",
+         "socials":[
+           {
+               "type":"instagram",   
+               "value":"https://www.instagram.com/nflhelmetnft"
+            }
+           ,
+            {
+               "type":"twitter",
+               "value":"https://twitter.com/NFLHelmetNFT"
+            },
+            {
+               "type":"facebook",
+               "value":"https://www.facebook.com/NFL-Helmet-Madness-108497891588912"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Cryptotars",
          "publicIdentifier": "Cryptotars",
          "description":"The Cryptotars are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person and stored on the Polygon (Matic) blockchain",
