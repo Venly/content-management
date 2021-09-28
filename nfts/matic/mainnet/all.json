@@ -19,6 +19,28 @@
 		]
 	},
 	{
+		"name": "NFL Helmet Madness",
+		"address": "0x235f313caf4f3e8c079013d538b0346e2e190645",
+		"url": "https://nflhelmetmadness.online/",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/e77f8d45-9a27-4a4d-bb27-ba11c2e86b3d",
+		"description": "NFT Helmets Madness is a collection of 10000 algorithmically generated NFL helmet designs crafted from a selection of over 200 unique traits and minted as NFTs. Each NFT Helmet is created using a unique combination of Shells, Face Masks, Top Shell Graphics layers, Bottom Shell Graphics layers, Backgrounds, and more. If you are a sports fan and love NFL helmet designs like we are, you can grab a cool NFL Madness Helmet collectible early. Be a proud owner of an awesome and unique NFL helmet design.",
+		"verified": "true",
+		"premium": "false",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ee7f5c6e-39d2-4471-b80e-3e3bfca29db1"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ff4d0392-fe6d-4df0-b535-f8f53b59a93f"
+			}
+	        ],
+		"categories": [
+			"collectibles"
+		]
+	},
+	{
 		"name": "Cryptotars",
 		"address": "0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
 		"url": "https://polygonscan.com/token/0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
@@ -37,7 +59,7 @@
 			}
 	        ],
 		"categories": [
-			"game_items"
+			"collectibles"
 		]
 	},
 	{
