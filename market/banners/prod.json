@@ -33,15 +33,15 @@
         "value": "collection/Puzzle in a Bag"
       }  
     },
-    {
+   {
       "category": "all",
-      "tagline": "Improve your gear and explore the streetscapes of Neon District",
-      "banner": "https://cdn.cloudflare.steamstatic.com/steam/apps/1171610/capsule_616x353.jpg?t=1624819768",
-      "style": "primary",
+      "tagline": "Join our Discord: and get notified about exclusive drops",
+      "banner": "https://img.arkane.network/img/arkane.market/Discord.png",
+      "style": "dark",
       "cta": {
-        "type": "redirect",
-        "text": "Upgrade gear",
-        "value": "collection/Neon District"
+        "type": "externalRedirect",
+        "text": "Join Discord",
+        "value": "https://venly.io/discord"
       }
     }
   ]
