@@ -1,5 +1,21 @@
+
 {
    "collections":[
+      {
+         "name":"Puzzle in a Bag",
+         "publicIdentifier": "Puzzle in a Bag",
+         "verified":true,
+         "description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
+         "contracts":[
+            {
+               "address":"0xf81e107ff398043c1faec02e684960a8007ff145",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg",
+         "logo":"https://img.arkane.network/marketing/PIAB/logo.png"
+      }
+      ,
       {
          "name":"Snook",
          "publicIdentifier": "Snook",
@@ -30,6 +46,7 @@
          ]
       }
       ,
+      
       {
          "name":"NFL Helmet Madness",
          "publicIdentifier": "NFLHelmetMadness",
