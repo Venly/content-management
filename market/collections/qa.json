@@ -2,7 +2,7 @@
    "collections":[
       {
          "name":"Battle Racers #2",
-		 "publicIdentifier": "BattleRacers2",
+         "publicIdentifier":"BattleRacers2",
          "verified":true,
          "contracts":[
             {
@@ -30,7 +30,7 @@
       },
       {
          "name":"Gaimin",
-		 "publicIdentifier": "gaimin_collection",
+         "publicIdentifier":"gaimin_collection",
          "verified":true,
          "contracts":[
             {
@@ -44,37 +44,45 @@
                "type":"twitter",
                "value":"https://twitter.com/polychainmon"
             },
-           {
+            {
                "type":"discord",
                "value":"https://discord.com/invite/2JBNG9C3vz"
-            }
-           ,
+            },
             {
                "type":"medium",
                "value":"https://medium.com/polychainmonsters"
-            }
-            ,
+            },
             {
                "type":"telegram",
                "value":"https://t.me/polychainmonsters"
-            }
-            ,
+            },
             {
                "type":"youtube",
                "value":"https://www.youtube.com/watch?v=VeeRxGe9OK0"
-            }
-            ,
+            },
             {
                "type":"facebook",
                "value":"https://www.facebook.com/ArkaneNetwork/"
-            }
-            ,
+            },
             {
                "type":"instagram",
                "value":"https://www.instagram.com/ester_espositox/"
             }
-
          ]
+      },
+      {
+         "name":"Snook",
+         "publicIdentifier":"Snook",
+         "verified":true,
+         "premium":true,
+         "contracts":[
+            {
+               "address":"0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02"
       }
    ]
 }
