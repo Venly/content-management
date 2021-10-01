@@ -2,7 +2,7 @@
   "collections": [
     {
          "name":"Puzzle in a Bag",
-		     "publicIdentifier": "piab",
+		 "publicIdentifier": "piab",
          "verified":true,
          "contracts":[
             {
@@ -13,6 +13,22 @@
             {
                "type":"Instagram",
                "value":"@battleracers"
+            }
+         ]
+      },
+	  {
+         "name":"Space Chickens",
+		 "publicIdentifier": "SpaceChickens",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x753d61c8a7b7a6e8adb6c759eb49190ef6a24401",
+               "chain":"MATIC"
+            }],
+         "socials":[
+            {
+               "type":"Discord",
+               "value":"@spacechicks"
             }
          ]
       }
