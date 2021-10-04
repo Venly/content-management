@@ -32,18 +32,18 @@
             }
          ]
       },{
-         "name":"Snook",
-         "publicIdentifier":"Snook",
+         "name":"Crypto Pick",
+         "publicIdentifier":"CryptoPick",
          "verified":true,
          "premium":true,
          "contracts":[
             {
-               "address":"0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
+               "address":"0x8b7647ee5a8ef0fc93a2876835faf7be3fbf2085",
                "chain":"MATIC"
             }
          ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02"
+         "banner":"https://staging.cryptopick.net/images/avatars/parts/base/dragongold.svg",
+         "logo":"https://staging.cryptopick.net/images/avatars/parts/base/dragongold.svg"
       }
   ]
 }
