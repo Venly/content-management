@@ -77,7 +77,7 @@
          "premium":true,
          "contracts":[
             {
-               "address":"0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
+               "address":"0xe80f3baa739c18fd4ebf97716529a4b85be464dd",
                "chain":"MATIC"
             }
          ],
