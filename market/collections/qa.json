@@ -34,7 +34,7 @@
          "verified":true,
          "contracts":[
             {
-               "address":"0x475a04288882a8e200bbd34489dcda38035dde26",
+               "address":"0x475a04288882a8e200bbd34489dcda38035DDE26",
                "chain":"MATIC"
             }
          ],
