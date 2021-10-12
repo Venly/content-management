@@ -2,6 +2,37 @@
 {
    "collections":[
       {
+         "name":"Cyberpong",
+         "publicIdentifier": "Cyberpong",
+         "verified":true,
+         "description": "Should you hold one of these access-cards, the Inner Circle will greet you with open arms. Holding 1 of 6106 Cyberpong NFTs grants an array of benefits in-game and within reality. One key benefit that holders favor most is the complimentary REAL LIFE VIP access to all featured clubs within the Metaverse. While aggressively expanding to other major primate cities like Rio De Janeiro, Tokyo, and even Berlin, Cyberpong is disrupting the future of online entertainment and gaming with a few twists and turns that will keep you coming back.",
+         "contracts":[
+            {
+               "address":"0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/d9b1ab1d-9309-4a21-84c3-23e4c8044f9d",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
+         "socials":[
+            {
+               "type":"discord",   
+               "value":"https://discord.gg/7ecxtB3UEW"
+            }
+           ,
+           {
+               "type":"twitter",   
+               "value":"https://twitter.com/cyberpongworld"
+            }
+           ,
+            {
+               "type":"instagram",
+               "value":"https://instagram.com/CyberpongWorld"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Puzzle in a Bag",
          "publicIdentifier": "Puzzle in a Bag",
          "verified":true,
