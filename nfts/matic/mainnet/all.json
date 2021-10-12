@@ -1,5 +1,22 @@
 [ 
 	{
+		"name": "Cyberpong",
+		"url": "https://www.cyberpong.net",
+		"address": "0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
+		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8c802225-7774-4374-8d6d-e62a79ee415b"
+			}
+	        ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+	},
+	{
 		"name": "House of Kibaa",
 		"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
 		"imageUrl":"https://img.arkane.network/img/arkane.market/hok_hero.png",
