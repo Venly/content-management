@@ -892,6 +892,9 @@
 		"categories": [
 			"game_items"
 		]
-	}
-	
+	},
+	{
+	  "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
+	  "categories": ["scam"]
+        }
  ]
