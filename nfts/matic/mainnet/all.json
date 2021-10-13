@@ -540,7 +540,7 @@
 
 	},
 	{
-		"name": "Trade Race Manager by IOI",
+		"name": "Trade Race Manager",
 		"description": "IOI Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
 		"address": "0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
 		"symbol": "TRM",
@@ -897,4 +897,19 @@
 	  "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
 	  "categories": ["scam"]
         }
+	,
+	{
+	  "address": "0x55749566d0d7ff869138a0005ec73166e2e785d2",
+	  "categories": ["scam"]
+    }
+	,
+	{
+	  "address": "0xc539d6c8a5441f43206f0b77a0b4a0c4d6f07ab0",
+	  "categories": ["scam"]
+    }
+    ,
+	{
+	  "address": "0x36a8377e2bb3ec7d6b0f1675e243e542eb6a4764",
+	  "categories": ["scam"]
+    }
  ]
