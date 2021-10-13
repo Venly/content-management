@@ -912,10 +912,18 @@
 	  "address": "0x36a8377e2bb3ec7d6b0f1675e243e542eb6a4764",
 	  "categories": ["scam"]
     }
-
+    ,
+	{
+	  "address": "0xfaf99bfa12ee5189648e5650170f12450801a056",
+	  "categories": ["scam"]
+    }
     ,
 	{
 	  "address": "0xf64c73664463fdb8211777b635f6349588f1848c",
+	  "categories": ["scam"]
+    },
+    {
+	  "address": "0x2eb320d14cc4a95fbbb156eb3e2172259570bdb7",
 	  "categories": ["scam"]
     }
  ]
