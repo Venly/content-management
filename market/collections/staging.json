@@ -1,5 +1,27 @@
 {
   "collections": [
+	  {
+         "name":"ZED Pass - NASCAR",
+         "publicIdentifier":"zed-pass-nascar",
+         "description":"The NASCAR NFT Collection is in celebration of the world’s most iconic auto racing brand, and its expansion into the metaverse with ZED RUN. The collaborative collection includes 1,000 NASCAR ZED Passes, the inaugural installment of the ZED Pass, a new standalone NFT that will reward holders and unlock future in-game utility.",
+         "verified":true,
+         "premium":true,
+         "contracts":[
+            {
+               "address":"0x728343feeab776a591645f0679479541ef041ec9",
+               "chain":"MATIC"
+            }
+         ],
+	"socials":[
+            {"type": "twitter", "value" : "https://www.twitter.com/zed_run"},
+            {"type": "telegram", "value" : "https://t.me/joinchat/Tq0wUgj_L4zQ4a_m"},
+            {"type": "medium", "value" : "https://www.medium.com/@zed_run"},
+            {"type": "discord", "value" : "https://discord.gg/zedrun"},
+            {"type": "instagram", "value" : "https://www.instagram.com/zed.run"}
+         ],
+         "banner":"https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600",
+         "logo":"https://lh3.googleusercontent.com/Q19fJSGvGRRru8FGkpIm734cXNEo9Ag0bXA4X5r4Zboe6TyZRzCM6z_C9vIGhiahvlC5ZZ1YytUVi3MaSP41gqJnrFwa1OVJDsxx=s130"
+      },
     {
          "name":"Puzzle in a Bag",
 		 "publicIdentifier": "piab",
