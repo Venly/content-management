@@ -1,4 +1,24 @@
 [
+     {
+      "name": "ZED Pass - NASCAR",
+      "description": "The NASCAR NFT Collection is in celebration of the world’s most iconic auto racing brand, and its expansion into the metaverse with ZED RUN. The collaborative collection includes 1,000 NASCAR ZED Passes, the inaugural installment of the ZED Pass, a new standalone NFT that will reward holders and unlock future in-game utility.",
+      "address": "0x728343feeab776a591645f0679479541ef041ec9",
+      "symbol": "",
+      "url": "https://zed.run",
+      "imageUrl": "https://lh3.googleusercontent.com/Q19fJSGvGRRru8FGkpIm734cXNEo9Ag0bXA4X5r4Zboe6TyZRzCM6z_C9vIGhiahvlC5ZZ1YytUVi3MaSP41gqJnrFwa1OVJDsxx=s130",
+      "media": [
+        {
+          "type": "image",
+          "value": "https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600"
+        }
+      ],
+      "verified": true,
+      "premium": true,
+      "type": "",
+      "categories": [
+			"game_items"
+		]
+    },
     {
       "name": "Battle Racers",
       "description": "Battle Racers is an action-packed blockchain racing game where you design, build, and race NFT cars on arcade-sized tracks. Customize your car in the garage by mixing and matching parts and weapons. Different parts have different stats and skills, contributing to your car\u2019s overall performance. Do you choose speed over handling? Firepower or defense? Create the perfect car to match your playstyle and beat other players to the finish line.",
