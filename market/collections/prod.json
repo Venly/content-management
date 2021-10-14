@@ -2,6 +2,77 @@
 {
    "collections":[
       {
+         "name":"Doctor Who - Worlds Apart",
+         "publicIdentifier": "doctorwho",
+         "verified":true,
+         "description": "Doctor Who: Worlds Apart is a free-to-play tactical card game that gives you true ownership of your NFT cards, allowing them to be traded with other players online. All packs contain a random selection of beautifully hand-drawn cards. Each card is unique with the rarity based on the different frames and serial numbers. The full game will be released  in 2022, but you can download the Deck Builder right now and start planning your strategies and decks before launch by purchasing any of our premium card decks and view your cards in 3D.",
+         "contracts":[
+            {
+               "address":"0xda57bc513fb80ab8aec20314dacd0be594566990",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/1858a965-366d-42d8-b8e7-e7c8a8192f13/DWWA-Banner-1400x180.png",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/03ca46f1-55d9-4afc-a830-721e4adcce1d/DWWA-Logo-144x144.png",
+         "socials":[
+            {
+               "type":"discord",   
+               "value":"https://discord.gg/djxE3nq"
+            }
+           ,
+           {
+               "type":"twitter",   
+               "value":"https://twitter.com/DoctorWhoWA"
+            }
+           ,
+            {
+               "type":"instagram",
+               "value":"https://www.instagram.com/doctor_who_worlds_apart/"
+            }
+             ,
+            {
+               "type":"youtube",
+               "value":"https://www.youtube.com/channel/UCXWeMio9c_rrbMJgojaPo2A"
+            }
+             ,
+            {
+               "type":"telegram",
+               "value":"https://t.me/joinchat/GGcBYVJqYvGwoOwXI0KSJw"
+            }
+         ]
+      },
+      {
+         "name":"Cyberpong",
+         "publicIdentifier": "Cyberpong",
+         "verified":true,
+         "description": "Should you hold one of these access-cards, the Inner Circle will greet you with open arms. Holding 1 of 6106 Cyberpong NFTs grants an array of benefits in-game and within reality. One key benefit that holders favor most is the complimentary REAL LIFE VIP access to all featured clubs within the Metaverse. While aggressively expanding to other major primate cities like Rio De Janeiro, Tokyo, and even Berlin, Cyberpong is disrupting the future of online entertainment and gaming with a few twists and turns that will keep you coming back.",
+         "contracts":[
+            {
+               "address":"0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/d9b1ab1d-9309-4a21-84c3-23e4c8044f9d",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
+         "socials":[
+            {
+               "type":"discord",   
+               "value":"https://discord.gg/7ecxtB3UEW"
+            }
+           ,
+           {
+               "type":"twitter",   
+               "value":"https://twitter.com/cyberpongworld"
+            }
+           ,
+            {
+               "type":"instagram",
+               "value":"https://instagram.com/CyberpongWorld"
+            }
+         ]
+      }
+      ,
+      {
          "name":"Puzzle in a Bag",
          "publicIdentifier": "Puzzle in a Bag",
          "verified":true,
@@ -475,6 +546,10 @@
          "contracts":[
             {
                "address":"0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
+               "chain":"MATIC"
+            },
+            {
+               "address":"0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
                "chain":"MATIC"
             }
          ],

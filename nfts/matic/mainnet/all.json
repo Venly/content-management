@@ -1,5 +1,22 @@
 [ 
 	{
+		"name": "Cyberpong",
+		"url": "https://www.cyberpong.net",
+		"address": "0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
+		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8c802225-7774-4374-8d6d-e62a79ee415b"
+			}
+	        ],
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+	},
+	{
 		"name": "House of Kibaa",
 		"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
 		"imageUrl":"https://img.arkane.network/img/arkane.market/hok_hero.png",
@@ -21,9 +38,16 @@
 	},
 	{
 		"name": "Doctor Who - Worlds Apart",
+		"url": "https://doctorwho-worldsapart.com/",
 		"address": "0xda57bc513fb80ab8aec20314dacd0be594566990",
 		"verified": "true",
 		"premium": "true",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b4bbb237-d072-41fc-aa54-37d9ccd7af6f/Hero-image-600x316.png"
+			}
+	        ],
 		"categories": [
 			"collectibles"
 		]
@@ -516,7 +540,7 @@
 
 	},
 	{
-		"name": "Trade Race Manager by IOI",
+		"name": "Trade Race Manager",
 		"description": "IOI Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
 		"address": "0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
 		"symbol": "TRM",
@@ -868,6 +892,38 @@
 		"categories": [
 			"game_items"
 		]
-	}
-	
+	},
+	{
+	  "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
+	  "categories": ["scam"]
+        }
+	,
+	{
+	  "address": "0x55749566d0d7ff869138a0005ec73166e2e785d2",
+	  "categories": ["scam"]
+    }
+	,
+	{
+	  "address": "0xc539d6c8a5441f43206f0b77a0b4a0c4d6f07ab0",
+	  "categories": ["scam"]
+    }
+    ,
+	{
+	  "address": "0x36a8377e2bb3ec7d6b0f1675e243e542eb6a4764",
+	  "categories": ["scam"]
+    }
+    ,
+	{
+	  "address": "0xfaf99bfa12ee5189648e5650170f12450801a056",
+	  "categories": ["scam"]
+    }
+    ,
+	{
+	  "address": "0xf64c73664463fdb8211777b635f6349588f1848c",
+	  "categories": ["scam"]
+    },
+    {
+	  "address": "0x2eb320d14cc4a95fbbb156eb3e2172259570bdb7",
+	  "categories": ["scam"]
+    }
  ]
