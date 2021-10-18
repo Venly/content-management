@@ -10,6 +10,11 @@
         {
           "type": "image",
           "value": "https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600"
+        },
+	      
+        {
+          "type": "banner",
+          "value": "https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600"
         }
       ],
       "verified": true,
