@@ -900,5 +900,9 @@
     {
 	  "address": "0x2eb320d14cc4a95fbbb156eb3e2172259570bdb7",
 	  "categories": ["scam"]
+    },
+    {
+	  "address": "0xe88a01752657d5631456856702beba0b7aecabc1",
+	  "categories": ["scam"]
     }
  ]
