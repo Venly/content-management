@@ -1,6 +1,71 @@
 
 {
    "collections":[
+      	{
+         "name":"Chicken Derby",
+         "publicIdentifier": "ChickenDerby",
+         "verified":true,
+         "description": "Chicken Derby is a fun and exciting game where you can own and race your chicken to earn ETH. Brought to you by the makers of Ganja Farmer.",
+         "contracts":[
+            {
+               "address":"0x8634666ba15ada4bbc83b9dbf285f73d9e46e4c2",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/chickenderby_banner.png",
+         "logo":"https://img.arkane.network/img/arkane.market/chickenderby_logo.jpeg",
+         "socials":[
+            {
+               "type":"discord",   
+               "value":"https://discord.gg/93vHQNG5Ny"
+            }
+           ,
+           {
+               "type":"twitter",   
+               "value":"https://www.twitter.com/bitlovincom"
+            }
+         ]
+    },
+    {
+         "name":"DeRace Jockey Club",
+         "publicIdentifier": "DeRaceJockeyClub",
+         "verified":true,
+         "description": "DeRace Opie Collection avatars are one-of-a-kind NFT assets that open the door to secret DeRace Jockey Club! Exclusive DeRace Jockey Club members are invited to private NFT drops, get VIP invites to dedicated in-game events and be the first to know all the latest news.",
+         "contracts":[
+            {
+               "address":"0x5f6ceaad29038435a764b59d716717500135a609",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/derace_banner.png",
+         "logo":"https://img.arkane.network/img/arkane.market/derace_logo.gif",
+         "socials":[
+            {
+               "type":"discord",   
+               "value":"https://discord.gg/67M9ckF3q3"
+            }
+           ,
+           {
+               "type":"twitter",   
+               "value":"https://www.twitter.com/deracenft"
+            }
+           ,
+            {
+               "type":"instagram",
+               "value":"https://www.instagram.com/deracenft"
+            }
+             ,
+            {
+               "type":"medium",
+               "value":"https://www.medium.com/@deracenft"
+            }
+             ,
+            {
+               "type":"telegram",
+               "value":"https://t.me/DeRaceNFT"
+            }
+         ]
+      },
       {
          "name":"Doctor Who - Worlds Apart",
          "publicIdentifier": "doctorwho",
@@ -283,7 +348,7 @@
                "chain":"MATIC"
             }
          ],
-         "banner":"",
+         "banner":"https://img.arkane.network/img/arkane.market/zed_banner.png",
          "logo":"https://img.arkane.network/img/arkane.market/zed_logo.png",
          "socials":[
            {
@@ -338,7 +403,7 @@
                "chain":"MATIC"
             }
          ],
-         "banner":"",
+         "banner":"https://img.arkane.network/img/arkane.market/riotracers_banner.png",
          "logo":"https://img.arkane.network/img/arkane.market/riot_racing_icon.png",
          "socials":[
            {
@@ -466,6 +531,7 @@
             }
          ],
          "banner":"https://img.arkane.network/img/arkane.market/goos_banner.png",
+         "logo":"https://img.arkane.network/img/arkane.market/nfthub_logo.jpeg",
          "socials":[
             
          ]
