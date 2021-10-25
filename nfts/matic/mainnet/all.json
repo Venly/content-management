@@ -1,4 +1,48 @@
 [ 
+{
+	"name": "Chicken Derby",
+	"url": "http://bitlovin.com/",
+	"address": "0x8634666ba15ada4bbc83b9dbf285f73d9e46e4c2",
+	"imageUrl":"https://img.arkane.network/img/arkane.market/chickenderby_logo.jpeg",
+	"description":"Chicken Derby is a fun and exciting game where you can own and race your chicken to earn ETH. Brought to you by the makers of Ganja Farmer.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/chickenderby_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/chickenderby_banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "DeRace Jockey Club",
+	"url": "http://derace.com/",
+	"address": "0x5f6ceaad29038435a764b59d716717500135a609",
+	"imageUrl":"https://img.arkane.network/img/arkane.market/derace_logo.gif",
+	"description":"DeRace Opie Collection avatars are one-of-a-kind NFT assets that open the door to secret DeRace Jockey Club! Exclusive DeRace Jockey Club members are invited to private NFT drops, get VIP invites to dedicated in-game events and be the first to know all the latest news",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/derace_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/derace_banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"collectibles"
+	]
+},
 	{
 		"name": "Cyberpong",
 		"url": "https://www.cyberpong.net",
