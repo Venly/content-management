@@ -371,9 +371,18 @@
 		"address": "0xE7e16f2Da731265778f87cB8D7850E31b84b7b86",
 		"url": "https://embersword.com/",
 		"imageUrl": "https://img.arkane.network/marketing/EmberSword/ember_logo.png",
-		"media": "https://img.arkane.network/marketing/EmberSword/ember_banner.jpeg",
 		"verified": "true",
 		"premium": "true",
+	        "media": [
+		      {
+			"type": "image",
+			"value": "https://img.arkane.network/img/arkane.market/embersword_hero.png"
+		      },
+		      {
+			"type": "banner",
+			"value": "https://img.arkane.network/img/arkane.market/embersword_banner.png"
+		      }
+		],
 		"categories": [
 			"game_items"
 		]
