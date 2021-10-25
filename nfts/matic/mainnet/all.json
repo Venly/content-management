@@ -152,6 +152,10 @@
 			{
 			  "type": "image",
 			  "value": "https://img.arkane.network/img/arkane.market/zed_hero.jpeg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/zed_banner.png"
 			}
 	        ],
 		"categories": [
@@ -201,6 +205,16 @@
 		"description": "Riot Racers is a play to earn car racing game where players and participants own parts of the game. Players can earn by playing the game or by simply owning parts of the game. All ownable parts of the game are in the form of verifiably owned NFTs. Players can own parts of the game including cars, gas stations, racetrack land, billboard land, and mechanic shops. Join us!",
 		"verified": "true",
 		"premium": "true",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://img.arkane.network/img/arkane.market/riotracers_hero.png"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/riotracers_banner.png"
+			}
+	        ],
 		"categories": [
 			"game_items"
 			
@@ -430,21 +444,6 @@
 		]
 	},
 	{
-		"name": "BlockTimeBuddies",
-		"description": "Original characters as crypto collectibles by Printmaker Kristiina Lehtonen",
-		"address": "0x95aa6376f3ef245acf550c62eda82941eb99ff62",
-		"symbol": "",
-		"url": "",
-		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/blocktimebuddies.png",
-		"media": "",
-		"type": "",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
-	{
 		"name": "Logan Paul Digital Collectibles",
 		"description": "Logan Paul's first edition NFTs, his own line of Pokemon-inspired non-fungible tokens (NFTs).",
 		"address": "0x1fdcf478aaa90ff95d01b751b056ca4781c38bfa",
@@ -568,7 +567,7 @@
 		"media": [
 			{
 			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/QORPO-logo.png"
+			  "value": "https://img.arkane.network/img/arkane.market/ioi_hero.jpeg"
 			},
 			{
 			  "type": "banner",
@@ -679,6 +678,12 @@
 		"address": "0x6af28284fe73e8d72e8dcc042fa0b0b0c9d17892",
 		"verified": "true",
 		"premium": "false",
+		"media": [
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/mocda_banner.png"
+			}
+	        ],
 		"categories": [
 			"digital_art"
 		]
