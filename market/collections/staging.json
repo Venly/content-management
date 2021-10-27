@@ -66,6 +66,20 @@
          ],
          "banner":"https://staging.cryptopick.net/images/avatars/parts/base/dragongold.svg",
          "logo":"https://staging.cryptopick.net/images/avatars/parts/base/dragongold.svg"
+      },
+	  {
+         "name":"VENLY-COLLECTION-TEST (updated)",
+         "publicIdentifier":"VenlyCollectionTestUpdated",
+         "verified":true,
+         "premium":true,
+         "contracts":[
+            {
+               "address":"0x92f38d8259359a60042d58ab6efc293b9923af2a",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/venly-banner.png",
+         "logo":"https://content.arkane.network/marketing/venly/contract.png"
       }
   ]
 }
