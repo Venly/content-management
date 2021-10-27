@@ -106,5 +106,20 @@
          "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292",
          "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02"
       }
+	  
+	  {
+         "name":"$Inter Fan Token",
+         "publicIdentifier":"InterFanToken",
+         "verified":true,
+         "premium":true,
+         "contracts":[
+            {
+               "address":"0x013909cf698d45f01f4c18b13532cf6451088a47",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://i.pinimg.com/originals/32/10/d8/3210d8ac7f0efa802b9ec1dd0d177113.jpg",
+         "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png"
+      }
    ]
 }
