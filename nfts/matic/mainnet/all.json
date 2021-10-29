@@ -1,4 +1,26 @@
-[ 
+[
+	{
+	"name": "FC St. Pauli",
+	"url": "https://www.fcstpauli.com/",
+	"address": "0xd886ac770de8d0391ac57550e32aef90addaf017",
+	"imageUrl":"https://img.arkane.network/img/arkane.market/pauli_logo.png",
+	"description":"Der FC St. Pauli ist ein mitgliedergeführter Stadteilverein aus Hamburg mit einer antifaschistischen Grundhaltung.  Seine Mitglieder, Fans, und Mitarbeiter stehen für Werte wie Solidarität, Toleranz, Gleichstellung ein. Die erste Mannschaft des FC St. Pauli spielt in der zweiten Bundesliga Fußball. --- The FC St. Pauli is a member-led district club from Hamburg with an anti-fascist attitude.  Its members, fans, and employees stand up for values such as solidarity, tolerance, and equality. The first team of FC St. Pauli plays football in the second Bundesliga.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/pauli_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/pauli_banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"collectibles"
+	]
+},
 	{
 	"name": "Digital Toilets by Van Marcke x Zoomers",
 	"url": "https://www.toilet.digital/",
