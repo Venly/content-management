@@ -1,4 +1,23 @@
 [ 
+	{
+	"name": "Digital Toilets by Van Marcke x Zoomers",
+	"url": "https://www.toilet.digital/",
+	"address": "0x2095b3eb02a0e26545bf9cb8000bd49fef7f7692",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/66b4c3f1-4abc-4a50-a356-e8503721d41d/Hero-image.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e0c07f7-91cb-4aa6-ae36-fcdf9b67c8a3/Banner-.png"
+		}
+        ],
+	"verified": "true",
+	"categories": [
+		"collectibles"
+	]
+},
 {
 	"name": "Chicken Derby",
 	"url": "http://bitlovin.com/",
@@ -603,7 +622,7 @@
 		"verified": "false",
 		"premium": "false",
 		"categories": [
-			"digital_art"
+			"scam"
 		]
 
 	},
@@ -619,7 +638,7 @@
 		"verified": "false",
 		"premium": "false",
 		"categories": [
-			"digital_art"
+			"scam"
 		]
 	},
 	{
@@ -634,7 +653,7 @@
 		"verified": "false",
 		"premium": "false",
 		"categories": [
-			"digital_art"
+			"scam"
 		]
 	},
 	{
@@ -649,7 +668,7 @@
 		"verified": "false",
 		"premium": "false",
 		"categories": [
-			"digital_art"
+			"scam"
 		]
 	} ,
 	{
@@ -732,10 +751,7 @@
 		"name": "Indelible Ink",
 		"address": "0x25a4aa94bf19ff9867ace23dc31a5be908d2348d",
 		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
+		"premium": "false"
 	},
  	{
 		"name": "Coin Artist 50K",
