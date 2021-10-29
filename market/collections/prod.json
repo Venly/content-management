@@ -2,6 +2,48 @@
 {
    "collections":[
       {
+         "name":"Coorest",
+         "publicIdentifier": "Coorest",
+         "verified":true,
+         "description": "Coorest is a blockchain-based solution for creating a decentralized carbon credit exchange and an easy way to invest in sustainable 'yield-bearing' assets: NFT(rees) backed by real planted trees and tokenizing these assets",
+         "contracts":[
+            {
+               "address":"0xe83da54c9626f83c4073812c944657f1c1bbec14",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/c8ec5428-5a75-429f-b85c-8d2d166af7d6/Coorest-banner.jpg",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/49566d09-5497-48fb-ad1f-b817e9a38e1c/COOREST_icon_white_background.jpeg",
+         "socials":[
+            {
+               "type":"facebook",   
+               "value":"https://www.facebook.com/CoorestOfficial"
+            }
+           ,
+           {
+               "type":"twitter",   
+               "value":"https://twitter.com/CoorestOfficial"
+            },
+           {
+               "type":"instagram",   
+               "value":"https://www.instagram.com/coorest_official/"
+            },
+           {
+               "type":"discord",   
+               "value":"https://discord.gg/fN5rMjy2"
+            },
+           {
+               "type":"linkedin",   
+               "value":"https://www.linkedin.com/company/coorest-official/"
+            },
+           {
+               "type":"reddit",   
+               "value":"https://www.reddit.com/r/Coorest_Official/"
+            }
+
+         ]
+    },
+      {
          "name":"FC St. Pauli",
          "publicIdentifier": "FCStPauli",
          "verified":true,
