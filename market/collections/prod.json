@@ -2,6 +2,43 @@
 {
    "collections":[
       {
+         "name":"FC St. Pauli",
+         "publicIdentifier": "FCStPauli",
+         "verified":true,
+         "description": "Der FC St. Pauli ist ein mitgliedergeführter Stadteilverein aus Hamburg mit einer antifaschistischen Grundhaltung.  Seine Mitglieder, Fans, und Mitarbeiter stehen für Werte wie Solidarität, Toleranz, Gleichstellung ein. Die erste Mannschaft des FC St. Pauli spielt in der zweiten Bundesliga Fußball. --- The FC St. Pauli is a member-led district club from Hamburg with an anti-fascist attitude.  Its members, fans, and employees stand up for values such as solidarity, tolerance, and equality. The first team of FC St. Pauli plays football in the second Bundesliga.",
+         "contracts":[
+            {
+               "address":"0xd886ac770de8d0391ac57550e32aef90addaf017",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/pauli_banner.png",
+         "logo":"https://img.arkane.network/img/arkane.market/pauli_logo.png",
+         "socials":[
+            {
+               "type":"facebook",   
+               "value":"https://www.facebook.com/FCSP/?fref=ts"
+            }
+           ,
+           {
+               "type":"twitter",   
+               "value":"https://twitter.com/fcstpauli?lang=de"
+            },
+           {
+               "type":"instagram",   
+               "value":"https://www.instagram.com/fcstpauli/?hl=de"
+            },
+           {
+               "type":"youtube",   
+               "value":"https://www.youtube.com/user/flimmerkiste1910"
+            },
+           {
+               "type":"twitch",   
+               "value":"http://www.twitch.tv/fcsp"
+            }
+         ]
+    },
+      {
          "name":"Digital Toilets by Van Marcke x Zoomers",
          "publicIdentifier": "DigitalToilets",
          "verified":true,
