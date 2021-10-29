@@ -1,6 +1,20 @@
 
 {
    "collections":[
+      {
+         "name":"Digital Toilets by Van Marcke x Zoomers",
+         "publicIdentifier": "DigitalToilets",
+         "verified":true,
+         "description": "Digital toilets is a joint project of Van Marcke & Zoomers launched for the biennial interior exhibition of Kortrijk (Belgium) & Wonder Festival.",
+         "contracts":[
+            {
+               "address":"0x2095b3eb02a0e26545bf9cb8000bd49fef7f7692",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e0c07f7-91cb-4aa6-ae36-fcdf9b67c8a3/Banner-.png",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/66b4c3f1-4abc-4a50-a356-e8503721d41d/Hero-image.png",
+    },
       	{
          "name":"Chicken Derby",
          "publicIdentifier": "ChickenDerby",
