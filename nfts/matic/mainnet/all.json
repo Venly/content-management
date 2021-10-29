@@ -1,5 +1,27 @@
 [
 	{
+	"name": "Coorest",
+	"url": "https://www.coorest.eu",
+	"address": "0xe83da54c9626f83c4073812c944657f1c1bbec14",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/49566d09-5497-48fb-ad1f-b817e9a38e1c/COOREST_icon_white_background.jpeg",
+	"description":"Coorest is a blockchain-based solution for creating a decentralized carbon credit exchange and an easy way to invest in sustainable 'yield-bearing' assets: NFT(rees) backed by real planted trees and tokenizing these assets",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/04ecdfa2-7304-41cf-8484-a6e4da47e403/Token-V2-COOREST.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c8ec5428-5a75-429f-b85c-8d2d166af7d6/Coorest-banner.jpg"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+},
+	{
 	"name": "FC St. Pauli",
 	"url": "https://www.fcstpauli.com/",
 	"address": "0xd886ac770de8d0391ac57550e32aef90addaf017",
