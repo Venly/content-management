@@ -2,6 +2,19 @@
 {
    "collections":[
       {
+         "name":"Original Mood Ring",
+         "publicIdentifier": "OriginalMoodRing",
+         "verified":true,
+         "contracts":[
+            {
+               "address":"0x13783c734918f0fb149897238960edf2d3553e85",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/c4957b4e-c234-4c96-9415-28b67918ecc8/F9A0BEDA-0096-4894-98DA-D9031E4EF648.jpeg"
+    },
+      {
          "name":"Coorest",
          "publicIdentifier": "Coorest",
          "verified":true,
