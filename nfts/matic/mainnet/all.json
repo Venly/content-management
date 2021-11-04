@@ -1,5 +1,20 @@
 [
 	{
+	"name": "Original Mood Ring",
+	"address": "0x13783c734918f0fb149897238960edf2d3553e85",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bf776eca-240e-4324-9a36-48c2fdd6952c/2A2347F2-344F-4B5B-BF1F-5ADA3595BC59.jpeg"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+        },
+	{
 	"name": "Coorest",
 	"url": "https://www.coorest.eu",
 	"address": "0xe83da54c9626f83c4073812c944657f1c1bbec14",
