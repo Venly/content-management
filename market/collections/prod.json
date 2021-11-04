@@ -5,6 +5,7 @@
          "name":"Original Mood Ring",
          "publicIdentifier": "OriginalMoodRing",
          "verified":true,
+        "description": "Original Gold Mood RIng, a rare, historic cultural icon with significant collector's value.",
          "contracts":[
             {
                "address":"0x13783c734918f0fb149897238960edf2d3553e85",
