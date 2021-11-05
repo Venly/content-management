@@ -671,6 +671,31 @@
 
 	},
 	{
+		"name": "Trade Race Manager",
+		"description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
+		"address": "0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
+		"symbol": "TRM",
+		"url": "https://traderacemanager.com/",
+		"imageUrl": "https://img.arkane.network/img/arkane.market/QORPO-logo.png",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://img.arkane.network/img/arkane.market/ioi_hero.jpeg"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/QORPO-banner.png"
+			}
+	        ],
+		"type": "",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"game_items"
+		]
+
+	},
+	{
 		"name": "Polygon NFT Minter",
 		"description": "Mint NFTs for free on Polygon",
 		"address": "0xfd1dbd4114550a867ca46049c346b6cd452ec919",
