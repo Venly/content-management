@@ -10,6 +10,10 @@
             {
                "address":"0x13783c734918f0fb149897238960edf2d3553e85",
                "chain":"MATIC"
+            },
+            {
+               "address":"0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
+               "chain":"MATIC"
             }
          ],
          "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png",
