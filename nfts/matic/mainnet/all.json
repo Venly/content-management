@@ -15,6 +15,22 @@
 		"collectibles"
 	]
         },
+		{
+	"name": "Original Mood Ring",
+	"url":"https://moodringnft.io/",
+	"address": "0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bf776eca-240e-4324-9a36-48c2fdd6952c/2A2347F2-344F-4B5B-BF1F-5ADA3595BC59.jpeg"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+        },
 	{
 	"name": "Coorest",
 	"url": "https://www.coorest.eu",
