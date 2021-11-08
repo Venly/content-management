@@ -1,5 +1,25 @@
 {
   "collections": [
+	{
+         "name":"Karting Microgame",
+         "publicIdentifier":"KartingMicrogame",
+         "description":"The Karting Microgame is a 3D kart racing game with only one goal, complete all the laps.",
+         "verified":true,
+         "premium":true,
+         "contracts":[
+            {
+               "address":"0x29c10fec0254b084cde234036072a291b87bdf6f",
+               "chain":"MATIC"
+            }
+         ],
+	"socials":[
+             {"type": "twitter", "value" : "https://twitter.com/Venly_io"},
+             {"type": "linkedin", "value" : "https://www.linkedin.com/company/venly-io"},
+             {"type": "discord", "value" : "https://venly.io/discord"}
+         ],
+         "banner":"https://img.arkane.network/img/arkane.market/kart_banner.png",
+         "logo":"https://img.arkane.network/img/arkane.market/kart_logo.png"
+      },
 	  {
          "name":"ZED Pass - NASCAR",
          "publicIdentifier":"zed-pass-nascar",
