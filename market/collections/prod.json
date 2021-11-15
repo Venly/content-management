@@ -2,6 +2,20 @@
 {
    "collections":[
       {
+         "name":"fractalia.io",
+         "publicIdentifier": "fractalia",
+         "verified":true,
+        "description": "NFT art project which created by math itself. In fractalia every animation is a mathematically produced version of julia sets with 1000x1000 pixels resolution and 200 frames.",
+         "contracts":[
+            {
+               "address":"0x90F391cAb945749996754B464b81Ffdaa745229d",
+               "chain":"MATIC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/54c5f0da-3323-41eb-9948-e59f20205920/cover.JPG",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/10620732-ae76-48f9-af86-0be8573ba84c/cover_fr.jpg"
+    },
+      {
          "name":"Original Mood Ring",
          "publicIdentifier": "OriginalMoodRing",
          "verified":true,
