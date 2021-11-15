@@ -1,5 +1,21 @@
 [
 	{
+	"name": "fractalia.io",
+	"url":"http://fractalia.io",
+	"address": "0x90F391cAb945749996754B464b81Ffdaa745229d",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c94cbbca-b6e2-4af4-8e1c-e4355fc6aeb0/csv300.gif"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+        },
+	{
 	"name": "Original Mood Ring",
 	"url":"http://theoriginalmoodring.io/",
 	"address": "0x13783c734918f0fb149897238960edf2d3553e85",
