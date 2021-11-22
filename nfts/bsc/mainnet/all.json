@@ -1,6 +1,31 @@
 [
 	{
 		
+		"name": "SCRE4MER",
+		"description": "Have you ever screamed? What was the reason for this? Maybe you screamed out of fear or immeasurable happiness, from intolerable pain or outburst of emotion? I believe you are familiar with this, as well as the image that you see on these NFTs. We tried to imagine an abstract person or a creature that screams with joy, because fate kissed the forehead, and he’s got a cool reward in our raffle. Everyone can see himself in this character & fully become him. We believe that you will definitely get lucky. SCRE4M with us & let everyone hear it!",
+		"address": "0x1329a1c265168d3b38d73d4798cefa452a956686",
+		"symbol": "",
+		"url": "https://pixobits.org/scre4m",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/dde993d3-2bac-4f62-9402-749a18433bff/144x144.png",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e6c853d-983e-4fd1-aca2-c2ff47b21c32/600x316-banner.PNG"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58f9e113-66d0-4315-a521-fd6e49a70753/1440_180_raffle_info.PNG"
+			}
+	        ],
+		"type": "",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"digital_art"
+		]
+	},
+	{
+		
 		"name": "Lootex Creator Series",
 		"description": "Built for creators by magic and heart.",
 		"address": "0xf6401646676a87bbd0fa952fbbe8869516cc541c",
