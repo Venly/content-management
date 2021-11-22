@@ -1,6 +1,21 @@
-
 {
    "collections":[
+      {
+         "name":"SCRE4MER",
+         "publicIdentifier": "SCRE4MER",
+         "verified":true,
+        "description": "Have you ever screamed? What was the reason for this? Maybe you screamed out of fear or immeasurable happiness, from intolerable pain or outburst of emotion? I believe you are familiar with this, as well as the image that you see on these NFTs. We tried to imagine an abstract person or a creature that screams with joy, because fate kissed the forehead, and he’s got a cool reward in our raffle. Everyone can see himself in this character & fully become him. We believe that you will definitely get lucky. SCRE4M with us & let everyone hear it!",
+         "contracts":[
+            {
+               "address":"0x1329a1c265168d3b38d73d4798cefa452a956686",
+               "chain":"BSC"
+            }
+         ],
+         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/58f9e113-66d0-4315-a521-fd6e49a70753/1440_180_raffle_info.PNG",
+         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/dde993d3-2bac-4f62-9402-749a18433bff/144x144.png",
+         "socials":[
+         ]
+    },
       {
          "name":"fractalia.io",
          "publicIdentifier": "fractalia",
