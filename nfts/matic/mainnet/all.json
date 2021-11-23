@@ -469,7 +469,12 @@
         "symbol": "",
         "url": "https://cryptocolosseum.com",
         "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f3e403fa-5c42-415e-8654-9a0a32fbde06",
-        "media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f7e97bb8-bf1a-4d65-95b8-1aa27c06fd99",
+        "media": [
+		{
+			"type": "banner",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f7e97bb8-bf1a-4d65-95b8-1aa27c06fd99"
+		}
+	],
         "verified": true,
         "premium": false,
         "categories": [
@@ -529,7 +534,12 @@
 		"symbol": "ARKANE-DISCOUNTS",
 		"url": "https://arkane.market",
 		"imageUrl": "https://avatars2.githubusercontent.com/u/43236946?s=200&v=4",
-		"media": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/market_discounts.png?raw=true",
+		"media": [
+			{
+				"type": "banner",
+				"value": "https://content.arkane.network/img/arkane.market/market_discounts.png"
+			}
+		],
 		"type": "ERC_1155",
 		"verified": "true",
 		"premium": "false",
@@ -734,7 +744,12 @@
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
 		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
+		"media": [
+			{
+				"type": "banner",
+				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+			}
+		],
 		"type": "",
 		"verified": "false",
 		"premium": "false",
@@ -750,7 +765,12 @@
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
 		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
+		"media": [
+			{
+				"type": "banner",
+				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+			}
+		],
 		"type": "",
 		"verified": "false",
 		"premium": "false",
@@ -765,7 +785,12 @@
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
 		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
+		"media": [
+			{
+				"type": "banner",
+				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+			}
+		],
 		"type": "",
 		"verified": "false",
 		"premium": "false",
@@ -780,7 +805,12 @@
 		"symbol": "POLYGONNFT",
 		"url": "https://mintnft.today/",
 		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png",
+		"media": [
+			{
+				"type": "banner",
+				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+			}
+		],
 		"type": "",
 		"verified": "false",
 		"premium": "false",
@@ -795,7 +825,12 @@
 		"symbol": "TAAVI",
 		"url": "https://taavilehtonen.com",
 		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d6ea3397-7688-4b88-b2e2-63b7b25756f5",
-		"media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/444ac120-b4e2-49f1-837d-21124ba5d248",
+		"media": [
+			{
+				"type": "banner",
+				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/444ac120-b4e2-49f1-837d-21124ba5d248"
+			}
+		],
 		"type": "",
 		"verified": "true",
 		"premium": "true",
