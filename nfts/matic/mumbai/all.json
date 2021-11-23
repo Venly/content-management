@@ -166,13 +166,19 @@
       ]
     },
    {
-	"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
-	"scam": true
+      "address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
+      "scam": true
    },
    {
-	"address": "0x346cebe796d25943472f4f2decac9e23a8a954d6",
-	"scam": true,
-     "categories": [
+      "address": "0x346cebe796d25943472f4f2decac9e23a8a954d6",
+      "scam": true,
+      "categories": [
+        "collectibles", "scam"
+      ]
+   },
+   {
+      "address": "0x44fb30ee7c21a9f53d9ece463905b8060857f49d",
+      "categories": [
         "collectibles", "scam"
       ]
    }
