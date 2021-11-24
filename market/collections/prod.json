@@ -870,6 +870,7 @@
     {
       "name": "AlphaVerse / Beat",
       "publicIdentifier": "AlphaVerse-Beat",
+      "description": "Beat AlphaVerse is a metaverse, part of the AlphaVerse, offering unique games, experiences and a community centered around dance music.",
       "verified": true,
       "contracts": [
         {
@@ -883,7 +884,8 @@
     },
     {
       "name": "AlphaVerse / The Hub",
-      "publicIdentifier": "AlphaVerse-the-hub",
+      "publicIdentifier": "AlphaVerse-The-Hub",
+      "description": "AlphaVerse is a metaverse connecting different universes, each offering a unique experience.",
       "verified": true,
       "contracts": [
         {
@@ -897,7 +899,8 @@
     },
     {
       "name": "AlphaVerse / Atari",
-      "publicIdentifier": "AlphaVerse-atari",
+      "publicIdentifier": "AlphaVerse-Atari",
+      "description": "Atari AlphaVerse is a metaverse, part of the AlphaVerse, offering whole experience around the Atari brand.",
       "verified": true,
       "contracts": [
         {
