@@ -1,940 +1,910 @@
 {
-   "collections":[
-      {
-         "name":"SCRE4MER",
-         "publicIdentifier": "SCRE4MER",
-         "verified":true,
-        "description": "Have you ever screamed? What was the reason for this? Maybe you screamed out of fear or immeasurable happiness, from intolerable pain or outburst of emotion? I believe you are familiar with this, as well as the image that you see on these NFTs. We tried to imagine an abstract person or a creature that screams with joy, because fate kissed the forehead, and he’s got a cool reward in our raffle. Everyone can see himself in this character & fully become him. We believe that you will definitely get lucky. SCRE4M with us & let everyone hear it!",
-         "contracts":[
-            {
-               "address":"0x1329a1c265168d3b38d73d4798cefa452a956686",
-               "chain":"BSC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/58f9e113-66d0-4315-a521-fd6e49a70753/1440_180_raffle_info.PNG",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/dde993d3-2bac-4f62-9402-749a18433bff/144x144.png",
-         "socials":[
-         ]
-    },
-      {
-         "name":"fractalia.io",
-         "publicIdentifier": "fractalia",
-         "verified":true,
-        "description": "NFT art project which created by math itself. In fractalia every animation is a mathematically produced version of julia sets with 1000x1000 pixels resolution and 200 frames.",
-         "contracts":[
-            {
-               "address":"0x90F391cAb945749996754B464b81Ffdaa745229d",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/54c5f0da-3323-41eb-9948-e59f20205920/cover.JPG",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/10620732-ae76-48f9-af86-0be8573ba84c/cover_fr.jpg"
-    },
-      {
-         "name":"Original Mood Ring",
-         "publicIdentifier": "OriginalMoodRing",
-         "verified":true,
-        "description": "Original Gold Mood RIng, a rare, historic cultural icon with significant collector's value.",
-         "contracts":[
-            {
-               "address":"0x13783c734918f0fb149897238960edf2d3553e85",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/c4957b4e-c234-4c96-9415-28b67918ecc8/F9A0BEDA-0096-4894-98DA-D9031E4EF648.jpeg"
-    },
-      {
-         "name":"Coorest",
-         "publicIdentifier": "Coorest",
-         "verified":true,
-         "description": "Coorest is a blockchain-based solution for creating a decentralized carbon credit exchange and an easy way to invest in sustainable 'yield-bearing' assets: NFT(rees) backed by real planted trees and tokenizing these assets",
-         "contracts":[
-            {
-               "address":"0xe83da54c9626f83c4073812c944657f1c1bbec14",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/c8ec5428-5a75-429f-b85c-8d2d166af7d6/Coorest-banner.jpg",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/49566d09-5497-48fb-ad1f-b817e9a38e1c/COOREST_icon_white_background.jpeg",
-         "socials":[
-            {
-               "type":"facebook",   
-               "value":"https://www.facebook.com/CoorestOfficial"
-            }
-           ,
-           {
-               "type":"twitter",   
-               "value":"https://twitter.com/CoorestOfficial"
-            },
-           {
-               "type":"instagram",   
-               "value":"https://www.instagram.com/coorest_official/"
-            },
-           {
-               "type":"discord",   
-               "value":"https://discord.gg/fN5rMjy2"
-            },
-           {
-               "type":"linkedin",   
-               "value":"https://www.linkedin.com/company/coorest-official/"
-            },
-           {
-               "type":"reddit",   
-               "value":"https://www.reddit.com/r/Coorest_Official/"
-            }
-
-         ]
-    },
-      {
-         "name":"FC St. Pauli",
-         "publicIdentifier": "FCStPauli",
-         "verified":true,
-         "description": "Der FC St. Pauli ist ein mitgliedergeführter Stadteilverein aus Hamburg mit einer antifaschistischen Grundhaltung.  Seine Mitglieder, Fans, und Mitarbeiter stehen für Werte wie Solidarität, Toleranz, Gleichstellung ein. Die erste Mannschaft des FC St. Pauli spielt in der zweiten Bundesliga Fußball. --- The FC St. Pauli is a member-led district club from Hamburg with an anti-fascist attitude.  Its members, fans, and employees stand up for values such as solidarity, tolerance, and equality. The first team of FC St. Pauli plays football in the second Bundesliga.",
-         "contracts":[
-            {
-               "address":"0xd886ac770de8d0391ac57550e32aef90addaf017",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/pauli_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/pauli_logo.png",
-         "socials":[
-            {
-               "type":"facebook",   
-               "value":"https://www.facebook.com/FCSP/?fref=ts"
-            }
-           ,
-           {
-               "type":"twitter",   
-               "value":"https://twitter.com/fcstpauli?lang=de"
-            },
-           {
-               "type":"instagram",   
-               "value":"https://www.instagram.com/fcstpauli/?hl=de"
-            },
-           {
-               "type":"youtube",   
-               "value":"https://www.youtube.com/user/flimmerkiste1910"
-            },
-           {
-               "type":"twitch",   
-               "value":"http://www.twitch.tv/fcsp"
-            }
-         ]
-    },
-      {
-         "name":"Digital Toilets by Van Marcke x Zoomers",
-         "publicIdentifier": "DigitalToilets",
-         "verified":true,
-         "description": "Digital toilets is a joint project of Van Marcke & Zoomers launched for the biennial interior exhibition of Kortrijk (Belgium) & Wonder Festival.",
-         "contracts":[
-            {
-               "address":"0x2095b3eb02a0e26545bf9cb8000bd49fef7f7692",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e0c07f7-91cb-4aa6-ae36-fcdf9b67c8a3/Banner-.png",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/66b4c3f1-4abc-4a50-a356-e8503721d41d/Hero-image.png"
-    },
-      	{
-         "name":"Chicken Derby",
-         "publicIdentifier": "ChickenDerby",
-         "verified":true,
-         "description": "Chicken Derby is a fun and exciting game where you can own and race your chicken to earn ETH. Brought to you by the makers of Ganja Farmer.",
-         "contracts":[
-            {
-               "address":"0x8634666ba15ada4bbc83b9dbf285f73d9e46e4c2",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/chickenderby_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/chickenderby_logo.jpeg",
-         "socials":[
-            {
-               "type":"discord",   
-               "value":"https://discord.gg/93vHQNG5Ny"
-            }
-           ,
-           {
-               "type":"twitter",   
-               "value":"https://www.twitter.com/bitlovincom"
-            }
-         ]
+  "collections": [
+    {
+      "name": "SCRE4MER",
+      "publicIdentifier": "SCRE4MER",
+      "verified": true,
+      "description": "Have you ever screamed? What was the reason for this? Maybe you screamed out of fear or immeasurable happiness, from intolerable pain or outburst of emotion? I believe you are familiar with this, as well as the image that you see on these NFTs. We tried to imagine an abstract person or a creature that screams with joy, because fate kissed the forehead, and he’s got a cool reward in our raffle. Everyone can see himself in this character & fully become him. We believe that you will definitely get lucky. SCRE4M with us & let everyone hear it!",
+      "contracts": [
+        {
+          "address": "0x1329a1c265168d3b38d73d4798cefa452a956686",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58f9e113-66d0-4315-a521-fd6e49a70753/1440_180_raffle_info.PNG",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/dde993d3-2bac-4f62-9402-749a18433bff/144x144.png",
+      "socials": [
+      ]
     },
     {
-         "name":"DeRace Jockey Club",
-         "publicIdentifier": "DeRaceJockeyClub",
-         "verified":true,
-         "description": "DeRace Opie Collection avatars are one-of-a-kind NFT assets that open the door to secret DeRace Jockey Club! Exclusive DeRace Jockey Club members are invited to private NFT drops, get VIP invites to dedicated in-game events and be the first to know all the latest news.",
-         "contracts":[
-            {
-               "address":"0x5f6ceaad29038435a764b59d716717500135a609",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/derace_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/derace_logo.gif",
-         "socials":[
-            {
-               "type":"discord",   
-               "value":"https://discord.gg/67M9ckF3q3"
-            }
-           ,
-           {
-               "type":"twitter",   
-               "value":"https://www.twitter.com/deracenft"
-            }
-           ,
-            {
-               "type":"instagram",
-               "value":"https://www.instagram.com/deracenft"
-            }
-             ,
-            {
-               "type":"medium",
-               "value":"https://www.medium.com/@deracenft"
-            }
-             ,
-            {
-               "type":"telegram",
-               "value":"https://t.me/DeRaceNFT"
-            }
-         ]
-      },
-      {
-         "name":"Doctor Who - Worlds Apart",
-         "publicIdentifier": "doctorwho",
-         "verified":true,
-         "description": "Doctor Who: Worlds Apart is a free-to-play tactical card game that gives you true ownership of your NFT cards, allowing them to be traded with other players online. All packs contain a random selection of beautifully hand-drawn cards. Each card is unique with the rarity based on the different frames and serial numbers. The full game will be released  in 2022, but you can download the Deck Builder right now and start planning your strategies and decks before launch by purchasing any of our premium card decks and view your cards in 3D.",
-         "contracts":[
-            {
-               "address":"0xda57bc513fb80ab8aec20314dacd0be594566990",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/1858a965-366d-42d8-b8e7-e7c8a8192f13/DWWA-Banner-1400x180.png",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/03ca46f1-55d9-4afc-a830-721e4adcce1d/DWWA-Logo-144x144.png",
-         "socials":[
-            {
-               "type":"discord",   
-               "value":"https://discord.gg/djxE3nq"
-            }
-           ,
-           {
-               "type":"twitter",   
-               "value":"https://twitter.com/DoctorWhoWA"
-            }
-           ,
-            {
-               "type":"instagram",
-               "value":"https://www.instagram.com/doctor_who_worlds_apart/"
-            }
-             ,
-            {
-               "type":"youtube",
-               "value":"https://www.youtube.com/channel/UCXWeMio9c_rrbMJgojaPo2A"
-            }
-             ,
-            {
-               "type":"telegram",
-               "value":"https://t.me/joinchat/GGcBYVJqYvGwoOwXI0KSJw"
-            }
-         ]
-      },
-      {
-         "name":"Cyberpong",
-         "publicIdentifier": "Cyberpong",
-         "verified":true,
-         "description": "Should you hold one of these access-cards, the Inner Circle will greet you with open arms. Holding 1 of 6106 Cyberpong NFTs grants an array of benefits in-game and within reality. One key benefit that holders favor most is the complimentary REAL LIFE VIP access to all featured clubs within the Metaverse. While aggressively expanding to other major primate cities like Rio De Janeiro, Tokyo, and even Berlin, Cyberpong is disrupting the future of online entertainment and gaming with a few twists and turns that will keep you coming back.",
-         "contracts":[
-            {
-               "address":"0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/d9b1ab1d-9309-4a21-84c3-23e4c8044f9d",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
-         "socials":[
-            {
-               "type":"discord",   
-               "value":"https://discord.gg/7ecxtB3UEW"
-            }
-           ,
-           {
-               "type":"twitter",   
-               "value":"https://twitter.com/cyberpongworld"
-            }
-           ,
-            {
-               "type":"instagram",
-               "value":"https://instagram.com/CyberpongWorld"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Puzzle in a Bag",
-         "publicIdentifier": "Puzzle in a Bag",
-         "verified":true,
-         "description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
-         "contracts":[
-            {
-               "address":"0xf81e107ff398043c1faec02e684960a8007ff145",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg",
-         "logo":"https://img.arkane.network/marketing/PIAB/logo.png"
-      }
-      ,
-      {
-         "name":"Snook",
-         "publicIdentifier": "Snook",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02",
-         "socials":[
-            {
-               "type":"telegram",   
-               "value":"https://t.me/playsnook_com"
-            }
-           ,
-           {
-               "type":"discord",   
-               "value":"https://discord.gg/f7QQyJC4Ug"
-            }
-           ,
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/Playsnook_com"
-            }
-         ]
-      }
-      ,
-      
-      {
-         "name":"NFL Helmet Madness",
-         "publicIdentifier": "NFLHelmetMadness",
-         "description": "NFT Helmets Madness is a collection of 10000 algorithmically generated NFL helmet designs crafted from a selection of over 200 unique traits and minted as NFTs. Each NFT Helmet is created using a unique combination of Shells, Face Masks, Top Shell Graphics layers, Bottom Shell Graphics layers, Backgrounds, and more. If you are a sports fan and love NFL helmet designs like we are, you can grab a cool NFL Madness Helmet collectible early. Be a proud owner of an awesome and unique NFL helmet design",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x235f313caf4f3e8c079013d538b0346e2e190645",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/ff4d0392-fe6d-4df0-b535-f8f53b59a93f",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/e77f8d45-9a27-4a4d-bb27-ba11c2e86b3d",
-         "socials":[
-           {
-               "type":"instagram",   
-               "value":"https://www.instagram.com/nflhelmetnft"
-            }
-           ,
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/NFLHelmetNFT"
-            },
-            {
-               "type":"facebook",
-               "value":"https://www.facebook.com/NFL-Helmet-Madness-108497891588912"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Cryptotars",
-         "publicIdentifier": "Cryptotars",
-         "description":"The Cryptotars are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person and stored on the Polygon (Matic) blockchain",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/9d4595bc-7afc-4221-b0ab-6733b0d58daf",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/0097b85c-262f-4ac4-b11d-c3fac103fbbf",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/cryptotarsnft"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"MythArt",
-         "publicIdentifier": "Myth Art",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xa011ae350081cf76c981d47f8c10e5d695f7f42b",
-               "chain":"BSC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/MythArt_banner.jpeg",
-         "logo":"https://img.arkane.network/img/arkane.market/MythArt_logo.jpeg",
-         "socials":[
-            {
-               "type":"telegram",
-               "value":"https://t.me/joinchat/gX1G6hsi4MUwNWJl"
-            }
-           ,
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/MythNft"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Lootex",
-         "publicIdentifier": "Lootex",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x6c02d180ec61ea90e6831bfbfdd8bba8af23b90c",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0xf6401646676a87bbd0fa952fbbe8869516cc541c",
-               "chain":"BSC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/lootex_banner.jpg",
-         "logo":"https://img.arkane.network/img/arkane.market/lootex_icon.png",
-         "socials":[
-           {
-               "type":"medium",
-               "value":"https://medium.com/lootex"
-            }
-           ,
-            {
-               "type":"telegram",
-               "value":"https://t.me/lootexIO"
-            }
-           ,
-            {
-               "type":"facebook",
-               "value":"https://facebook.com/lootex.io"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"REVV Racing",
-         "publicIdentifier": "REVVRacing",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x51ac4a13054d5d7e1fa795439821484177e7e828",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/revv_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/revv_logo.png",
-         "socials":[
-           {
-               "type":"medium",
-               "value":"https://revv-token.medium.com/"
-            }
-           ,
-            {
-               "type":"youtube",
-               "value":"https://www.youtube.com/channel/UCf0qBtJHCyx4xcilSyPpJMA"
-            }
-           ,
-            {
-               "type":"discord",
-               "value":"https://discord.com/invite/eWn6D8pCUJ"
-            }
-           ,
-            {
-               "type":"telegram",
-               "value":"https://t.me/REVVCommunity"
-            }
-           ,
-            {
-               "type":"instagram",
-               "value":"https://www.instagram.com/revvmotorsport/"
-            }
-           ,
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/REVV_Token"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"ZED RUN",
-         "publicIdentifier": "ZED",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xa5f1ea7df861952863df2e8d1312f7305dabf215",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/zed_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/zed_logo.png",
-         "socials":[
-           {
-               "type":"discord",
-               "value":"https://discord.com/invite/zedrun"
-            }
-           ,
-            {
-               "type":"youtube",
-               "value":"https://www.youtube.com/channel/UCJ8lTFHpvsT2pJHaZk8942Q"
-            }
-            ,
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/zed_run"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Riot Racers",
-         "publicIdentifier": "RiotRacers",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x82bbf7be0eb9a6024b7a641ba179e00812bdae53",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/riotracers_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/riot_racing_icon.png",
-         "socials":[
-           {
-               "type":"discord",
-               "value":"https://discord.com/invite/riotracers"
-            }
-           ,
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/RiotRacers"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Sapien Medicine",
-         "publicIdentifier": "SapienMedicine",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/ea0b7b47-f6ab-4f60-acc0-7aa87b63b471",
-         "logo":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/0a7f7297-8cab-49a6-8fc8-f958fb9e5508",
-         "socials":[
-           {
-               "type":"instagram",
-               "value":"https://www.instagram.com/sapienmed/?hl=en"
-            }
-           ,
-            {
-               "type":"youtube",
-               "value":"https://www.youtube.com/c/SapienMedicine"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Oort Digital",
-         "publicIdentifier": "OortDigital",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xBcAC889C2De88D67d25d54B9E41626f7082232B6",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/oort_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/oort_logo.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/OortDigital"
-            },
-            {
-               "type":"medium",
-               "value":"https://medium.com/oort-digital"
-            },
-           {
-               "type":"telegram",
-               "value":"https://t.me/oortdigital"
-            }
-           ,
-            {
-               "type":"discord",
-               "value":"https://discord.com/invite/fNsaAECGaS"
-            }
-         ]
-      }
-      ,
+      "name": "fractalia.io",
+      "publicIdentifier": "fractalia",
+      "verified": true,
+      "description": "NFT art project which created by math itself. In fractalia every animation is a mathematically produced version of julia sets with 1000x1000 pixels resolution and 200 frames.",
+      "contracts": [
         {
-         "name":"MarbleCards",
-         "publicIdentifier": "MarbleCards",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/marble_banner.jpg",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/MemeExplorers"
-            },
-           {
-               "type":"telegram",
-               "value":"https://t.me/MemeExplorers"
-            }
-           ,
-            {
-               "type":"discord",
-               "value":"https://discord.gg/KY4V5MT"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"NFT Hub",
-         "publicIdentifier": "NFTHub",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xbc3bb04CAa50b9D5393f09AAa3bcafe671E29d7b",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0x453A92e38A8382F550465dd21068d757aBd2D437",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0x68C2f79ae67fA8f466815e3010fe8e0500e95366",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0x34bFb2aD92cF171ee4D6f1C4ac1E546B9c9D0345",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0x00e711094C351d1bb43123CcF8ED47230444a72F",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/goos_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/nfthub_logo.jpeg",
-         "socials":[
-            
-         ]
-      }
-      ,
-      {
-         "name":"The Cryptoz NFT Universe",
-         "publicIdentifier": "Cryptoznftuniverse",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x8a0C542bA7bBBab7cF3551fFcc546CdC5362d2a1",
-               "chain":"BSC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/871eb3b8-cbb7-4395-982e-da6301217742",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/CryptozNFT"
-            },
-           {
-               "type":"telegram",
-               "value":"https://t.me/cryptozcard"
-            }
-           ,
-            {
-               "type":"medium",
-               "value":"https://cryptoz-cards.medium.com/"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Battle Racers",
-         "publicIdentifier": "BattleRacers",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x7f8d8f602c37999385f370b11c6075d53ae94f52",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/battle_racers_banner.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/BattleRacers"
-            },
-           {
-               "type":"telegram",
-               "value":"https://t.me/battleracers"
-            }
-           ,
-            {
-               "type":"medium",
-               "value":"https://medium.com/battle-racers"
-            }
-            ,
-            {
-               "type":"discord",
-               "value":"https://discord.gg/gfEPSra"
-            }
-            ,
-            {
-               "type":"facebook",
-               "value":"https://www.facebook.com/battleracersgame/"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Trade Race Manager",
-         "publicIdentifier": "TradeRaceManager",
-         "verified":true,
-         "description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
-         "logo":"https://img.arkane.network/img/arkane.market/QORPO-logo.png",
-         "contracts":[
-            {
-               "address":"0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/QORPO-banner.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/trmgame"
-            },
-           {
-               "type":"telegram",
-               "value":"https://t.me/trmgame"
-            }
-           ,
-            {
-               "type":"facebook",
-               "value":"https://www.facebook.com/trmgame"
-            }
-            ,
-            {
-               "type":"youtube",
-               "value":"https://www.youtube.com/channel/UCsTeWAlQBKErsyYYy31WfVQ"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Polychain Monsters",
-         "publicIdentifier": "PolychainMonsters",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
-               "chain":"BSC"
-            }
-         ],
-         "banner":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/4e5f0aa2-46cf-454c-a06c-61f3f3b4f7d8",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/polychainmon"
-            },
-           {
-               "type":"discord",
-               "value":"https://discord.com/invite/2JBNG9C3vz"
-            }
-           ,
-            {
-               "type":"medium",
-               "value":"https://medium.com/polychainmonsters"
-            }
-            ,
-            {
-               "type":"telegram",
-               "value":"https://t.me/polychainmonsters"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Venly NFT",
-         "publicIdentifier": "VenlyNFT",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xd3b22fA46EDCFBB8B194Ed2f1F24722a4A171Eef",
-               "chain":"MATIC"
-            }
-         ],
-         "logo":"https://content.arkane.network/marketing/venly/contract.png",
-         "banner":"https://img.arkane.network/img/arkane.market/venly-banner.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/Venly_io"
-            },
-           {
-               "type":"discord",
-               "value":"https://venly.io/discord"
-            }
-           ,
-            {
-               "type":"medium",
-               "value":"https://medium.com/arkane-network"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"CryptoPick",
-         "publicIdentifier": "CryptoPick",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xaf791509b3e8a5bf1703918e457a2fdd50783319",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/cryptopick-banner.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/CryptoPickHQ"
-            },
-           {
-               "type":"discord",
-               "value":"https://discord.com/invite/KwuuYRm"
-            }
-           ,
-           {
-               "type":"facebook",
-               "value":"https://www.facebook.com/CryptoPick"
-            }
-            ,
-            {
-               "type":"medium",
-               "value":"https://cryptopick.medium.com/"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"House of Kibaa",
-         "publicIdentifier": "House of Kibaa",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
-               "chain":"MATIC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/hok_banner.png",
-         "logo":"https://img.arkane.network/img/arkane.market/hok_hero.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/houseofkibaa"
-            },
-           {
-               "type":"discord",
-               "value":"https://discord.gg/houseofkibaa"
-            }
-           ,
-           {
-               "type":"medium",
-               "value":"https://house-of-kibaa.medium.com/"
-            }
-         ]
-      }
-      ,
-      {
-         "name":"Aavegotchi",
-         "publicIdentifier": "Aavegotchi",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x86935F11C86623deC8a25696E1C19a8659CbF95d",
-               "chain":"MATIC"
-            },
-            {
-               "address":"0xa02d547512bb90002807499f05495fe9c4c3943f",
-               "chain":"MATIC"
-            }
-            
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/aavegtochi_banner.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/aavegotchi"
-            },
-           {
-               "type":"discord",
-               "value":"https://discord.com/invite/aavegotchi"
-            }
-           ,
-           {
-               "type":"medium",
-               "value":"https://aavegotchi.medium.com/"
-            }
-         ]
-      }
-      ,
-       {
-         "name":"Noft Games",
-         "publicIdentifier": "NoftGames",
-         "verified":true,
-         "contracts":[
-            {
-               "address":"0x301817312598f8f48cb7d898d659ca4a4d457ad8",
-               "chain":"BSC"
-            }
-         ],
-         "banner":"https://img.arkane.network/img/arkane.market/noft_banner.png",
-         "socials":[
-            {
-               "type":"twitter",
-               "value":"https://twitter.com/noftgames"
-            },
-           {
-               "type":"instagram",
-               "value":"https://www.instagram.com/noftgames/"
-            }
-         ]
-      }
-   ]
+          "address": "0x90F391cAb945749996754B464b81Ffdaa745229d",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/54c5f0da-3323-41eb-9948-e59f20205920/cover.JPG",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/10620732-ae76-48f9-af86-0be8573ba84c/cover_fr.jpg"
+    },
+    {
+      "name": "Original Mood Ring",
+      "publicIdentifier": "OriginalMoodRing",
+      "verified": true,
+      "description": "Original Gold Mood RIng, a rare, historic cultural icon with significant collector's value.",
+      "contracts": [
+        {
+          "address": "0x13783c734918f0fb149897238960edf2d3553e85",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c4957b4e-c234-4c96-9415-28b67918ecc8/F9A0BEDA-0096-4894-98DA-D9031E4EF648.jpeg"
+    },
+    {
+      "name": "Coorest",
+      "publicIdentifier": "Coorest",
+      "verified": true,
+      "description": "Coorest is a blockchain-based solution for creating a decentralized carbon credit exchange and an easy way to invest in sustainable 'yield-bearing' assets: NFT(rees) backed by real planted trees and tokenizing these assets",
+      "contracts": [
+        {
+          "address": "0xe83da54c9626f83c4073812c944657f1c1bbec14",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c8ec5428-5a75-429f-b85c-8d2d166af7d6/Coorest-banner.jpg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/49566d09-5497-48fb-ad1f-b817e9a38e1c/COOREST_icon_white_background.jpeg",
+      "socials": [
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/CoorestOfficial"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CoorestOfficial"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/coorest_official/"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.gg/fN5rMjy2"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/coorest-official/"
+        },
+        {
+          "type": "reddit",
+          "value": "https://www.reddit.com/r/Coorest_Official/"
+        }
+      ]
+    },
+    {
+      "name": "FC St. Pauli",
+      "publicIdentifier": "FCStPauli",
+      "verified": true,
+      "description": "Der FC St. Pauli ist ein mitgliedergeführter Stadteilverein aus Hamburg mit einer antifaschistischen Grundhaltung.  Seine Mitglieder, Fans, und Mitarbeiter stehen für Werte wie Solidarität, Toleranz, Gleichstellung ein. Die erste Mannschaft des FC St. Pauli spielt in der zweiten Bundesliga Fußball. --- The FC St. Pauli is a member-led district club from Hamburg with an anti-fascist attitude.  Its members, fans, and employees stand up for values such as solidarity, tolerance, and equality. The first team of FC St. Pauli plays football in the second Bundesliga.",
+      "contracts": [
+        {
+          "address": "0xd886ac770de8d0391ac57550e32aef90addaf017",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/pauli_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/pauli_logo.png",
+      "socials": [
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/FCSP/?fref=ts"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/fcstpauli?lang=de"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/fcstpauli/?hl=de"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/user/flimmerkiste1910"
+        },
+        {
+          "type": "twitch",
+          "value": "http://www.twitch.tv/fcsp"
+        }
+      ]
+    },
+    {
+      "name": "Digital Toilets by Van Marcke x Zoomers",
+      "publicIdentifier": "DigitalToilets",
+      "verified": true,
+      "description": "Digital toilets is a joint project of Van Marcke & Zoomers launched for the biennial interior exhibition of Kortrijk (Belgium) & Wonder Festival.",
+      "contracts": [
+        {
+          "address": "0x2095b3eb02a0e26545bf9cb8000bd49fef7f7692",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e0c07f7-91cb-4aa6-ae36-fcdf9b67c8a3/Banner-.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/66b4c3f1-4abc-4a50-a356-e8503721d41d/Hero-image.png"
+    },
+    {
+      "name": "Chicken Derby",
+      "publicIdentifier": "ChickenDerby",
+      "verified": true,
+      "description": "Chicken Derby is a fun and exciting game where you can own and race your chicken to earn ETH. Brought to you by the makers of Ganja Farmer.",
+      "contracts": [
+        {
+          "address": "0x8634666ba15ada4bbc83b9dbf285f73d9e46e4c2",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/chickenderby_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/chickenderby_logo.jpeg",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.gg/93vHQNG5Ny"
+        },
+        {
+          "type": "twitter",
+          "value": "https://www.twitter.com/bitlovincom"
+        }
+      ]
+    },
+    {
+      "name": "DeRace Jockey Club",
+      "publicIdentifier": "DeRaceJockeyClub",
+      "verified": true,
+      "description": "DeRace Opie Collection avatars are one-of-a-kind NFT assets that open the door to secret DeRace Jockey Club! Exclusive DeRace Jockey Club members are invited to private NFT drops, get VIP invites to dedicated in-game events and be the first to know all the latest news.",
+      "contracts": [
+        {
+          "address": "0x5f6ceaad29038435a764b59d716717500135a609",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/derace_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/derace_logo.gif",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.gg/67M9ckF3q3"
+        },
+        {
+          "type": "twitter",
+          "value": "https://www.twitter.com/deracenft"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/deracenft"
+        },
+        {
+          "type": "medium",
+          "value": "https://www.medium.com/@deracenft"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/DeRaceNFT"
+        }
+      ]
+    },
+    {
+      "name": "Doctor Who - Worlds Apart",
+      "publicIdentifier": "doctorwho",
+      "verified": true,
+      "description": "Doctor Who: Worlds Apart is a free-to-play tactical card game that gives you true ownership of your NFT cards, allowing them to be traded with other players online. All packs contain a random selection of beautifully hand-drawn cards. Each card is unique with the rarity based on the different frames and serial numbers. The full game will be released  in 2022, but you can download the Deck Builder right now and start planning your strategies and decks before launch by purchasing any of our premium card decks and view your cards in 3D.",
+      "contracts": [
+        {
+          "address": "0xda57bc513fb80ab8aec20314dacd0be594566990",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1858a965-366d-42d8-b8e7-e7c8a8192f13/DWWA-Banner-1400x180.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/03ca46f1-55d9-4afc-a830-721e4adcce1d/DWWA-Logo-144x144.png",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.gg/djxE3nq"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/DoctorWhoWA"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/doctor_who_worlds_apart/"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCXWeMio9c_rrbMJgojaPo2A"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/joinchat/GGcBYVJqYvGwoOwXI0KSJw"
+        }
+      ]
+    },
+    {
+      "name": "Cyberpong",
+      "publicIdentifier": "Cyberpong",
+      "verified": true,
+      "description": "Should you hold one of these access-cards, the Inner Circle will greet you with open arms. Holding 1 of 6106 Cyberpong NFTs grants an array of benefits in-game and within reality. One key benefit that holders favor most is the complimentary REAL LIFE VIP access to all featured clubs within the Metaverse. While aggressively expanding to other major primate cities like Rio De Janeiro, Tokyo, and even Berlin, Cyberpong is disrupting the future of online entertainment and gaming with a few twists and turns that will keep you coming back.",
+      "contracts": [
+        {
+          "address": "0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d9b1ab1d-9309-4a21-84c3-23e4c8044f9d",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.gg/7ecxtB3UEW"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/cyberpongworld"
+        },
+        {
+          "type": "instagram",
+          "value": "https://instagram.com/CyberpongWorld"
+        }
+      ]
+    },
+    {
+      "name": "Puzzle in a Bag",
+      "publicIdentifier": "Puzzle in a Bag",
+      "verified": true,
+      "description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
+      "contracts": [
+        {
+          "address": "0xf81e107ff398043c1faec02e684960a8007ff145",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg",
+      "logo": "https://img.arkane.network/marketing/PIAB/logo.png"
+    },
+    {
+      "name": "Snook",
+      "publicIdentifier": "Snook",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02",
+      "socials": [
+        {
+          "type": "telegram",
+          "value": "https://t.me/playsnook_com"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.gg/f7QQyJC4Ug"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Playsnook_com"
+        }
+      ]
+    },
+    {
+      "name": "NFL Helmet Madness",
+      "publicIdentifier": "NFLHelmetMadness",
+      "description": "NFT Helmets Madness is a collection of 10000 algorithmically generated NFL helmet designs crafted from a selection of over 200 unique traits and minted as NFTs. Each NFT Helmet is created using a unique combination of Shells, Face Masks, Top Shell Graphics layers, Bottom Shell Graphics layers, Backgrounds, and more. If you are a sports fan and love NFL helmet designs like we are, you can grab a cool NFL Madness Helmet collectible early. Be a proud owner of an awesome and unique NFL helmet design",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x235f313caf4f3e8c079013d538b0346e2e190645",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ff4d0392-fe6d-4df0-b535-f8f53b59a93f",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/e77f8d45-9a27-4a4d-bb27-ba11c2e86b3d",
+      "socials": [
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/nflhelmetnft"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/NFLHelmetNFT"
+        },
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/NFL-Helmet-Madness-108497891588912"
+        }
+      ]
+    },
+    {
+      "name": "Cryptotars",
+      "publicIdentifier": "Cryptotars",
+      "description": "The Cryptotars are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person and stored on the Polygon (Matic) blockchain",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9d4595bc-7afc-4221-b0ab-6733b0d58daf",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0097b85c-262f-4ac4-b11d-c3fac103fbbf",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/cryptotarsnft"
+        }
+      ]
+    },
+    {
+      "name": "MythArt",
+      "publicIdentifier": "Myth Art",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xa011ae350081cf76c981d47f8c10e5d695f7f42b",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/MythArt_banner.jpeg",
+      "logo": "https://img.arkane.network/img/arkane.market/MythArt_logo.jpeg",
+      "socials": [
+        {
+          "type": "telegram",
+          "value": "https://t.me/joinchat/gX1G6hsi4MUwNWJl"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MythNft"
+        }
+      ]
+    },
+    {
+      "name": "Lootex",
+      "publicIdentifier": "Lootex",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x6c02d180ec61ea90e6831bfbfdd8bba8af23b90c",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0xf6401646676a87bbd0fa952fbbe8869516cc541c",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/lootex_banner.jpg",
+      "logo": "https://img.arkane.network/img/arkane.market/lootex_icon.png",
+      "socials": [
+        {
+          "type": "medium",
+          "value": "https://medium.com/lootex"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/lootexIO"
+        },
+        {
+          "type": "facebook",
+          "value": "https://facebook.com/lootex.io"
+        }
+      ]
+    },
+    {
+      "name": "REVV Racing",
+      "publicIdentifier": "REVVRacing",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x51ac4a13054d5d7e1fa795439821484177e7e828",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/revv_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/revv_logo.png",
+      "socials": [
+        {
+          "type": "medium",
+          "value": "https://revv-token.medium.com/"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCf0qBtJHCyx4xcilSyPpJMA"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/eWn6D8pCUJ"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/REVVCommunity"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/revvmotorsport/"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/REVV_Token"
+        }
+      ]
+    },
+    {
+      "name": "ZED RUN",
+      "publicIdentifier": "ZED",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xa5f1ea7df861952863df2e8d1312f7305dabf215",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/zed_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/zed_logo.png",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/zedrun"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCJ8lTFHpvsT2pJHaZk8942Q"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/zed_run"
+        }
+      ]
+    },
+    {
+      "name": "Riot Racers",
+      "publicIdentifier": "RiotRacers",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x82bbf7be0eb9a6024b7a641ba179e00812bdae53",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/riotracers_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/riot_racing_icon.png",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/riotracers"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/RiotRacers"
+        }
+      ]
+    },
+    {
+      "name": "Sapien Medicine",
+      "publicIdentifier": "SapienMedicine",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ea0b7b47-f6ab-4f60-acc0-7aa87b63b471",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0a7f7297-8cab-49a6-8fc8-f958fb9e5508",
+      "socials": [
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/sapienmed/?hl=en"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/c/SapienMedicine"
+        }
+      ]
+    },
+    {
+      "name": "Oort Digital",
+      "publicIdentifier": "OortDigital",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xBcAC889C2De88D67d25d54B9E41626f7082232B6",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/oort_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/oort_logo.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/OortDigital"
+        },
+        {
+          "type": "medium",
+          "value": "https://medium.com/oort-digital"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/oortdigital"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/fNsaAECGaS"
+        }
+      ]
+    },
+    {
+      "name": "MarbleCards",
+      "publicIdentifier": "MarbleCards",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/marble_banner.jpg",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MemeExplorers"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/MemeExplorers"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.gg/KY4V5MT"
+        }
+      ]
+    },
+    {
+      "name": "NFT Hub",
+      "publicIdentifier": "NFTHub",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xbc3bb04CAa50b9D5393f09AAa3bcafe671E29d7b",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x453A92e38A8382F550465dd21068d757aBd2D437",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x68C2f79ae67fA8f466815e3010fe8e0500e95366",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x34bFb2aD92cF171ee4D6f1C4ac1E546B9c9D0345",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x00e711094C351d1bb43123CcF8ED47230444a72F",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/goos_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/nfthub_logo.jpeg",
+      "socials": [
+      ]
+    },
+    {
+      "name": "The Cryptoz NFT Universe",
+      "publicIdentifier": "Cryptoznftuniverse",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x8a0C542bA7bBBab7cF3551fFcc546CdC5362d2a1",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/871eb3b8-cbb7-4395-982e-da6301217742",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CryptozNFT"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/cryptozcard"
+        },
+        {
+          "type": "medium",
+          "value": "https://cryptoz-cards.medium.com/"
+        }
+      ]
+    },
+    {
+      "name": "Battle Racers",
+      "publicIdentifier": "BattleRacers",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x7f8d8f602c37999385f370b11c6075d53ae94f52",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/battle_racers_banner.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/BattleRacers"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/battleracers"
+        },
+        {
+          "type": "medium",
+          "value": "https://medium.com/battle-racers"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.gg/gfEPSra"
+        },
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/battleracersgame/"
+        }
+      ]
+    },
+    {
+      "name": "Trade Race Manager",
+      "publicIdentifier": "TradeRaceManager",
+      "verified": true,
+      "description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
+      "logo": "https://img.arkane.network/img/arkane.market/QORPO-logo.png",
+      "contracts": [
+        {
+          "address": "0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/QORPO-banner.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/trmgame"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/trmgame"
+        },
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/trmgame"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCsTeWAlQBKErsyYYy31WfVQ"
+        }
+      ]
+    },
+    {
+      "name": "Polychain Monsters",
+      "publicIdentifier": "PolychainMonsters",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4e5f0aa2-46cf-454c-a06c-61f3f3b4f7d8",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/polychainmon"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/2JBNG9C3vz"
+        },
+        {
+          "type": "medium",
+          "value": "https://medium.com/polychainmonsters"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/polychainmonsters"
+        }
+      ]
+    },
+    {
+      "name": "Venly NFT",
+      "publicIdentifier": "VenlyNFT",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xd3b22fA46EDCFBB8B194Ed2f1F24722a4A171Eef",
+          "chain": "MATIC"
+        }
+      ],
+      "logo": "https://content.arkane.network/marketing/venly/contract.png",
+      "banner": "https://img.arkane.network/img/arkane.market/venly-banner.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Venly_io"
+        },
+        {
+          "type": "discord",
+          "value": "https://venly.io/discord"
+        },
+        {
+          "type": "medium",
+          "value": "https://medium.com/arkane-network"
+        }
+      ]
+    },
+    {
+      "name": "CryptoPick",
+      "publicIdentifier": "CryptoPick",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xaf791509b3e8a5bf1703918e457a2fdd50783319",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/cryptopick-banner.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CryptoPickHQ"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/KwuuYRm"
+        },
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/CryptoPick"
+        },
+        {
+          "type": "medium",
+          "value": "https://cryptopick.medium.com/"
+        }
+      ]
+    },
+    {
+      "name": "House of Kibaa",
+      "publicIdentifier": "House of Kibaa",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0xba3c9879fCA47015558065AdB44cAD5E9fE3e119",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/hok_banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/hok_hero.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/houseofkibaa"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.gg/houseofkibaa"
+        },
+        {
+          "type": "medium",
+          "value": "https://house-of-kibaa.medium.com/"
+        }
+      ]
+    },
+    {
+      "name": "Aavegotchi",
+      "publicIdentifier": "Aavegotchi",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0xa02d547512bb90002807499f05495fe9c4c3943f",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/aavegtochi_banner.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/aavegotchi"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/aavegotchi"
+        },
+        {
+          "type": "medium",
+          "value": "https://aavegotchi.medium.com/"
+        }
+      ]
+    },
+    {
+      "name": "Noft Games",
+      "publicIdentifier": "NoftGames",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x301817312598f8f48cb7d898d659ca4a4d457ad8",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/noft_banner.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/noftgames"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/noftgames/"
+        }
+      ]
+    },
+    {
+      "name": "AlphaVerse / Beat",
+      "publicIdentifier": "AlphaVerse-Beat",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x6e5a595c186b48e0a713f01b9c601f9959bb7aa4",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png",
+      "socials": []
+    },
+    {
+      "name": "AlphaVerse / The Hub",
+      "publicIdentifier": "AlphaVerse-the-hub",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x16fea4cb485cc0470a211567932b9301b5ff0c1c",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png",
+      "socials": []
+    },
+    {
+      "name": "AlphaVerse / Atari",
+      "publicIdentifier": "AlphaVerse-atari",
+      "verified": true,
+      "contracts": [
+        {
+          "address": "0x1572717a47ade70e1c2075df63f6bf255f98b43e",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png",
+      "socials": []
+    }
+  ]
 }
