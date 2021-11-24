@@ -1,5 +1,68 @@
 [
 	{
+	"name": "AlphaVerse / Beat",
+	"address": "0x6e5a595c186b48e0a713f01b9c601f9959bb7aa4",
+	"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Beat-AlphaVerse-square.png",
+	"description":"Beat AlphaVerse is a metaverse, part of the AlphaVerse, offering unique games, experiences and a community centered around dance music.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Beat-AlphaVerse-square.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+        },
+	{
+	"name": "AlphaVerse / The Hub",
+	"address": "0x16fea4cb485cc0470a211567932b9301b5ff0c1c",
+	"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-The-Hub-AlphaVerse-square.png",
+	"description":"AlphaVerse is a metaverse connecting different universes, each offering a unique experience.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-The-Hub-AlphaVerse-square.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+        },
+	{
+	"name": "AlphaVerse / Atari",
+	"address": "0x1572717a47ade70e1c2075df63f6bf255f98b43e",
+	"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png",
+	"description":"Atari AlphaVerse is a metaverse, part of the AlphaVerse, offering whole experience around the Atari brand.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+        },
+	{
 	"name": "fractalia.io",
 	"url":"http://fractalia.io",
 	"address": "0x90F391cAb945749996754B464b81Ffdaa745229d",
