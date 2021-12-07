@@ -1,7 +1,6 @@
 [
-{"name":"Banana","symbol":"BNA","address":"0xA7cE868f6490186Ac57fA12174dF770672EC0950","decimals":18,"type":"ERC20"}
-,
-{"name":"SAND","symbol":"SAND","address":"0xcc933a862fc15379e441f2a16cb943d385a4695f","decimals":18,"type":"ERC20"}
-,
-{"name":"Wrapped Ether","symbol":"WETH","address":"0xdf032bc4b9dc2782bb09352007d4c57b75160b15","decimals":18,"type":"ERC20"}
+{"name":"Banana","symbol":"BNA","address":"0xA7cE868f6490186Ac57fA12174dF770672EC0950","decimals":18,"type":"ERC20"},
+{"name":"SAND","symbol":"SAND","address":"0xcc933a862fc15379e441f2a16cb943d385a4695f","decimals":18,"type":"ERC20"},
+{"name":"Wrapped Ether","symbol":"WETH","address":"0xdf032bc4b9dc2782bb09352007d4c57b75160b15","decimals":18,"type":"ERC20"},
+{"name":"FIDA","symbol":"FIDA","address":"0x6034df8a5ab023d1ddd789406abac36106a66972","decimals":18,"type":"ERC20"}
 ]
