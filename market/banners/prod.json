@@ -35,13 +35,13 @@
     },
    {
       "category": "all",
-      "tagline": "Discover the famous Mood Rings as NFTs",
-      "banner": "https://s3.eu-west-1.amazonaws.com/storage.venly.io/adsandbanners/moodring_ad_banner.png",
+      "tagline": "Become part of the AlphaVerse, powered by Atari",
+      "banner": "https://img.arkane.network/img/arkane.market/Atari-Venly-Cover.png",
       "style": "dark",
       "cta": {
         "type": "redirect",
         "text": "Browse collection",
-        "value": "collection/OriginalMoodRing"
+        "value": "collection/AlphaVerse-atari"
       }
     }
   ]
