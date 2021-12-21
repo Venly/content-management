@@ -13,8 +13,8 @@
     },
     {
       "category": "game_items",
-      "tagline": "Trade Race Manager by IOI: pick your car and play to earn.",
-      "banner": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/TRM-banner.jpeg?raw=true",
+      "tagline": "Get ready for an exclusive drop.",
+      "banner": "https://img.arkane.network/img/arkane.market/daytona.png",
       "style": "primary",
       "cta": {
         "type": "redirect",
