@@ -35,13 +35,13 @@
     },
    {
       "category": "all",
-      "tagline": "Become part of the AlphaVerse, powered by Atari",
-      "banner": "https://img.arkane.network/img/arkane.market/Atari-Venly-Cover.png",
+      "tagline": "CARGADOR, get ready for the exclusive drop.",
+      "banner": "https://img.arkane.network/img/arkane.market/daytona.png",
       "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Browse real estate",
-        "value": "collection/AlphaVerse-atari"
+        "text": "Browse collection",
+        "value": "collection/TradeRaceManager"
       }
     }
   ]
