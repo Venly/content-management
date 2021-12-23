@@ -1,6 +1,38 @@
 {
   "collections": [
     {
+      "name": "Christmas on the Radio",
+      "publicIdentifier": "ChristmasRadio",
+      "verified": true,
+      "description": "Q.AGE aims to capture artistic and musical imagination to offer seemingly endless opportunities for lucrative self-expression and communicating with fans.",
+      "contracts": [
+        {
+          "address": "0x769d9aba7ff8085351c16647f4d27ed81c818da1",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/da465dea-3f82-4033-b4d8-ca82ee0cf66d/Christmas-on-the-radio-banner.jpg",
+      "logo": "https://storage.venly.io/applications/b8a5f384-92c3-485d-a7a3-3048f0cafa88/CHRISTMASONTHERADIO.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/q_age"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/q.age"
+        },
+        {
+          "type": "facebook",
+          "value": "http://facebook.com/qage"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/qagemusic"
+        }
+      ]
+    },
+    {
       "name": "Nativz Key",
       "publicIdentifier": "Nativz",
       "verified": true,
