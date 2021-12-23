@@ -1,6 +1,47 @@
 {
   "collections": [
     {
+      "name": "Crypto Fight Club",
+      "publicIdentifier": "CryptoFightClub",
+      "verified": true,
+      "description": "CRYPTO FIGHT CLUB (CFC) is a new NFT-enabled game which allows players to battle one another or compete in championships. It's similar to the popular trading card games from the 1990s but instead of cards, Crypto Fight Club items and fighters consist of NFTs. Also, the game is powered by its own native token ($FIGHT). CFC allows players to stake their native currency in an NFT which represents their fighter on BSC (Binance Smart Chain). Players can then battle each other or complete training objectives to earn more tokens and purchase more powerful fighters and/or enhance their stats.",
+      "contracts": [
+        {
+          "address": "0xe4316E7eBF40e1C253745bB8813b8FcBd98afFcC",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/5c803723-5317-4405-8ce4-c5c85d183d6f/banner.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1d29f80c-7de0-42af-ad70-155f3905f4d9/Profile-Pic.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/CFCFIGHTING"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/cfc_nft/"
+        },
+        {
+          "type": "twitch",
+          "value": "https://www.twitch.tv/cryptofightclub"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCh-DTm-haPH7jiJ-FTnEc1w"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/CryptoFightClubChat"
+        }
+        ,
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/Z5YXsdZWKy"
+        }
+      ]
+    },
+    {
       "name": "Christmas on the Radio",
       "publicIdentifier": "ChristmasRadio",
       "verified": true,
