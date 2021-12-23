@@ -1,5 +1,26 @@
 [
 	{
+	"name": "Crypto Fight Club",
+	"address": "0xe4316E7eBF40e1C253745bB8813b8FcBd98afFcC",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/1d29f80c-7de0-42af-ad70-155f3905f4d9/Profile-Pic.png",
+	"description":"CRYPTO FIGHT CLUB (CFC) is a new NFT-enabled game which allows players to battle one another or compete in championships. It's similar to the popular trading card games from the 1990s but instead of cards, Crypto Fight Club items and fighters consist of NFTs. Also, the game is powered by its own native token ($FIGHT). CFC allows players to stake their native currency in an NFT which represents their fighter on BSC (Binance Smart Chain). Players can then battle each other or complete training objectives to earn more tokens and purchase more powerful fighters and/or enhance their stats.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ee6b8561-3b5e-4ce4-822c-dc9a51a5be3b/hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/5c803723-5317-4405-8ce4-c5c85d183d6f/banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"game_items"
+	]
+        },
+	{
 		
 		"name": "SCRE4MER",
 		"description": "Have you ever screamed? What was the reason for this? Maybe you screamed out of fear or immeasurable happiness, from intolerable pain or outburst of emotion? I believe you are familiar with this, as well as the image that you see on these NFTs. We tried to imagine an abstract person or a creature that screams with joy, because fate kissed the forehead, and he’s got a cool reward in our raffle. Everyone can see himself in this character & fully become him. We believe that you will definitely get lucky. SCRE4M with us & let everyone hear it!",
