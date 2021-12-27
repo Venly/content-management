@@ -1,5 +1,26 @@
 [
 	{
+	"name": "MaisonDAO",
+	"address": "0xa7b07afd17ee4828557e740077f79f9890e3130c",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/f5f41bbd-20e0-4f7f-8c3f-9b3787e79e72/EDGElogo@144x.png",
+	"description":"MaisonDAO is a Decentralized Metaverse Gallery for digital art and fashion. Create your life-like 3d avatar and explore our Metaverse and others!",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/2b5b6200-520c-4b0b-8bc5-c6021e5af55d/HERO_1.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58c5d86c-5c96-44ba-bc85-9553538de761/banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+        },
+	{
 	"name": "Christmas on the Radio",
 	"address": "0x769d9aba7ff8085351c16647f4d27ed81c818da1",
 	"imageUrl":"https://storage.venly.io/applications/b8a5f384-92c3-485d-a7a3-3048f0cafa88/CHRISTMASONTHERADIO.png",
