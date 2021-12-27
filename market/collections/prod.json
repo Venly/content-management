@@ -1,6 +1,66 @@
 {
   "collections": [
     {
+      "name": "MaisonDAO",
+      "publicIdentifier": "MaisonDAO",
+      "verified": true,
+      "description": "MaisonDAO is a Decentralized Metaverse Gallery for digital art and fashion. Create your life-like 3d avatar and explore our Metaverse and others!",
+      "contracts": [
+        {
+          "address": "0xa7b07afd17ee4828557e740077f79f9890e3130c",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58c5d86c-5c96-44ba-bc85-9553538de761/banner.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f5f41bbd-20e0-4f7f-8c3f-9b3787e79e72/EDGElogo@144x.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/MaisonDAO"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/maisondao.world/"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/maisondao/"
+        }
+      ]
+    },
+    {
+      "name": "Christmas on the Radio",
+      "publicIdentifier": "ChristmasRadio",
+      "verified": true,
+      "description": "Q.AGE aims to capture artistic and musical imagination to offer seemingly endless opportunities for lucrative self-expression and communicating with fans.",
+      "contracts": [
+        {
+          "address": "0x769d9aba7ff8085351c16647f4d27ed81c818da1",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/da465dea-3f82-4033-b4d8-ca82ee0cf66d/Christmas-on-the-radio-banner.jpg",
+      "logo": "https://storage.venly.io/applications/b8a5f384-92c3-485d-a7a3-3048f0cafa88/CHRISTMASONTHERADIO.png",
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/q_age"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/q.age"
+        },
+        {
+          "type": "facebook",
+          "value": "http://facebook.com/qage"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/qagemusic"
+        }
+      ]
+    },
+    {
       "name": "Crypto Fight Club",
       "publicIdentifier": "CryptoFightClub",
       "verified": true,
