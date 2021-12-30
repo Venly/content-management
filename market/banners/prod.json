@@ -35,13 +35,13 @@
     },
    {
       "category": "all",
-      "tagline": "CARGADOR, get ready for the exclusive drop.",
-      "banner": "https://img.arkane.network/img/arkane.market/daytona.png",
+      "tagline": "Ready! Set! Join the Crypto Fight!",
+      "banner": "https://img.arkane.network/img/arkane.market/CFC.png",
       "style": "dark",
       "cta": {
         "type": "redirect",
         "text": "Browse collection",
-        "value": "collection/TradeRaceManager"
+        "value": "collection/CryptoFightClub"
       }
     }
   ]
