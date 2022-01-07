@@ -1229,6 +1229,14 @@
 		]
 	},
 	{
+		"address": " 0x935fa90b2558efc8c76c1d187603cac84aaec9dd",
+		"verified": "true",
+		"premium": "true",
+		"categories": [
+			"collectibles"
+		]
+	},
+	{
 	  "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
 	  "categories": ["scam"]
         }
