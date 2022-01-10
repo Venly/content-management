@@ -1229,9 +1229,22 @@
 		]
 	},
 	{
-		"address": " 0x935fa90b2558efc8c76c1d187603cac84aaec9dd",
+		"name": "Giraffe Mo",
+		"address": "0x935fa90b2558efc8c76c1d187603cac84aaec9dd",
+		"imageUrl":"https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif",
+		"description":"Adikteev is a tech company evolving in the gaming industry. \n\nAs a tribute to all things gaming, the Adikteev designers created an NFT art collection based on the cult classics that have driven pop culture over the past decades. \n\nFollow Mo, Asikteev’s giraffe hero as it travels across 20 different worlds and try to recognize the different universes he was getting through. \n\nOur 120 NFT collection aims to mark the start of a brand new era for the gaming industry with the boost of blockchain based initiatives in 2021 leading to the birth of “Play to Earn” Games.",
+		"media": [
+			{
+				"type": "image",
+				"value": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif"
+			},
+			{
+				"type": "banner",
+				"value": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-banner.jpg"
+			}
+		],
 		"verified": "true",
-		"premium": "true",
+		"premium": "false",
 		"categories": [
 			"collectibles"
 		]
