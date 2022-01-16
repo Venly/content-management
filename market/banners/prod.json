@@ -35,13 +35,13 @@
     },
    {
       "category": "all",
-      "tagline": "Ready! Set! Join the Crypto Fight!",
-      "banner": "https://img.arkane.network/img/arkane.market/CFC.png",
+      "tagline": "Atari AlphaVerse Auction Ends Today!",
+      "banner": "https://img.arkane.network/img/arkane.market/Atari-Pong.jpg",
       "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Browse collection",
-        "value": "collection/CryptoFightClub"
+        "text": "Start Bidding",
+        "value": "collection/AlphaVerse-atari"
       }
     }
   ]
