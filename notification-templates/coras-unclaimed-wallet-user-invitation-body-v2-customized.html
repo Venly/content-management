@@ -43,7 +43,7 @@
                                                 style="background:#ffffff;font-size:0px;padding:0px 0px 0px 0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word">
                                                 <div style="font-family:Arial,sans-serif;font-size:30px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
                                                     <p style="text-align:center;margin:10px 0;margin-top:10px;margin-bottom:10px"><span
-                                                        style="color:#615757;font-family:Arial,Helvetica,sans-serif;font-size:18px"><b>You just received a flight experience NFT from Ryanair in your wallet</b></span>
+                                                        style="color:#615757;font-family:Arial,Helvetica,sans-serif;font-size:18px"><b>You Have Received Your Ryanair Loyalty Tokens</b></span>
                                                     </p>
                                                 </div>
                                             </td>
@@ -53,14 +53,6 @@
                                                 style="font-size:0px;padding:0px 0px 0px 0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word">
                                                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px">
                                                     <tbody>
-                                                    <tr th:if="${!isDefault}">
-                                                        <td style="float: right; font-family: 'Times New Roman',serif; font-size: small">
-                                                            <div style="color: grey">Blockchain technology provider:
-                                                                <a href="https://venly.io"><img src="https://cwstatic.nyc3.digitaloceanspaces.com/5452/Venly-Logo.png?v=1628604097"
-                                                                                                width="50"></a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
                                                     <tr>
                                                         <td style="width:600px">
                                                             <img alt="Venly Wallet" height="auto" th:src="@{${logo}}"
@@ -109,10 +101,18 @@
                                             <td align="left" style="font-size:0px;padding:0px 25px 0px 25px;padding-top:0px;padding-bottom:0px;word-break:break-word">
                                                 <div style="font-family:Arial,sans-serif;font-size:15px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
                                                     <p style="margin:10px 0;margin-top:10px"><span
-                                                        style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">Hi,</span></p>
+                                                        style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">Thanks for activating your Ryanair Loyalty Wallet.</span></p>
                                                     <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
-							    You have just been sent a flight experience NFT. Since you didn't have a Venly blockchain wallet we created one for you. By clicking on the button below you are able to collect the new wallet.
+							    To access your loyalty wallet please click on the link below. You will need to add a pin code to create your account and keep your loyalty wallet tokens secure.
 						    </span>
+                                                    </p>
+                                                    <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
+							    If you have any questions or need help with your wallet please contact Venly who are the wallet provider here https://help.venly.io/en/
+                                                    </span>
+                                                    </p>
+                                                    <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
+							    If you have any questions about your loyalty tokens please click here (link tbc).
+                                                    </span>
                                                     </p>
                                                 </div>
                                             </td>
@@ -154,9 +154,9 @@
                     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
                         <tbody>
                         <tr th:if="${!isDefault}">
-                            <td style="float: right; font-family: 'Times New Roman',serif; font-size: small">
-                                <div style="color: grey">Blockchain technology provider:
-                                    <a href="https://venly.io"><img src="https://cwstatic.nyc3.digitaloceanspaces.com/5452/Venly-Logo.png?v=1628604097" width="50"></a>
+                            <td style="float: right;">
+                                <div style="color:#55575d;font-family:Roboto;font-size:12px;line-height:22px; display: flex;">Blockchain technology provider &nbsp;
+                                    <a href="https://venly.io"><img style="padding-top:5px;"  src="https://cwstatic.nyc3.digitaloceanspaces.com/5452/Venly-Logo.png?v=1628604097" width="50"></a>
                                 </div>
                             </td>
                         </tr>
