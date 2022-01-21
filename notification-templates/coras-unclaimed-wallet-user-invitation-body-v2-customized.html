@@ -38,16 +38,6 @@
                                                 </table>
                                             </td>
                                         </tr>
-                                        <tr th:if="${isDefault}">
-                                            <td align="left"
-                                                style="background:#ffffff;font-size:0px;padding:0px 0px 0px 0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word">
-                                                <div style="font-family:Arial,sans-serif;font-size:30px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
-                                                    <p style="text-align:center;margin:10px 0;margin-top:10px;margin-bottom:10px"><span
-                                                        style="color:#615757;font-family:Arial,Helvetica,sans-serif;font-size:18px"><b>You Have Received Your Ryanair Loyalty Tokens</b></span>
-                                                    </p>
-                                                </div>
-                                            </td>
-                                        </tr>
                                         <tr>
                                             <td align="center"
                                                 style="font-size:0px;padding:0px 0px 0px 0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word">
@@ -107,7 +97,7 @@
 						    </span>
                                                     </p>
                                                     <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
-							    If you have any questions or need help with your wallet please contact Venly who are the wallet provider here https://help.venly.io/en/
+							    If you have any questions or need help with your wallet please contact Venly who are the wallet provider <a href="https://help.venly.io">here</a>.
                                                     </span>
                                                     </p>
                                                     <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
@@ -188,7 +178,7 @@
                         <div th:if="${!isDefault}">
                             <tr>
                                 <td
-                                    th:style="${'border:0px solid #ffffff;direction:ltr;font-size:0px;padding:20px 0px 20px 0px;padding-left:0px;padding-right:0px;text-align:center;background:'+primaryColor}">
+                                    th:style="${'border:0px solid #ffffff;direction:ltr;font-size:0px;padding:10px 0px 10px 0px;padding-left:0px;padding-right:0px;text-align:center;background:'+primaryColor}">
                                     <div class="m_-3113131773975000221mj-column-per-100"
                                          style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
                                     </div>
