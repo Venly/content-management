@@ -216,7 +216,8 @@
                                             <td align="left" style="font-size:0px;padding:0px 20px 0px 20px;padding-top:0px;padding-bottom:0px;word-break:break-word">
                                                 <div style="font-family:Arial,sans-serif;font-size:13px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
                                                     <p style="text-align:center;margin:10px 0;margin-top:10px;margin-bottom:10px">
-                                                        <span th:if="${!isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">Venly - 2021</span>
+							<span th:if="${!isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">Click here to <a th:href="${unsubscribeLink}">unsubscribe</a></span>
+							<span th:if="${!isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">Venly - 2021</span>
                                                         <span th:if="${isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">This email has been sent to <span
                                                             th:text="${emailTo}"></span>. Click here to <a th:href="${unsubscribeLink}">unsubscribe</a></span>
                                                     </p>
