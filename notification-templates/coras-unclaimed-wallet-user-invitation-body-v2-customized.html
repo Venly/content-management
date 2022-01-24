@@ -38,29 +38,11 @@
                                                 </table>
                                             </td>
                                         </tr>
-                                        <tr th:if="${isDefault}">
-                                            <td align="left"
-                                                style="background:#ffffff;font-size:0px;padding:0px 0px 0px 0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word">
-                                                <div style="font-family:Arial,sans-serif;font-size:30px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
-                                                    <p style="text-align:center;margin:10px 0;margin-top:10px;margin-bottom:10px"><span
-                                                        style="color:#615757;font-family:Arial,Helvetica,sans-serif;font-size:18px"><b>You have just been sent a digital asset 🥳 </b></span>
-                                                    </p>
-                                                </div>
-                                            </td>
-                                        </tr>
                                         <tr>
                                             <td align="center"
                                                 style="font-size:0px;padding:0px 0px 0px 0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word">
                                                 <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px">
                                                     <tbody>
-                                                    <tr th:if="${!isDefault}">
-                                                        <td style="float: right; font-family: 'Times New Roman',serif; font-size: small">
-                                                            <div style="color: grey">Blockchain technology provider:
-                                                                <a href="https://venly.io"><img src="https://cwstatic.nyc3.digitaloceanspaces.com/5452/Venly-Logo.png?v=1628604097"
-                                                                                                width="50"></a>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
                                                     <tr>
                                                         <td style="width:600px">
                                                             <img alt="Venly Wallet" height="auto" th:src="@{${logo}}"
@@ -109,8 +91,18 @@
                                             <td align="left" style="font-size:0px;padding:0px 25px 0px 25px;padding-top:0px;padding-bottom:0px;word-break:break-word">
                                                 <div style="font-family:Arial,sans-serif;font-size:15px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
                                                     <p style="margin:10px 0;margin-top:10px"><span
-                                                        style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">Hi,</span></p>
-                                                    <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">Someone has just sent you a digital asset(s) on the blockchain. Since you didn't have a Venly blockchain wallet we created one for you. By clicking the below button you are able to access your new wallet and its content.</span>
+                                                        style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">Thanks for activating your Ryanair Loyalty Wallet.</span></p>
+                                                    <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
+							    To access your loyalty wallet please click on the link below. You will need to add a pin code to create your account and keep your loyalty wallet tokens secure.
+						    </span>
+                                                    </p>
+                                                    <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
+							    If you have any questions or need help with your wallet please contact Venly who are the wallet provider <a href="https://help.venly.io">here</a>.
+                                                    </span>
+                                                    </p>
+                                                    <p style="margin:10px 0;margin-bottom:10px"><span style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">
+							    If you have any questions about your loyalty tokens please click here (link tbc).
+                                                    </span>
                                                     </p>
                                                 </div>
                                             </td>
@@ -152,9 +144,9 @@
                     <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
                         <tbody>
                         <tr th:if="${!isDefault}">
-                            <td style="float: right; font-family: 'Times New Roman',serif; font-size: small">
-                                <div style="color: grey">Blockchain technology provider:
-                                    <a href="https://venly.io"><img src="https://cwstatic.nyc3.digitaloceanspaces.com/5452/Venly-Logo.png?v=1628604097" width="50"></a>
+                            <td style="float: right;">
+                                <div style="color:#55575d;font-family:Roboto;font-size:12px;line-height:22px; display: flex;">Blockchain technology provider &nbsp;
+                                    <a href="https://venly.io"><img style="padding-top:5px;"  src="https://cwstatic.nyc3.digitaloceanspaces.com/5452/Venly-Logo.png?v=1628604097" width="50"></a>
                                 </div>
                             </td>
                         </tr>
@@ -164,81 +156,11 @@
                                      style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
                                     <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top" width="100%">
                                         <tbody>
-                                        <tr>
-                                            <td align="left" style="font-size:0px;padding:0px 25px 0px 25px;padding-top:0px;padding-bottom:0px;word-break:break-word">
-                                                <div style="font-family:Arial,sans-serif;font-size:12px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
-                                                    <p style="text-align:center;margin:10px 0;margin-top:10px;margin-bottom:10px"><span
-                                                        style="color:#55575d;font-family:Roboto;font-size:15px;line-height:22px">If you have any issues, just join us on <a
-                                                        href="https://discord.com/invite/7Sn2nHC3Ep" target="_blank">Discord</a> on give us a ping.</span></p>
-                                                </div>
-                                            </td>
-                                        </tr>
+                                        
                                         <tr>
                                             <td align="center"
                                                 style="font-size:0px;padding:10px 25px 10px 25px;padding-top:10px;padding-right:25px;padding-left:25px;word-break:break-word">
-                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table">
-                                                    <tbody>
-                                                    <tr>
-                                                        <td style="padding:4px">
-                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation"
-                                                                   style="background:#4c28da;border-radius:50%;width:20">
-                                                                <tbody>
-                                                                <tr>
-                                                                    <td style="padding:5px 5px 5px 5px;font-size:0;height:20;vertical-align:middle;width:20"><a
-                                                                        href="https://www.linkedin.com/company/venly-io" target="_blank"
-                                                                        data-saferedirecturl="https://www.google.com/url?q=https://www.linkedin.com/company/venly-io&amp;source=gmail&amp;ust=1623839318311000&amp;usg=AFQjCNHSOkf8fTmOJ7LGt6DsTQIirRymGA"><img
-                                                                        height="20"
-                                                                        src="https://ci3.googleusercontent.com/proxy/Ro-BgDTtglkIsEWqtrKHPOXrLdSEiKr_e3CZ_li4H_n0yatIp1TylrW1y4aYMoGgedzsMHi7dow-FkQ4jqrnjOgEH4lFnmFhr2qMc4UvZqX5hHn0ofbuWw=s0-d-e1-ft#https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png"
-                                                                        style="border-radius:50%;display:block" width="20" class="CToWUd"></a></td>
-                                                                </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </td>
-                                                    </tr>
-                                                    </tbody>
-                                                </table>
-                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table">
-                                                    <tbody>
-                                                    <tr>
-                                                        <td style="padding:4px">
-                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation"
-                                                                   style="background:#4c28da;border-radius:50%;width:20">
-                                                                <tbody>
-                                                                <tr>
-                                                                    <td style="padding:5px 5px 5px 5px;font-size:0;height:20;vertical-align:middle;width:20"><a
-                                                                        href="https://medium.com/arkane-network" target="_blank"
-                                                                        data-saferedirecturl="https://www.google.com/url?q=https://medium.com/arkane-network&amp;source=gmail&amp;ust=1623839318311000&amp;usg=AFQjCNEWh-R6YWDVrDcobAsV5lytsGshSw"><img
-                                                                        height="20"
-                                                                        src="https://ci5.googleusercontent.com/proxy/i9ORFS9gSj24Mi7sROazlgDXLTa__1Ss8kWjcWmb78Ozxcl2mdMof7v4io3-il3XoFlbp8QZ5bGoMa7r6FsqeCHzLbUJX8rlcdcSvwA53QatwSf06uw=s0-d-e1-ft#https://www.mailjet.com/images/theme/v1/icons/ico-social/medium.png"
-                                                                        style="border-radius:50%;display:block" width="20" class="CToWUd"></a></td>
-                                                                </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </td>
-                                                    </tr>
-                                                    </tbody>
-                                                </table>
-                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table">
-                                                    <tbody>
-                                                    <tr>
-                                                        <td style="padding:4px">
-                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation"
-                                                                   style="background:#4c28da;border-radius:50%;width:20">
-                                                                <tbody>
-                                                                <tr>
-                                                                    <td style="padding:5px 5px 5px 5px;font-size:0;height:20;vertical-align:middle;width:20"><a
-                                                                        href="https://twitter.com/Venly_io" target="_blank"
-                                                                        data-saferedirecturl="https://www.google.com/url?q=https://twitter.com/Venly_io&amp;source=gmail&amp;ust=1623839318311000&amp;usg=AFQjCNFtwlXP2aA-Vnh-Hw-m3Hmft5m1VA"><img
-                                                                        height="20"
-                                                                        src="https://ci5.googleusercontent.com/proxy/5-H8_DK82L0N-1vgP5uKBHqWiqyxiM_gQDmYNPR-zKzHLn0kycNlKjm1RPmgIFs1HCoTrgRj21Cbo7NByc3zCrXuBvOivAnQPL6D82Hi1xJ8t0qHOA5f=s0-d-e1-ft#https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"
-                                                                        style="border-radius:50%;display:block" width="20" class="CToWUd"></a></td>
-                                                                </tr>
-                                                                </tbody>
-                                                            </table>
-                                                        </td>
-                                                    </tr>
-                                                    </tbody>
-                                                </table>
+
                                             </td>
                                         </tr>
                                         <tr>
@@ -256,14 +178,14 @@
                         <div th:if="${!isDefault}">
                             <tr>
                                 <td
-                                    th:style="${'border:0px solid #ffffff;direction:ltr;font-size:0px;padding:20px 0px 20px 0px;padding-left:0px;padding-right:0px;text-align:center;background:'+primaryColor}">
+                                    th:style="${'border:0px solid #ffffff;direction:ltr;font-size:0px;padding:5px 0px 5px 0px;padding-left:0px;padding-right:0px;text-align:center;background:'+primaryColor}">
                                     <div class="m_-3113131773975000221mj-column-per-100"
                                          style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%">
                                     </div>
                                 </td>
                             </tr>
                             <tr>
-                                <td style=" text-align:center;">
+				    <td style=" text-align:center;"><br>
                                     If you have any issues with your wallet, our technology provider Venly will assist you in the chat, just login to your Venly wallet to
                                     contact
                                     them.
@@ -294,8 +216,9 @@
                                             <td align="left" style="font-size:0px;padding:0px 20px 0px 20px;padding-top:0px;padding-bottom:0px;word-break:break-word">
                                                 <div style="font-family:Arial,sans-serif;font-size:13px;letter-spacing:normal;line-height:1;text-align:left;color:#000000">
                                                     <p style="text-align:center;margin:10px 0;margin-top:10px;margin-bottom:10px">
-                                                        <span th:if="${isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">Venly - 2021</span>
-                                                        <span th:if="${!isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">This email has been sent to <span
+							<span th:if="${!isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">Click here to <a th:href="${unsubscribeLink}">unsubscribe</a></span>
+							<span th:if="${!isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">Venly - 2021</span>
+                                                        <span th:if="${isDefault}" style="color:#a24db1;font-family:Ubuntu;font-size:13px">This email has been sent to <span
                                                             th:text="${emailTo}"></span>. Click here to <a th:href="${unsubscribeLink}">unsubscribe</a></span>
                                                     </p>
                                                 </div>

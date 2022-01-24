@@ -71,7 +71,7 @@
           "chain": "BSC"
         }
       ],
-      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/5c803723-5317-4405-8ce4-c5c85d183d6f/banner.png",
+      "banner": "https://cfc-design-assets.s3.eu-west-3.amazonaws.com/public/banners/Venly.jpg",
       "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1d29f80c-7de0-42af-ad70-155f3905f4d9/Profile-Pic.png",
       "socials": [
         {
@@ -1080,6 +1080,34 @@
       "banner": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png",
       "logo": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png",
       "socials": []
+    },
+    {
+      "name": "Giraffe Mo",
+      "publicIdentifier": "GiraffeMo",
+      "verified": true,
+      "description": "Adikteev is a tech company evolving in the gaming industry. \n\nAs a tribute to all things gaming, the Adikteev designers created an NFT art collection based on the cult classics that have driven pop culture over the past decades. \n\nFollow Mo, Asikteev’s giraffe hero as it travels across 20 different worlds and try to recognize the different universes he was getting through. \n\nOur 120 NFT collection aims to mark the start of a brand new era for the gaming industry with the boost of blockchain based initiatives in 2021 leading to the birth of “Play to Earn” Games.",
+      "contracts": [
+        {
+          "address": "0x935fa90b2558efc8c76c1d187603cac84aaec9dd",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-banner.jpg",
+      "logo": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif",
+      "socials": [
+        {
+          "type": "website",
+          "value": "https://www.adikteev.com/"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/zwX3We2Ewx"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/adikteev\n"
+        }
+      ]
     }
   ]
 }

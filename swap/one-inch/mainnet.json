@@ -1155,7 +1155,7 @@
     "from": {
       "secretType": "ETHEREUM",
       "symbol": "PYR",
-      "tokenAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     },
     "to": {
       "secretType": "ETHEREUM",
@@ -1167,7 +1167,7 @@
     "from": {
       "secretType": "ETHEREUM",
       "symbol": "PYR",
-      "tokenAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     },
     "to": {
       "secretType": "ETHEREUM",
@@ -1196,7 +1196,7 @@
     "to": {
       "secretType": "ETHEREUM",
       "symbol": "PYR",
-      "tokenAddress": "0x9534ad65fb398e27ac8f4251dae1780b989d136e"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     }
   },
   {
@@ -1520,14 +1520,14 @@
     "to": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     }
 },
 {
     "from": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     },
     "to": {
       "secretType": "MATIC",
@@ -1808,14 +1808,14 @@
     "to": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     }
 },
 {
     "from": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     },
     "to": {
       "secretType": "MATIC",
@@ -2096,14 +2096,14 @@
     "to": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     }
 },
 {
     "from": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     },
     "to": {
       "secretType": "MATIC",
@@ -2408,14 +2408,14 @@
     "to": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     }
 },
 {
     "from": {
       "secretType": "MATIC",
       "symbol": "PYR",
-      "tokenAddress": "0x348e62131fce2F4e0d5ead3Fe1719Bc039B380A9"
+      "tokenAddress": "0x430ef9263e76dae63c84292c3409d61c598e9682"
     },
     "to": {
       "secretType": "MATIC",
