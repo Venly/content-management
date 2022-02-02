@@ -1290,5 +1290,10 @@
     {
 	  "address": "0x79393a9318f83d75d29ea7123acc52f4a9d2404a",
 	  "categories": ["scam"]
+    }	,
+    {
+	  "address": "0xe0208d7591ee87db9e0a713ae7591a6348da04b6",
+	  "categories": ["scam"]
     }
+
  ]
