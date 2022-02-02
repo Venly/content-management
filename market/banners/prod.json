@@ -33,15 +33,15 @@
         "value": "collection/Puzzle in a Bag"
       }  
     },
-   {
+    {
       "category": "all",
-      "tagline": "Atari AlphaVerse Auction Ends Today!",
-      "banner": "https://img.arkane.network/img/arkane.market/Atari-Pong.jpg",
+      "tagline": "Join our Discord: and get notified about exclusive drops",
+      "banner": "https://img.arkane.network/img/arkane.market/Discord.png",
       "style": "dark",
       "cta": {
-        "type": "redirect",
-        "text": "Start Bidding",
-        "value": "collection/AlphaVerse-atari"
+        "type": "externalRedirect",
+        "text": "Join Discord",
+        "value": "https://venly.io/discord"
       }
     }
   ]
