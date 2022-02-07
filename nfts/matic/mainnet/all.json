@@ -1,5 +1,27 @@
 [
 	{
+		"name": "The Bachelor Weekend",
+		"address": "0x8d590dedc83fb2c2ad34345debf8c094f64f0891",
+		"url": "https://linktr.ee/bachelorNFT",
+		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/5b2ae00c-f5b0-4c32-8141-607ce6c83ef0/NFT-YAN-PF.png",
+		"description":"The Bachelor Weekend NFT collection is the first of its kind. It is an NFT sale where 50% of the raised capital goes into Yan's bachelor weekend, and the other 50% will be invested in high risk crypto and NFT projects. NFTs from this collection will give you partial ownership of that investment fund.",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1062caa3-695e-4c7b-b339-84a1f942ae50/Screenshot-2022-01-29-at-20.38.43.png"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/04265770-f1f6-401a-aa5c-dad0a2f22c4d/NFT-YAN-BANNER.png"
+			}
+			],
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"collectibles"
+		]
+			},
+	{
 	"name": "MaisonDAO",
 	"address": "0xa7b07afd17ee4828557e740077f79f9890e3130c",
 	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/f5f41bbd-20e0-4f7f-8c3f-9b3787e79e72/EDGElogo@144x.png",
