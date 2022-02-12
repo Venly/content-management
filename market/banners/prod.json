@@ -17,7 +17,7 @@
       "banner": "https://img.arkane.network/img/arkane.market/memphis.png",
       "style": "primary",
       "cta": {
-        "type": "externalRedirect",
+        "type": "redirect",
         "text": "Join The Race",
         "value": "collection/TradeRaceManager"
       }  
