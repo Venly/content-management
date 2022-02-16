@@ -2,7 +2,7 @@
   "banners": [
     {
       "category": "collectibles",
-      "tagline": "Introducing the MetaRing - Your Membership Pass NFT Into the Metaverse",
+      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
       "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
       "style": "primary",
       "cta": {
@@ -13,7 +13,7 @@
     },
     {
       "category": "game_items",
-      "tagline": "Introducing the MetaRing - Your Membership Pass NFT Into the Metaverse",
+      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
       "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
       "style": "primary",
       "cta": {
@@ -24,9 +24,9 @@
     },
     {
       "category": "digital_art",
-      "tagline": "Introducing the MetaRing - Your Membership Pass NFT Into the Metaverse",
+      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
       "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
-      "style": "dark",
+      "style": "primary",
       "cta": {
         "type": "externalRedirect",
         "text": "Enter The Metaverse",
@@ -35,7 +35,7 @@
     },
     {
       "category": "all",
-      "tagline": "Introducing the MetaRing - Your Membership Pass NFT Into the Metaverse",
+      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
       "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
       "style": "primary",
       "cta": {
