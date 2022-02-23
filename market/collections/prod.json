@@ -1,6 +1,21 @@
 {
   "collections": [
     {
+      "name": "YDB Drunken Monk Series",
+      "publicIdentifier": "Dynisty",
+      "verified": true,
+      "description": "The Shaolin monk's drunken style inspires this collection . This style was personified by the lyrics of Old Dirty Bastard with an unorthodox flow of lethal lyrics and deadly punchlines. This style has been immortalized through his son Young Dirty Bastard. This collection features rare hand-drawn pieces by Marc Remolien and Ruckusart. It includes unreleased tracks behind the scene videos and chances to win exclusive Ydb Merch and memorabilia and one on one live conversations with Ydb.",
+      "contracts": [
+        {
+          "address": "0x75c3da7bc9be4d85e0ac663239b9d2d6a38eb3da",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/YDB-Banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/YDB-Logo.png"
+      
+    },
+    {
       "name": "The Bachelor Weekend",
       "publicIdentifier": "the-bachelor-weekend-nft",
       "verified": true,
