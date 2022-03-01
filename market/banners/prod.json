@@ -3,7 +3,7 @@
     {
       "category": "collectibles",
       "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
-      "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
         "type": "externalRedirect",
@@ -14,7 +14,7 @@
     {
       "category": "game_items",
       "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
-      "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
         "type": "externalRedirect",
@@ -25,7 +25,7 @@
     {
       "category": "digital_art",
       "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
-      "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
         "type": "externalRedirect",
@@ -36,7 +36,7 @@
     {
       "category": "all",
       "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
-      "banner": "https://img.arkane.network/img/arkane.market/metaring.png",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
         "type": "externalRedirect",
