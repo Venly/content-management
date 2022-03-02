@@ -1,5 +1,27 @@
 [
 	{
+	"name": "MetaRing",
+	"url": "https://metaring.one/",
+	"address": "0xba8c3db050dd99cbe7f980f3d8f48084c6dcc20b",
+	"imageUrl":"https://content.arkane.network/marketing/venly/contract.png",
+	"description":"Collection that unlocked unique wearables and digital collectibles within multiple virtual worlds acting as an access pass to exclusive drops, locations, events, games, and items",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.venly.io/upload/metaring/metaring_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.venly.io/upload/metaring/metaring_banner.png"
+		}
+        ],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"collectibles"
+	]
+      },
+	{
 		"name": "YDB Drunken Monk Series",
 		"address": "0x75c3da7bc9be4d85e0ac663239b9d2d6a38eb3da",
 		"url": "https://linktr.ee/dynisty.io",
