@@ -2,46 +2,46 @@
   "banners": [
     {
       "category": "collectibles",
-      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
+      "tagline": "The MetaRing Drops Today, Get Yours Here",
       "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
-        "type": "externalRedirect",
-        "text": "Enter The Metaverse",
-        "value": "https://metaring.one"
+        "type": "redirect",
+        "text": "Get Your MetaRing",
+        "value": "collection/metaring"
       } 
     },
     {
       "category": "game_items",
-      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
+      "tagline": "The MetaRing Drops Today, Get Yours Here",
       "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
-        "type": "externalRedirect",
-        "text": "Enter The Metaverse",
-        "value": "https://metaring.one"
+        "type": "redirect",
+        "text": "Get Your MetaRing",
+        "value": "collection/metaring"
       }  
     },
     {
       "category": "digital_art",
-      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
+      "tagline": "The MetaRing Drops Today, Get Yours Here",
       "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
-        "type": "externalRedirect",
-        "text": "Enter The Metaverse",
-        "value": "https://metaring.one"
+        "type": "redirect",
+        "text": "Get Your MetaRing",
+        "value": "collection/metaring"
       }  
     },
     {
       "category": "all",
-      "tagline": "MetaRing - Your Membership Pass Into the Metaverse",
+      "tagline": "The MetaRing Drops Today, Get Yours Here",
       "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
       "style": "primary",
       "cta": {
-        "type": "externalRedirect",
-        "text": "Enter The Metaverse",
-        "value": "https://metaring.one"
+        "type": "redirect",
+        "text": "Get Your MetaRing",
+        "value": "collection/metaring"
       }
     }
   ]
