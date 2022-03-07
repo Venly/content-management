@@ -2,8 +2,8 @@
   "banners": [
     {
       "category": "collectibles",
-      "tagline": "The MetaRing Drops Today, Get Yours Here",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
+      "tagline": "Get Your MetaRing Today, Only on Venly Market",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
       "style": "primary",
       "cta": {
         "type": "redirect",
@@ -13,8 +13,8 @@
     },
     {
       "category": "game_items",
-      "tagline": "The MetaRing Drops Today, Get Yours Here",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
+      "tagline": "Get Your MetaRing Today, Only on Venly Market",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
       "style": "primary",
       "cta": {
         "type": "redirect",
@@ -24,8 +24,8 @@
     },
     {
       "category": "digital_art",
-      "tagline": "The MetaRing Drops Today, Get Yours Here",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
+      "tagline": "Get Your MetaRing Today, Only on Venly Market",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
       "style": "primary",
       "cta": {
         "type": "redirect",
@@ -35,8 +35,8 @@
     },
     {
       "category": "all",
-      "tagline": "The MetaRing Drops Today, Get Yours Here",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-banner-market.png",
+      "tagline": "Get Your MetaRing Today, Only on Venly Market",
+      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
       "style": "primary",
       "cta": {
         "type": "redirect",
