@@ -1,5 +1,27 @@
 [
 	{
+		"name": "Big Break",
+		"address": "0xfbA1F4708ef20b9F58aD797Bc8fe4e7651FFc95e",
+		"url": "https://www.bandsintown.com/",
+		"imageUrl":"https://img.arkane.network/img/arkane.market/bandsintown-logo.png",
+		"description":"Bandsintown is all about supporting up-and-coming artists with programs like Big Break, which has helped introduce live music fans to acts like Cautious Clay, YUNGBLUD, and Peach Pit. For the latest Big Break series, they're pairing performers who've been climbing the Bandsintown charts with rising visual artists to create one-of-a-kind NFT laminates distributed to fans who tune in to their free livestreams.",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://img.arkane.network/img/arkane.market/bandsintown-hero.png"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://img.arkane.network/img/arkane.market/bandsintown-banner.png"
+			}
+			],
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+			},
+	{
 		"name": "YDB Drunken Monk Series",
 		"address": "0x75c3da7bc9be4d85e0ac663239b9d2d6a38eb3da",
 		"url": "https://linktr.ee/dynisty.io",
