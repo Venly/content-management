@@ -14,6 +14,11 @@
          "name":"Lightning Rush",
          "open":"2021-09-12T13:15:00",
          "durationInMinutes":15
+      },
+      {
+         "name":"Test QA Rush",
+         "open":"2022-03-17T06:00:00",
+         "durationInMinutes":22240
       }
    ]
 }

@@ -14,6 +14,30 @@
       "banner": "https://img.arkane.network/img/arkane.market/bandsintown-banner.png",
       "logo": "https://img.arkane.network/img/arkane.market/bandsintown-logo.png"
       
+  },
+  {
+      "name": "MetaRing",
+      "publicIdentifier": "metaring",
+      "verified": true,
+      "description": "Collection that unlocks unique wearables and digital collectibles within multiple virtual worlds acting as an access pass to exclusive drops, locations, events, games, and items",
+      "contracts": [
+        {
+          "address": "0xba8c3db050dd99cbe7f980f3d8f48084c6dcc20b",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.venly.io/upload/metaring/metaring_banner.png",
+      "logo": "https://content.arkane.network/marketing/venly/contract.png",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://venly.io/discord"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/metaringone"
+        }
+      ]
     },
     {
       "name": "YDB Drunken Monk Series",
