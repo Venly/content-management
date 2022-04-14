@@ -2494,5 +2494,77 @@
       "symbol": "USDT",
       "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
     }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
+      "symbol": "MATIC",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "SAND",
+      "tokenAddress": "0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+    }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
+      "symbol": "SAND",
+      "tokenAddress": "0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "MATIC",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
+      "symbol": "USDT",
+      "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "SAND",
+      "tokenAddress": "0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+    }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
+      "symbol": "SAND",
+      "tokenAddress": "0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "USDT",
+      "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+    }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
+      "symbol": "USDC",
+      "tokenAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "SAND",
+      "tokenAddress": "0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+    }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
+      "symbol": "SAND",
+      "tokenAddress": "0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "USDC",
+      "tokenAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    }
   }
 ]
