@@ -1,6 +1,48 @@
 {
   "collections": [
     {
+      "name": "Gaimin Promotion-2",
+      "publicIdentifier": "gaimin-promotion-2",
+      "verified": true,
+      "description": "Welcome to the home of Gaimin Promotion-2 on Venly Market. Discover the best items in this collection.",
+      "contracts": [
+        {
+          "address": "0x061c1D70eEAd7E9d4407C025928d76b7b6fa4046",
+          "chain": "MATIC"
+        }
+      ],
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GaiminIo"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/gaimin_io/"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCp9Y_FMB1p4Nqjct0Ro9f3g"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/officialgaimin"
+        }
+        ,
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/jemqJ9PkCJ"
+        }
+        ,
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/Gaimin.io/"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d0c1dfc0-50eb-464c-ad6e-da70aab82dcc/Socail-Medai-Cover-Designs-LinkedIn-03-1-.jpg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/975bb21e-b818-4f51-9384-45aa7a15c878/Sword-of-Fearless-Victory.png"
+  },
+    {
       "name": "Big Break",
       "publicIdentifier": "big-break",
       "verified": true,
