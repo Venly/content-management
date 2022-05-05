@@ -1,6 +1,21 @@
 {
   "collections": [
     {
+      "name": "Sapien Medicine  -  The Tower by Energetic Alchemy",
+      "publicIdentifier": "the-tower-by-energetic-alchemy",
+      "verified": true,
+      "description": "Energetic Alchemy represents a fusion of music within the EDM blanket of music. The music may edge into other genres, romance with it and draw it into the process to create an evolving wall of sound. The songs are designed to carry you on an immersive journey within the mental and energetic soundscapes. Immensely satisfying and addictive. Give us a listen and let us take you on a journey into a whole new magical music realm.",
+      "contracts": [
+        {
+          "address": "0xC0A63a54e1A78D8c121d6636229271B34E60ecb2",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4f4fa0cd-b352-4edf-8281-0aef0209ed68/alchemy-Resize-02.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d540cb08-0e3d-4cb0-ba67-54c2e29adfb4/alchemy-Resize-01.png"
+      
+  },
+    {
       "name": "Big Break",
       "publicIdentifier": "big-break",
       "verified": true,

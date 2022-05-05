@@ -1,5 +1,27 @@
 [
 	{
+		"name": "Sapien Medicine  -  The Tower by Energetic Alchemy",
+		"address": "0xC0A63a54e1A78D8c121d6636229271B34E60ecb2",
+		"url": "https://www.youtube.com/c/sapienmedicine",
+		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/d540cb08-0e3d-4cb0-ba67-54c2e29adfb4/alchemy-Resize-01.png",
+		"description":"Energetic Alchemy represents a fusion of music within the EDM blanket of music. The music may edge into other genres, romance with it and draw it into the process to create an evolving wall of sound. The songs are designed to carry you on an immersive journey within the mental and energetic soundscapes. Immensely satisfying and addictive. Give us a listen and let us take you on a journey into a whole new magical music realm.",
+		"media": [
+			{
+			  "type": "image",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8febec99-7993-4b0d-a396-21eae8feb073/alchemy-Resize-03.png"
+			},
+			{
+			  "type": "banner",
+			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4f4fa0cd-b352-4edf-8281-0aef0209ed68/alchemy-Resize-02.png"
+			}
+			],
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"digital_art"
+		]
+	},
+	{
 		"name": "Big Break",
 		"address": "0xfbA1F4708ef20b9F58aD797Bc8fe4e7651FFc95e",
 		"url": "https://www.bandsintown.com/",
