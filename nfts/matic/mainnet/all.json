@@ -1,5 +1,27 @@
 [
 	{
+	"name": "Gaimin Promotion-2",
+	"url": "https://gaimin.io/",
+	"address": "0x061c1D70eEAd7E9d4407C025928d76b7b6fa4046",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/975bb21e-b818-4f51-9384-45aa7a15c878/Sword-of-Fearless-Victory.png",
+	"description":"Welcome to the home of Gaimin Promotion-2 on Venly Market. Discover the best items in this collection.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/aa96d238-2aaa-4405-b470-c49228955df5/Sword-of-Fearless-Victory.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d0c1dfc0-50eb-464c-ad6e-da70aab82dcc/Socail-Medai-Cover-Designs-LinkedIn-03-1-.jpg"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"game_items"
+	]
+ },
+	{
 		"name": "Big Break",
 		"address": "0xfbA1F4708ef20b9F58aD797Bc8fe4e7651FFc95e",
 		"url": "https://www.bandsintown.com/",
