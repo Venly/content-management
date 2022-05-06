@@ -1,5 +1,36 @@
 {
   "collections": [
+    {
+      "name": "CBI - Alphaverse",
+      "publicIdentifier": "cbi-alphaverse",
+      "verified": true,
+      "description": "MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
+      "contracts": [
+        {
+          "address": "0xb2a671a72C414ee08050a4DB574588D209a9d20e",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x22580B98C3FE034bc7e556c8f84EfB8f51102342",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x9704cE43c4371159403A3C2A8E7A5467B4795aB7",
+          "chain": "BSC"
+        },
+        {
+          "address": "0x787980cD9f8aECA839A6A2802aA21E3a659B73Cc",
+          "chain": "BSC"
+        },
+        {
+          "address": "0x9Bb91BB28aa7Ec33092fde71eb94CA51da7870D6",
+          "chain": "ETHEREUM"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
+     "socials": []
+  },
       {
       "name": "Sapien Medicine  -  The Tower by Energetic Alchemy",
       "publicIdentifier": "sapien-sedicine-the-tower-by-energetic-alchemy",
