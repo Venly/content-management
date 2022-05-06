@@ -1,4 +1,44 @@
 [
+	{
+		"name": "Ellysium Genesis",
+		"url": "https://www.ellysium.co/",
+		"address": "0xF04844cAd276F0e42839a1eF5F9d396d7d9B8e2F",
+		"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Ellysium/ellysium-circle-logo.png",
+		"description":"Electric is the future for performance & the planet. Ellysium Racing is paving an untraditional path in a legacy sport, leveraging technology to push the boundaries of performance & sustainability in the real & digital worlds. These 22 Genesis NFTs are the ultimate access to be a part of our journey.",
+		"media": [
+			{
+				"type": "banner",
+				"value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Ellysium/ellysium-hero-image.JPG"
+			}
+		],
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"collectibles"
+		]
+	},
+	{
+		"name": "CBI - Alphaverse",
+		"url": "https://alphaverse.com/metacoaster-alphaverse/",
+		"address": "0x22580B98C3FE034bc7e556c8f84EfB8f51102342",
+		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
+		"description":"MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
+		"media": [
+			{
+				"type": "image",
+				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de31f066-e0e1-4d47-989e-32ef0ea93265/Logo-rectangular.png"
+			},
+			{
+				"type": "banner",
+				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg"
+			}
+		],
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"collectibles"
+		]
+	},
  {
   "name": "CBI - Alphaverse",
   "url": "https://alphaverse.com/metacoaster-alphaverse/",
