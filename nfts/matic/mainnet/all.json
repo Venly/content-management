@@ -1,4 +1,26 @@
 [
+{
+  "name": "Ellysium Genesis",
+  "url": "https://www.ellysium.co/",
+  "address": "0xF04844cAd276F0e42839a1eF5F9d396d7d9B8e2F",
+  "imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/f367811f-24fc-47ad-b2ca-99e79f30c69c/Ellysium-Circle-logo.png",
+  "description":"Electric is the future for performance & the planet. Ellysium Racing is paving an untraditional path in a legacy sport, leveraging technology to push the boundaries of performance & sustainability in the real & digital worlds. These 22 Genesis NFTs are the ultimate access to be a part of our journey.",
+  "media": [
+    {
+      "type": "image",
+      "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/def5e62e-9e71-4620-a534-28ff0f3d6d0c/Ellysium-Hero-Image.JPG"
+    },
+    {
+      "type": "banner",
+      "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/cf6ae9ba-90b5-404f-ae30-96e0109e1206/Ellysium-Banner.png"
+    }
+    ],
+  "verified": "true",
+  "premium": "false",
+  "categories": [
+  "collectibles"
+  ]
+   },
  {
   "name": "CBI - Alphaverse",
   "url": "https://alphaverse.com/metacoaster-alphaverse/",
