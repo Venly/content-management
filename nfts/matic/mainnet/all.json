@@ -1,5 +1,26 @@
 [
 	{
+		"name": "Gaimin Alpha pack",
+		"url": "https://gaimin.io/",
+		"address": "0x868676dcaf5495c31955466561b8a3c786f87dba",
+		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ba89cd9e-779a-4b2b-9d6c-d6013bf83330/Logo-Image.png",
+		"description": "First Gaimcraft NFT pack",
+		"media": [{
+				"type": "image",
+				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34b4da21-41cc-4350-b2c2-7bd693767411/Sword-of-the-First-WindNFT.png"
+			},
+			{
+				"type": "banner",
+				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/450b411c-49ca-4ca2-9a56-64cf8037ed6d/Banner.png"
+			}
+		],
+		"verified": "true",
+		"premium": "false",
+		"categories": [
+			"game_items"
+		]
+	},
+	{
 		"name": "Ellysium Genesis",
 		"url": "https://www.ellysium.co/",
 		"address": "0xF04844cAd276F0e42839a1eF5F9d396d7d9B8e2F",
