@@ -1,5 +1,47 @@
 {
   "collections": [
+	  {
+      "name": "Gaimin Alpha pack",
+      "publicIdentifier": "gaimin-alpha-pack",
+      "verified": true,
+      "description": "First Gaimcraft NFT pack",
+      "contracts": [
+        {
+          "address": "0x868676dcaf5495c31955466561b8a3c786f87dba",
+          "chain": "MATIC"
+        }
+      ],
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GaiminIo"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/gaimin_io/"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCp9Y_FMB1p4Nqjct0Ro9f3g"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/officialgaimin"
+        }
+        ,
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/jemqJ9PkCJ"
+        }
+        ,
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/Gaimin.io/"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/450b411c-49ca-4ca2-9a56-64cf8037ed6d/Banner.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ba89cd9e-779a-4b2b-9d6c-d6013bf83330/Logo-Image.png"
+  },
     {
       "name": "Alphaverse / MetaCoaster Land ",
       "publicIdentifier": "alphaverse-metacoaster-land",
