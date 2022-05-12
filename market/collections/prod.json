@@ -1,6 +1,20 @@
 {
   "collections": [
-	  {
+   {
+      "name": "Ember Sword",
+      "publicIdentifier": "ember-sword",
+      "verified": true,
+      "description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
+      "contracts": [
+        {
+          "address": "0xE7e16f2Da731265778f87cB8D7850E31b84b7b86",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/embersword_banner.png",
+      "logo": "https://img.arkane.network/marketing/EmberSword/ember_logo.png"
+  },
+  {
       "name": "Gaimin Alpha pack",
       "publicIdentifier": "gaimin-alpha-pack",
       "verified": true,
