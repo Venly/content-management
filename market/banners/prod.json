@@ -2,46 +2,46 @@
   "banners": [
     {
       "category": "collectibles",
-      "tagline": "Get Your MetaRing Today, Only on Venly Market",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
-      "style": "primary",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
+      "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Get Your MetaRing",
-        "value": "collection/metaring"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       } 
     },
     {
       "category": "game_items",
-      "tagline": "Get Your MetaRing Today, Only on Venly Market",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
-      "style": "primary",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
+      "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Get Your MetaRing",
-        "value": "collection/metaring"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       }  
     },
     {
       "category": "digital_art",
-      "tagline": "Get Your MetaRing Today, Only on Venly Market",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
-      "style": "primary",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
+      "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Get Your MetaRing",
-        "value": "collection/metaring"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       }  
     },
     {
       "category": "all",
-      "tagline": "Get Your MetaRing Today, Only on Venly Market",
-      "banner": "https://img.arkane.network/img/arkane.market/MetaRing-deadline.png",
-      "style": "primary",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
+      "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Get Your MetaRing",
-        "value": "collection/metaring"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       }
     }
   ]
