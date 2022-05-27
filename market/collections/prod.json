@@ -1,6 +1,48 @@
 {
   "collections": [
    {
+      "name": "Lunar Crystals",
+      "publicIdentifier": "lunar-crystals",
+      "verified": true,
+      "description": "Lunar Crystals: Multi-chain NFTs that unlock powers for holders. The collection consists of 4,444 first-addition Crystals. Not only are these 4K animated crystals among the most stunning art in the multiverse, the Genesis Collection also has a captivating storyline, LNR staking rewards, and access to exclusive abilities within the Lunar Ecosystem. While the Phase 1 launch will take place on BSC, the Phase 2 Genesis Launch will take place on Ethereum. Soon, the release of our FluidNFT™ technology will enable seamless movement of Lunar Crystals across any supported blockchain.",
+      "contracts": [
+        {
+          "address": "0x6416c6e480Ad6db98Ef225EFb4BD70a1b8a4b5Eb",
+          "chain": "BSC"
+        }
+      ],
+       "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/lnrdefi"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/lnrdefi/"
+        },
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/lnrdefi"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/lnrDefi"
+        }
+        ,
+        {
+          "type": "discord",
+          "value": "https://discord.gg/lnr"
+        }
+        ,
+        {
+          "type": "reddit",
+          "value": "https://www.reddit.com/r/lnrDefi/"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44a5d1d3-d601-4541-854f-89ed16f0629c/rsz_lunarcollectionbannerbinancenftt.jpeg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/7894bb2d-6f07-4fbb-9b94-b279e6f4b2d3/Lunar.ProfileImage.BinanceNFT.gif"
+  },
+   {
       "name": "Ember Sword",
       "publicIdentifier": "ember-sword",
       "verified": true,
