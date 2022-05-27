@@ -1,480 +1,540 @@
 [
-	{
-		"name": "Gaimin Alpha pack",
-		"url": "https://gaimin.io/",
-		"address": "0x868676dcaf5495c31955466561b8a3c786f87dba",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ba89cd9e-779a-4b2b-9d6c-d6013bf83330/Logo-Image.png",
-		"description": "First Gaimcraft NFT pack",
-		"media": [{
-				"type": "image",
-				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34b4da21-41cc-4350-b2c2-7bd693767411/Sword-of-the-First-WindNFT.png"
-			},
-			{
-				"type": "banner",
-				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/450b411c-49ca-4ca2-9a56-64cf8037ed6d/Banner.png"
-			}
-		],
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "Ellysium Genesis",
-		"url": "https://www.ellysium.co/",
-		"address": "0xF04844cAd276F0e42839a1eF5F9d396d7d9B8e2F",
-		"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Ellysium/ellysium-circle-logo.png",
-		"description":"Electric is the future for performance & the planet. Ellysium Racing is paving an untraditional path in a legacy sport, leveraging technology to push the boundaries of performance & sustainability in the real & digital worlds. These 22 Genesis NFTs are the ultimate access to be a part of our journey.",
-		"media": [
-			{
-				"type": "banner",
-				"value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Ellysium/ellysium-hero-image.JPG"
-			}
-		],
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "Alphaverse / MetaCoaster Assets",
-		"url": "https://alphaverse.com/metacoaster-alphaverse/",
-		"address": "0x22580B98C3FE034bc7e556c8f84EfB8f51102342",
-		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
-		"description":"MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
-		"media": [
-			{
-				"type": "image",
-				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de31f066-e0e1-4d47-989e-32ef0ea93265/Logo-rectangular.png"
-			},
-			{
-				"type": "banner",
-				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg"
-			}
-		],
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
- {
-  "name": "Alphaverse / MetaCoaster Land",
-  "url": "https://alphaverse.com/metacoaster-alphaverse/",
-  "address": "0xb2a671a72C414ee08050a4DB574588D209a9d20e",
-  "imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
-  "description":"MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
-  "media": [
-    {
-      "type": "image",
-      "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de31f066-e0e1-4d47-989e-32ef0ea93265/Logo-rectangular.png"
-    },
-    {
-      "type": "banner",
-      "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg"
-    }
-    ],
-  "verified": "true",
-  "premium": "false",
-  "categories": [
-  "collectibles"
-  ]
-   },
-	{
-	"name": "Sapien Medicine  -  The Tower by Energetic Alchemy",
-	"url": "https://www.bondly.finance/",
-	"address": "0xC0A63a54e1A78D8c121d6636229271B34E60ecb2",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/d540cb08-0e3d-4cb0-ba67-54c2e29adfb4/alchemy-Resize-01.png",
-	"description":"Energetic Alchemy represents a fusion of music within the EDM blanket of music. The music may edge into other genres, romance with it and draw it into the process to create an evolving wall of sound. The songs are designed to carry you on an immersive journey within the mental and energetic soundscapes. Immensely satisfying and addictive. Give us a listen and let us take you on a journey into a whole new magical music realm.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4f4fa0cd-b352-4edf-8281-0aef0209ed68/alchemy-Resize-02.png"
+{
+	"name": "Heromix NFT",
+	"url": "https://mint.heromix.org/",
+	"address": "0x25dbd31958c21ddbdb67a90ab05c462e7900db83",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/a6319285-e7e6-41d0-897c-c2c44fc3523f/ezgif-1-bfffa0b075.gif",
+	"description": "HEROMIX: NFT collection Heroes of comics in the image of the President of Ukraine Volodymyr Zelenskyy. Maked in 2022 to show solidarity with the people of Ukraine in their time of war. “Like most of the world, I’m horrified to see what’s happening in Ukraine right now. My heart goes out to the thousands of innocent people fleeing their homes because of a senseless war. While sitting half way across the world I felt helpless but compelled to act and create. With the motivation of my NFT collecting community, I knew I could help in some way. 10% of the sales of all NFT will go to the official Ukraine Crypto Donation wallet.",
+	"media": [{
+			"type": "image",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/078e27a1-a571-40eb-88c3-31e2bef47bb0/heromix600x316.png"
 		},
 		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8febec99-7993-4b0d-a396-21eae8feb073/alchemy-Resize-03.png"
+			"type": "banner",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/acdb0c1d-b871-466a-8aa7-ed69340f430d/heromix1400x180.png"
 		}
-		],
+	],
 	"verified": "true",
 	"premium": "false",
 	"categories": [
-	"collectibles"
+		"collectibles"
 	]
-	 },
-	{
-	"name": "Gaimin Promotion-2",
+},
+{
+	"name": "Gaimin Alpha pack",
 	"url": "https://gaimin.io/",
-	"address": "0x061c1D70eEAd7E9d4407C025928d76b7b6fa4046",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/975bb21e-b818-4f51-9384-45aa7a15c878/Sword-of-Fearless-Victory.png",
-	"description":"Welcome to the home of Gaimin Promotion-2 on Venly Market. Discover the best items in this collection.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/aa96d238-2aaa-4405-b470-c49228955df5/Sword-of-Fearless-Victory.png"
+	"address": "0x868676dcaf5495c31955466561b8a3c786f87dba",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ba89cd9e-779a-4b2b-9d6c-d6013bf83330/Logo-Image.png",
+	"description": "First Gaimcraft NFT pack",
+	"media": [{
+			"type": "image",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34b4da21-41cc-4350-b2c2-7bd693767411/Sword-of-the-First-WindNFT.png"
 		},
 		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d0c1dfc0-50eb-464c-ad6e-da70aab82dcc/Socail-Medai-Cover-Designs-LinkedIn-03-1-.jpg"
+			"type": "banner",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/450b411c-49ca-4ca2-9a56-64cf8037ed6d/Banner.png"
 		}
-        ],
+	],
 	"verified": "true",
 	"premium": "false",
 	"categories": [
 		"game_items"
 	]
- },
+},
+{
+	"name": "Ellysium Genesis",
+	"url": "https://www.ellysium.co/",
+	"address": "0xF04844cAd276F0e42839a1eF5F9d396d7d9B8e2F",
+	"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Ellysium/ellysium-circle-logo.png",
+	"description":"Electric is the future for performance & the planet. Ellysium Racing is paving an untraditional path in a legacy sport, leveraging technology to push the boundaries of performance & sustainability in the real & digital worlds. These 22 Genesis NFTs are the ultimate access to be a part of our journey.",
+	"media": [
+		{
+			"type": "banner",
+			"value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Ellysium/ellysium-hero-image.JPG"
+		}
+	],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "Alphaverse / MetaCoaster Assets",
+	"url": "https://alphaverse.com/metacoaster-alphaverse/",
+	"address": "0x22580B98C3FE034bc7e556c8f84EfB8f51102342",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
+	"description":"MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
+	"media": [
+		{
+			"type": "image",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de31f066-e0e1-4d47-989e-32ef0ea93265/Logo-rectangular.png"
+		},
+		{
+			"type": "banner",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg"
+		}
+	],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+"name": "Alphaverse / MetaCoaster Land",
+"url": "https://alphaverse.com/metacoaster-alphaverse/",
+"address": "0xb2a671a72C414ee08050a4DB574588D209a9d20e",
+"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
+"description":"MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
+"media": [
+{
+"type": "image",
+"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de31f066-e0e1-4d47-989e-32ef0ea93265/Logo-rectangular.png"
+},
+{
+"type": "banner",
+"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg"
+}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+"collectibles"
+]
+},
+{
+"name": "Sapien Medicine  -  The Tower by Energetic Alchemy",
+"url": "https://www.bondly.finance/",
+"address": "0xC0A63a54e1A78D8c121d6636229271B34E60ecb2",
+"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/d540cb08-0e3d-4cb0-ba67-54c2e29adfb4/alchemy-Resize-01.png",
+"description":"Energetic Alchemy represents a fusion of music within the EDM blanket of music. The music may edge into other genres, romance with it and draw it into the process to create an evolving wall of sound. The songs are designed to carry you on an immersive journey within the mental and energetic soundscapes. Immensely satisfying and addictive. Give us a listen and let us take you on a journey into a whole new magical music realm.",
+"media": [
 	{
-		"name": "Big Break",
-		"address": "0xfbA1F4708ef20b9F58aD797Bc8fe4e7651FFc95e",
-		"url": "https://www.bandsintown.com/",
-		"imageUrl":"https://img.arkane.network/img/arkane.market/bandsintown-logo.png",
-		"description":"Bandsintown is all about supporting up-and-coming artists with programs like Big Break, which has helped introduce live music fans to acts like Cautious Clay, YUNGBLUD, and Peach Pit. For the latest Big Break series, they're pairing performers who've been climbing the Bandsintown charts with rising visual artists to create one-of-a-kind NFT laminates distributed to fans who tune in to their free livestreams.",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/bandsintown-hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/bandsintown-banner.png"
-			}
-			],
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4f4fa0cd-b352-4edf-8281-0aef0209ed68/alchemy-Resize-02.png"
 	},
-  {
-	"name": "MetaRing",
-	"url": "https://metaring.one/",
-	"address": "0xba8c3db050dd99cbe7f980f3d8f48084c6dcc20b",
-	"imageUrl":"https://content.arkane.network/marketing/venly/contract.png",
-	"description":"Collection that unlocks unique wearables and digital collectibles within multiple virtual worlds acting as an access pass to exclusive drops, locations, events, games, and items",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.venly.io/upload/metaring/metaring_hero.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.venly.io/upload/metaring/metaring_banner.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "true",
-	"categories": [
-		"collectibles"
-	]
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8febec99-7993-4b0d-a396-21eae8feb073/alchemy-Resize-03.png"
+	}
+	],
+"verified": "true",
+"premium": "false",
+"categories": [
+"collectibles"
+]
  },
+{
+"name": "Gaimin Promotion-2",
+"url": "https://gaimin.io/",
+"address": "0x061c1D70eEAd7E9d4407C025928d76b7b6fa4046",
+"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/975bb21e-b818-4f51-9384-45aa7a15c878/Sword-of-Fearless-Victory.png",
+"description":"Welcome to the home of Gaimin Promotion-2 on Venly Market. Discover the best items in this collection.",
+"media": [
 	{
-		"name": "YDB Drunken Monk Series",
-		"address": "0x75c3da7bc9be4d85e0ac663239b9d2d6a38eb3da",
-		"url": "https://linktr.ee/dynisty.io",
-		"imageUrl":"https://img.arkane.network/img/arkane.market/YDB-Logo.png",
-		"description":"The Shaolin monk's drunken style inspires this collection. This style was personified by the lyrics of Old Dirty Bastard with an unorthodox flow of lethal lyrics and deadly punchlines. This style has been immortalized through his son Young Dirty Bastard. This collection features rare hand-drawn pieces by Marc Remolien and Ruckusart. It includes unreleased tracks behind the scene videos and chances to win exclusive YDB merch and memorabilia and one on one live conversations with YDB.",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/YDB-Hero-Image.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/YDB-Banner.png"
-			}
-			],
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-			},
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/aa96d238-2aaa-4405-b470-c49228955df5/Sword-of-Fearless-Victory.png"
+	},
 	{
-		"name": "The Bachelor Weekend",
-		"address": "0x8d590dedc83fb2c2ad34345debf8c094f64f0891",
-		"url": "https://linktr.ee/bachelorNFT",
-		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/5b2ae00c-f5b0-4c32-8141-607ce6c83ef0/NFT-YAN-PF.png",
-		"description":"The Bachelor Weekend NFT collection is the first of its kind. It is an NFT sale where 50% of the raised capital goes into Yan's bachelor weekend, and the other 50% will be invested in high risk crypto and NFT projects. NFTs from this collection will give you partial ownership of that investment fund.",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1062caa3-695e-4c7b-b339-84a1f942ae50/Screenshot-2022-01-29-at-20.38.43.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/04265770-f1f6-401a-aa5c-dad0a2f22c4d/NFT-YAN-BANNER.png"
-			}
-			],
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-			},
-	{
-	"name": "MaisonDAO",
-	"address": "0xa7b07afd17ee4828557e740077f79f9890e3130c",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/f5f41bbd-20e0-4f7f-8c3f-9b3787e79e72/EDGElogo@144x.png",
-	"description":"MaisonDAO is a Decentralized Metaverse Gallery for digital art and fashion. Create your life-like 3d avatar and explore our Metaverse and others!",
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d0c1dfc0-50eb-464c-ad6e-da70aab82dcc/Socail-Medai-Cover-Designs-LinkedIn-03-1-.jpg"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"game_items"
+]
+},
+{
+	"name": "Big Break",
+	"address": "0xfbA1F4708ef20b9F58aD797Bc8fe4e7651FFc95e",
+	"url": "https://www.bandsintown.com/",
+	"imageUrl":"https://img.arkane.network/img/arkane.market/bandsintown-logo.png",
+	"description":"Bandsintown is all about supporting up-and-coming artists with programs like Big Break, which has helped introduce live music fans to acts like Cautious Clay, YUNGBLUD, and Peach Pit. For the latest Big Break series, they're pairing performers who've been climbing the Bandsintown charts with rising visual artists to create one-of-a-kind NFT laminates distributed to fans who tune in to their free livestreams.",
 	"media": [
 		{
 		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/2b5b6200-520c-4b0b-8bc5-c6021e5af55d/HERO_1.png"
+		  "value": "https://img.arkane.network/img/arkane.market/bandsintown-hero.png"
 		},
 		{
 		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58c5d86c-5c96-44ba-bc85-9553538de761/banner.png"
+		  "value": "https://img.arkane.network/img/arkane.market/bandsintown-banner.png"
 		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "Christmas on the Radio",
-	"address": "0x769d9aba7ff8085351c16647f4d27ed81c818da1",
-	"imageUrl":"https://storage.venly.io/applications/b8a5f384-92c3-485d-a7a3-3048f0cafa88/CHRISTMASONTHERADIO.png",
-	"description":"Q.AGE aims to capture artistic and musical imagination to offer seemingly endless opportunities for lucrative self-expression and communicating with fans",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/09431e1d-2fa2-4350-bad5-fee7eab34605/Hero-Banner.jpg"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/da465dea-3f82-4033-b4d8-ca82ee0cf66d/Christmas-on-the-radio-banner.jpg"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "Nativz Key",
-	"address": "0x7D9C470aB55CD24df357e393B38055419a742309",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/40878efb-3a1b-43c6-bfd6-95870d941775/Discord_Avatar_transparent_400x400.png",
-	"description":"Securing a Nativz Key will give you a Lifelong 'Founding' Membership of Nativz Gaming. These keys will unlock access to a wide range of benefits as we build our community of members - gaining priority access to all things Nativz and having a real say on decisions as we expand into the esports ecosystem. ‍Launched using Polygon, we're removing the risk of high gas fees AND almost eliminating any negative impact on climate change.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/104105a1-cf60-46b7-887a-21fcd582ffea/Nativz_Facebook3.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/15bb1362-e9b1-4da8-96da-72c62f213717/Nativz_Facebook3.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "AlphaVerse / Beat",
-	"address": "0x6e5a595c186b48e0a713f01b9c601f9959bb7aa4",
-	"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Beat-AlphaVerse-square.png",
-	"description":"Beat AlphaVerse is a metaverse, part of the AlphaVerse, offering unique games, experiences and a community centered around dance music.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Beat-AlphaVerse-square.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "AlphaVerse / The Hub",
-	"address": "0x16fea4cb485cc0470a211567932b9301b5ff0c1c",
-	"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-The-Hub-AlphaVerse-square.png",
-	"description":"AlphaVerse is a metaverse connecting different universes, each offering a unique experience.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-The-Hub-AlphaVerse-square.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "AlphaVerse / Atari",
-	"address": "0x1572717a47ade70e1c2075df63f6bf255f98b43e",
-	"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png",
-	"description":"Atari AlphaVerse is a metaverse, part of the AlphaVerse, offering whole experience around the Atari brand.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "fractalia.io",
-	"url":"http://fractalia.io",
-	"address": "0x90F391cAb945749996754B464b81Ffdaa745229d",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c94cbbca-b6e2-4af4-8e1c-e4355fc6aeb0/csv300.gif"
-		}
-        ],
+		],
 	"verified": "true",
 	"premium": "false",
 	"categories": [
 		"digital_art"
 	]
-        },
-	{
-	"name": "Original Mood Ring",
-	"url":"http://theoriginalmoodring.io/",
-	"address": "0x13783c734918f0fb149897238960edf2d3553e85",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bf776eca-240e-4324-9a36-48c2fdd6952c/2A2347F2-344F-4B5B-BF1F-5ADA3595BC59.jpeg"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-		{
-	"name": "Original Mood Ring",
-	"url":"http://theoriginalmoodring.io/",
-	"address": "0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bf776eca-240e-4324-9a36-48c2fdd6952c/2A2347F2-344F-4B5B-BF1F-5ADA3595BC59.jpeg"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "Coorest",
-	"url": "https://www.coorest.eu",
-	"address": "0xe83da54c9626f83c4073812c944657f1c1bbec14",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/49566d09-5497-48fb-ad1f-b817e9a38e1c/COOREST_icon_white_background.jpeg",
-	"description":"Coorest is a blockchain-based solution for creating a decentralized carbon credit exchange and an easy way to invest in sustainable 'yield-bearing' assets: NFT(rees) backed by real planted trees and tokenizing these assets",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/04ecdfa2-7304-41cf-8484-a6e4da47e403/Token-V2-COOREST.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c8ec5428-5a75-429f-b85c-8d2d166af7d6/Coorest-banner.jpg"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-},
-	{
-	"name": "FC St. Pauli",
-	"url": "https://www.fcstpauli.com/",
-	"address": "0xd886ac770de8d0391ac57550e32aef90addaf017",
-	"imageUrl":"https://img.arkane.network/img/arkane.market/pauli_logo.png",
-	"description":"Der FC St. Pauli ist ein mitgliedergeführter Stadteilverein aus Hamburg mit einer antifaschistischen Grundhaltung.  Seine Mitglieder, Fans, und Mitarbeiter stehen für Werte wie Solidarität, Toleranz, Gleichstellung ein. Die erste Mannschaft des FC St. Pauli spielt in der zweiten Bundesliga Fußball. --- The FC St. Pauli is a member-led district club from Hamburg with an anti-fascist attitude.  Its members, fans, and employees stand up for values such as solidarity, tolerance, and equality. The first team of FC St. Pauli plays football in the second Bundesliga.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://img.arkane.network/img/arkane.market/pauli_hero.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/pauli_banner.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "true",
-	"categories": [
-		"collectibles"
-	]
-},
-	{
-	"name": "Digital Toilets by Van Marcke x Zoomers",
-	"url": "https://www.toilet.digital/",
-	"address": "0x2095b3eb02a0e26545bf9cb8000bd49fef7f7692",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/66b4c3f1-4abc-4a50-a356-e8503721d41d/Hero-image.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e0c07f7-91cb-4aa6-ae36-fcdf9b67c8a3/Banner-.png"
-		}
-        ],
-	"verified": "true",
-	"categories": [
-		"collectibles"
-	]
 },
 {
-	"name": "Chicken Derby",
-	"url": "http://bitlovin.com/",
-	"address": "0x8634666ba15ada4bbc83b9dbf285f73d9e46e4c2",
-	"imageUrl":"https://img.arkane.network/img/arkane.market/chickenderby_logo.jpeg",
-	"description":"Chicken Derby is a fun and exciting game where you can own and race your chicken to earn ETH. Brought to you by the makers of Ganja Farmer.",
+"name": "MetaRing",
+"url": "https://metaring.one/",
+"address": "0xba8c3db050dd99cbe7f980f3d8f48084c6dcc20b",
+"imageUrl":"https://content.arkane.network/marketing/venly/contract.png",
+"description":"Collection that unlocks unique wearables and digital collectibles within multiple virtual worlds acting as an access pass to exclusive drops, locations, events, games, and items",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.venly.io/upload/metaring/metaring_hero.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.venly.io/upload/metaring/metaring_banner.png"
+	}
+],
+"verified": "true",
+"premium": "true",
+"categories": [
+	"collectibles"
+]
+},
+{
+	"name": "YDB Drunken Monk Series",
+	"address": "0x75c3da7bc9be4d85e0ac663239b9d2d6a38eb3da",
+	"url": "https://linktr.ee/dynisty.io",
+	"imageUrl":"https://img.arkane.network/img/arkane.market/YDB-Logo.png",
+	"description":"The Shaolin monk's drunken style inspires this collection. This style was personified by the lyrics of Old Dirty Bastard with an unorthodox flow of lethal lyrics and deadly punchlines. This style has been immortalized through his son Young Dirty Bastard. This collection features rare hand-drawn pieces by Marc Remolien and Ruckusart. It includes unreleased tracks behind the scene videos and chances to win exclusive YDB merch and memorabilia and one on one live conversations with YDB.",
 	"media": [
 		{
 		  "type": "image",
-		  "value": "https://img.arkane.network/img/arkane.market/chickenderby_hero.png"
+		  "value": "https://img.arkane.network/img/arkane.market/YDB-Hero-Image.png"
 		},
 		{
 		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/chickenderby_banner.png"
+		  "value": "https://img.arkane.network/img/arkane.market/YDB-Banner.png"
 		}
-        ],
+		],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+		},
+{
+	"name": "The Bachelor Weekend",
+	"address": "0x8d590dedc83fb2c2ad34345debf8c094f64f0891",
+	"url": "https://linktr.ee/bachelorNFT",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/5b2ae00c-f5b0-4c32-8141-607ce6c83ef0/NFT-YAN-PF.png",
+	"description":"The Bachelor Weekend NFT collection is the first of its kind. It is an NFT sale where 50% of the raised capital goes into Yan's bachelor weekend, and the other 50% will be invested in high risk crypto and NFT projects. NFTs from this collection will give you partial ownership of that investment fund.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1062caa3-695e-4c7b-b339-84a1f942ae50/Screenshot-2022-01-29-at-20.38.43.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/04265770-f1f6-401a-aa5c-dad0a2f22c4d/NFT-YAN-BANNER.png"
+		}
+		],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+		},
+{
+"name": "MaisonDAO",
+"address": "0xa7b07afd17ee4828557e740077f79f9890e3130c",
+"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/f5f41bbd-20e0-4f7f-8c3f-9b3787e79e72/EDGElogo@144x.png",
+"description":"MaisonDAO is a Decentralized Metaverse Gallery for digital art and fashion. Create your life-like 3d avatar and explore our Metaverse and others!",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/2b5b6200-520c-4b0b-8bc5-c6021e5af55d/HERO_1.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58c5d86c-5c96-44ba-bc85-9553538de761/banner.png"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "Christmas on the Radio",
+"address": "0x769d9aba7ff8085351c16647f4d27ed81c818da1",
+"imageUrl":"https://storage.venly.io/applications/b8a5f384-92c3-485d-a7a3-3048f0cafa88/CHRISTMASONTHERADIO.png",
+"description":"Q.AGE aims to capture artistic and musical imagination to offer seemingly endless opportunities for lucrative self-expression and communicating with fans",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/09431e1d-2fa2-4350-bad5-fee7eab34605/Hero-Banner.jpg"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/da465dea-3f82-4033-b4d8-ca82ee0cf66d/Christmas-on-the-radio-banner.jpg"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "Nativz Key",
+"address": "0x7D9C470aB55CD24df357e393B38055419a742309",
+"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/40878efb-3a1b-43c6-bfd6-95870d941775/Discord_Avatar_transparent_400x400.png",
+"description":"Securing a Nativz Key will give you a Lifelong 'Founding' Membership of Nativz Gaming. These keys will unlock access to a wide range of benefits as we build our community of members - gaining priority access to all things Nativz and having a real say on decisions as we expand into the esports ecosystem. ‍Launched using Polygon, we're removing the risk of high gas fees AND almost eliminating any negative impact on climate change.",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/104105a1-cf60-46b7-887a-21fcd582ffea/Nativz_Facebook3.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/15bb1362-e9b1-4da8-96da-72c62f213717/Nativz_Facebook3.png"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "AlphaVerse / Beat",
+"address": "0x6e5a595c186b48e0a713f01b9c601f9959bb7aa4",
+"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Beat-AlphaVerse-square.png",
+"description":"Beat AlphaVerse is a metaverse, part of the AlphaVerse, offering unique games, experiences and a community centered around dance music.",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Beat-AlphaVerse-square.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "AlphaVerse / The Hub",
+"address": "0x16fea4cb485cc0470a211567932b9301b5ff0c1c",
+"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-The-Hub-AlphaVerse-square.png",
+"description":"AlphaVerse is a metaverse connecting different universes, each offering a unique experience.",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-The-Hub-AlphaVerse-square.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "AlphaVerse / Atari",
+"address": "0x1572717a47ade70e1c2075df63f6bf255f98b43e",
+"imageUrl":"https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png",
+"description":"Atari AlphaVerse is a metaverse, part of the AlphaVerse, offering whole experience around the Atari brand.",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "fractalia.io",
+"url":"http://fractalia.io",
+"address": "0x90F391cAb945749996754B464b81Ffdaa745229d",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c94cbbca-b6e2-4af4-8e1c-e4355fc6aeb0/csv300.gif"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"digital_art"
+]
+},
+{
+"name": "Original Mood Ring",
+"url":"http://theoriginalmoodring.io/",
+"address": "0x13783c734918f0fb149897238960edf2d3553e85",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bf776eca-240e-4324-9a36-48c2fdd6952c/2A2347F2-344F-4B5B-BF1F-5ADA3595BC59.jpeg"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+	{
+"name": "Original Mood Ring",
+"url":"http://theoriginalmoodring.io/",
+"address": "0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bf776eca-240e-4324-9a36-48c2fdd6952c/2A2347F2-344F-4B5B-BF1F-5ADA3595BC59.jpeg"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "Coorest",
+"url": "https://www.coorest.eu",
+"address": "0xe83da54c9626f83c4073812c944657f1c1bbec14",
+"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/49566d09-5497-48fb-ad1f-b817e9a38e1c/COOREST_icon_white_background.jpeg",
+"description":"Coorest is a blockchain-based solution for creating a decentralized carbon credit exchange and an easy way to invest in sustainable 'yield-bearing' assets: NFT(rees) backed by real planted trees and tokenizing these assets",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/04ecdfa2-7304-41cf-8484-a6e4da47e403/Token-V2-COOREST.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c8ec5428-5a75-429f-b85c-8d2d166af7d6/Coorest-banner.jpg"
+	}
+],
+"verified": "true",
+"premium": "false",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "FC St. Pauli",
+"url": "https://www.fcstpauli.com/",
+"address": "0xd886ac770de8d0391ac57550e32aef90addaf017",
+"imageUrl":"https://img.arkane.network/img/arkane.market/pauli_logo.png",
+"description":"Der FC St. Pauli ist ein mitgliedergeführter Stadteilverein aus Hamburg mit einer antifaschistischen Grundhaltung.  Seine Mitglieder, Fans, und Mitarbeiter stehen für Werte wie Solidarität, Toleranz, Gleichstellung ein. Die erste Mannschaft des FC St. Pauli spielt in der zweiten Bundesliga Fußball. --- The FC St. Pauli is a member-led district club from Hamburg with an anti-fascist attitude.  Its members, fans, and employees stand up for values such as solidarity, tolerance, and equality. The first team of FC St. Pauli plays football in the second Bundesliga.",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://img.arkane.network/img/arkane.market/pauli_hero.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://img.arkane.network/img/arkane.market/pauli_banner.png"
+	}
+],
+"verified": "true",
+"premium": "true",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "Digital Toilets by Van Marcke x Zoomers",
+"url": "https://www.toilet.digital/",
+"address": "0x2095b3eb02a0e26545bf9cb8000bd49fef7f7692",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/66b4c3f1-4abc-4a50-a356-e8503721d41d/Hero-image.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e0c07f7-91cb-4aa6-ae36-fcdf9b67c8a3/Banner-.png"
+	}
+],
+"verified": "true",
+"categories": [
+	"collectibles"
+]
+},
+{
+"name": "Chicken Derby",
+"url": "http://bitlovin.com/",
+"address": "0x8634666ba15ada4bbc83b9dbf285f73d9e46e4c2",
+"imageUrl":"https://img.arkane.network/img/arkane.market/chickenderby_logo.jpeg",
+"description":"Chicken Derby is a fun and exciting game where you can own and race your chicken to earn ETH. Brought to you by the makers of Ganja Farmer.",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://img.arkane.network/img/arkane.market/chickenderby_hero.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://img.arkane.network/img/arkane.market/chickenderby_banner.png"
+	}
+],
+"verified": "true",
+"premium": "true",
+"categories": [
+	"game_items"
+]
+},
+{
+"name": "DeRace Jockey Club",
+"url": "http://derace.com/",
+"address": "0x5f6ceaad29038435a764b59d716717500135a609",
+"imageUrl":"https://img.arkane.network/img/arkane.market/derace_logo.gif",
+"description":"DeRace Opie Collection avatars are one-of-a-kind NFT assets that open the door to secret DeRace Jockey Club! Exclusive DeRace Jockey Club members are invited to private NFT drops, get VIP invites to dedicated in-game events and be the first to know all the latest news",
+"media": [
+	{
+	  "type": "image",
+	  "value": "https://img.arkane.network/img/arkane.market/derace_hero.png"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://img.arkane.network/img/arkane.market/derace_banner.png"
+	}
+],
+"verified": "true",
+"premium": "true",
+"categories": [
+	"collectibles"
+]
+},
+{
+	"name": "Cyberpong",
+	"url": "https://www.cyberpong.net",
+	"address": "0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8c802225-7774-4374-8d6d-e62a79ee415b"
+		}
+	],
 	"verified": "true",
 	"premium": "true",
 	"categories": [
@@ -482,1033 +542,994 @@
 	]
 },
 {
-	"name": "DeRace Jockey Club",
-	"url": "http://derace.com/",
-	"address": "0x5f6ceaad29038435a764b59d716717500135a609",
-	"imageUrl":"https://img.arkane.network/img/arkane.market/derace_logo.gif",
-	"description":"DeRace Opie Collection avatars are one-of-a-kind NFT assets that open the door to secret DeRace Jockey Club! Exclusive DeRace Jockey Club members are invited to private NFT drops, get VIP invites to dedicated in-game events and be the first to know all the latest news",
+	"name": "House of Kibaa",
+	"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
+	"imageUrl":"https://img.arkane.network/img/arkane.market/hok_hero.png",
 	"media": [
 		{
 		  "type": "image",
-		  "value": "https://img.arkane.network/img/arkane.market/derace_hero.png"
+		  "value": "https://img.arkane.network/img/arkane.market/hok_hero.png"
 		},
 		{
 		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/derace_banner.png"
+		  "value": "https://img.arkane.network/img/arkane.market/hok_banner.png"
 		}
-        ],
+	],
 	"verified": "true",
 	"premium": "true",
 	"categories": [
 		"collectibles"
 	]
 },
-	{
-		"name": "Cyberpong",
-		"url": "https://www.cyberpong.net",
-		"address": "0xf3eF21370DA948d57D70dF5779df0CE3e1275Dcf",
-		"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/b5258d79-4040-4160-836b-039948752d28",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8c802225-7774-4374-8d6d-e62a79ee415b"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "House of Kibaa",
-		"address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
-		"imageUrl":"https://img.arkane.network/img/arkane.market/hok_hero.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/hok_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/hok_banner.png"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "Doctor Who - Worlds Apart",
-		"url": "https://doctorwho-worldsapart.com/",
-		"address": "0xda57bc513fb80ab8aec20314dacd0be594566990",
-		"verified": "true",
-		"premium": "true",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b4bbb237-d072-41fc-aa54-37d9ccd7af6f/Hero-image-600x316.png"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "NFL Helmet Madness",
-		"address": "0x235f313caf4f3e8c079013d538b0346e2e190645",
-		"url": "https://nflhelmetmadness.online/",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/e77f8d45-9a27-4a4d-bb27-ba11c2e86b3d",
-		"description": "NFT Helmets Madness is a collection of 10000 algorithmically generated NFL helmet designs crafted from a selection of over 200 unique traits and minted as NFTs. Each NFT Helmet is created using a unique combination of Shells, Face Masks, Top Shell Graphics layers, Bottom Shell Graphics layers, Backgrounds, and more. If you are a sports fan and love NFL helmet designs like we are, you can grab a cool NFL Madness Helmet collectible early. Be a proud owner of an awesome and unique NFL helmet design.",
-		"verified": "true",
-		"premium": "false",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ee7f5c6e-39d2-4471-b80e-3e3bfca29db1"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ff4d0392-fe6d-4df0-b535-f8f53b59a93f"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "Cryptotars",
-		"address": "0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
-		"url": "https://polygonscan.com/token/0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0097b85c-262f-4ac4-b11d-c3fac103fbbf",
-		"description": "The Cryptotars are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person and stored on the Polygon (Matic) blockchain.",
-		"verified": "true",
-		"premium": "false",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/23b98d18-a1be-4d00-b246-4a463be0d46f"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9d4595bc-7afc-4221-b0ab-6733b0d58daf"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "ZED RUN",
-		"address": "0xa5f1ea7df861952863df2e8d1312f7305dabf215",
-		"url": "https://zed.run/",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/zed_logo.png",
-		"description": "OWN. RACE. EARN. The future of digital racehorse ownership is here. Race your way to the top and build your legacy today.",
-		"verified": "true",
-		"premium": "true",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/zed_hero.jpeg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/zed_banner.png"
-			}
-	        ],
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "Snook",
-		"address": "0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
-		"url": "https://playsnook.com/",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02",
-		"description": "Snook is a unique NFT Game. It's like Snake much like Bruce Banner is like the Hulk. A kill-or-be-killed adrenaline charged multiplayer game that is pioneering NFT game characters. That means players' performance directly affects the NFT face value - or if you play an awesome game you'll make a killing.",
-		"verified": "true",
-		"premium": "true",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/a4d7752f-9b25-4e41-8df9-0cba0c111e47"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292"
-			}
-	        ],
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "Brave Frontier Heroes",
-		"address": "0x819e58e51d64ab05efa132a133de0af5089954cf",
-		"url": "https://bravefrontierheroes.com/",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/bfh_logo.png",
-		"description": "BFH is the crossover of the extremely successful mobile game BRAVE FRONTIER and the top blockchain game My Crypto Heroes. It combines the proven gameplay of BRAVE FRONTIER with the proven game economy of My Crypto Heroes.",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-			
-		]
-	},
-	{
-		"name": "Riot Racers",
-		"address": "0x82bbf7be0eb9a6024b7a641ba179e00812bdae53",
-		"url": "https://app.riot.fun/",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/riot_racing_icon.png",
-		"description": "Riot Racers is a play to earn car racing game where players and participants own parts of the game. Players can earn by playing the game or by simply owning parts of the game. All ownable parts of the game are in the form of verifiably owned NFTs. Players can own parts of the game including cars, gas stations, racetrack land, billboard land, and mechanic shops. Join us!",
-		"verified": "true",
-		"premium": "true",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/riotracers_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/riotracers_banner.png"
-			}
-	        ],
-		"categories": [
-			"game_items"
-			
-		]
-	},
-	{
-		"name": "REVV Racing",
-		"address": "0x51ac4a13054d5d7e1fa795439821484177e7e828",
-		"url": "https://www.revvracing.com/",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/revv_logo.png",
-		"description": "REVV Racing is the latest Play-to-Earn competitive racing metaverse from the REVV Motorsport team. This ecosystem is designed from the ground-up to be cross-chain, utilising the REVV token, and providing collectable and gameplay experiences for racing game players - competitive and casual, collectors, and fans of motorsports.",
-		"media": [
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/revv_banner.png"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		
-		]
-	},
-	{
-		"name": "Sapien Medicine",
-		"address": "0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
-		"url": "https://www.youtube.com/c/sapienmedicine",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0a7f7297-8cab-49a6-8fc8-f958fb9e5508",
-		"description": "The Sapien Medicine NFT collection, where art and energy create magic in your life.",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ede2502d-9be4-4d1e-92e1-ca10f46e718f"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ea0b7b47-f6ab-4f60-acc0-7aa87b63b471"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"digital_art"
-		
-		]
-	},
-	{
-		"name": "Oort Digital",
-		"address": "0xBcAC889C2De88D67d25d54B9E41626f7082232B6",
-		"url": "https://oortdigital.com/",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/oort_logo.png",
-		"description": "Oort Heroes are the avatars of the whole Oort Universe (Oortverse). Oort Digital aims to put your NFTs to work through DeFi + games. Oort Heroes play the role of the bridge to allow any NFTs to interoperate with any games/Metaverse.",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/oort_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/oort_banner.png"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles"
-		]
-	},
-       {
-		"name": "Aavegotchi",
-		"description": "Aavegotchis are on-chain collectible ghosts staked with Aave’s interest-generating aTokens. Compete for player rewards by earning XP, leveling up, and increasing the rarity of your Aavegotchi fren. Owned by the community, Aavegotchi is governed by the AavegotchiDAO and the native eco-governance token GHST. Summon your first Aavegotchi today and join the future of playable NFTs staked with DeFi!",
-		"address": "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
-		"url": "https://aavegotchi.com/",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/82279530-b75a-4e2f-9730-e23024d3a505",
-	       "media": [
+{
+	"name": "Doctor Who - Worlds Apart",
+	"url": "https://doctorwho-worldsapart.com/",
+	"address": "0xda57bc513fb80ab8aec20314dacd0be594566990",
+	"verified": "true",
+	"premium": "true",
+	"media": [
 		{
 		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/aavegtochi_banner.png"
-		}
-	      ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "Aavegotchi",
-		"description": "Aavegotchis are on-chain collectible ghosts staked with Aave’s interest-generating aTokens. Compete for player rewards by earning XP, leveling up, and increasing the rarity of your Aavegotchi fren. Owned by the community, Aavegotchi is governed by the AavegotchiDAO and the native eco-governance token GHST. Summon your first Aavegotchi today and join the future of playable NFTs staked with DeFi!",
-		"address": "0xa02d547512bb90002807499f05495fe9c4c3943f",
-		"url": "https://aavegotchi.com/",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/82279530-b75a-4e2f-9730-e23024d3a505",
-	       "media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/aavegtochi_banner.png"
-		}
-	      ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "Ethermon",
-		"description": "Circa 2017, Ethermon was the very first blockchain battle game on Ethereum. Fast forward to present, Ethermon NFT collectors can now take their Ethermon to explore in the world famous decentralized 3D world (Decentraland) and challenging other players on battle ladders on the classic website Ethermon.io. Now also on Matic Polygon, Players can continue to use their old and new ethermon to join forces and continue their journey with one of the earliest and prestigious blockchain collectable assets.",
-		"address": "0x9928A8ea82d86290DfD1920E126B3872890525b3",
-		"symbol": "EMONS",
-		"url": "https://ethermon.io",
-		"imageUrl": "https://img.arkane.network/marketing/Ethermon/logo.png",
-		"media": [
-		{
-		  "type": "image",
-		  "value": "https://img.arkane.network/marketing/Ethermon/banner.jpg"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/ethermon_banner.png"
-		}
-	      ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
-       {
-        "name": "Crypto Colosseum",
-        "description": "Crypto Colosseum is a game of whimsical violence and deep crypto economics. Players place bets on AI-fueled gladiator battles using Prestige coin ($PTG). Players win untold fortunes, climb the ranks and go from pleb to patrician. Prestige ($PTG) is the in-game currency of the Crypto Colosseum. $PTG enables players to acquire (income generating) gladiator NFT contracts or purchase additional items used to manipulate battle outcomes.",
-        "address": "0xaa1EC1efEf105599F849B8f5dF9b937E25a16e6b",
-        "symbol": "",
-        "url": "https://cryptocolosseum.com",
-        "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f3e403fa-5c42-415e-8654-9a0a32fbde06",
-        "media": [
-		{
-			"type": "banner",
-			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f7e97bb8-bf1a-4d65-95b8-1aa27c06fd99"
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b4bbb237-d072-41fc-aa54-37d9ccd7af6f/Hero-image-600x316.png"
 		}
 	],
-        "verified": true,
-        "premium": false,
-        "categories": [
-			"game_items"
-		]
-      },
-       {
-		"name": "Ember Sword",
-		"description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
-		"address": "0xE7e16f2Da731265778f87cB8D7850E31b84b7b86",
-		"url": "https://embersword.com/",
-		"imageUrl": "https://img.arkane.network/marketing/EmberSword/ember_logo.png",
-		"verified": "true",
-		"premium": "true",
-	        "media": [
-		      {
-			"type": "image",
-			"value": "https://img.arkane.network/img/arkane.market/embersword_hero.png"
-		      },
-		      {
-			"type": "banner",
-			"value": "https://img.arkane.network/img/arkane.market/embersword_banner.png"
-		      }
-		],
-		"categories": [
-			"game_items"
-		]
-	},
-        {
-		"name": "Puzzle in a Bag",
-		"description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
-		"address": "0xf81e107ff398043c1faec02e684960a8007ff145",
-		"symbol": "PIAB",
-		"url": "https://www.puzzleinabag.com/",
-		"imageUrl": "https://img.arkane.network/marketing/PIAB/logo.png",
-		"media": [
-		      {
-			"type": "image",
-			"value": "https://img.arkane.network/marketing/PIAB/banner.png"
-		      },
-		      {
-			"type": "banner",
-			"value": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg"
-		      }
-		],
-		"type": "ERC_1155",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles",
-			"digital_art"
-		]
-	},	{
-		"name": "Market Discounts",
-		"description": "Special collection of NFTs that can be redeemed for credits in the Arkane Market. Don't know how to redeem? Just contact us via the support chat.",
-		"address": "0xe845833d4d9e85a13ff7a2c04ad48fbaa4e0f667",
-		"symbol": "ARKANE-DISCOUNTS",
-		"url": "https://arkane.market",
-		"imageUrl": "https://avatars2.githubusercontent.com/u/43236946?s=200&v=4",
-		"media": [
-			{
-				"type": "banner",
-				"value": "https://content.arkane.network/img/arkane.market/market_discounts.png"
-			}
-		],
-		"type": "ERC_1155",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles",
-			"digital_art",
-			"game_items"
-		]
-	},
-	{
-		"name": "Battle Racers",
-		"description": "Battle Racers is an action-packed blockchain racing game where you design, build, and race NFT cars on arcade-sized tracks. Customize your car in the garage by mixing and matching parts and weapons. Different parts have different stats and skills, contributing to your car’s overall performance. Do you choose speed over handling? Firepower or defense? Create the perfect car to match your playstyle and beat other players to the finish line.",
-		"address": "0x7f8d8f602c37999385f370b11c6075d53ae94f52",
-		"symbol": "",
-		"url": "https://battleracers.io",
-		"imageUrl": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-logo.jpeg?raw=true",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-banner.jpeg?raw=true"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/battle_racers_banner.png"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "Logan Paul Digital Collectibles",
-		"description": "Logan Paul's first edition NFTs, his own line of Pokemon-inspired non-fungible tokens (NFTs).",
-		"address": "0x1fdcf478aaa90ff95d01b751b056ca4781c38bfa",
-		"symbol": "",
-		"url": "https://www.youtube.com/channel/UCG8rbF3g2AMX70yOd8vqIZg",
-		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/logal_paul_profile.png",
-		"media": [
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/logan_banner.png"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "NFL Helmet Madness",
+	"address": "0x235f313caf4f3e8c079013d538b0346e2e190645",
+	"url": "https://nflhelmetmadness.online/",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/e77f8d45-9a27-4a4d-bb27-ba11c2e86b3d",
+	"description": "NFT Helmets Madness is a collection of 10000 algorithmically generated NFL helmet designs crafted from a selection of over 200 unique traits and minted as NFTs. Each NFT Helmet is created using a unique combination of Shells, Face Masks, Top Shell Graphics layers, Bottom Shell Graphics layers, Backgrounds, and more. If you are a sports fan and love NFL helmet designs like we are, you can grab a cool NFL Madness Helmet collectible early. Be a proud owner of an awesome and unique NFL helmet design.",
+	"verified": "true",
+	"premium": "false",
+	"media": [
 		{
-		"name": "6ix9ine Digital",
-		"description": "Daniel Hernandez, known professionally as Tekashi69 or 6ix9ine, is an American rapper and songwriter. The New York born artist has taken the music industry by storm, consistently sparking outrage and controversy that has given way to a feverish popularity",
-		"address": "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726",
-		"symbol": "",
-		"url": "https://www.instagram.com/6ix9ine/?hl=en",
-		"imageUrl": "https://pbs.twimg.com/media/EhCdO35VoAItK0C.jpg",
-		"media": [
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/tekashi_banner.png"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ee7f5c6e-39d2-4471-b80e-3e3bfca29db1"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ff4d0392-fe6d-4df0-b535-f8f53b59a93f"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "Cryptotars",
+	"address": "0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
+	"url": "https://polygonscan.com/token/0xa9b921bcdc86cf0bc676a3bf63029aa112302675",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0097b85c-262f-4ac4-b11d-c3fac103fbbf",
+	"description": "The Cryptotars are 10,000 uniquely generated characters. No two are exactly alike, and each one of them can be officially owned by a single person and stored on the Polygon (Matic) blockchain.",
+	"verified": "true",
+	"premium": "false",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/23b98d18-a1be-4d00-b246-4a463be0d46f"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9d4595bc-7afc-4221-b0ab-6733b0d58daf"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "ZED RUN",
+	"address": "0xa5f1ea7df861952863df2e8d1312f7305dabf215",
+	"url": "https://zed.run/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/zed_logo.png",
+	"description": "OWN. RACE. EARN. The future of digital racehorse ownership is here. Race your way to the top and build your legacy today.",
+	"verified": "true",
+	"premium": "true",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/zed_hero.jpeg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/zed_banner.png"
+		}
+	],
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Snook",
+	"address": "0x4372597f1c600D86598675DCB6cF5713bB7525Cf",
+	"url": "https://playsnook.com/",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/134fbac9-a14a-49b2-8a15-6d00e0f40f02",
+	"description": "Snook is a unique NFT Game. It's like Snake much like Bruce Banner is like the Hulk. A kill-or-be-killed adrenaline charged multiplayer game that is pioneering NFT game characters. That means players' performance directly affects the NFT face value - or if you play an awesome game you'll make a killing.",
+	"verified": "true",
+	"premium": "true",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/a4d7752f-9b25-4e41-8df9-0cba0c111e47"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8e4bbe87-fe00-4f0d-969b-5bfc84dfc292"
+		}
+	],
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Brave Frontier Heroes",
+	"address": "0x819e58e51d64ab05efa132a133de0af5089954cf",
+	"url": "https://bravefrontierheroes.com/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/bfh_logo.png",
+	"description": "BFH is the crossover of the extremely successful mobile game BRAVE FRONTIER and the top blockchain game My Crypto Heroes. It combines the proven gameplay of BRAVE FRONTIER with the proven game economy of My Crypto Heroes.",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
 
-	{
-		
-		"name": "Lootex Creator Series",
-		"description": "Built for creators by magic and heart.",
-		"address": "0x6c02d180ec61ea90e6831bfbfdd8bba8af23b90c",
-		"symbol": "",
-		"url": "dex.lootex.io",
-		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_icon.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/lootex_banner.jpg"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
-	{
-		"name": "CryptoPick",
-		"description": "NFTs associated to CryptoPick, a market prediction game that rewards players in ETH, NFTs, and more while unlocking valuable trading insights.",
-		"address": "0xaf791509b3e8a5bf1703918e457a2fdd50783319",
-		"symbol": "",
-		"url": "https://cryptopick.net",
-		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/cryptopick-banner.png"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "Neon District",
-		"description": "Neon District is a free-to-play, cyberpunk, role-playing game created by Blockade Games. It features collectible NFTs on the Ethereum and Matic/Polygon networks. Players can compete in several forms of competitive, multiplayer modes: PvP, Neon Pizza (Delivery, Ambushing, Fencing). Neon Pizza is the play-to-earn model that allows players to be able to directly earn Neon through 3 different avenues, including different tiers for more experienced players. Neon is the in-game resource within Neon District that can be used to upgrade weapons, armor, and characters.",
-		"address": "0x7227e371540cf7b8e512544ba6871472031f3335",
-		"symbol": "",
-		"url": "https://neondistrict.io",
-		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_logo.jpg",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/neon_banner.png"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
+	]
+},
+{
+	"name": "Riot Racers",
+	"address": "0x82bbf7be0eb9a6024b7a641ba179e00812bdae53",
+	"url": "https://app.riot.fun/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/riot_racing_icon.png",
+	"description": "Riot Racers is a play to earn car racing game where players and participants own parts of the game. Players can earn by playing the game or by simply owning parts of the game. All ownable parts of the game are in the form of verifiably owned NFTs. Players can own parts of the game including cars, gas stations, racetrack land, billboard land, and mechanic shops. Join us!",
+	"verified": "true",
+	"premium": "true",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/riotracers_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/riotracers_banner.png"
+		}
+	],
+	"categories": [
+		"game_items"
 
-	},
-	{
-		"name": "Trade Race Manager",
-		"description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
-		"address": "0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
-		"symbol": "TRM",
-		"url": "https://traderacemanager.com/",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/QORPO-logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/ioi_hero.jpeg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/QORPO-banner.png"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
+	]
+},
+{
+	"name": "REVV Racing",
+	"address": "0x51ac4a13054d5d7e1fa795439821484177e7e828",
+	"url": "https://www.revvracing.com/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/revv_logo.png",
+	"description": "REVV Racing is the latest Play-to-Earn competitive racing metaverse from the REVV Motorsport team. This ecosystem is designed from the ground-up to be cross-chain, utilising the REVV token, and providing collectable and gameplay experiences for racing game players - competitive and casual, collectors, and fans of motorsports.",
+	"media": [
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/revv_banner.png"
+		}
+	],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
 
-	},
-	{
-		"name": "Trade Race Manager",
-		"description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
-		"address": "0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
-		"symbol": "TRM",
-		"url": "https://traderacemanager.com/",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/QORPO-logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/ioi_hero.jpeg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/QORPO-banner.png"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
+	]
+},
+{
+	"name": "Sapien Medicine",
+	"address": "0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
+	"url": "https://www.youtube.com/c/sapienmedicine",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0a7f7297-8cab-49a6-8fc8-f958fb9e5508",
+	"description": "The Sapien Medicine NFT collection, where art and energy create magic in your life.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ede2502d-9be4-4d1e-92e1-ca10f46e718f"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ea0b7b47-f6ab-4f60-acc0-7aa87b63b471"
+		}
+	],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"digital_art"
 
+	]
+},
+{
+	"name": "Oort Digital",
+	"address": "0xBcAC889C2De88D67d25d54B9E41626f7082232B6",
+	"url": "https://oortdigital.com/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/oort_logo.png",
+	"description": "Oort Heroes are the avatars of the whole Oort Universe (Oortverse). Oort Digital aims to put your NFTs to work through DeFi + games. Oort Heroes play the role of the bridge to allow any NFTs to interoperate with any games/Metaverse.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/oort_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/oort_banner.png"
+		}
+	],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "Aavegotchi",
+	"description": "Aavegotchis are on-chain collectible ghosts staked with Aave’s interest-generating aTokens. Compete for player rewards by earning XP, leveling up, and increasing the rarity of your Aavegotchi fren. Owned by the community, Aavegotchi is governed by the AavegotchiDAO and the native eco-governance token GHST. Summon your first Aavegotchi today and join the future of playable NFTs staked with DeFi!",
+	"address": "0x86935F11C86623deC8a25696E1C19a8659CbF95d",
+	"url": "https://aavegotchi.com/",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/82279530-b75a-4e2f-9730-e23024d3a505",
+       "media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
 	},
 	{
-		"name": "Polygon NFT Minter",
-		"description": "Mint NFTs for free on Polygon",
-		"address": "0xfd1dbd4114550a867ca46049c346b6cd452ec919",
-		"symbol": "POLYGONNFT",
-		"url": "https://mintnft.today/",
-		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": [
-			{
-				"type": "banner",
-				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
-			}
-		],
-		"type": "",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"scam"
-		]
+	  "type": "banner",
+	  "value": "https://img.arkane.network/img/arkane.market/aavegtochi_banner.png"
+	}
+      ],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Aavegotchi",
+	"description": "Aavegotchis are on-chain collectible ghosts staked with Aave’s interest-generating aTokens. Compete for player rewards by earning XP, leveling up, and increasing the rarity of your Aavegotchi fren. Owned by the community, Aavegotchi is governed by the AavegotchiDAO and the native eco-governance token GHST. Summon your first Aavegotchi today and join the future of playable NFTs staked with DeFi!",
+	"address": "0xa02d547512bb90002807499f05495fe9c4c3943f",
+	"url": "https://aavegotchi.com/",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/82279530-b75a-4e2f-9730-e23024d3a505",
+       "media": [
+	{
+	  "type": "image",
+	  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8146a4e5-3808-4b1a-acc0-086b471aa6fe"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://img.arkane.network/img/arkane.market/aavegtochi_banner.png"
+	}
+      ],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Ethermon",
+	"description": "Circa 2017, Ethermon was the very first blockchain battle game on Ethereum. Fast forward to present, Ethermon NFT collectors can now take their Ethermon to explore in the world famous decentralized 3D world (Decentraland) and challenging other players on battle ladders on the classic website Ethermon.io. Now also on Matic Polygon, Players can continue to use their old and new ethermon to join forces and continue their journey with one of the earliest and prestigious blockchain collectable assets.",
+	"address": "0x9928A8ea82d86290DfD1920E126B3872890525b3",
+	"symbol": "EMONS",
+	"url": "https://ethermon.io",
+	"imageUrl": "https://img.arkane.network/marketing/Ethermon/logo.png",
+	"media": [
+	{
+	  "type": "image",
+	  "value": "https://img.arkane.network/marketing/Ethermon/banner.jpg"
+	},
+	{
+	  "type": "banner",
+	  "value": "https://img.arkane.network/img/arkane.market/ethermon_banner.png"
+	}
+      ],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
+{
+"name": "Crypto Colosseum",
+"description": "Crypto Colosseum is a game of whimsical violence and deep crypto economics. Players place bets on AI-fueled gladiator battles using Prestige coin ($PTG). Players win untold fortunes, climb the ranks and go from pleb to patrician. Prestige ($PTG) is the in-game currency of the Crypto Colosseum. $PTG enables players to acquire (income generating) gladiator NFT contracts or purchase additional items used to manipulate battle outcomes.",
+"address": "0xaa1EC1efEf105599F849B8f5dF9b937E25a16e6b",
+"symbol": "",
+"url": "https://cryptocolosseum.com",
+"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f3e403fa-5c42-415e-8654-9a0a32fbde06",
+"media": [
+	{
+		"type": "banner",
+		"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f7e97bb8-bf1a-4d65-95b8-1aa27c06fd99"
+	}
+],
+"verified": true,
+"premium": false,
+"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Ember Sword",
+	"description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
+	"address": "0xE7e16f2Da731265778f87cB8D7850E31b84b7b86",
+	"url": "https://embersword.com/",
+	"imageUrl": "https://img.arkane.network/marketing/EmberSword/ember_logo.png",
+	"verified": "true",
+	"premium": "true",
+	"media": [
+	      {
+		"type": "image",
+		"value": "https://img.arkane.network/img/arkane.market/embersword_hero.png"
+	      },
+	      {
+		"type": "banner",
+		"value": "https://img.arkane.network/img/arkane.market/embersword_banner.png"
+	      }
+	],
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Puzzle in a Bag",
+	"description": "PIAB, or Puzzle in a Bag, is a Ghentian start-up company looking to make puzzling cool again, which is why we're selling the first ever physical puzzle turned into NFTs. We create culturally relevant puzzles that contain fun, out-of-the-box references to the topic of every puzzle.",
+	"address": "0xf81e107ff398043c1faec02e684960a8007ff145",
+	"symbol": "PIAB",
+	"url": "https://www.puzzleinabag.com/",
+	"imageUrl": "https://img.arkane.network/marketing/PIAB/logo.png",
+	"media": [
+	      {
+		"type": "image",
+		"value": "https://img.arkane.network/marketing/PIAB/banner.png"
+	      },
+	      {
+		"type": "banner",
+		"value": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg"
+	      }
+	],
+	"type": "ERC_1155",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"collectibles",
+		"digital_art"
+	]
+},	{
+	"name": "Market Discounts",
+	"description": "Special collection of NFTs that can be redeemed for credits in the Arkane Market. Don't know how to redeem? Just contact us via the support chat.",
+	"address": "0xe845833d4d9e85a13ff7a2c04ad48fbaa4e0f667",
+	"symbol": "ARKANE-DISCOUNTS",
+	"url": "https://arkane.market",
+	"imageUrl": "https://avatars2.githubusercontent.com/u/43236946?s=200&v=4",
+	"media": [
+		{
+			"type": "banner",
+			"value": "https://content.arkane.network/img/arkane.market/market_discounts.png"
+		}
+	],
+	"type": "ERC_1155",
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles",
+		"digital_art",
+		"game_items"
+	]
+},
+{
+	"name": "Battle Racers",
+	"description": "Battle Racers is an action-packed blockchain racing game where you design, build, and race NFT cars on arcade-sized tracks. Customize your car in the garage by mixing and matching parts and weapons. Different parts have different stats and skills, contributing to your car’s overall performance. Do you choose speed over handling? Firepower or defense? Create the perfect car to match your playstyle and beat other players to the finish line.",
+	"address": "0x7f8d8f602c37999385f370b11c6075d53ae94f52",
+	"symbol": "",
+	"url": "https://battleracers.io",
+	"imageUrl": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-logo.jpeg?raw=true",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-banner.jpeg?raw=true"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/battle_racers_banner.png"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Logan Paul Digital Collectibles",
+	"description": "Logan Paul's first edition NFTs, his own line of Pokemon-inspired non-fungible tokens (NFTs).",
+	"address": "0x1fdcf478aaa90ff95d01b751b056ca4781c38bfa",
+	"symbol": "",
+	"url": "https://www.youtube.com/channel/UCG8rbF3g2AMX70yOd8vqIZg",
+	"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/logal_paul_profile.png",
+	"media": [
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/logan_banner.png"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+},
+	{
+	"name": "6ix9ine Digital",
+	"description": "Daniel Hernandez, known professionally as Tekashi69 or 6ix9ine, is an American rapper and songwriter. The New York born artist has taken the music industry by storm, consistently sparking outrage and controversy that has given way to a feverish popularity",
+	"address": "0x76377a9e94853f1968bccd9a1b8fbf3f6fdf1726",
+	"symbol": "",
+	"url": "https://www.instagram.com/6ix9ine/?hl=en",
+	"imageUrl": "https://pbs.twimg.com/media/EhCdO35VoAItK0C.jpg",
+	"media": [
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/tekashi_banner.png"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+},
 
-	},
-	{
-		"name": "Polygon NFT Minter",
-		"description": "Mint NFTs for free on Polygon",
-		"address": "0x72b6dc1003e154ac71c76d3795a3829cfd5e33b9",
-		"symbol": "POLYGONNFT",
-		"url": "https://mintnft.today/",
-		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": [
-			{
-				"type": "banner",
-				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
-			}
-		],
-		"type": "",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"scam"
-		]
-	},
-	{
-		"name": "Polygon NFT Minter",
-		"description": "Mint NFTs for free on Polygon",
-		"address": "0xd52a86110c9a7597a057ae2bb4f577b6cd42a639",
-		"symbol": "POLYGONNFT",
-		"url": "https://mintnft.today/",
-		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": [
-			{
-				"type": "banner",
-				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
-			}
-		],
-		"type": "",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"scam"
-		]
-	},
-	{
-		"name": "Polygon NFT Minter",
-		"description": "Mint NFTs for free on Polygon",
-		"address": "0xd05a795d339886bb8dd46cfe2ac009d7f1e48a64",
-		"symbol": "POLYGONNFT",
-		"url": "https://mintnft.today/",
-		"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
-		"media": [
-			{
-				"type": "banner",
-				"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
-			}
-		],
-		"type": "",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"scam"
-		]
-	} ,
-	{
-		"name": "TaaviLehtonenArt",
-		"description": "Taavi Lehtonen is an artist who uses traditional methods and makes his art available on Ethereum. The owner of the NFT token owns the original painting. No computer generated art!",
-		"address": "0x73c9d0e2215cae6b25238927e9c29eb31a51519b",
-		"symbol": "TAAVI",
-		"url": "https://taavilehtonen.com",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d6ea3397-7688-4b88-b2e2-63b7b25756f5",
-		"media": [
-			{
-				"type": "banner",
-				"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/444ac120-b4e2-49f1-837d-21124ba5d248"
-			}
-		],
-		"type": "",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"digital_art"
-		]
-	},
-	{
-		"name": "Big Fat Sexy Collectible Card Experience",
-		"address": "0x53ac5ed41bfe023c8b0ee5c80380d19756af7df9",
-		"verified": "true",
-		"premium": "true",
-		"media": [
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/lewis_banner.png"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "MoCDA Exhibitions",
-		"address": "0x6af28284fe73e8d72e8dcc042fa0b0b0c9d17892",
-		"verified": "true",
-		"premium": "false",
-		"media": [
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/mocda_banner.png"
-			}
-	        ],
-		"categories": [
-			"digital_art"
-		]
-	},
- 	{
-		"name": "Open NFTs",
-		"address": "0xbeaab0f00d236862527dcf5a88df3ced043ab253",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
- 	{
-		"name": "MARBLE-NFT",
-		"description": "MarbleCards are NFTs based on URLs from across the web. Every web page can be “marbled” one time and created into a unique digital card. The meta-data from the URL generates the image and text while the frame is randomized. At MarbleCards you are essentially bookmarking the web with NFTs that can gain yield when entering the NFTs into a gamified user popularity arena.",
-		"address": "0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
-		"verified": "true",
-		"premium": "true",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/marble_logo.jpg",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://oresundstartups.com/wp-content/uploads/2019/05/marble-cards-helsingborg-startup-cphftw-768x506.jpg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/marble_banner.jpg"
-			}
-	        ],
-		"categories": [
-			"digital_art",
-			"collectibles"
-		]
-	},
- 	{
-		"name": "Indelible Ink",
-		"address": "0x25a4aa94bf19ff9867ace23dc31a5be908d2348d",
-		"verified": "true",
-		"premium": "false"
-	},
- 	{
-		"name": "Coin Artist 50K",
-		"address": "0x4ec174ce35acad1cd9b3be80a638b1feec76ee07",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
- 	{
-		"name": "WiV Wine",
-		"address": "0xfc5be93dd225359b614236ee2262a6c02a1095c2",
-		"description": "WiV makes it easier for producers and merchants to offer their wares, distributors to know where specific bottles are, and buyers to understand the provenance of what they are buying. WiV is working with producers to tokenize entire vintages of investment-grade wine, significantly increasing the volume of wine assets on the platform and ensuring this wine has a digital record of its provenance from the moment that it is bottled.",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"name": "ASSET",
-		"address": "0x1e9dc2903cf07a047ebddb28b14174ea3a86a775",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
- 	{
-		"name": "Digivatar - Profanity Paraffins Collection",
-		"address": "0xeb3d94bd0e71dba1826925f36634bc93d94f0310",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
- 	{
-		"name": "EETHs",
-		"address": "0xfa781ed91fba381f73c477327641242ce55fab5b",
-		"verified": "false",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
- 	{
-		"address": "0x335944b36b02401fb35ca3aa64cc9468e5eb3742",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
- 	{
-		"address": "0xa39388c49b9cfc6d7710181a3d71d81b9103f3bb",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
- 	{
-		"name":"Venly NFT",
-		"address": "0xd3b22fA46EDCFBB8B194Ed2f1F24722a4A171Eef",
-		"media": [
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/venly-banner.png"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"url": "https://venly.io",
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"address": " 0x35322134ec933d55797930d0c045b51c2203cbae",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"address": " 0xbc3bb04CAa50b9D5393f09AAa3bcafe671E29d7b",
-		"verified": "true",
-		"premium": "true",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"address": " 0x453A92e38A8382F550465dd21068d757aBd2D437",
-		"verified": "true",
-		"premium": "true",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"address": " 0x68C2f79ae67fA8f466815e3010fe8e0500e95366",
-		"verified": "true",
-		"premium": "true",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"address": " 0x34bFb2aD92cF171ee4D6f1C4ac1E546B9c9D0345",
-		"verified": "true",
-		"premium": "true",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"address": " 0x00e711094C351d1bb43123CcF8ED47230444a72F",
-		"verified": "true",
-		"premium": "true",
-		"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
-			}
-	        ],
-		"categories": [
-			"collectibles"
-		]
-	},
- 	{
-		"address": " 0x4372597f1c600d86598675dcb6cf5713bb7525cf",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "Giraffe Mo",
-		"address": "0x935fa90b2558efc8c76c1d187603cac84aaec9dd",
-		"imageUrl":"https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif",
-		"description":"Adikteev is a tech company evolving in the gaming industry. \n\nAs a tribute to all things gaming, the Adikteev designers created an NFT art collection based on the cult classics that have driven pop culture over the past decades. \n\nFollow Mo, Asikteev’s giraffe hero as it travels across 20 different worlds and try to recognize the different universes he was getting through. \n\nOur 120 NFT collection aims to mark the start of a brand new era for the gaming industry with the boost of blockchain based initiatives in 2021 leading to the birth of “Play to Earn” Games.",
-		"media": [
-			{
-				"type": "image",
-				"value": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif"
-			},
-			{
-				"type": "banner",
-				"value": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-banner.jpg"
-			}
-		],
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-	  "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
-	  "categories": ["scam"]
-        }
-	,
-	{
-	  "address": "0x55749566d0d7ff869138a0005ec73166e2e785d2",
-	  "categories": ["scam"]
-    }
-	,
-	{
-	  "address": "0xc539d6c8a5441f43206f0b77a0b4a0c4d6f07ab0",
-	  "categories": ["scam"]
-    }
-    ,
-	{
-	  "address": "0x36a8377e2bb3ec7d6b0f1675e243e542eb6a4764",
-	  "categories": ["scam"]
-    }
-    ,
-	{
-	  "address": "0xfaf99bfa12ee5189648e5650170f12450801a056",
-	  "categories": ["scam"]
-    }
-    ,
-	{
-	  "address": "0xf64c73664463fdb8211777b635f6349588f1848c",
-	  "categories": ["scam"]
-    },
-    {
-	  "address": "0x2eb320d14cc4a95fbbb156eb3e2172259570bdb7",
-	  "categories": ["scam"]
-    },
-    {
-	  "address": "0xe88a01752657d5631456856702beba0b7aecabc1",
-	  "categories": ["scam"]
-    }
-	,
-    {
-	  "address": "0x79393a9318f83d75d29ea7123acc52f4a9d2404a",
-	  "categories": ["scam"]
-    }	,
-    {
-	  "address": "0xe0208d7591ee87db9e0a713ae7591a6348da04b6",
-	  "categories": ["scam"]
-    }
+{
 
- ]
+	"name": "Lootex Creator Series",
+	"description": "Built for creators by magic and heart.",
+	"address": "0x6c02d180ec61ea90e6831bfbfdd8bba8af23b90c",
+	"symbol": "",
+	"url": "dex.lootex.io",
+	"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_icon.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/lootex_banner.jpg"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"name": "CryptoPick",
+	"description": "NFTs associated to CryptoPick, a market prediction game that rewards players in ETH, NFTs, and more while unlocking valuable trading insights.",
+	"address": "0xaf791509b3e8a5bf1703918e457a2fdd50783319",
+	"symbol": "",
+	"url": "https://cryptopick.net",
+	"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/cryptopick-banner.jpeg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/cryptopick-banner.png"
+		}
+	],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "Neon District",
+	"description": "Neon District is a free-to-play, cyberpunk, role-playing game created by Blockade Games. It features collectible NFTs on the Ethereum and Matic/Polygon networks. Players can compete in several forms of competitive, multiplayer modes: PvP, Neon Pizza (Delivery, Ambushing, Fencing). Neon Pizza is the play-to-earn model that allows players to be able to directly earn Neon through 3 different avenues, including different tiers for more experienced players. Neon is the in-game resource within Neon District that can be used to upgrade weapons, armor, and characters.",
+	"address": "0x7227e371540cf7b8e512544ba6871472031f3335",
+	"symbol": "",
+	"url": "https://neondistrict.io",
+	"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_logo.jpg",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/nd_banner.jpg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/neon_banner.png"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+
+},
+{
+	"name": "Trade Race Manager",
+	"description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
+	"address": "0xecc4c3dd345dbde65fbcc460e5ac5c807b84b019",
+	"symbol": "TRM",
+	"url": "https://traderacemanager.com/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/QORPO-logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/ioi_hero.jpeg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/QORPO-banner.png"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+
+},
+{
+	"name": "Trade Race Manager",
+	"description": "QORPO Trade Race Manager is a collectible NFT trading game, Play2earn together with NFT, and creates multiple ways of income.",
+	"address": "0xc3bbd57cd5ad0ceb6ae777a2355dace99bf281e4",
+	"symbol": "TRM",
+	"url": "https://traderacemanager.com/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/QORPO-logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/ioi_hero.jpeg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/QORPO-banner.png"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+
+},
+{
+	"name": "Polygon NFT Minter",
+	"description": "Mint NFTs for free on Polygon",
+	"address": "0xfd1dbd4114550a867ca46049c346b6cd452ec919",
+	"symbol": "POLYGONNFT",
+	"url": "https://mintnft.today/",
+	"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+	"media": [
+		{
+			"type": "banner",
+			"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+		}
+	],
+	"type": "",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"scam"
+	]
+
+},
+{
+	"name": "Polygon NFT Minter",
+	"description": "Mint NFTs for free on Polygon",
+	"address": "0x72b6dc1003e154ac71c76d3795a3829cfd5e33b9",
+	"symbol": "POLYGONNFT",
+	"url": "https://mintnft.today/",
+	"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+	"media": [
+		{
+			"type": "banner",
+			"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+		}
+	],
+	"type": "",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"scam"
+	]
+},
+{
+	"name": "Polygon NFT Minter",
+	"description": "Mint NFTs for free on Polygon",
+	"address": "0xd52a86110c9a7597a057ae2bb4f577b6cd42a639",
+	"symbol": "POLYGONNFT",
+	"url": "https://mintnft.today/",
+	"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+	"media": [
+		{
+			"type": "banner",
+			"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+		}
+	],
+	"type": "",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"scam"
+	]
+},
+{
+	"name": "Polygon NFT Minter",
+	"description": "Mint NFTs for free on Polygon",
+	"address": "0xd05a795d339886bb8dd46cfe2ac009d7f1e48a64",
+	"symbol": "POLYGONNFT",
+	"url": "https://mintnft.today/",
+	"imageUrl": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_logo.png",
+	"media": [
+		{
+			"type": "banner",
+			"value": "https://img.arkane.network/marketing/polygon-minter/polygon_matic_hero.png"
+		}
+	],
+	"type": "",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"scam"
+	]
+} ,
+{
+	"name": "TaaviLehtonenArt",
+	"description": "Taavi Lehtonen is an artist who uses traditional methods and makes his art available on Ethereum. The owner of the NFT token owns the original painting. No computer generated art!",
+	"address": "0x73c9d0e2215cae6b25238927e9c29eb31a51519b",
+	"symbol": "TAAVI",
+	"url": "https://taavilehtonen.com",
+	"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d6ea3397-7688-4b88-b2e2-63b7b25756f5",
+	"media": [
+		{
+			"type": "banner",
+			"value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/444ac120-b4e2-49f1-837d-21124ba5d248"
+		}
+	],
+	"type": "",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"name": "Big Fat Sexy Collectible Card Experience",
+	"address": "0x53ac5ed41bfe023c8b0ee5c80380d19756af7df9",
+	"verified": "true",
+	"premium": "true",
+	"media": [
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/lewis_banner.png"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "MoCDA Exhibitions",
+	"address": "0x6af28284fe73e8d72e8dcc042fa0b0b0c9d17892",
+	"verified": "true",
+	"premium": "false",
+	"media": [
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/mocda_banner.png"
+		}
+	],
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"name": "Open NFTs",
+	"address": "0xbeaab0f00d236862527dcf5a88df3ced043ab253",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"name": "MARBLE-NFT",
+	"description": "MarbleCards are NFTs based on URLs from across the web. Every web page can be “marbled” one time and created into a unique digital card. The meta-data from the URL generates the image and text while the frame is randomized. At MarbleCards you are essentially bookmarking the web with NFTs that can gain yield when entering the NFTs into a gamified user popularity arena.",
+	"address": "0x35368c20f70766d528afa8c91b1b47e2735cc7fc",
+	"verified": "true",
+	"premium": "true",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/marble_logo.jpg",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://oresundstartups.com/wp-content/uploads/2019/05/marble-cards-helsingborg-startup-cphftw-768x506.jpg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/marble_banner.jpg"
+		}
+	],
+	"categories": [
+		"digital_art",
+		"collectibles"
+	]
+},
+{
+	"name": "Indelible Ink",
+	"address": "0x25a4aa94bf19ff9867ace23dc31a5be908d2348d",
+	"verified": "true",
+	"premium": "false"
+},
+{
+	"name": "Coin Artist 50K",
+	"address": "0x4ec174ce35acad1cd9b3be80a638b1feec76ee07",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"name": "WiV Wine",
+	"address": "0xfc5be93dd225359b614236ee2262a6c02a1095c2",
+	"description": "WiV makes it easier for producers and merchants to offer their wares, distributors to know where specific bottles are, and buyers to understand the provenance of what they are buying. WiV is working with producers to tokenize entire vintages of investment-grade wine, significantly increasing the volume of wine assets on the platform and ensuring this wine has a digital record of its provenance from the moment that it is bottled.",
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"name": "ASSET",
+	"address": "0x1e9dc2903cf07a047ebddb28b14174ea3a86a775",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"name": "Digivatar - Profanity Paraffins Collection",
+	"address": "0xeb3d94bd0e71dba1826925f36634bc93d94f0310",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"name": "EETHs",
+	"address": "0xfa781ed91fba381f73c477327641242ce55fab5b",
+	"verified": "false",
+	"premium": "false",
+	"categories": [
+		"digital_art"
+	]
+},
+{
+	"address": "0x335944b36b02401fb35ca3aa64cc9468e5eb3742",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"address": "0xa39388c49b9cfc6d7710181a3d71d81b9103f3bb",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name":"Venly NFT",
+	"address": "0xd3b22fA46EDCFBB8B194Ed2f1F24722a4A171Eef",
+	"media": [
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/venly-banner.png"
+		}
+	],
+	"verified": "true",
+	"premium": "true",
+	"url": "https://venly.io",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"address": " 0x35322134ec933d55797930d0c045b51c2203cbae",
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"address": " 0xbc3bb04CAa50b9D5393f09AAa3bcafe671E29d7b",
+	"verified": "true",
+	"premium": "true",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"address": " 0x453A92e38A8382F550465dd21068d757aBd2D437",
+	"verified": "true",
+	"premium": "true",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"address": " 0x68C2f79ae67fA8f466815e3010fe8e0500e95366",
+	"verified": "true",
+	"premium": "true",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"address": " 0x34bFb2aD92cF171ee4D6f1C4ac1E546B9c9D0345",
+	"verified": "true",
+	"premium": "true",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"address": " 0x00e711094C351d1bb43123CcF8ED47230444a72F",
+	"verified": "true",
+	"premium": "true",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_hero.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://img.arkane.network/img/arkane.market/goos_banner.png"
+		}
+	],
+	"categories": [
+		"collectibles"
+	]
+},
+{
+	"address": " 0x4372597f1c600d86598675dcb6cf5713bb7525cf",
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"game_items"
+	]
+},
+{
+	"name": "Giraffe Mo",
+	"address": "0x935fa90b2558efc8c76c1d187603cac84aaec9dd",
+	"imageUrl":"https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif",
+	"description":"Adikteev is a tech company evolving in the gaming industry. \n\nAs a tribute to all things gaming, the Adikteev designers created an NFT art collection based on the cult classics that have driven pop culture over the past decades. \n\nFollow Mo, Asikteev’s giraffe hero as it travels across 20 different worlds and try to recognize the different universes he was getting through. \n\nOur 120 NFT collection aims to mark the start of a brand new era for the gaming industry with the boost of blockchain based initiatives in 2021 leading to the birth of “Play to Earn” Games.",
+	"media": [
+		{
+			"type": "image",
+			"value": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif"
+		},
+		{
+			"type": "banner",
+			"value": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-banner.jpg"
+		}
+	],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+},
+{
+  "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
+  "categories": ["scam"]
+}
+,
+{
+  "address": "0x55749566d0d7ff869138a0005ec73166e2e785d2",
+  "categories": ["scam"]
+}
+,
+{
+  "address": "0xc539d6c8a5441f43206f0b77a0b4a0c4d6f07ab0",
+  "categories": ["scam"]
+}
+,
+{
+  "address": "0x36a8377e2bb3ec7d6b0f1675e243e542eb6a4764",
+  "categories": ["scam"]
+}
+,
+{
+  "address": "0xfaf99bfa12ee5189648e5650170f12450801a056",
+  "categories": ["scam"]
+}
+,
+{
+  "address": "0xf64c73664463fdb8211777b635f6349588f1848c",
+  "categories": ["scam"]
+},
+{
+  "address": "0x2eb320d14cc4a95fbbb156eb3e2172259570bdb7",
+  "categories": ["scam"]
+},
+{
+  "address": "0xe88a01752657d5631456856702beba0b7aecabc1",
+  "categories": ["scam"]
+}
+,
+{
+  "address": "0x79393a9318f83d75d29ea7123acc52f4a9d2404a",
+  "categories": ["scam"]
+}	,
+{
+  "address": "0xe0208d7591ee87db9e0a713ae7591a6348da04b6",
+  "categories": ["scam"]
+}
+
+]
