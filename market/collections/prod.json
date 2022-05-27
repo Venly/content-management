@@ -1,6 +1,26 @@
 {
   "collections": [
    {
+      "name": "Heromix NFT",
+      "publicIdentifier": "Heromix-NFT",
+      "verified": true,
+      "description": "HEROMIX: NFT collection Heroes of comics in the image of the President of Ukraine Volodymyr Zelenskyy. Maked in 2022 to show solidarity with the people of Ukraine in their time of war. “Like most of the world, I’m horrified to see what’s happening in Ukraine right now. My heart goes out to the thousands of innocent people fleeing their homes because of a senseless war. While sitting half way across the world I felt helpless but compelled to act and create. With the motivation of my NFT collecting community, I knew I could help in some way. 10% of the sales of all NFT will go to the official Ukraine Crypto Donation wallet.",
+      "contracts": [
+        {
+          "address": "0x25dbd31958c21ddbdb67a90ab05c462e7900db83",
+          "chain": "MATIC"
+        }
+      ],
+       "socials": [
+        {
+          "type": "instagram",
+          "value": "https://instagram.com/heromix_nft"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/acdb0c1d-b871-466a-8aa7-ed69340f430d/heromix1400x180.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/a6319285-e7e6-41d0-897c-c2c44fc3523f/ezgif-1-bfffa0b075.gif"
+  },
+   {
       "name": "Lunar Crystals",
       "publicIdentifier": "lunar-crystals",
       "verified": true,
