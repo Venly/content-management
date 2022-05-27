@@ -1,5 +1,25 @@
 [
-	
+{
+	"name": "Pigletz",
+	"address": "0xbF84076b06a100d38ce562733098eDc0eDa4D7f7",
+	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/34ba89bd-1fa3-4d28-ab7d-9f73a05d47f6/male.png",
+	"description":"Pigletz is a collectible game with DeFi elements. It is built around the main character - the Piglet, an NFT having a utility as a piggy bank where users can deposit crypto tokens and earn PiFi. Pigletz are items. A contemporary version of a piggy bank. An item that can exist in the Metaverse. And also can exist in the real world. But not in both. Each Piglet starts its life randomly minted and at level 1. Being at level 1 means that only some of its traits are revealed. In order to progress with levels and reveal more traits the owner of the Piglet needs to wait and collect PiFi (similar as eXperience Points). There are options to speed up the collection - for example by completing tasks and activating boosters. Each Piglet has its own wallet - a smart contract that is owned by the Piglet itself. Breaking is the final step in the life of a Piglet. By breaking it the owner is actually killing it, losing its NFT/collectable value, but gaining all the assets within it. One of its unique features is the option to materialize the Piglet. In order to do that the owner stakes the piglet in a specific contract and obtains a real 3D printed Pigletz figure. While being materialized the NFT is locked and cannot be transferred. The only way to unlock it is to break the Pigletz figure (in the real world) and to use the codes inside of it to unlock it. At the end the game is all about the dilemma - which is more valuable - the Piglet as an NFT or the tokens inside of it.",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/2c5f99f9-ba86-4930-801f-95d34b4cab78/3_GenderMaleBodyBrownMaleMouthGoldToothEyesMaleGreenHairstyleRastaBeardstyleFullEarringsNoneNoseNoneGlassesJohnTattooNone.png"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9c24241b-97db-4531-9e52-e2885cd8cfd7/social-banner.jpg"
+		}
+        ],
+	"verified": "true",
+	"premium": "false",
+	"categories": [
+		"collectibles"
+	]
+        },
 	{
 	"name": "Lunar Crystals",
 	"address": "0x6416c6e480Ad6db98Ef225EFb4BD70a1b8a4b5Eb",
