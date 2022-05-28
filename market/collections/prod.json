@@ -1,5 +1,29 @@
 {
   "collections": [
+ {
+      "name": "0xUniverse",
+      "publicIdentifier": "0xUniverse",
+      "verified": true,
+      "description": "0xUniverse is an open economy game where players can build spaceships, explore the galaxy, and colonize planets. The discoverers will extract resources and carry out research that allows them to conquer the remotest corners of the galaxy. In addition, players can jointly contribute to the story and unravel the mystery of the universe",
+      "contracts": [
+        {
+          "address": "0xf556faf23fc2feefa33ee6db2d1ee4c70e534513",
+          "chain": "MATIC"
+        }
+      ],
+       "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/ZbcXpZcxaA"
+        },
+       {
+          "type": "twitter",
+          "value": "https://twitter.com/0xUniverse"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/0xuniverse.png",
+      "logo": "https://uc2cc2915819063c6b3fb4130fc9.previews.dropboxusercontent.com/p/thumb/ABhNgyO9rqul3M4eUVgrZa8a_hzxNxSzDMpb8ar43kRn3vLGxGvWSr8lUbejw2npZoXBhh5rUPj0UEBElxSSAzl_4znQ65zcozUk6n9-4x0rN5BK-pDRVSUwg3MwolMjxjrX9zXX0yoE6NMNZKcNTPgqq3U601QptMdAxNcqMGm-CL6XH--IBN87gjfMwx8U5KnVC987PBxMQs2l8UMPfzSwDNQV0CHiZu5Bt3acte-xjXISdpVi_23vfS5I4itIV-xxqi9C7m4Y5WGU5V5mBcDI-Q9D7EzmwWb7vEgAuTtjavWvYwMBLBJEklhJraUQDy0Rl9xUr_Rsg57sY5e7i84WFV6uWO6o1y5-E9FvInMsiVfFSGiAwkzYMyTQ-No4EK8/p.png"
+  },
    {
       "name": "Pigletz",
       "publicIdentifier": "Pigletz",
