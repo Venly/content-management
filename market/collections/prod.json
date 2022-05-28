@@ -948,6 +948,11 @@
         {
           "address": "0xa5f1ea7df861952863df2e8d1312f7305dabf215",
           "chain": "MATIC"
+        },
+	      
+        {
+          "address": "0x67f4732266c7300cca593c814d46bee72e40659f",
+          "chain": "MATIC"
         }
       ],
       "banner": "https://img.arkane.network/img/arkane.market/zed_banner.png",
