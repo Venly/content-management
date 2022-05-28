@@ -636,7 +636,29 @@
 		},
 		{
 		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/zed_banner.png"
+		  "value": "https://lh3.googleusercontent.com/KYfdBRF071FyU4kOHDahIYvCrcXbQACgaocHry_IsVcZkjg1MRH5l2KZqp3p8-nDdvi74FBrcK-6iT97M8fJpMMMJKh5ke7SHwof8Q=h600"
+		}
+	],
+	"categories": [
+		"game_items"
+	]
+},
+ {
+	"name": "ZED RUN",
+	"address": "0x67f4732266c7300cca593c814d46bee72e40659f",
+	"url": "https://zed.run/",
+	"imageUrl": "https://img.arkane.network/img/arkane.market/zed_logo.png",
+	"description": "OWN. RACE. EARN. The future of digital racehorse ownership is here. Race your way to the top and build your legacy today.",
+	"verified": "true",
+	"premium": "true",
+	"media": [
+		{
+		  "type": "image",
+		  "value": "https://img.arkane.network/img/arkane.market/zed_hero.jpeg"
+		},
+		{
+		  "type": "banner",
+		  "value": "https://lh3.googleusercontent.com/KYfdBRF071FyU4kOHDahIYvCrcXbQACgaocHry_IsVcZkjg1MRH5l2KZqp3p8-nDdvi74FBrcK-6iT97M8fJpMMMJKh5ke7SHwof8Q=h600"
 		}
 	],
 	"categories": [
