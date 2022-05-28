@@ -1,4 +1,25 @@
 [
+	{
+	"name": "0xUniverse",
+	"url": "https://0xuniverse.com/",
+	"address": "0xf556faf23fc2feefa33ee6db2d1ee4c70e534513",
+	"imageUrl": "https://uc6a095a56ab0bdaa912533fa089.previews.dropboxusercontent.com/p/thumb/ABjL7XUioX4hwcd_MX1BNjNaSn--e-dhsxcgCYbwk_9Go58q-cVQPmSzLTTgH3-pEQMqGY3cYhSBHfEYwqR7jhktjUw25jBvbd5LVKqL3gAGFOBZ2bzK1QOBtELYKIBs8CbG3FoNtPMlt7CjP33WKjgjjAzWXLiqumShMyZwpnB-hAXe1Faq08N0EsMgmdHlZjc5bdFvMzuele1C4vxoHNE2Uwf1hKYDqcQbqyfVt-7OMbJs7i3_uWb1FsfXRDU2la8OjS6AQ7ZoJnCUCHALJJidZmhPFa4KnfkEZWqJhe-sDd5DihXU-9jwT7HviBqCZcfApRWmPCBvthsOLvqE_GtOp0mPdEyDCf0nayX-YSAuPg/p.png",
+	"description": "0xUniverse is an open economy game where players can build spaceships, explore the galaxy, and colonize planets. The discoverers will extract resources and carry out research that allows them to conquer the remotest corners of the galaxy. In addition, players can jointly contribute to the story and unravel the mystery of the universe",
+	"media": [{
+			"type": "image",
+			"value": "https://uc2cc2915819063c6b3fb4130fc9.previews.dropboxusercontent.com/p/thumb/ABhNgyO9rqul3M4eUVgrZa8a_hzxNxSzDMpb8ar43kRn3vLGxGvWSr8lUbejw2npZoXBhh5rUPj0UEBElxSSAzl_4znQ65zcozUk6n9-4x0rN5BK-pDRVSUwg3MwolMjxjrX9zXX0yoE6NMNZKcNTPgqq3U601QptMdAxNcqMGm-CL6XH--IBN87gjfMwx8U5KnVC987PBxMQs2l8UMPfzSwDNQV0CHiZu5Bt3acte-xjXISdpVi_23vfS5I4itIV-xxqi9C7m4Y5WGU5V5mBcDI-Q9D7EzmwWb7vEgAuTtjavWvYwMBLBJEklhJraUQDy0Rl9xUr_Rsg57sY5e7i84WFV6uWO6o1y5-E9FvInMsiVfFSGiAwkzYMyTQ-No4EK8/p.png"
+		},
+		{
+			"type": "banner",
+			"value": "https://img.arkane.network/img/arkane.market/0xuniverse.png"
+		}
+	],
+	"verified": "true",
+	"premium": "true",
+	"categories": [
+		"game_items"
+	]
+},
 {
 	"name": "Heromix NFT",
 	"url": "https://mint.heromix.org/",
