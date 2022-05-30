@@ -1,5 +1,25 @@
 {
   "collections": [
+	  {
+      "name": "Persian Carpet",
+      "publicIdentifier": "persian-carpet",
+      "verified": true,
+      "description": "The art of carpet weaving is one of the oldest and most original arts among Iranians. As the oldest carpet in the world, it is considered an Iranian work and belongs to the 500 BC period.",
+      "contracts": [
+        {
+          "address": "0x63ea5482937ec4494bf354ee8a0cdafaba566357",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/def6da75-2c8f-49a1-91ac-617a814772af/00010-ABI-min-1-.jpg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/94539b67-4478-4f61-be10-693a80b5b4a8/61bb3c4c4b484e85acad9d2a8d92e5e0.jpg",
+     "socials": [
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/farshonline77"
+        }
+    ]
+  },
  {
       "name": "0xUniverse",
       "publicIdentifier": "0xUniverse",
