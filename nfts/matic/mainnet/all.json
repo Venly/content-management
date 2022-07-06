@@ -1,5 +1,27 @@
 [
   {
+    "name": "RDigitalART",
+    "url": "https://randomdigitalart.wordpress.com/",
+    "address": "0x037b9ba0c1aead30c1d839318462d3ac720985db",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/7f23a44f-d2ca-44a7-a281-9e2427bc5ff8/VLXLts1h_400x400.jpg",
+    "description": "RDigitalART & RNFT was created for the purpose of building a great community. Because an NFT project is not only judged on how difficult it is to make an art, but a large community can make something ordinary into something extraordinary.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/3009ea7d-04a9-4e86-8c28-2282eaf4f2d8/85a275fe.jpeg"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/8238ab13-7b50-4b86-acc4-8c67aaf55231/1500x500.jpeg"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
     "name": "Gaimin NFTxg Transverse Pack",
     "url": "https://gaimin.gg/",
     "address": "0xBc10870E667bd115a37BF46c13859886FDC3CbCc",
