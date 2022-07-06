@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ASHFALL",
+    "url": "https://liithos.com",
+    "address": "0.0.1043046",
+    "imageUrl": "https://storage.venly.io/applications/29d54ab6-eaf3-4603-8abf-c8ee2506f46c/Ashfall_Collectionicon.jpg",
+    "description": "From the mind of Days Gone Creator, John Garvin, comes a new open-world universe set in the Pacific-Northwest, ASHFALL. The world is scarred by the effects of global warming and warring enclaves. Spanning across media and gaming, this token collection celebrates John's return and grants early adopters benefits leading up to the game's launch and beyond.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.venly.io/applications/29d54ab6-eaf3-4603-8abf-c8ee2506f46c/logo_liithos_ashfall_icon.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "collectibles"
+    ]
+  }
+]
