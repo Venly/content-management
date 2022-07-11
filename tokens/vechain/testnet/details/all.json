@@ -14,5 +14,5 @@
     "type": "VIP180"
   },
   {"name":"Banana","symbol":"BNA","address":"0x3Ef92fC69B0F5506FB24db6c88F3208d804E4Bc7","decimals":18,"type":"ERC20"},
-  {"name":"VIMworld","symbol":"VEED","address":"0xa39a4b2e23220305083e2e7c94c8950ef1e641c6","decimals":18,"type":"ERC20"}
+  {"name":"VEED","symbol":"VEED","address":"0xa39a4b2e23220305083e2e7c94c8950ef1e641c6","decimals":18,"type":"ERC20"}
 ]

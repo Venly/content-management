@@ -1,3 +1,4 @@
 [
-{"name":"Test Matic ERC20","symbol":"TST","address":"0x2d7882beDcbfDDce29Ba99965dd3cdF7fcB10A1e","decimals":18,"type":"ERC20"}
+{"name":"Test Matic ERC20","symbol":"TST","address":"0x2d7882beDcbfDDce29Ba99965dd3cdF7fcB10A1e","decimals":18,"type":"ERC20"},
+{"name":"VEED","symbol":"VEED","address":"0xfeD923Ab5a18f49503E6D17f7D79e155498d99E4","decimals":18,"type":"ERC20"}
 ]

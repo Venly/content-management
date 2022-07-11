@@ -15,5 +15,6 @@
 ,
 {"name":"DAI Token","symbol":"DAI","address":"0xec5dcb5dbf4b114c9d0f65bccab49ec54f6a0867","decimals":18,"type":"BEP20"}
 ,
-{"name":"Binance USD","symbol":"BUSD","address":"0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee","decimals":18,"type":"BEP20"}
+{"name":"Binance USD","symbol":"BUSD","address":"0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee","decimals":18,"type":"BEP20"},
+  {"name":"VEED","symbol":"VEED","address":"0x891Fb1372C815B62e1ddB6520eC54f5A6E0Ee625","decimals":18,"type":"ERC20"}
 ]
