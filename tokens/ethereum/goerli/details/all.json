@@ -1,3 +1,4 @@
 [
-  {"name":"VEED","symbol":"VEED","address":"0xfeD923Ab5a18f49503E6D17f7D79e155498d99E4","decimals":18,"type":"ERC20"}
+  {"name":"VEED","symbol":"VEED","address":"0xfeD923Ab5a18f49503E6D17f7D79e155498d99E4","decimals":18,"type":"ERC20"},
+  {"name":"USD//C","symbol":"USDC","address":"0x07865c6E87B9F70255377e024ace6630C1Eaa37F","decimals":6,"type":"ERC20"}
 ]
