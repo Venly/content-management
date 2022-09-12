@@ -1589,6 +1589,28 @@
     ]
   },
   {
+    "name": "Gaimin Summer Splash Pack",
+    "url": "https://gaimin.io/",
+    "address": "0x12eead719d2c789ed10f30a2fd9cabbe21645db0",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1e9e7a2e-f350-429c-8d26-1b62ad820f5f/Logo-Image.png",
+    "description": "Even if the weather is hot, hot, hot, this Summer Pack will keep you looking cool!",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1e9e7a2e-f350-429c-8d26-1b62ad820f5f/Logo-Image.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f98d8530-540a-47cd-87b1-cd612c7fecd4/Banner.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
     "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
     "categories": [
       "scam"
