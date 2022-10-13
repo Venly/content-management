@@ -1701,8 +1701,7 @@
     "categories": [
       "scam"
     ]
-  }
-  ,
+  },
   {
     "name": "[SCAM]",
     "address": "0x3cbc5cf352e261cc72927605413c2f3929980fd2",
@@ -1710,8 +1709,7 @@
     "categories": [
       "scam"
     ]
-  }
-  ,
+  },
   {
     "name": "[SCAM]",
     "address": "0x0d72A931844155752F810B97EC85ab0617eD4c92",
@@ -1723,6 +1721,94 @@
   {
     "name": "[SCAM]",
     "address": "0x0afa642e044b8287598c78779f1883f7d2c1968e",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x01b8214c3523caf2bf1f4beaaadbe920cbfa9693",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x043311e8505b9e0777cd2a4ee26eab8d5a250fbc",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x058731ced493e0dd9bffb01c9dd3c24e4ddc94d4",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x0725c29002ea94d44ace4dad8414ebc9b0dfd5e3",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x0f0807e59659f5b62571f412db5a584d7f2251a0",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x1332039807e77db5207f434492a0066c56c9f7eb",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x2426786d539806a61235389117ab20abb2569557",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x29e27acecf4b3518f8a7a81ef75e23e14bdbb27b",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x32c422e1c17c8a7b8714ca2e09909434ab578784",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0xe621bc51df7e9ef9a3fcc6f8634a9983b6cf655e",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0xe84b8cafe130105293321bff7b80fdb29d3ee5e6",
     "symbol": "SCAM",
     "categories": [
       "scam"

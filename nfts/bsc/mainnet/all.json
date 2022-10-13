@@ -209,6 +209,13 @@
 		"categories": [
 			"game_items"
 		]
+	},
+	{
+		"name": "[SCAM]",
+		"address": "0x453af8955badff8ac449dc6f5847392d3d14bee6",
+		"symbol": "SCAM",
+		"categories": [
+			"scam"
+		]
 	}
-	
  ]
