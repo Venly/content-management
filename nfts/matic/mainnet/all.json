@@ -1457,6 +1457,22 @@
     ]
   },
   {
+    "name": "Venly Christmas Special 2022",
+    "address": "0x0bbd4a8c27658a26d844dc1f81e704672441d501",
+    "media": [
+      {
+        "type": "banner",
+        "value": "https://img.arkane.network/img/arkane.market/venly-banner.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "url": "https://venly.io",
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
     "address": " 0x35322134ec933d55797930d0c045b51c2203cbae",
     "verified": "true",
     "premium": "true",
