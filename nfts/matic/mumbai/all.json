@@ -1,185 +1,194 @@
 [
-	{
-	"name": "Karting Microgame",
-	"url": "https://play.unity.com/mg/karting/bgsdk-foundation-demo",
-	"address": "0x29c10fec0254b084cde234036072a291b87bdf6f",
-	"imageUrl":"https://img.arkane.network/img/arkane.market/kart_logo.png",
-	"description":"The Karting Microgame is a 3D kart racing game with only one goal, complete all the laps.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://img.arkane.network/img/arkane.market/kart_hero.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://img.arkane.network/img/arkane.market/kart_banner.png"
-		}
-        ],
-	"verified": "true",
-	"premium": "true",
-	"categories": [
-		"game_items"
-	]
-},
-     {
-      "name": "ZED Pass - NASCAR",
-      "description": "The NASCAR NFT Collection is in celebration of the world’s most iconic auto racing brand, and its expansion into the metaverse with ZED RUN. The collaborative collection includes 1,000 NASCAR ZED Passes, the inaugural installment of the ZED Pass, a new standalone NFT that will reward holders and unlock future in-game utility.",
-      "address": "0x728343feeab776a591645f0679479541ef041ec9",
-      "symbol": "",
-      "url": "https://zed.run",
-      "imageUrl": "https://lh3.googleusercontent.com/Q19fJSGvGRRru8FGkpIm734cXNEo9Ag0bXA4X5r4Zboe6TyZRzCM6z_C9vIGhiahvlC5ZZ1YytUVi3MaSP41gqJnrFwa1OVJDsxx=s130",
-      "media": [
-        {
-          "type": "image",
-          "value": "https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600"
-        },
-	      
-        {
-          "type": "banner",
-          "value": "https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600"
-        }
-      ],
-      "verified": true,
-      "premium": true,
-      "type": "",
-      "categories": [
-			"game_items"
-		]
-    },
-    {
-      "name": "Battle Racers",
-      "description": "Battle Racers is an action-packed blockchain racing game where you design, build, and race NFT cars on arcade-sized tracks. Customize your car in the garage by mixing and matching parts and weapons. Different parts have different stats and skills, contributing to your car\u2019s overall performance. Do you choose speed over handling? Firepower or defense? Create the perfect car to match your playstyle and beat other players to the finish line.",
-      "address": "0xA4572039E7925BB175944F0F519Ae603F25e16c2",
-      "symbol": "",
-      "url": "https:\/\/battleracers.io",
-      "imageUrl": "https://content.arkane.network/img/arkane.market/BattleRacers-logo.jpeg?raw=true",
-      "media": [
-        {
-          "type": "image",
-          "value": "https://content.arkane.network/img/arkane.market/BattleRacers-banner.jpeg?raw=true"
-        },
-        {
-          "type": "banner",
-          "value": "https://content.arkane.network/img/arkane.market/battleracers_banner.png?raw=true"
-        }
-      ],
-      "verified": true,
-      "premium": true,
-      "type": "",
-      "categories": [
-			"game_items"
-		]
-    },
-    {
-        "name": "Logan Paul Digital Collectibles",
-        "description": "Logan Paul's first edition NFTs, his own line of Pokemon-inspired non-fungible tokens (NFTs).",
-        "address": "0x12348ceef9eda580f4dd7191a93bbce5e16d9182",
-        "symbol": "",
-        "url": "https:\/\/www.youtube.com\/channel\/UCG8rbF3g2AMX70yOd8vqIZg",
-        "imageUrl": "https:\/\/raw.githubusercontent.com\/ArkaneNetwork\/content-management\/master\/img\/arkane.market\/logal_paul_profile.png",
-        "media": "https:\/\/www.youtube.com\/embed\/1dFgZwpeokk",
-        "verified": false,
-        "premium": false,
-        "categories": [
-			"collectibles"
-		]
-    },
-    {
-        "name": "Crypto Colosseum",
-        "description": "Crypto Colosseum is a game of whimsical violence and deep crypto economics. Players place bets on AI-fueled gladiator battles using Prestige coin ($PTG). Players win untold fortunes, climb the ranks and go from pleb to patrician. Prestige ($PTG) is the in-game currency of the Crypto Colosseum. $PTG enables players to acquire (income generating) gladiator NFT contracts or purchase additional items used to manipulate battle outcomes.",
-        "address": "0xd8BB5D498F5BeCB4992C22D13e672a919D362b51",
-        "symbol": "",
-        "url": "https://cryptocolosseum.com",
-        "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f3e403fa-5c42-415e-8654-9a0a32fbde06",
-        "media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f7e97bb8-bf1a-4d65-95b8-1aa27c06fd99",
-        "verified": true,
-        "premium": false,
-        "categories": [
-			"game_items"
-		]
-    },
-    {
-      "name": "Digimon",
-      "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
-      "media": [
-        {
-          "type": "banner",
-          "value": "https://content.arkane.network/img/arkane.market/digimon_banner.png"
-        }
-      ],
-      "verified": true,
-      "premium": true,
-      "categories": [
-        "collectibles",
-        "game_items"
-      ]
-    },
-    {
-        "name": "PewDiePie",
-        "address": "0xb9b6135c9ffa81440de9c5387ddd8ffd4f15300c",
-        "verified": false,
-        "premium": false,
-        "categories": [
-			"collectibles"
-		]
-    },
-    {
-        "name": "MoCDA Exhibitions",
-        "address": "0x7e2e2d4fd68bb4100100fc26803e58368ff8881c",
-        "verified": true,
-        "premium": true,
-        "categories": [
-			"digital_art"
-		]
-    },
-    {
-      "name": "Gaimin",
-      "address": "0x475a04288882a8e200bbd34489dcda38035dde26",
-      "media": [{
+  {
+    "name": "Karting Microgame",
+    "url": "https://play.unity.com/mg/karting/bgsdk-foundation-demo",
+    "address": "0x29c10fec0254b084cde234036072a291b87bdf6f",
+    "imageUrl": "https://img.arkane.network/img/arkane.market/kart_logo.png",
+    "description": "The Karting Microgame is a 3D kart racing game with only one goal, complete all the laps.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://img.arkane.network/img/arkane.market/kart_hero.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://img.arkane.network/img/arkane.market/kart_banner.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "ZED Pass - NASCAR",
+    "description": "The NASCAR NFT Collection is in celebration of the world’s most iconic auto racing brand, and its expansion into the metaverse with ZED RUN. The collaborative collection includes 1,000 NASCAR ZED Passes, the inaugural installment of the ZED Pass, a new standalone NFT that will reward holders and unlock future in-game utility.",
+    "address": "0x728343feeab776a591645f0679479541ef041ec9",
+    "symbol": "",
+    "url": "https://zed.run",
+    "imageUrl": "https://lh3.googleusercontent.com/Q19fJSGvGRRru8FGkpIm734cXNEo9Ag0bXA4X5r4Zboe6TyZRzCM6z_C9vIGhiahvlC5ZZ1YytUVi3MaSP41gqJnrFwa1OVJDsxx=s130",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600"
+      },
+      {
+        "type": "banner",
+        "value": "https://lh3.googleusercontent.com/Ug-zVONCDHmo8MuK3GBEhWSfWZQzC0XfK527UCWs0pYi0xDiIuzl_1X5arsusFx1hdw7CNwgeKOY2dNRx1UXbwCok9JkcPC1xcF8KI0=h600"
+      }
+    ],
+    "verified": true,
+    "premium": true,
+    "type": "",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Battle Racers",
+    "description": "Battle Racers is an action-packed blockchain racing game where you design, build, and race NFT cars on arcade-sized tracks. Customize your car in the garage by mixing and matching parts and weapons. Different parts have different stats and skills, contributing to your car\u2019s overall performance. Do you choose speed over handling? Firepower or defense? Create the perfect car to match your playstyle and beat other players to the finish line.",
+    "address": "0xA4572039E7925BB175944F0F519Ae603F25e16c2",
+    "symbol": "",
+    "url": "https:\/\/battleracers.io",
+    "imageUrl": "https://content.arkane.network/img/arkane.market/BattleRacers-logo.jpeg?raw=true",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://content.arkane.network/img/arkane.market/BattleRacers-banner.jpeg?raw=true"
+      },
+      {
+        "type": "banner",
+        "value": "https://content.arkane.network/img/arkane.market/battleracers_banner.png?raw=true"
+      }
+    ],
+    "verified": true,
+    "premium": true,
+    "type": "",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Logan Paul Digital Collectibles",
+    "description": "Logan Paul's first edition NFTs, his own line of Pokemon-inspired non-fungible tokens (NFTs).",
+    "address": "0x12348ceef9eda580f4dd7191a93bbce5e16d9182",
+    "symbol": "",
+    "url": "https:\/\/www.youtube.com\/channel\/UCG8rbF3g2AMX70yOd8vqIZg",
+    "imageUrl": "https:\/\/raw.githubusercontent.com\/ArkaneNetwork\/content-management\/master\/img\/arkane.market\/logal_paul_profile.png",
+    "media": "https:\/\/www.youtube.com\/embed\/1dFgZwpeokk",
+    "verified": false,
+    "premium": false,
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "name": "Crypto Colosseum",
+    "description": "Crypto Colosseum is a game of whimsical violence and deep crypto economics. Players place bets on AI-fueled gladiator battles using Prestige coin ($PTG). Players win untold fortunes, climb the ranks and go from pleb to patrician. Prestige ($PTG) is the in-game currency of the Crypto Colosseum. $PTG enables players to acquire (income generating) gladiator NFT contracts or purchase additional items used to manipulate battle outcomes.",
+    "address": "0xd8BB5D498F5BeCB4992C22D13e672a919D362b51",
+    "symbol": "",
+    "url": "https://cryptocolosseum.com",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f3e403fa-5c42-415e-8654-9a0a32fbde06",
+    "media": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f7e97bb8-bf1a-4d65-95b8-1aa27c06fd99",
+    "verified": true,
+    "premium": false,
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Digimon",
+    "address": "0x9a25aec9024ae85c8611a783754f967920fba514",
+    "media": [
+      {
+        "type": "banner",
+        "value": "https://content.arkane.network/img/arkane.market/digimon_banner.png"
+      }
+    ],
+    "verified": true,
+    "premium": true,
+    "categories": [
+      "collectibles",
+      "game_items"
+    ]
+  },
+  {
+    "name": "PewDiePie",
+    "address": "0xb9b6135c9ffa81440de9c5387ddd8ffd4f15300c",
+    "verified": false,
+    "premium": false,
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "name": "MoCDA Exhibitions",
+    "address": "0x7e2e2d4fd68bb4100100fc26803e58368ff8881c",
+    "verified": true,
+    "premium": true,
+    "categories": [
+      "digital_art"
+    ]
+  },
+  {
+    "name": "Gaimin",
+    "address": "0x475a04288882a8e200bbd34489dcda38035dde26",
+    "media": [
+      {
         "type": "banner",
         "value": "https://content.arkane.network/img/arkane.market/gaimin_banner.png"
-      },{
+      },
+      {
         "type": "twitter",
         "value": "https://twitter.com/Venly_io"
-      },{
+      },
+      {
         "type": "telegram",
         "value": "https://t.me/officialgaimin"
       }
-	       ],
-      "verified": true,
-      "premium": false,
-      "categories": [
-        "game_items"
-      ]
-    },
-    {
-      "name": "Puzzle in a Bag",
-      "address": "0x2aaaee990f595f21a88c1264f57d617ece271bd3",
-      "media": [{
+    ],
+    "verified": true,
+    "premium": false,
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Puzzle in a Bag",
+    "address": "0x2aaaee990f595f21a88c1264f57d617ece271bd3",
+    "media": [
+      {
         "type": "banner",
         "value": "https://media.cntraveler.com/photos/5e8772dda32d290008f50983/master/pass/PuzzleLede-GettyImages-1132582488.jpg"
-      }],
-      "verified": true,
-      "premium": true,
-      "categories": [
-        "collectibles"
-      ]
-    },
-   {
-      "address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
-      "scam": true
-   },
-   {
-      "address": "0x346cebe796d25943472f4f2decac9e23a8a954d6",
-      "scam": true,
-      "categories": [
-        "collectibles", "scam"
-      ]
-   },
-   {
-      "address": "0x44fb30ee7c21a9f53d9ece463905b8060857f49d",
-      "categories": [
-        "collectibles"
-      ]
-   }
+      }
+    ],
+    "verified": true,
+    "premium": true,
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "address": "0xba3c9879fca47015558065adb44cad5e9fe3e119",
+    "name": "[SCAM]",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "address": "0x346cebe796d25943472f4f2decac9e23a8a954d6",
+    "name": "[SCAM]",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "address": "0x44fb30ee7c21a9f53d9ece463905b8060857f49d",
+    "categories": [
+      "collectibles"
+    ]
+  }
 ]

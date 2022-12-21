@@ -1837,5 +1837,13 @@
     "categories": [
       "scam"
     ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x42cdf94b060589362e75180d595c24ba771e28b1",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
   }
 ]
