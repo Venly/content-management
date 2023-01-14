@@ -49,5 +49,6 @@
     "type": "VIP180"
   },
   {"name":"Global Funeral Care","symbol":"GFCS","address":"0xfb67218c32168ee54dC23ED63F76159DCDA09Ba6","decimals":18,"type":"VIP180"},
-  {"name":"VIMworld","symbol":"VEED","address":"0x67fd63f6068962937ec81ab3ae3bf9871e524fc9","decimals":18,"type":"ERC20"}
+  {"name":"VIMworld","symbol":"VEED","address":"0x67fd63f6068962937ec81ab3ae3bf9871e524fc9","decimals":18,"type":"ERC20"},
+  {"name":"Dohrnii","symbol":"DHN","address":"0x8e57aadf0992afcc41f7843656c6c7129f738f7b","decimals":18,"type":"ERC20"}
 ]
