@@ -1845,5 +1845,122 @@
     "categories": [
       "scam"
     ]
+  },
+  {
+    "name": "Gaimin Dash Cup",
+    "symbol": "DASH",
+    "url": "https://www.gaimin.gg/",
+    "address": "0x2451cf6af2ca2b966397fe8aa76e4abf27b4bd30",
+    "imageUrl": "https://storage.googleapis.com/gaimin_nft/gta5/gaimin_dash_cup/images/dash_logo_image.png",
+    "description": "Congratulations, you’ve done it! The crown is yours, you have successfully taken down the Gaimin Dash Cup. Wear this cap to prove your worthiness and reap in your rewards.",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gaimin_dash_cup/images/dash_banner.png"
+      },
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gaimin_dash_cup/images/dash_featured_image.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "GG Gear",
+    "symbol": "GG",
+    "url": "https://www.gaimin.gg/",
+    "address": "0x4873a0eef697064e92f6c96f666823741770b164",
+    "imageUrl": "https://storage.googleapis.com/gaimin_nft/gta5/gg_gear_2211/pack_images/logo_image.png",
+    "description": "Represent your favourite e-sports team in style and become a true gladiator with these exclusive clothing NFT's",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gg_gear_2211/pack_images/banner.png"
+      },
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gg_gear_2211/pack_images/featured_image.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Gaimin Christmas Pack",
+    "symbol": "XMAS",
+    "url": "https://www.gaimin.gg/",
+    "address": "0x674cd598c712e33e4c8b5827921f3148f407a5e6",
+    "imageUrl": "https://storage.googleapis.com/gaimin_nft/interoperable/xmas_2212/images/pack_images/Logo%20Image.png",
+    "description": "Cozy and warm Gaimin Christmas Pack for cold winter days!",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/gaimin_nft/interoperable/xmas_2212/images/pack_images/Banner.png"
+      },
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/gaimin_nft/interoperable/xmas_2212/images/pack_images/Featured%20Image.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
   }
 ]
