@@ -1,5 +1,27 @@
 [
   {
+    "name": "Planet Mojo - Mojos",
+    "url": "https://www.planetmojo.io/",
+    "address": "0x6e0327481992c2d3bf9d8ea60356cfdd25ca7a49",
+    "imageUrl": "https://i.seadn.io/gcs/files/cff806224a2b7d3595bb3e4cbbfa82d4.gif?auto=format&w=384",
+    "description": "Mojos are devilishly powerful plant creatures in need of your help. There are 4444 uniquely generated 3D game-playable characters that will work across the expanding games and metaverse of Planet Mojo",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gcs/files/3ecbf159294c9dfab77ed1990fbb11e1.png?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gcs/files/3ecbf159294c9dfab77ed1990fbb11e1.png?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
     "name": "TOWER Treasury",
     "url": "https://crazydefenseheroes.com",
     "address": "0x2b88ce7b01e6bdbb18f9703e01286608cf77e805",
@@ -2028,6 +2050,23 @@
     "premium": "false",
     "categories": [
       "game_items"
+    ]
+  },
+  
+    {
+    "name": "[SCAM]",
+    "address": "0x13271be809f3826b8f1f4ffb008db8b4896bdbeb",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+    {
+    "name": "[SCAM]",
+    "address": "0x220a95bde3ffa364050ffe07b436869c08787ec8",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
     ]
   },
   {
