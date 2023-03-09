@@ -1,5 +1,27 @@
 [
   {
+    "name": "Maitreya Fields",
+    "url": "https://www.maitreyastore.com/",
+    "address": "0xabc7379c28447de5b8a10f9fdc755aaa3cba8373",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/e03451b1-c72a-4213-8115-80d02251f74b/Maitreya.png",
+    "description": "Energetically Programmed Fields. Selling pictures and music by youtube channel.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4363c472-4813-4bc3-aaed-b5a9103c4ff0/COVER.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4363c472-4813-4bc3-aaed-b5a9103c4ff0/COVER.jpg"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "digital_art"
+    ]
+  },
+  {
     "name": "RDigitalART",
     "url": "https://randomdigitalart.wordpress.com/",
     "address": "0x037b9ba0c1aead30c1d839318462d3ac720985db",
@@ -661,6 +683,10 @@
       {
         "type": "image",
         "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b4bbb237-d072-41fc-aa54-37d9ccd7af6f/Hero-image-600x316.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1858a965-366d-42d8-b8e7-e7c8a8192f13/DWWA-Banner-1400x180.png"
       }
     ],
     "categories": [
