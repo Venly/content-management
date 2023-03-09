@@ -1,4 +1,26 @@
-[   
+[
+  {
+    "name": "Planet IX - Assets",
+    "url": "http://www.planetix.com/",
+    "address": "0xba6666b118f8303f990f3519df07e160227cce87",
+    "imageUrl": "https://i.seadn.io/gcs/files/2f986a0fc7c0f30fbe04f85c6831d5df.png?auto=format&w=384",
+    "description": "This is the collection which displays all the in-game assets which carry utility in the Planet IX Metaverse. Holders can expect airdrops, whitelists, utility in the game such as upgrades, accelerated rewards and much more to come.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gcs/files/bd61b47f1a9f368d4a7e8f4f5746bf51.png?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gcs/files/bd61b47f1a9f368d4a7e8f4f5746bf51.png?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
   {
     "name": "Uniswap V3 Positions",
     "url": "https://uniswap.org/",
