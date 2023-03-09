@@ -1,5 +1,27 @@
 [
   {
+    "name": "TOWER Treasury",
+    "url": "https://crazydefenseheroes.com",
+    "address": "0x2b88ce7b01e6bdbb18f9703e01286608cf77e805",
+    "imageUrl": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeielnvvmbkjuchqfcqql5urtxxlfb3flmn55rzpp3ukmufgaehicvu.ipfs.dweb.link/tower-treasury.png",
+    "description": "The TOWER Treasury contains all materials and resource NFTs of the TOWER Franchise, all the items could be utilized in the blockchain games of TOWER Franchise.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gcs/files/b800402a943fd93acc88861b618c9775.jpg?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gcs/files/b800402a943fd93acc88861b618c9775.jpg?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
     "name": "Maitreya Fields",
     "url": "https://www.maitreyastore.com/",
     "address": "0xabc7379c28447de5b8a10f9fdc755aaa3cba8373",
