@@ -1,4 +1,52 @@
 [
+   {
+    "from": {
+      "secretType": "ETHEREUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
+      "symbol": "PUBLX",
+      "tokenAddress": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8"
+    }
+  },
+    {
+    "from": {
+      "secretType": "ETHEREUM",
+      "symbol": "PUBLX",
+      "tokenAddress": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ETHEREUM",
+      "symbol": "PUBLX",
+      "tokenAddress": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+   {
+    "from": {
+      "secretType": "ETHEREUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
+      "symbol": "PUBLX",
+      "tokenAddress": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8"
+    }
+  },
   {
     "from": {
       "secretType": "BSC",
