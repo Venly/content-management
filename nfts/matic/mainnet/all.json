@@ -2150,5 +2150,13 @@
     "categories": [
       "scam"
     ]
+  },
+  {
+    "address": "0xbd69d69da553cb30f7222b89399cff0d74dc398a",
+    "verified": "true"
+  },
+  {
+    "address": "0x1659b2bf2ea61780a60728cd494cca455b8363eb",
+    "verified": "true"
   }
 ]
