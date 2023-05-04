@@ -2153,10 +2153,18 @@
   },
   {
     "address": "0xbd69d69da553cb30f7222b89399cff0d74dc398a",
-    "verified": "true"
+    "name": "TokenTraxx",
+    "verified": "true",
+    "imageUrl": "https://storage.venly.io/venly.market/collections/TokenTraxx/logo.jpg",
+    "url": "https://app.tokentraxx.com/discover",
+    "description": "How we engage with music is evolving. TokenTraxx is ushering in a new era for the music community, providing fair rewards that can be shared with everyone. TokenTraxx believes that NFTs are the foundation of that future, with technology that can redefine and enhance the value of music."
   },
   {
     "address": "0x1659b2bf2ea61780a60728cd494cca455b8363eb",
-    "verified": "true"
+    "name": "TokenTraxx",
+    "verified": "true",
+    "imageUrl": "https://storage.venly.io/venly.market/collections/TokenTraxx/logo.jpg",
+    "url": "https://app.tokentraxx.com/discover",
+    "description": "How we engage with music is evolving. TokenTraxx is ushering in a new era for the music community, providing fair rewards that can be shared with everyone. TokenTraxx believes that NFTs are the foundation of that future, with technology that can redefine and enhance the value of music."
   }
 ]
