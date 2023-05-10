@@ -2,7 +2,7 @@
   {
     "name": "SafeHaven",
     "symbol": "SHA",
-    "address": "0x9c6e62b3334294d70c8e410941f52d482557955b",
+    "address": "0xa1bcfa20a82eca70a5af5420b11bc53a279024ec",
     "decimals": 18,
     "type": "VIP180"
   },
@@ -14,5 +14,6 @@
     "type": "VIP180"
   },
   {"name":"Banana","symbol":"BNA","address":"0x3Ef92fC69B0F5506FB24db6c88F3208d804E4Bc7","decimals":18,"type":"ERC20"},
-  {"name":"VEED","symbol":"VEED","address":"0xa39a4b2e23220305083e2e7c94c8950ef1e641c6","decimals":18,"type":"ERC20"}
+  {"name":"VEED","symbol":"VEED","address":"0xa39a4b2e23220305083e2e7c94c8950ef1e641c6","decimals":18,"type":"ERC20"},
+  {"name":"Legacy Network","symbol":"LGCT","address":"0xcd06d669e2ee5d2da9906f121818a7331e23fba2","decimals":18,"type":"ERC20"}
 ]

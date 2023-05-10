@@ -1,5 +1,137 @@
 [
   {
+    "name": "Planet IX - Assets",
+    "url": "http://www.planetix.com/",
+    "address": "0xba6666b118f8303f990f3519df07e160227cce87",
+    "imageUrl": "https://i.seadn.io/gcs/files/2f986a0fc7c0f30fbe04f85c6831d5df.png?auto=format&w=384",
+    "description": "This is the collection which displays all the in-game assets which carry utility in the Planet IX Metaverse. Holders can expect airdrops, whitelists, utility in the game such as upgrades, accelerated rewards and much more to come.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gcs/files/bd61b47f1a9f368d4a7e8f4f5746bf51.png?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gcs/files/bd61b47f1a9f368d4a7e8f4f5746bf51.png?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Uniswap V3 Positions",
+    "url": "https://uniswap.org/",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "imageUrl": "https://i.seadn.io/gae/8My7rmWHJCAi35QSp2IMf50NRNIRJelpEdassqIxiL6Q_m2SE2qG7QKIT_1wfXH2afDcACiWVGrt2jkfHqHKlElttUTdL6dmC9G0Mpk?auto=format&w=384",
+    "description": "Welcome to the home of Uniswap V3 Positions on OpenSea. Discover the best items in this collection.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gae/Xq98abLTjlFfzdIxsXNL0sVE2W-3FGcJ2TFUkphz9dh9wEH4rcUesMhE7RzEh_ivPCdL5KxkNVfyE5gb870OgqOLQnBP6sIL54-G0A?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gae/Xq98abLTjlFfzdIxsXNL0sVE2W-3FGcJ2TFUkphz9dh9wEH4rcUesMhE7RzEh_ivPCdL5KxkNVfyE5gb870OgqOLQnBP6sIL54-G0A?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "collectibles"
+    ]
+  },
+   {
+    "name": "Sunflower Land Collectibles",
+    "url": "http://sunflower-land.com/",
+    "address": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
+    "imageUrl": "https://lh3.googleusercontent.com/rpnk-Yq7k8ueMvjkVAkHr5cRAhIuAoVzJ_C9wYFDvbwOMcQHM3EGSJU1Ex5M9wzO6tU_PIp_aki37tCfQgrOqS6MYkSibIpI7kRVIw=s168",
+    "description": "Sunflower Land is a NFT & Crypto-Farming Game on Polygon.Players must plant crops, chop wood, mine rocks and much more in their search for exotic and rare resources. Each item in this collection has a unique set of ingredients and total supply.There is no pre-sale of items. All items in this collection are earned through gameplay and listed by the players. Some items have gameplay boosts, while others are purely for decorating your farm for the world to see!You can read about each item's supply & special ability here: https://docs.sunflower-land.com/crafting-guide/rare-and-limited-itemsOnce you purchase an item, you can send it to your farm and start using it to help build your empire!",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gae/B_0dD31cBrQiBsLfBNoUaaF4bu9N_shtipGPCXrbVadlAm-qMQq-ZwD_6JhUHtROjZjw3PiPLIaSCSnQDaKYJ3gFxTdz1XXrpU4OCw?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gae/B_0dD31cBrQiBsLfBNoUaaF4bu9N_shtipGPCXrbVadlAm-qMQq-ZwD_6JhUHtROjZjw3PiPLIaSCSnQDaKYJ3gFxTdz1XXrpU4OCw?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Planet Mojo - Mojos",
+    "url": "https://www.planetmojo.io/",
+    "address": "0x6e0327481992c2d3bf9d8ea60356cfdd25ca7a49",
+    "imageUrl": "https://i.seadn.io/gcs/files/cff806224a2b7d3595bb3e4cbbfa82d4.gif?auto=format&w=384",
+    "description": "Mojos are devilishly powerful plant creatures in need of your help. There are 4444 uniquely generated 3D game-playable characters that will work across the expanding games and metaverse of Planet Mojo",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gcs/files/3ecbf159294c9dfab77ed1990fbb11e1.png?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gcs/files/3ecbf159294c9dfab77ed1990fbb11e1.png?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "TOWER Treasury",
+    "url": "https://crazydefenseheroes.com",
+    "address": "0x2b88ce7b01e6bdbb18f9703e01286608cf77e805",
+    "imageUrl": "https://img-cdn.magiceden.dev/rs:fill:400:400:0:0/plain/https://bafybeielnvvmbkjuchqfcqql5urtxxlfb3flmn55rzpp3ukmufgaehicvu.ipfs.dweb.link/tower-treasury.png",
+    "description": "The TOWER Treasury contains all materials and resource NFTs of the TOWER Franchise, all the items could be utilized in the blockchain games of TOWER Franchise.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://i.seadn.io/gcs/files/b800402a943fd93acc88861b618c9775.jpg?auto=format&w=3840"
+      },
+      {
+        "type": "banner",
+        "value": "https://i.seadn.io/gcs/files/b800402a943fd93acc88861b618c9775.jpg?auto=format&w=3840"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Maitreya Fields",
+    "url": "https://www.maitreyastore.com/",
+    "address": "0xabc7379c28447de5b8a10f9fdc755aaa3cba8373",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/e03451b1-c72a-4213-8115-80d02251f74b/Maitreya.png",
+    "description": "Energetically Programmed Fields. Selling pictures and music by youtube channel.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4363c472-4813-4bc3-aaed-b5a9103c4ff0/COVER.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4363c472-4813-4bc3-aaed-b5a9103c4ff0/COVER.jpg"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "digital_art"
+    ]
+  },
+  {
     "name": "RDigitalART",
     "url": "https://randomdigitalart.wordpress.com/",
     "address": "0x037b9ba0c1aead30c1d839318462d3ac720985db",
@@ -69,7 +201,7 @@
     "name": "0xUniverse",
     "url": "https://0xuniverse.com/",
     "address": "0xf556faf23fc2feefa33ee6db2d1ee4c70e534513",
-    "imageUrl": "https://uc6a095a56ab0bdaa912533fa089.previews.dropboxusercontent.com/p/thumb/ABjL7XUioX4hwcd_MX1BNjNaSn--e-dhsxcgCYbwk_9Go58q-cVQPmSzLTTgH3-pEQMqGY3cYhSBHfEYwqR7jhktjUw25jBvbd5LVKqL3gAGFOBZ2bzK1QOBtELYKIBs8CbG3FoNtPMlt7CjP33WKjgjjAzWXLiqumShMyZwpnB-hAXe1Faq08N0EsMgmdHlZjc5bdFvMzuele1C4vxoHNE2Uwf1hKYDqcQbqyfVt-7OMbJs7i3_uWb1FsfXRDU2la8OjS6AQ7ZoJnCUCHALJJidZmhPFa4KnfkEZWqJhe-sDd5DihXU-9jwT7HviBqCZcfApRWmPCBvthsOLvqE_GtOp0mPdEyDCf0nayX-YSAuPg/p.png",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkpGXth2DioYRlWPshS66eHooI_YygT8xHi_-aKlz5qScTK_Y30_1Eg6jAduIJwofk8U&usqp=CAU",
     "description": "0xUniverse is an open economy game where players can build spaceships, explore the galaxy, and colonize planets. The discoverers will extract resources and carry out research that allows them to conquer the remotest corners of the galaxy. In addition, players can jointly contribute to the story and unravel the mystery of the universe",
     "media": [
       {
@@ -661,6 +793,10 @@
       {
         "type": "image",
         "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b4bbb237-d072-41fc-aa54-37d9ccd7af6f/Hero-image-600x316.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1858a965-366d-42d8-b8e7-e7c8a8192f13/DWWA-Banner-1400x180.png"
       }
     ],
     "categories": [
@@ -829,6 +965,25 @@
       "game_items"
     ]
   },
+  {
+    "name": "REVV Racing",
+    "address": "0xfe6012470f3ab874403527177fd45d84c24a051b",
+    "url": "https://www.revvracing.com/",
+    "imageUrl": "https://img.arkane.network/img/arkane.market/revv_logo.png",
+    "description": "REVV Racing is the latest Play-to-Earn competitive racing metaverse from the REVV Motorsport team. This ecosystem is designed from the ground-up to be cross-chain, utilising the REVV token, and providing collectable and gameplay experiences for racing game players - competitive and casual, collectors, and fans of motorsports.",
+    "media": [
+      {
+        "type": "banner",
+        "value": "https://img.arkane.network/img/arkane.market/revv_banner.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  }
+  ,
   {
     "name": "Sapien Medicine",
     "address": "0x756623Fea3d4c92a5808a39bf79386dab28c42a2",
@@ -1133,8 +1288,8 @@
         "value": "https://img.arkane.network/img/arkane.market/cryptopick-banner.png"
       }
     ],
-    "verified": "true",
-    "premium": "true",
+    "verified": "false",
+    "premium": "false",
     "categories": [
       "collectibles"
     ]
@@ -1306,7 +1461,7 @@
     ],
     "type": "",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "categories": [
       "digital_art"
     ]
@@ -1315,7 +1470,7 @@
     "name": "Big Fat Sexy Collectible Card Experience",
     "address": "0x53ac5ed41bfe023c8b0ee5c80380d19756af7df9",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "media": [
       {
         "type": "banner",
@@ -1427,7 +1582,7 @@
   {
     "address": "0x335944b36b02401fb35ca3aa64cc9468e5eb3742",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "categories": [
       "game_items"
     ]
@@ -1435,7 +1590,7 @@
   {
     "address": "0xa39388c49b9cfc6d7710181a3d71d81b9103f3bb",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "categories": [
       "game_items"
     ]
@@ -1457,9 +1612,25 @@
     ]
   },
   {
-    "address": " 0x35322134ec933d55797930d0c045b51c2203cbae",
+    "name": "Venly Christmas Special 2022",
+    "address": "0x0bbd4a8c27658a26d844dc1f81e704672441d501",
+    "media": [
+      {
+        "type": "banner",
+        "value": "https://img.arkane.network/img/arkane.market/venly-banner.png"
+      }
+    ],
     "verified": "true",
     "premium": "true",
+    "url": "https://venly.io",
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "address": " 0x35322134ec933d55797930d0c045b51c2203cbae",
+    "verified": "true",
+    "premium": "false",
     "categories": [
       "collectibles"
     ]
@@ -1467,7 +1638,7 @@
   {
     "address": " 0xbc3bb04CAa50b9D5393f09AAa3bcafe671E29d7b",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
     "media": [
       {
@@ -1486,7 +1657,7 @@
   {
     "address": " 0x453A92e38A8382F550465dd21068d757aBd2D437",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
     "media": [
       {
@@ -1505,7 +1676,7 @@
   {
     "address": " 0x68C2f79ae67fA8f466815e3010fe8e0500e95366",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
     "media": [
       {
@@ -1524,7 +1695,7 @@
   {
     "address": " 0x34bFb2aD92cF171ee4D6f1C4ac1E546B9c9D0345",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
     "media": [
       {
@@ -1543,7 +1714,7 @@
   {
     "address": " 0x00e711094C351d1bb43123CcF8ED47230444a72F",
     "verified": "true",
-    "premium": "true",
+    "premium": "false",
     "imageUrl": "https://img.arkane.network/img/arkane.market/goos_logo.png",
     "media": [
       {
@@ -1821,5 +1992,179 @@
     "categories": [
       "scam"
     ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x42cdf94b060589362e75180d595c24ba771e28b1",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "Gaimin Dash Cup",
+    "symbol": "DASH",
+    "url": "https://www.gaimin.gg/",
+    "address": "0x2451cf6af2ca2b966397fe8aa76e4abf27b4bd30",
+    "imageUrl": "https://storage.googleapis.com/gaimin_nft/gta5/gaimin_dash_cup/images/dash_logo_image.png",
+    "description": "Congratulations, you’ve done it! The crown is yours, you have successfully taken down the Gaimin Dash Cup. Wear this cap to prove your worthiness and reap in your rewards.",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gaimin_dash_cup/images/dash_banner.png"
+      },
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gaimin_dash_cup/images/dash_featured_image.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "GG Gear",
+    "symbol": "GG",
+    "url": "https://www.gaimin.gg/",
+    "address": "0x4873a0eef697064e92f6c96f666823741770b164",
+    "imageUrl": "https://storage.googleapis.com/gaimin_nft/gta5/gg_gear_2211/pack_images/logo_image.png",
+    "description": "Represent your favourite e-sports team in style and become a true gladiator with these exclusive clothing NFT's",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gg_gear_2211/pack_images/banner.png"
+      },
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/gaimin_nft/gta5/gg_gear_2211/pack_images/featured_image.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "Gaimin Christmas Pack",
+    "symbol": "XMAS",
+    "url": "https://www.gaimin.gg/",
+    "address": "0x674cd598c712e33e4c8b5827921f3148f407a5e6",
+    "imageUrl": "https://storage.googleapis.com/gaimin_nft/interoperable/xmas_2212/images/pack_images/Logo%20Image.png",
+    "description": "Cozy and warm Gaimin Christmas Pack for cold winter days!",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/gaimin_nft/interoperable/xmas_2212/images/pack_images/Banner.png"
+      },
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/gaimin_nft/interoperable/xmas_2212/images/pack_images/Featured%20Image.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  
+    {
+    "name": "[SCAM]",
+    "address": "0x13271be809f3826b8f1f4ffb008db8b4896bdbeb",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+    {
+    "name": "[SCAM]",
+    "address": "0x220a95bde3ffa364050ffe07b436869c08787ec8",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+    {
+    "name": "[SCAM]",
+    "address": "0x0bd48bcddeed6be5df053640572f47124a28ba5d",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0xb9419e3a88435b63e5dee0f6a120cdbdf6f8c35e",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "address": "0xbd69d69da553cb30f7222b89399cff0d74dc398a",
+    "name": "TokenTraxx",
+    "verified": "true",
+    "imageUrl": "https://storage.venly.io/venly.market/collections/TokenTraxx/logo.jpg",
+    "url": "https://app.tokentraxx.com/discover",
+    "description": "How we engage with music is evolving. TokenTraxx is ushering in a new era for the music community, providing fair rewards that can be shared with everyone. TokenTraxx believes that NFTs are the foundation of that future, with technology that can redefine and enhance the value of music."
+  },
+  {
+    "address": "0x1659b2bf2ea61780a60728cd494cca455b8363eb",
+    "name": "TokenTraxx",
+    "verified": "true",
+    "imageUrl": "https://storage.venly.io/venly.market/collections/TokenTraxx/logo.jpg",
+    "url": "https://app.tokentraxx.com/discover",
+    "description": "How we engage with music is evolving. TokenTraxx is ushering in a new era for the music community, providing fair rewards that can be shared with everyone. TokenTraxx believes that NFTs are the foundation of that future, with technology that can redefine and enhance the value of music."
   }
 ]

@@ -1,221 +1,255 @@
 [
-{
-	"name": "Pigletz",
-	"address": "0xbF84076b06a100d38ce562733098eDc0eDa4D7f7",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/34ba89bd-1fa3-4d28-ab7d-9f73a05d47f6/male.png",
-	"description":"Pigletz is a collectible game with DeFi elements. It is built around the main character - the Piglet, an NFT having a utility as a piggy bank where users can deposit crypto tokens and earn PiFi. Pigletz are items. A contemporary version of a piggy bank. An item that can exist in the Metaverse. And also can exist in the real world. But not in both. Each Piglet starts its life randomly minted and at level 1. Being at level 1 means that only some of its traits are revealed. In order to progress with levels and reveal more traits the owner of the Piglet needs to wait and collect PiFi (similar as eXperience Points). There are options to speed up the collection - for example by completing tasks and activating boosters. Each Piglet has its own wallet - a smart contract that is owned by the Piglet itself. Breaking is the final step in the life of a Piglet. By breaking it the owner is actually killing it, losing its NFT/collectable value, but gaining all the assets within it. One of its unique features is the option to materialize the Piglet. In order to do that the owner stakes the piglet in a specific contract and obtains a real 3D printed Pigletz figure. While being materialized the NFT is locked and cannot be transferred. The only way to unlock it is to break the Pigletz figure (in the real world) and to use the codes inside of it to unlock it. At the end the game is all about the dilemma - which is more valuable - the Piglet as an NFT or the tokens inside of it.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/2c5f99f9-ba86-4930-801f-95d34b4cab78/3_GenderMaleBodyBrownMaleMouthGoldToothEyesMaleGreenHairstyleRastaBeardstyleFullEarringsNoneNoseNoneGlassesJohnTattooNone.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9c24241b-97db-4531-9e52-e2885cd8cfd7/social-banner.jpg"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "Lunar Crystals",
-	"address": "0x6416c6e480Ad6db98Ef225EFb4BD70a1b8a4b5Eb",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/7894bb2d-6f07-4fbb-9b94-b279e6f4b2d3/Lunar.ProfileImage.BinanceNFT.gif",
-	"description":"Lunar Crystals: Multi-chain NFTs that unlock powers for holders. The collection consists of 4,444 first-addition Crystals. Not only are these 4K animated crystals among the most stunning art in the multiverse, the Genesis Collection also has a captivating storyline, LNR staking rewards, and access to exclusive abilities within the Lunar Ecosystem. While the Phase 1 launch will take place on BSC, the Phase 2 Genesis Launch will take place on Ethereum. Soon, the release of our FluidNFT™ technology will enable seamless movement of Lunar Crystals across any supported blockchain.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/dad09322-4685-470c-a96a-71a679b92afb/6266b59a0ff28222aa263eb8_TresureLandBanner.LunarCrystals.jpg"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44a5d1d3-d601-4541-854f-89ed16f0629c/rsz_lunarcollectionbannerbinancenftt.jpeg"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"collectibles"
-	]
-        },
-	{
-	"name": "Crypto Fight Club",
-	"address": "0xe4316E7eBF40e1C253745bB8813b8FcBd98afFcC",
-	"imageUrl":"https://storage.googleapis.com/tally-response-assets/Bkjl4P/1d29f80c-7de0-42af-ad70-155f3905f4d9/Profile-Pic.png",
-	"description":"CRYPTO FIGHT CLUB (CFC) is a new NFT-enabled game which allows players to battle one another or compete in championships. It's similar to the popular trading card games from the 1990s but instead of cards, Crypto Fight Club items and fighters consist of NFTs. Also, the game is powered by its own native token ($FIGHT). CFC allows players to stake their native currency in an NFT which represents their fighter on BSC (Binance Smart Chain). Players can then battle each other or complete training objectives to earn more tokens and purchase more powerful fighters and/or enhance their stats.",
-	"media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ee6b8561-3b5e-4ce4-822c-dc9a51a5be3b/hero.png"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://cfc-design-assets.s3.eu-west-3.amazonaws.com/public/banners/Venly.jpg"
-		}
-        ],
-	"verified": "true",
-	"premium": "false",
-	"categories": [
-		"game_items"
-	]
-        },
-	{
-		
-		"name": "SCRE4MER",
-		"description": "Have you ever screamed? What was the reason for this? Maybe you screamed out of fear or immeasurable happiness, from intolerable pain or outburst of emotion? I believe you are familiar with this, as well as the image that you see on these NFTs. We tried to imagine an abstract person or a creature that screams with joy, because fate kissed the forehead, and he’s got a cool reward in our raffle. Everyone can see himself in this character & fully become him. We believe that you will definitely get lucky. SCRE4M with us & let everyone hear it!",
-		"address": "0x1329a1c265168d3b38d73d4798cefa452a956686",
-		"symbol": "",
-		"url": "https://pixobits.org/scre4m",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/dde993d3-2bac-4f62-9402-749a18433bff/144x144.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e6c853d-983e-4fd1-aca2-c2ff47b21c32/600x316-banner.PNG"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58f9e113-66d0-4315-a521-fd6e49a70753/1440_180_raffle_info.PNG"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"digital_art"
-		]
-	},
-	{
-		
-		"name": "Lootex Creator Series",
-		"description": "Built for creators by magic and heart.",
-		"address": "0xf6401646676a87bbd0fa952fbbe8869516cc541c",
-		"symbol": "",
-		"url": "dex.lootex.io",
-		"imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_icon.png",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/lootex_banner.jpg"
-			}
-	        ],
-		"type": "",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"digital_art"
-		]
-	},
-	{
-		"name": "MythArt",
-		"address": "0xa011ae350081cf76c981d47f8c10e5d695f7f42b",
-		"url": "https://myth.art",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b9ddffd5-9279-40b4-890f-ce5395ca1c3c",
-		"description": "Myth Art offers a huge collection of original NFT works for users to collect and a free limited-edition card every day. They are committed to enabling users to get their first NFT asset.",
-		"verified": "true",
-		"premium": "true",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/94ceb3c6-cc9c-4884-b4d9-e74094135ae5"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c6b465b1-38b9-46fe-b1b7-640d8a5f9090"
-			}
-	        ],
-		"categories": [
-			"digital_art"
-		]
-	},
-	 {
-		"name": "The Cryptoz NFT Universe",
-		"description": "Cryptoz is a fresh take on gamified NFT collectibles built on scarcity, rarity and community. Mint rare booster NFTs based on a random lottery pull, each NFT is a uniquely printed token with deep trading card attributes. Earn the in-game CryptoZ eXPerience (CZXP) token for game actions and recruiting players in your affiliate network while always seeking the most scarce of cards!",
-		"address": "0x8a0C542bA7bBBab7cF3551fFcc546CdC5362d2a1",
-		"url": "https://bsc.cryptoz.cards/",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/464513d6-2be0-4e4c-8fdc-dff7a6f81012",
-	       "media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bce38a9f-cab5-40be-9a5b-5f846145cab5"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/871eb3b8-cbb7-4395-982e-da6301217742"
-		}
-	      ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles"
-		]
-	},
-	{
-		"name": "Polychain Monsters",
-		"description": "Polychain Monsters are exquisitely animated digital collectibles created using blockchain technology. Each Polymon is backed by a truly unique NFT that is indistinguishable from any other NFT and can be unpacked with $PMON tokens, the native ERC-20 and BEP-20 tokens in the Polyverse. Each collectible is inimitable, authentic, and differs in rarity. The Polychain Monsters NFT collection can easily be integrated into modern games, art, and other blockchain-connected products.",
-		"address": "0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
-		"url": "https://polychainmonsters.com/",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/25061590-3022-473a-94c9-ff0f3c3f635b",
-	       "media": [
-		{
-		  "type": "image",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de72d8f3-7fdc-4c96-936a-8b98c6d9cac1"
-		},
-		{
-		  "type": "banner",
-		  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4e5f0aa2-46cf-454c-a06c-61f3f3b4f7d8"
-		}
-	      ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"collectibles",
-			"game_items"
-		]
-	},	
- 	{
-		"address": " 0x9aef9c18c104607c0198ad84c8a85d8e4753969c",
-		"verified": "true",
-		"premium": "false",
-		"categories": [
-			"collectibles"
-		]
-	}
-	,
-	{
-		"name": "Noft Games",
-		"description": "Noft Games is the decentralized battle royale show. Here you get characters, put them on a battle, and trade. Fantastic creatures named Nofts have been closed on the spaceship and fight among themselves to survive. Every noft has a unique genome that determines its appearance and abilities. Different abilities have different influences on noft behavior and strategy in a fight. During the match, the noft gains experience, which ensures the growth of characteristics",
-		"address": "0x301817312598f8f48cb7d898d659ca4a4d457ad8",
-		"url": "https://noftgames.io/",
-		"imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/561eb5bb-99df-413f-bb42-a64a6481444f",
-		"media": [
-			{
-			  "type": "image",
-			  "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34e5588c-ecf5-44f9-a80f-4ad5e9576da4"
-			},
-			{
-			  "type": "banner",
-			  "value": "https://img.arkane.network/img/arkane.market/noft_banner.png"
-			}
-	        ],
-		"verified": "true",
-		"premium": "true",
-		"categories": [
-			"game_items"
-		]
-	},
-	{
-		"name": "[SCAM]",
-		"address": "0x453af8955badff8ac449dc6f5847392d3d14bee6",
-		"symbol": "SCAM",
-		"categories": [
-			"scam"
-		]
-	}
- ]
+  {
+    "name": "Pigletz",
+    "address": "0xbF84076b06a100d38ce562733098eDc0eDa4D7f7",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34ba89bd-1fa3-4d28-ab7d-9f73a05d47f6/male.png",
+    "description": "Pigletz is a collectible game with DeFi elements. It is built around the main character - the Piglet, an NFT having a utility as a piggy bank where users can deposit crypto tokens and earn PiFi. Pigletz are items. A contemporary version of a piggy bank. An item that can exist in the Metaverse. And also can exist in the real world. But not in both. Each Piglet starts its life randomly minted and at level 1. Being at level 1 means that only some of its traits are revealed. In order to progress with levels and reveal more traits the owner of the Piglet needs to wait and collect PiFi (similar as eXperience Points). There are options to speed up the collection - for example by completing tasks and activating boosters. Each Piglet has its own wallet - a smart contract that is owned by the Piglet itself. Breaking is the final step in the life of a Piglet. By breaking it the owner is actually killing it, losing its NFT/collectable value, but gaining all the assets within it. One of its unique features is the option to materialize the Piglet. In order to do that the owner stakes the piglet in a specific contract and obtains a real 3D printed Pigletz figure. While being materialized the NFT is locked and cannot be transferred. The only way to unlock it is to break the Pigletz figure (in the real world) and to use the codes inside of it to unlock it. At the end the game is all about the dilemma - which is more valuable - the Piglet as an NFT or the tokens inside of it.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/2c5f99f9-ba86-4930-801f-95d34b4cab78/3_GenderMaleBodyBrownMaleMouthGoldToothEyesMaleGreenHairstyleRastaBeardstyleFullEarringsNoneNoseNoneGlassesJohnTattooNone.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9c24241b-97db-4531-9e52-e2885cd8cfd7/social-banner.jpg"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "name": "Lunar Crystals",
+    "address": "0x6416c6e480Ad6db98Ef225EFb4BD70a1b8a4b5Eb",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/7894bb2d-6f07-4fbb-9b94-b279e6f4b2d3/Lunar.ProfileImage.BinanceNFT.gif",
+    "description": "Lunar Crystals: Multi-chain NFTs that unlock powers for holders. The collection consists of 4,444 first-addition Crystals. Not only are these 4K animated crystals among the most stunning art in the multiverse, the Genesis Collection also has a captivating storyline, LNR staking rewards, and access to exclusive abilities within the Lunar Ecosystem. While the Phase 1 launch will take place on BSC, the Phase 2 Genesis Launch will take place on Ethereum. Soon, the release of our FluidNFT™ technology will enable seamless movement of Lunar Crystals across any supported blockchain.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/dad09322-4685-470c-a96a-71a679b92afb/6266b59a0ff28222aa263eb8_TresureLandBanner.LunarCrystals.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44a5d1d3-d601-4541-854f-89ed16f0629c/rsz_lunarcollectionbannerbinancenftt.jpeg"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "name": "Crypto Fight Club",
+    "address": "0xe4316E7eBF40e1C253745bB8813b8FcBd98afFcC",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/1d29f80c-7de0-42af-ad70-155f3905f4d9/Profile-Pic.png",
+    "description": "CRYPTO FIGHT CLUB (CFC) is a new NFT-enabled game which allows players to battle one another or compete in championships. It's similar to the popular trading card games from the 1990s but instead of cards, Crypto Fight Club items and fighters consist of NFTs. Also, the game is powered by its own native token ($FIGHT). CFC allows players to stake their native currency in an NFT which represents their fighter on BSC (Binance Smart Chain). Players can then battle each other or complete training objectives to earn more tokens and purchase more powerful fighters and/or enhance their stats.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ee6b8561-3b5e-4ce4-822c-dc9a51a5be3b/hero.png"
+      },
+      {
+        "type": "banner",
+        "value": "https://cfc-design-assets.s3.eu-west-3.amazonaws.com/public/banners/Venly.jpg"
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "SCRE4MER",
+    "description": "Have you ever screamed? What was the reason for this? Maybe you screamed out of fear or immeasurable happiness, from intolerable pain or outburst of emotion? I believe you are familiar with this, as well as the image that you see on these NFTs. We tried to imagine an abstract person or a creature that screams with joy, because fate kissed the forehead, and he’s got a cool reward in our raffle. Everyone can see himself in this character & fully become him. We believe that you will definitely get lucky. SCRE4M with us & let everyone hear it!",
+    "address": "0x1329a1c265168d3b38d73d4798cefa452a956686",
+    "symbol": "",
+    "url": "https://pixobits.org/scre4m",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/dde993d3-2bac-4f62-9402-749a18433bff/144x144.png",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/0e6c853d-983e-4fd1-aca2-c2ff47b21c32/600x316-banner.PNG"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/58f9e113-66d0-4315-a521-fd6e49a70753/1440_180_raffle_info.PNG"
+      }
+    ],
+    "type": "",
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "digital_art"
+    ]
+  },
+  {
+    "name": "Lootex Creator Series",
+    "description": "Built for creators by magic and heart.",
+    "address": "0xf6401646676a87bbd0fa952fbbe8869516cc541c",
+    "symbol": "",
+    "url": "dex.lootex.io",
+    "imageUrl": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_icon.png",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://raw.githubusercontent.com/ArkaneNetwork/content-management/master/img/arkane.market/lootex_hero.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://img.arkane.network/img/arkane.market/lootex_banner.jpg"
+      }
+    ],
+    "type": "",
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "digital_art"
+    ]
+  },
+  {
+    "name": "MythArt",
+    "address": "0xa011ae350081cf76c981d47f8c10e5d695f7f42b",
+    "url": "https://myth.art",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b9ddffd5-9279-40b4-890f-ce5395ca1c3c",
+    "description": "Myth Art offers a huge collection of original NFT works for users to collect and a free limited-edition card every day. They are committed to enabling users to get their first NFT asset.",
+    "verified": "true",
+    "premium": "true",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/94ceb3c6-cc9c-4884-b4d9-e74094135ae5"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c6b465b1-38b9-46fe-b1b7-640d8a5f9090"
+      }
+    ],
+    "categories": [
+      "digital_art"
+    ]
+  },
+  {
+    "name": "The Cryptoz NFT Universe",
+    "description": "Cryptoz is a fresh take on gamified NFT collectibles built on scarcity, rarity and community. Mint rare booster NFTs based on a random lottery pull, each NFT is a uniquely printed token with deep trading card attributes. Earn the in-game CryptoZ eXPerience (CZXP) token for game actions and recruiting players in your affiliate network while always seeking the most scarce of cards!",
+    "address": "0x8a0C542bA7bBBab7cF3551fFcc546CdC5362d2a1",
+    "url": "https://bsc.cryptoz.cards/",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/464513d6-2be0-4e4c-8fdc-dff7a6f81012",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/bce38a9f-cab5-40be-9a5b-5f846145cab5"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/871eb3b8-cbb7-4395-982e-da6301217742"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "name": "Polychain Monsters",
+    "description": "Polychain Monsters are exquisitely animated digital collectibles created using blockchain technology. Each Polymon is backed by a truly unique NFT that is indistinguishable from any other NFT and can be unpacked with $PMON tokens, the native ERC-20 and BEP-20 tokens in the Polyverse. Each collectible is inimitable, authentic, and differs in rarity. The Polychain Monsters NFT collection can easily be integrated into modern games, art, and other blockchain-connected products.",
+    "address": "0x85F0e02cb992aa1F9F47112F815F519EF1A59E2D",
+    "url": "https://polychainmonsters.com/",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/25061590-3022-473a-94c9-ff0f3c3f635b",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/de72d8f3-7fdc-4c96-936a-8b98c6d9cac1"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4e5f0aa2-46cf-454c-a06c-61f3f3b4f7d8"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "collectibles",
+      "game_items"
+    ]
+  },
+  {
+    "address": " 0x9aef9c18c104607c0198ad84c8a85d8e4753969c",
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "collectibles"
+    ]
+  },
+  {
+    "name": "Noft Games",
+    "description": "Noft Games is the decentralized battle royale show. Here you get characters, put them on a battle, and trade. Fantastic creatures named Nofts have been closed on the spaceship and fight among themselves to survive. Every noft has a unique genome that determines its appearance and abilities. Different abilities have different influences on noft behavior and strategy in a fight. During the match, the noft gains experience, which ensures the growth of characteristics",
+    "address": "0x301817312598f8f48cb7d898d659ca4a4d457ad8",
+    "url": "https://noftgames.io/",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/561eb5bb-99df-413f-bb42-a64a6481444f",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34e5588c-ecf5-44f9-a80f-4ad5e9576da4"
+      },
+      {
+        "type": "banner",
+        "value": "https://img.arkane.network/img/arkane.market/noft_banner.png"
+      }
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "game_items"
+    ]
+  },
+  {
+    "name": "[SCAM]",
+    "address": "0x453af8955badff8ac449dc6f5847392d3d14bee6",
+    "symbol": "SCAM",
+    "categories": [
+      "scam"
+    ]
+  },
+  {
+    "name": "Gaimin x BNB AMAzing card pack",
+    "description": "The Gaimin x BNB AMAzing card pack is an exclusive bundle of the best previously minted Gaiming Gladiators NFT cards. This AMAzing pack combines the power of Gaimin platform with BNB!",
+    "address": "0xb25ab2cdf469454c889ef0386d98d328a370dbed",
+    "url": "https://www.gaimin.gg/",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": ""
+      },
+      {
+        "type": "image",
+        "value": ""
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
+  }
+]

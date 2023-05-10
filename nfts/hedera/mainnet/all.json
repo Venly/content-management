@@ -1,4 +1,28 @@
 [
+    {
+    "name": "Studio 100 | Magic Circle - Samson First Edition",
+    "url": "https://magiccircle.studio100.com/",
+    "address": "0.0.2105440",
+    "imageUrl": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c398a44e-0745-4707-9586-f1eee8420b7a/studio_100_mc_samson_achtergrond__mini2.jpg",
+    "description": "De Samson Collectie is de eerste collectie lidkaarten voor de Studio 100 Magic Circle.",
+    "media": [
+      {
+        "type": "image",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/239a51b7-57da-4890-934c-80014e1855ce/collection-image-1920.jpg"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/239a51b7-57da-4890-934c-80014e1855ce/collection-image-1920.jpg"
+      }
+
+    ],
+    "verified": "true",
+    "premium": "true",
+    "categories": [
+      "collectibles"
+    ]
+  }
+  ,
   {
     "name": "ASHFALL",
     "url": "https://liithos.com",
