@@ -251,5 +251,42 @@
     "categories": [
       "game_items"
     ]
+  },
+  {
+    "name": "Gaimin x SNACKLUB Race Ticket",
+    "description": "The Gaimin x SNACKLUB Race Ticket NFT grants a single entry to the exclusive, racing event on a GTAV, featuring the opportunity to win USDT prizes, combining the thrill of competition with the unique features of blockchain technology. More tickets - more attempts!",
+    "address": "0xa1c8c293b32b3fa736a76b6aaa0713eb978199a3",
+    "url": "https://www.gaimin.gg/",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.gg/SmYsmVS8x7"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/gaiminio"
+      },
+      {
+        "type": "instagram",
+        "value": "https://instagram.com/gaimin_io"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/officialgaimin"
+      },
+      {
+        "type": "banner",
+        "value": ""
+      },
+      {
+        "type": "image",
+        "value": ""
+      }
+    ],
+    "verified": "true",
+    "premium": "false",
+    "categories": [
+      "game_items"
+    ]
   }
 ]
