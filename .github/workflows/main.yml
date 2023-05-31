@@ -1,0 +1,14 @@
+name: Evmproxy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  sync-logos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Sync logos
+        uses: ./.github/actions/sync-logos

@@ -1,0 +1,13 @@
+name: Sync logos
+
+runs:
+  using: "composite"
+  steps:
+    - name: Get changed files in the logos folder
+      id: added-logos
+      uses: tj-actions/changed-files@v36
+      with:
+        files: connected-apps/logos/*
+    - name: echo changed files
+      shell: bash
+      run: echo "${{ steps.added-logos.outputs.files }}"
