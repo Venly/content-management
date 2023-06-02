@@ -1,0 +1,56 @@
+name: Sync Logos
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  sync-logos:
+    runs-on: self-hosted
+    permissions:
+      id-token: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v3
+      - name: Get changed files in the logos folder
+        id: added-logos
+        uses: tj-actions/changed-files@v36
+        with:
+          files: connected-apps/logos
+      - name: Upload to S3 QA
+        if: steps.added-logos.outputs.any_changed == 'true'
+        uses: ./.github/actions/s3upload
+        with:
+          aws_region: eu-west-1
+          aws_role: ${{ secrets.NONPRD_DEPLOY_ROLE }}
+          bucket_name: venly-public-qa
+          bucket_folder: production/clients/logos
+          files: ${{ steps.added-logos.outputs.added_files }}
+      - name: Upload to S3 Staging
+        if: steps.added-logos.outputs.any_changed == 'true'
+        uses: ./.github/actions/s3upload
+        with:
+          aws_region: eu-west-1
+          aws_role: ${{ secrets.NONPRD_DEPLOY_ROLE }}
+          bucket_name: venly-public-staging
+          bucket_folder: production/clients/logos
+          files: ${{ steps.added-logos.outputs.added_files }}
+      - name: Upload to S3 Sandbox
+        if: steps.added-logos.outputs.any_changed == 'true'
+        uses: ./.github/actions/s3upload
+        with:
+          aws_region: eu-west-1
+          aws_role: ${{ secrets.PRD_DEPLOY_ROLE }}
+          bucket_name: venly-public
+          bucket_folder: sandbox/clients/logos
+          files: ${{ steps.added-logos.outputs.added_files }}
+      - name: Upload to S3 Production
+        if: steps.added-logos.outputs.any_changed == 'true'
+        uses: ./.github/actions/s3upload
+        with:
+          aws_region: eu-west-1
+          aws_role: ${{ secrets.PRD_DEPLOY_ROLE }}
+          bucket_name: venly-public
+          bucket_folder: production/clients/logos
+          files: ${{ steps.added-logos.outputs.added_files }}
