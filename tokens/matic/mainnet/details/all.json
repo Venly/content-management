@@ -754,4 +754,6 @@
   "address" : "0x160d64f91ad7c4d9ac4ba2c44a0e77373ca69ebe",
   "decimals" : 18,
   "type" : "ERC20"
-} ]
+}, {
+  "address" : "0xb2678bb8c6fa1d6b0335a05730d7bd707ce8cf09",
+}]
