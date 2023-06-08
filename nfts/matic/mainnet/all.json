@@ -2174,5 +2174,9 @@
     "imageUrl": "https://storage.venly.io/venly.market/collections/PolygonMonkeys/logo.png",
     "url": "https://www.polygonmonkeys.com",
     "description": "Polygon Monkeys introduces iconic monkey art NFTs to Polygon, aiming for a community-focused project reflecting Web3 identity. Offering essential utilities, we'll collaborate with Polygon NFT & De-Fi partners. Join the 4445-piece drop & ride the Purple Wave!"
+  },
+  {
+    "address": "0xf2af9e14a0969f3fbd168b16fc583a441a893cc9",
+    "verified": "true"
   }
 ]
