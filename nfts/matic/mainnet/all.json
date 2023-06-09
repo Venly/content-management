@@ -2174,5 +2174,23 @@
     "imageUrl": "https://storage.venly.io/venly.market/collections/PolygonMonkeys/logo.png",
     "url": "https://www.polygonmonkeys.com",
     "description": "Polygon Monkeys introduces iconic monkey art NFTs to Polygon, aiming for a community-focused project reflecting Web3 identity. Offering essential utilities, we'll collaborate with Polygon NFT & De-Fi partners. Join the 4445-piece drop & ride the Purple Wave!"
+  },
+  {
+    "address": "0xf2af9e14a0969f3fbd168b16fc583a441a893cc9",
+    "verified": "true"
+  },
+  {
+    "address": "0xb2678bb8c6fa1d6b0335a05730d7bd707ce8cf09",
+    "name": "Avalon The Game",
+    "verified": "true",
+    "url": "https://linktr.ee/avalonthegame",
+    "description": "Avalon is an MMORPG built in Unreal 5 engine and on Polygon blockchain, Avalon also implemented WAX and Binance chains. Set in a fantasy medieval kingdom, players utilize their NFTs to explore a world of danger and mystery while competing for cryptocurrency and rare NFT rewards. The game is built around both active play-to-earn and passive own-to-earn economies. Inspired by the legend of King Arthur and the Island of Avalon, this game challenges every player to undertake a thrilling adventure in their quest to ultimately claim their very own seat among the Knights of the Round Table. Along the way, players earn rewards (i.e. NFTs, $AVL tokens) by purchasing, renting, or securing resources as well as collaborating with NFT landowners to acquire and build in-game real estate."
+  },
+  {
+    "address": "0x7802c717b3fc4E6A32d1aE3A31A6175Ebae9B164",
+    "name": "TriBuzz",
+    "verified": "true",
+    "url": "https://dew.gg/collection/tribuzz",
+    "description": "TriBuzz is the premiere service provider on Polygon with high quality merch to outfit our community with our favorite brand."
   }
 ]
