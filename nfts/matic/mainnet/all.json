@@ -2209,5 +2209,10 @@
     "address": "0xB0B2c2b790592409D0aa3eb1345Fcb9DB0f4DcD3",
     "name": "W3Guild House",
     "verified": "true"
+  },
+  {
+    "address": "0x0ab302a678c1cf97043c1d932968d09d3176e64c",
+    "name": "Space Skellies",
+    "verified": "true"
   }
 ]
