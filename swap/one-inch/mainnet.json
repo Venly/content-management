@@ -494,6 +494,30 @@
   {
     "from": {
       "secretType": "ETHEREUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ETHEREUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ETHEREUM",
       "symbol": "1INCH",
       "tokenAddress": "0x111111111117dc0aa78b770fa6a738034120c302"
     },
@@ -2613,6 +2637,213 @@
       "secretType": "MATIC",
       "symbol": "USDC",
       "tokenAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "DAI",
+      "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "LINK",
+      "tokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "LINK",
+      "tokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "DAI",
+      "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    }
+  },
+
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "DAI",
+      "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "DAI",
+      "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "DAI",
+      "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "LINK",
+      "tokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
+    }
+  },
+
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "DAI",
+      "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "LINK",
+      "tokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
+    }
+  },
+
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDT",
+      "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "DAI",
+      "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ARBITRUM",
+      "symbol": "USDC",
+      "tokenAddress": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+    },
+    "to": {
+      "secretType": "ARBITRUM",
+      "symbol": "LINK",
+      "tokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
     }
   }
 ]
