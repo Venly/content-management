@@ -7,7 +7,7 @@ on:
 
 jobs:
   sync-logos:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     permissions:
       id-token: write
       contents: read
@@ -26,7 +26,7 @@ jobs:
           aws_role: ${{ secrets.NONPRD_DEPLOY_ROLE }}
           bucket_name: venly-public-qa
           bucket_folder: production/clients/logos
-          files: ${{ steps.added-logos.outputs.added_files }}
+          files: ${{ steps.added-logos.outputs.all_changed_files }}
       - name: Upload to S3 Staging
         if: steps.added-logos.outputs.any_changed == 'true'
         uses: ./.github/actions/s3upload
@@ -35,7 +35,7 @@ jobs:
           aws_role: ${{ secrets.NONPRD_DEPLOY_ROLE }}
           bucket_name: venly-public-staging
           bucket_folder: production/clients/logos
-          files: ${{ steps.added-logos.outputs.added_files }}
+          files: ${{ steps.added-logos.outputs.all_changed_files }}
       - name: Upload to S3 Sandbox
         if: steps.added-logos.outputs.any_changed == 'true'
         uses: ./.github/actions/s3upload
@@ -44,7 +44,7 @@ jobs:
           aws_role: ${{ secrets.PRD_DEPLOY_ROLE }}
           bucket_name: venly-public
           bucket_folder: sandbox/clients/logos
-          files: ${{ steps.added-logos.outputs.added_files }}
+          files: ${{ steps.added-logos.outputs.all_changed_files }}
       - name: Upload to S3 Production
         if: steps.added-logos.outputs.any_changed == 'true'
         uses: ./.github/actions/s3upload
@@ -53,4 +53,4 @@ jobs:
           aws_role: ${{ secrets.PRD_DEPLOY_ROLE }}
           bucket_name: venly-public
           bucket_folder: production/clients/logos
-          files: ${{ steps.added-logos.outputs.added_files }}
+          files: ${{ steps.added-logos.outputs.all_changed_files }}
