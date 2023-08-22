@@ -2234,5 +2234,17 @@
     "address": "0x2acde72c7acff5537ee6bb09794eb1e778c81672",
     "name": "Cyber Syndicate VX",
     "verified": "true"
+  },
+    {
+    "address": "0x98a76d53f7eda2c0c865973fb66596dda8ad78e1",
+    "verified": "true"
+  },
+    {
+    "address": "0x1f0da6b7ed64b4674a9abe67f50e913f4a310736",
+    "verified": "true"
+  },
+    {
+    "address": "0x0cec50d4d77e5af637f1ca7d37b21b46baa31bcc",
+    "verified": "true"
   }
 ]
