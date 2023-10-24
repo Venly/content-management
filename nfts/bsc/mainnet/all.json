@@ -304,5 +304,35 @@
     "name": "Gaimin Wildfire Wonders Pack",
     "address": "0x0cFd26d3e2bde0b787a110cf8fe63c8f377D76d6",
     "verified": "true"
+  },
+  {
+    "name": "Gaimin Gladiators Riyadh Masters 2023",
+    "address": "0xfacfa95a4ec33aace4c55dd2754e19143aa2f6a6",
+    "verified": "true"
+  },
+  {
+    "name": "Gaimin Gladiators Bali Major Dota",
+    "address": "0x806399858663354f130f223de103478a000eb4df",
+    "verified": "true"
+  },
+  {
+    "name": "Gaimin Gladiators Berlin Major",
+    "address": "0x03ce0e468d4f4186f48e2a439458f31479997a4f",
+    "verified": "true"
+  },
+  {
+    "name": "Gaimin Gladiators Lima Major Winners",
+    "address": "0x98ac36c6b957d7474da227ab253316440ee6019d",
+    "verified": "true"
+  },
+  {
+    "name": "Gaimin Gladiators PUBG Mobile PMWI 2023",
+    "address": "0xfc930fc7d6af8012c1e682161c03e464ae0135ec",
+    "verified": "true"
+  },
+  {
+    "name": "Japanese Style Chess",
+    "address": "0x960f43fdbd8c1e4f17765b455cea5a6a7e3dcc07",
+    "verified": "true"
   }
 ]
