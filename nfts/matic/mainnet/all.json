@@ -2247,5 +2247,9 @@
     {
         "address": "0x0cec50d4d77e5af637f1ca7d37b21b46baa31bcc",
         "verified": "true"
+    },
+    {
+        "address": "0x87bc03e367051d8a1beddf98ca152358a687adf5",
+        "verified": "true"
     }
 ]
