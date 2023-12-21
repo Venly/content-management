@@ -7,7 +7,7 @@ on:
 
 jobs:
   sync-logos:
-    runs-on: self-hosted
+    runs-on: docker-runner
     permissions:
       id-token: write
       contents: read
