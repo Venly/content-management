@@ -571,24 +571,6 @@
       "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/10620732-ae76-48f9-af86-0be8573ba84c/cover_fr.jpg"
     },
     {
-      "name": "Original Mood Ring",
-      "publicIdentifier": "OriginalMoodRing",
-      "verified": true,
-      "description": "Original Gold Mood RIng, a rare, historic cultural icon with significant collector's value.",
-      "contracts": [
-        {
-          "address": "0x13783c734918f0fb149897238960edf2d3553e85",
-          "chain": "MATIC"
-        },
-        {
-          "address": "0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
-          "chain": "MATIC"
-        }
-      ],
-      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png",
-      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c4957b4e-c234-4c96-9415-28b67918ecc8/F9A0BEDA-0096-4894-98DA-D9031E4EF648.jpeg"
-    },
-    {
       "name": "Coorest",
       "publicIdentifier": "Coorest",
       "verified": true,
