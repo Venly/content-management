@@ -1340,10 +1340,7 @@
         ],
         "type": "",
         "verified": "false",
-        "premium": "false",
-        "categories": [
-            "scam"
-        ]
+        "premium": "false"
     },
     {
         "name": "Polygon NFT Minter",
@@ -1360,10 +1357,7 @@
         ],
         "type": "",
         "verified": "false",
-        "premium": "false",
-        "categories": [
-            "scam"
-        ]
+        "premium": "false"
     },
     {
         "name": "Polygon NFT Minter",
@@ -1380,10 +1374,7 @@
         ],
         "type": "",
         "verified": "false",
-        "premium": "false",
-        "categories": [
-            "scam"
-        ]
+        "premium": "false"
     },
     {
         "name": "Polygon NFT Minter",
@@ -1400,10 +1391,7 @@
         ],
         "type": "",
         "verified": "false",
-        "premium": "false",
-        "categories": [
-            "scam"
-        ]
+        "premium": "false"
     },
     {
         "name": "TaaviLehtonenArt",
@@ -1741,226 +1729,6 @@
         ]
     },
     {
-        "address": "0x8c53de6a889cf0a3151168c3e84263c982d09a2f",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0x55749566d0d7ff869138a0005ec73166e2e785d2",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0xc539d6c8a5441f43206f0b77a0b4a0c4d6f07ab0",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0x36a8377e2bb3ec7d6b0f1675e243e542eb6a4764",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0xfaf99bfa12ee5189648e5650170f12450801a056",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0xf64c73664463fdb8211777b635f6349588f1848c",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0x2eb320d14cc4a95fbbb156eb3e2172259570bdb7",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0xe88a01752657d5631456856702beba0b7aecabc1",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0x79393a9318f83d75d29ea7123acc52f4a9d2404a",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0xe0208d7591ee87db9e0a713ae7591a6348da04b6",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0x2aab4f9a77145c64de61a0a250d66abaac0a4a25",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0xf9d38bfb522ab75edb4948be62d2d5c1eb240bbc",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0x9b269daf97c73213ea0f5e8a3879511dc4b0f145",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x9b70875506c05fdd6318eaa71eb4f888b01e9881",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x3cbc5cf352e261cc72927605413c2f3929980fd2",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x0d72A931844155752F810B97EC85ab0617eD4c92",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x0afa642e044b8287598c78779f1883f7d2c1968e",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x01b8214c3523caf2bf1f4beaaadbe920cbfa9693",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x043311e8505b9e0777cd2a4ee26eab8d5a250fbc",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x058731ced493e0dd9bffb01c9dd3c24e4ddc94d4",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x0725c29002ea94d44ace4dad8414ebc9b0dfd5e3",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x0f0807e59659f5b62571f412db5a584d7f2251a0",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x1332039807e77db5207f434492a0066c56c9f7eb",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x2426786d539806a61235389117ab20abb2569557",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x29e27acecf4b3518f8a7a81ef75e23e14bdbb27b",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x32c422e1c17c8a7b8714ca2e09909434ab578784",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0xe621bc51df7e9ef9a3fcc6f8634a9983b6cf655e",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0xe84b8cafe130105293321bff7b80fdb29d3ee5e6",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0xa29cb0ebfea6461bb6a439b502776d584f13c40e",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x42cdf94b060589362e75180d595c24ba771e28b1",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
         "name": "Gaimin Dash Cup",
         "symbol": "DASH",
         "url": "https://www.gaimin.gg/",
@@ -2075,38 +1843,6 @@
         "premium": "false",
         "categories": [
             "game_items"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x13271be809f3826b8f1f4ffb008db8b4896bdbeb",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x220a95bde3ffa364050ffe07b436869c08787ec8",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0x0bd48bcddeed6be5df053640572f47124a28ba5d",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
-        ]
-    },
-    {
-        "name": "[SCAM]",
-        "address": "0xb9419e3a88435b63e5dee0f6a120cdbdf6f8c35e",
-        "symbol": "SCAM",
-        "categories": [
-            "scam"
         ]
     },
     {

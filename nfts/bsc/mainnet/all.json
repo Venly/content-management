@@ -208,14 +208,6 @@
     ]
   },
   {
-    "name": "[SCAM]",
-    "address": "0x453af8955badff8ac449dc6f5847392d3d14bee6",
-    "symbol": "SCAM",
-    "categories": [
-      "scam"
-    ]
-  },
-  {
     "name": "Gaimin x BNB AMAzing card pack",
     "description": "The Gaimin x BNB AMAzing card pack is an exclusive bundle of the best previously minted Gaiming Gladiators NFT cards. This AMAzing pack combines the power of Gaimin platform with BNB!",
     "address": "0xb25ab2cdf469454c889ef0386d98d328a370dbed",
@@ -287,12 +279,6 @@
     "premium": "false",
     "categories": [
       "game_items"
-    ]
-  },
-  {
-    "address": "0xb3a40b9210f0b830381b024b524a12f0fae52f64",
-    "categories": [
-      "scam"
     ]
   },
   {
