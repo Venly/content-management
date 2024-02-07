@@ -1947,5 +1947,17 @@
     {
         "address": "0x87bc03e367051d8a1beddf98ca152358a687adf5",
         "verified": "true"
+    },
+    {
+        "address": "0x58349f2dee028c350a932e246890e8b009e71ee4",
+        "categories": [
+            "scam"
+        ]
+    },
+    {
+        "address": "0x51605a868b59f4beda52c32973fa6a5b687990a0",
+        "categories": [
+            "scam"
+        ]
     }
 ]
