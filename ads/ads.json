@@ -2,17 +2,9 @@
   {
     "icon": "venly.png",
     "name": "Venly",
-    "description": "Join our NFT community and stay up to date on the latest NFT drops",
-    "ctaText": "Join our Discord",
-    "ctaLink": "https://venly.io/discord",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC","BSC","AVAC","HEDERA"]
-  },
-   {
-    "icon": "venly.png",
-    "name": "Venly",
-    "description": "Expert talks: Get the latest insights from Blockchain expert",
-    "ctaText": "Follow our podcast",
-    "ctaLink": "https://open.spotify.com/show/3gL1B42niPbJ2aYdvGHh7z?si=4c413c32fc5548d3",
-    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC","BSC","AVAC","HEDERA"]
+    "description": "Get our mobile app for self recovery and tx signing",
+    "ctaText": "Download",
+    "ctaLink": "https://apps.apple.com/be/app/venly/id1670915956",
+    "viewIn": ["ETHEREUM", "VECHAIN","BITCOIN","LITECOIN","GOCHAIN","TRON","AETERNITY","NEO","MATIC","BSC","AVAC","HEDERA","IMX","ARBITRUM"]
   }
 ]
