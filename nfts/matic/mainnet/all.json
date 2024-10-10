@@ -1148,11 +1148,11 @@
         "address": "0x7f8d8f602c37999385f370b11c6075d53ae94f52",
         "symbol": "",
         "url": "https://battleracers.io",
-        "imageUrl": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-logo.jpeg?raw=true",
+        "imageUrl": "https://github.com/Venly/content-management/blob/master/img/arkane.market/BattleRacers-logo.jpeg?raw=true",
         "media": [
             {
                 "type": "image",
-                "value": "https://github.com/ArkaneNetwork/content-management/blob/master/img/arkane.market/BattleRacers-banner.jpeg?raw=true"
+                "value": "https://github.com/Venly/content-management/blob/master/img/arkane.market/BattleRacers-banner.jpeg?raw=true"
             },
             {
                 "type": "banner",
