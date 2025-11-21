@@ -739,6 +739,18 @@
     },
     "to": {
       "secretType": "ETHEREUM",
+      "symbol": "USDS",
+      "tokenAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ETHEREUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
       "symbol": "WBTC",
       "tokenAddress": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
     }
@@ -921,6 +933,18 @@
       "secretType": "ETHEREUM",
       "symbol": "USDT",
       "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+    }
+  },
+  {
+    "from": {
+      "secretType": "ETHEREUM",
+      "symbol": "USDS",
+      "tokenAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+    },
+    "to": {
+      "secretType": "ETHEREUM",
+      "symbol": "ETH",
+      "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
     }
   },
   {
