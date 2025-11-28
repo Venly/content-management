@@ -1,0 +1,35 @@
+name: Sync main and master branches
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  sync-branches:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.VENLY_GITHUB_ACTIONS_TOKEN }}
+      - name: Sync branches
+        run: |
+          git fetch origin main master
+          MAIN_SHA=$(git rev-parse origin/main)
+          MASTER_SHA=$(git rev-parse origin/master)
+
+          if [ "$MAIN_SHA" = "$MASTER_SHA" ]; then
+            echo "Branches are already in sync, nothing to do"
+            exit 0
+          fi
+
+          if [ "${{ github.ref_name }}" = "main" ]; then
+            git push origin HEAD:master --force
+          else
+            git push origin HEAD:main --force
+          fi
