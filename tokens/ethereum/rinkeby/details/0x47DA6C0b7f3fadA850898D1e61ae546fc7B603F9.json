@@ -1,0 +1,7 @@
+{
+  "name": "RAMP-USDC",
+  "symbol": "R-USDC",
+  "address": "0x47DA6C0b7f3fadA850898D1e61ae546fc7B603F9",
+  "decimals": 6,
+  "type": "ERC20"
+}

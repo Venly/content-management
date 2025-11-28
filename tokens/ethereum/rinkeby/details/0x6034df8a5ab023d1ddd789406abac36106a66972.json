@@ -1,1 +1,7 @@
-{"name":"FIDA","symbol":"FIDA","address":"0x6034df8a5ab023d1ddd789406abac36106a66972","decimals":18,"type":"ERC20"}
+{
+  "name": "FIDA",
+  "symbol": "FIDA",
+  "address": "0x6034df8a5ab023d1ddd789406abac36106a66972",
+  "decimals": 18,
+  "type": "ERC20"
+}

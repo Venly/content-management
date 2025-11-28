@@ -2,46 +2,46 @@
   "banners": [
     {
       "category": "collectibles",
-      "tagline": "Polychain Monsters: discover the cutest NFT monsters",
-      "banner": "https://img.arkane.network/img/arkane.market/polly_ad.png",
-      "style": "primary",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
+      "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Collect a monster",
-        "value": "collection/PolychainMonsters"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       } 
     },
     {
       "category": "game_items",
-      "tagline": "CARGADOR, get ready for the exclusive drop.",
-      "banner": "https://img.arkane.network/img/arkane.market/daytona.png",
-      "style": "primary",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
+      "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Browse collection",
-        "value": "collection/TradeRaceManager"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       }  
     },
     {
       "category": "digital_art",
-      "tagline": "Puzzle together an exclusive artwork of Musketon",
-      "banner": "https://img.arkane.network/marketing/PIAB/banner.png",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
       "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Collect piece by piece",
-        "value": "collection/Puzzle in a Bag"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       }  
     },
-   {
+    {
       "category": "all",
-      "tagline": "Ready! Set! Join the Crypto Fight!",
-      "banner": "https://img.arkane.network/img/arkane.market/CFC.png",
+      "tagline": "VENS, no risks, all rewards. Discover our market token and earn USDC.",
+      "banner": "https://img.venly.io/market/promo/img/vens01.png",
       "style": "dark",
       "cta": {
         "type": "redirect",
-        "text": "Browse collection",
-        "value": "collection/CryptoFightClub"
+        "text": "See The Leaderboard.",
+        "value": "leaderboard"
       }
     }
   ]

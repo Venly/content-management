@@ -1,1 +1,7 @@
-{"name":"SAND","symbol":"SAND","address":"0xcc933a862fc15379e441f2a16cb943d385a4695f","decimals":18,"type":"ERC20"}
+{
+  "name": "SAND",
+  "symbol": "SAND",
+  "address": "0xcc933a862fc15379e441f2a16cb943d385a4695f",
+  "decimals": 18,
+  "type": "ERC20"
+}

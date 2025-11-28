@@ -1,5 +1,376 @@
 {
   "collections": [
+	  {
+      "name": "Persian Carpet",
+      "publicIdentifier": "persian-carpet",
+      "verified": true,
+      "description": "The art of carpet weaving is one of the oldest and most original arts among Iranians. As the oldest carpet in the world, it is considered an Iranian work and belongs to the 500 BC period.",
+      "contracts": [
+        {
+          "address": "0x63ea5482937ec4494bf354ee8a0cdafaba566357",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/def6da75-2c8f-49a1-91ac-617a814772af/00010-ABI-min-1-.jpg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/94539b67-4478-4f61-be10-693a80b5b4a8/61bb3c4c4b484e85acad9d2a8d92e5e0.jpg",
+     "socials": [
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/farshonline77"
+        }
+    ]
+  },
+ {
+      "name": "0xUniverse",
+      "publicIdentifier": "0xUniverse",
+      "verified": true,
+      "description": "0xUniverse is an open economy game where players can build spaceships, explore the galaxy, and colonize planets. The discoverers will extract resources and carry out research that allows them to conquer the remotest corners of the galaxy. In addition, players can jointly contribute to the story and unravel the mystery of the universe",
+      "contracts": [
+        {
+          "address": "0xf556faf23fc2feefa33ee6db2d1ee4c70e534513",
+          "chain": "MATIC"
+        }
+      ],
+       "socials": [
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/ZbcXpZcxaA"
+        },
+       {
+          "type": "twitter",
+          "value": "https://twitter.com/0xUniverse"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/0xuniverse.png",
+      "logo": "https://uc2cc2915819063c6b3fb4130fc9.previews.dropboxusercontent.com/p/thumb/ABhNgyO9rqul3M4eUVgrZa8a_hzxNxSzDMpb8ar43kRn3vLGxGvWSr8lUbejw2npZoXBhh5rUPj0UEBElxSSAzl_4znQ65zcozUk6n9-4x0rN5BK-pDRVSUwg3MwolMjxjrX9zXX0yoE6NMNZKcNTPgqq3U601QptMdAxNcqMGm-CL6XH--IBN87gjfMwx8U5KnVC987PBxMQs2l8UMPfzSwDNQV0CHiZu5Bt3acte-xjXISdpVi_23vfS5I4itIV-xxqi9C7m4Y5WGU5V5mBcDI-Q9D7EzmwWb7vEgAuTtjavWvYwMBLBJEklhJraUQDy0Rl9xUr_Rsg57sY5e7i84WFV6uWO6o1y5-E9FvInMsiVfFSGiAwkzYMyTQ-No4EK8/p.png"
+  },
+   {
+      "name": "Pigletz",
+      "publicIdentifier": "Pigletz",
+      "verified": true,
+      "description": "Pigletz is a collectible game with DeFi elements. It is built around the main character - the Piglet, an NFT having a utility as a piggy bank where users can deposit crypto tokens and earn PiFi. Pigletz are items. A contemporary version of a piggy bank. An item that can exist in the Metaverse. And also can exist in the real world. But not in both. Each Piglet starts its life randomly minted and at level 1. Being at level 1 means that only some of its traits are revealed. In order to progress with levels and reveal more traits the owner of the Piglet needs to wait and collect PiFi (similar as eXperience Points). There are options to speed up the collection - for example by completing tasks and activating boosters. Each Piglet has its own wallet - a smart contract that is owned by the Piglet itself. Breaking is the final step in the life of a Piglet. By breaking it the owner is actually killing it, losing its NFT/collectable value, but gaining all the assets within it. One of its unique features is the option to materialize the Piglet. In order to do that the owner stakes the piglet in a specific contract and obtains a real 3D printed Pigletz figure. While being materialized the NFT is locked and cannot be transferred. The only way to unlock it is to break the Pigletz figure (in the real world) and to use the codes inside of it to unlock it. At the end the game is all about the dilemma - which is more valuable - the Piglet as an NFT or the tokens inside of it.",
+      "contracts": [
+        {
+          "address": "0xbF84076b06a100d38ce562733098eDc0eDa4D7f7",
+          "chain": "BSC"
+        }
+      ],
+       "socials": [
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/PigletzNFT/"
+        },
+       {
+          "type": "instagram",
+          "value": "https://www.instagram.com/PigletzNFT/"
+        },
+	{
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UC8VO0GEQPZW0ONdqmhY3jCg"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/9c24241b-97db-4531-9e52-e2885cd8cfd7/social-banner.jpg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/34ba89bd-1fa3-4d28-ab7d-9f73a05d47f6/male.png"
+  },
+   {
+      "name": "Lunar Crystals",
+      "publicIdentifier": "lunar-crystals",
+      "verified": true,
+      "description": "Lunar Crystals: Multi-chain NFTs that unlock powers for holders. The collection consists of 4,444 first-addition Crystals. Not only are these 4K animated crystals among the most stunning art in the multiverse, the Genesis Collection also has a captivating storyline, LNR staking rewards, and access to exclusive abilities within the Lunar Ecosystem. While the Phase 1 launch will take place on BSC, the Phase 2 Genesis Launch will take place on Ethereum. Soon, the release of our FluidNFT™ technology will enable seamless movement of Lunar Crystals across any supported blockchain.",
+      "contracts": [
+        {
+          "address": "0x6416c6e480Ad6db98Ef225EFb4BD70a1b8a4b5Eb",
+          "chain": "BSC"
+        }
+      ],
+       "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/lnrdefi"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/lnrdefi/"
+        },
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/lnrdefi"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/lnrDefi"
+        }
+        ,
+        {
+          "type": "discord",
+          "value": "https://discord.gg/lnr"
+        }
+        ,
+        {
+          "type": "reddit",
+          "value": "https://www.reddit.com/r/lnrDefi/"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44a5d1d3-d601-4541-854f-89ed16f0629c/rsz_lunarcollectionbannerbinancenftt.jpeg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/7894bb2d-6f07-4fbb-9b94-b279e6f4b2d3/Lunar.ProfileImage.BinanceNFT.gif"
+  },
+   {
+      "name": "Ember Sword",
+      "publicIdentifier": "ember-sword",
+      "verified": true,
+      "description": "Ember Sword is a Platform-Agnostic Free-to-Play MMORPG with a player-driven economy, a classless combat system, and scarce, tradable cosmetic collectibles and land. Ember Sword has the fast-paced combat of aRPGs, combined with the isometric view and skill-based abilities of MOBAs, set in a persistent MMORPG fantasy universe.",
+      "contracts": [
+        {
+          "address": "0xE7e16f2Da731265778f87cB8D7850E31b84b7b86",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/embersword_banner.png",
+      "logo": "https://img.arkane.network/marketing/EmberSword/ember_logo.png"
+  },
+  {
+      "name": "Gaimin Alpha pack",
+      "publicIdentifier": "gaimin-alpha-pack",
+      "verified": true,
+      "description": "First Gaimcraft NFT pack",
+      "contracts": [
+        {
+          "address": "0x868676dcaf5495c31955466561b8a3c786f87dba",
+          "chain": "MATIC"
+        }
+      ],
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GaiminIo"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/gaimin_io/"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCp9Y_FMB1p4Nqjct0Ro9f3g"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/officialgaimin"
+        }
+        ,
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/jemqJ9PkCJ"
+        }
+        ,
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/Gaimin.io/"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/450b411c-49ca-4ca2-9a56-64cf8037ed6d/Banner.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/ba89cd9e-779a-4b2b-9d6c-d6013bf83330/Logo-Image.png"
+  },
+    {
+      "name": "Alphaverse / MetaCoaster Land ",
+      "publicIdentifier": "alphaverse-metacoaster-land",
+      "verified": true,
+      "description": "MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
+      "contracts": [
+        {
+          "address": "0xb2a671a72C414ee08050a4DB574588D209a9d20e",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x787980cD9f8aECA839A6A2802aA21E3a659B73Cc",
+          "chain": "BSC"
+        },
+        {
+          "address": "0x9Bb91BB28aa7Ec33092fde71eb94CA51da7870D6",
+          "chain": "ETHEREUM"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
+     "socials": []
+  },
+{
+      "name": "Alphaverse / MetaCoaster Assets ",
+      "publicIdentifier": "alphaverse-metacoaster-assets",
+      "verified": true,
+      "description": "MetaCoaster is an amusement park simulation game on the blockchain. Collect Rollercoasters, Flat Rides and Restaurants to dream and create your own amusement park. Enjoy the ride!",
+      "contracts": [
+        {
+          "address": "0x22580B98C3FE034bc7e556c8f84EfB8f51102342",
+          "chain": "MATIC"
+        },
+        {
+          "address": "0x9704cE43c4371159403A3C2A8E7A5467B4795aB7",
+          "chain": "BSC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/44944fa8-5857-4f0b-b6ef-8b61d1061072/Carte-map-DEF.jpeg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/fd6aa51f-61bf-4a6e-b173-68b8ee00df1f/logo-MC-diamond.png",
+     "socials": []
+  },
+	  {
+      "name": "Ellysium Genesis",
+      "publicIdentifier": "ellysium-genesis",
+      "verified": true,
+      "description": "Electric is the future for performance & the planet. Ellysium Racing is paving an untraditional path in a legacy sport, leveraging technology to push the boundaries of performance & sustainability in the real & digital worlds. These 22 Genesis NFTs are the ultimate access to be a part of our journey.",
+      "contracts": [
+        {
+          "address": "0xF04844cAd276F0e42839a1eF5F9d396d7d9B8e2F",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/cf6ae9ba-90b5-404f-ae30-96e0109e1206/Ellysium-Banner.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/f367811f-24fc-47ad-b2ca-99e79f30c69c/Ellysium-Circle-logo.png",
+     "socials": [
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/in/ellis-spiezia-86b353225/"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/Ellysium_Racing"
+        },
+        {
+          "type": "instagram",
+          "value": "https://instagram.com/ellysium_racing"
+        }
+    ]
+  },
+      {
+      "name": "Sapien Medicine  -  The Tower by Energetic Alchemy",
+      "publicIdentifier": "sapien-medicine-tower-energetic-alchemy",
+      "verified": true,
+      "description": "Energetic Alchemy represents a fusion of music within the EDM blanket of music. The music may edge into other genres, romance with it and draw it into the process to create an evolving wall of sound. The songs are designed to carry you on an immersive journey within the mental and energetic soundscapes. Immensely satisfying and addictive. Give us a listen and let us take you on a journey into a whole new magical music realm.",
+      "contracts": [
+        {
+          "address": "0xC0A63a54e1A78D8c121d6636229271B34E60ecb2",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/4f4fa0cd-b352-4edf-8281-0aef0209ed68/alchemy-Resize-02.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d540cb08-0e3d-4cb0-ba67-54c2e29adfb4/alchemy-Resize-01.png",
+	   "socials": [
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/c/sapienmedicine"
+        }
+		]
+  },
+    {
+      "name": "Gaimin Promotion-2",
+      "publicIdentifier": "gaimin-promotion-2",
+      "verified": true,
+      "description": "Welcome to the home of Gaimin Promotion-2 on Venly Market. Discover the best items in this collection.",
+      "contracts": [
+        {
+          "address": "0x061c1D70eEAd7E9d4407C025928d76b7b6fa4046",
+          "chain": "MATIC"
+        }
+      ],
+      "socials": [
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/GaiminIo"
+        },
+        {
+          "type": "instagram",
+          "value": "https://www.instagram.com/gaimin_io/"
+        },
+        {
+          "type": "youtube",
+          "value": "https://www.youtube.com/channel/UCp9Y_FMB1p4Nqjct0Ro9f3g"
+        },
+        {
+          "type": "telegram",
+          "value": "https://t.me/officialgaimin"
+        }
+        ,
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/jemqJ9PkCJ"
+        }
+        ,
+        {
+          "type": "facebook",
+          "value": "https://www.facebook.com/Gaimin.io/"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/d0c1dfc0-50eb-464c-ad6e-da70aab82dcc/Socail-Medai-Cover-Designs-LinkedIn-03-1-.jpg",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/975bb21e-b818-4f51-9384-45aa7a15c878/Sword-of-Fearless-Victory.png"
+  },
+    {
+      "name": "Big Break",
+      "publicIdentifier": "big-break",
+      "verified": true,
+      "description": "Bandsintown is all about supporting up-and-coming artists with programs like Big Break, which has helped introduce live music fans to acts like Cautious Clay, YUNGBLUD, and Peach Pit. For the latest Big Break series, they're pairing performers who've been climbing the Bandsintown charts with rising visual artists to create one-of-a-kind NFT laminates distributed to fans who tune in to their free livestreams.",
+      "contracts": [
+        {
+          "address": "0xfbA1F4708ef20b9F58aD797Bc8fe4e7651FFc95e",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/bandsintown-banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/bandsintown-logo.png"
+      
+  },
+  {
+      "name": "MetaRing",
+      "publicIdentifier": "metaring",
+      "verified": true,
+      "description": "Collection that unlocks unique wearables and digital collectibles within multiple virtual worlds acting as an access pass to exclusive drops, locations, events, games, and items",
+      "contracts": [
+        {
+          "address": "0xba8c3db050dd99cbe7f980f3d8f48084c6dcc20b",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.venly.io/upload/metaring/metaring_banner.png",
+      "logo": "https://content.arkane.network/marketing/venly/contract.png",
+      "socials": [
+        {
+          "type": "discord",
+          "value": "https://venly.io/discord"
+        },
+        {
+          "type": "twitter",
+          "value": "https://twitter.com/metaringone"
+        }
+      ]
+    },
+    {
+      "name": "YDB Drunken Monk Series",
+      "publicIdentifier": "Dynisty",
+      "verified": true,
+      "description": "The Shaolin monk's drunken style inspires this collection . This style was personified by the lyrics of Old Dirty Bastard with an unorthodox flow of lethal lyrics and deadly punchlines. This style has been immortalized through his son Young Dirty Bastard. This collection features rare hand-drawn pieces by Marc Remolien and Ruckusart. It includes unreleased tracks behind the scene videos and chances to win exclusive Ydb Merch and memorabilia and one on one live conversations with Ydb.",
+      "contracts": [
+        {
+          "address": "0x75c3da7bc9be4d85e0ac663239b9d2d6a38eb3da",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://img.arkane.network/img/arkane.market/YDB-Banner.png",
+      "logo": "https://img.arkane.network/img/arkane.market/YDB-Logo.png"
+      
+    },
+    {
+      "name": "The Bachelor Weekend",
+      "publicIdentifier": "the-bachelor-weekend-nft",
+      "verified": true,
+      "description": "The Bachelor Weekend NFT collection is the first of its kind. It is an NFT sale where 50% of the raised capital goes into Yan's bachelor weekend, and the other 50% will be invested in high risk crypto and NFT projects. NFTs from this collection will give you partial ownership of that investment fund.",
+      "contracts": [
+        {
+          "address": "0x8d590dedc83fb2c2ad34345debf8c094f64f0891",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/04265770-f1f6-401a-aa5c-dad0a2f22c4d/NFT-YAN-BANNER.png",
+      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/5b2ae00c-f5b0-4c32-8141-607ce6c83ef0/NFT-YAN-PF.png"
+      
+    },
     {
       "name": "MaisonDAO",
       "publicIdentifier": "MaisonDAO",
@@ -200,28 +571,10 @@
       "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/10620732-ae76-48f9-af86-0be8573ba84c/cover_fr.jpg"
     },
     {
-      "name": "Original Mood Ring",
-      "publicIdentifier": "OriginalMoodRing",
-      "verified": true,
-      "description": "Original Gold Mood RIng, a rare, historic cultural icon with significant collector's value.",
-      "contracts": [
-        {
-          "address": "0x13783c734918f0fb149897238960edf2d3553e85",
-          "chain": "MATIC"
-        },
-        {
-          "address": "0x9cc3460da5b704f298d61e0d2f21eda6e694b0f1",
-          "chain": "MATIC"
-        }
-      ],
-      "banner": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/b0a67cb6-4175-41fc-84da-39636bd2ba83/FD112EB8-A5CB-4CCC-A28E-E27B38907312.png",
-      "logo": "https://storage.googleapis.com/tally-response-assets/Bkjl4P/c4957b4e-c234-4c96-9415-28b67918ecc8/F9A0BEDA-0096-4894-98DA-D9031E4EF648.jpeg"
-    },
-    {
       "name": "Coorest",
       "publicIdentifier": "Coorest",
       "verified": true,
-      "description": "Coorest is a blockchain-based solution for creating a decentralized carbon credit exchange and an easy way to invest in sustainable 'yield-bearing' assets: NFT(rees) backed by real planted trees and tokenizing these assets",
+      "description": "Coorest is a complete ecosystem of secure and reliable solutions. Coorest’s NFTrees, $CCO2 tokens and DApp provide easy and transparent carbon compensation to businesses and individuals. Coorest’s ultimate goal is to build a future that is both sustainable and prosperous for everyone.",
       "contracts": [
         {
           "address": "0xe83da54c9626f83c4073812c944657f1c1bbec14",
@@ -621,9 +974,14 @@
         {
           "address": "0xa5f1ea7df861952863df2e8d1312f7305dabf215",
           "chain": "MATIC"
+        },
+	      
+        {
+          "address": "0x67f4732266c7300cca593c814d46bee72e40659f",
+          "chain": "MATIC"
         }
       ],
-      "banner": "https://img.arkane.network/img/arkane.market/zed_banner.png",
+      "banner": "https://lh3.googleusercontent.com/KYfdBRF071FyU4kOHDahIYvCrcXbQACgaocHry_IsVcZkjg1MRH5l2KZqp3p8-nDdvi74FBrcK-6iT97M8fJpMMMJKh5ke7SHwof8Q=h600",
       "logo": "https://img.arkane.network/img/arkane.market/zed_logo.png",
       "socials": [
         {
@@ -1080,6 +1438,34 @@
       "banner": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Atari-banner.png",
       "logo": "https://storage.venly.io/applications/a2d19cdb-3092-45ec-b715-aa8430993d8b/Logo-Atari-AlphaVerse-square.png",
       "socials": []
+    },
+    {
+      "name": "Giraffe Mo",
+      "publicIdentifier": "GiraffeMo",
+      "verified": true,
+      "description": "Adikteev is a tech company evolving in the gaming industry. \n\nAs a tribute to all things gaming, the Adikteev designers created an NFT art collection based on the cult classics that have driven pop culture over the past decades. \n\nFollow Mo, Asikteev’s giraffe hero as it travels across 20 different worlds and try to recognize the different universes he was getting through. \n\nOur 120 NFT collection aims to mark the start of a brand new era for the gaming industry with the boost of blockchain based initiatives in 2021 leading to the birth of “Play to Earn” Games.",
+      "contracts": [
+        {
+          "address": "0x935fa90b2558efc8c76c1d187603cac84aaec9dd",
+          "chain": "MATIC"
+        }
+      ],
+      "banner": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-banner.jpg",
+      "logo": "https://dsp-creatives.s3.amazonaws.com/NFT_Venly/GiraffeClub/collection_assets/collection-icon.gif",
+      "socials": [
+        {
+          "type": "website",
+          "value": "https://www.adikteev.com/"
+        },
+        {
+          "type": "discord",
+          "value": "https://discord.com/invite/zwX3We2Ewx"
+        },
+        {
+          "type": "linkedin",
+          "value": "https://www.linkedin.com/company/adikteev\n"
+        }
+      ]
     }
   ]
 }

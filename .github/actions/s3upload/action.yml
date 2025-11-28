@@ -1,0 +1,47 @@
+name: "S3 File Upload"
+description: "Uploaded file or files to s3 bucket"
+
+inputs:
+  aws_region:
+    description: name of the aws region to deploy to
+    required: true
+  aws_role:
+    description: name of the role to use
+    required: true
+  bucket_name:
+    description: name of the s3 bucket
+    required: true
+  bucket_folder:
+    description: name of the s3 bucket folder
+    required: false
+  files:
+    description: files to upload to s3 bucket
+    required: true
+
+runs:
+  using: "composite"
+  steps:
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v2
+      with:
+        aws-region: ${{ inputs.aws_region }}
+        role-to-assume: ${{ inputs.aws_role }}
+        role-session-name: OIDCSession
+        mask-aws-account-id: false
+    - name: Check if S3 bucket exists
+      shell: bash
+      run: |
+        # Use AWS CLI to check if S3 bucket exists
+        if aws s3api head-bucket --bucket ${{ inputs.bucket_name }} 2>/dev/null; then
+          echo "Bucket exists"
+          echo "bucket_exists=true" >> $GITHUB_ENV
+          echo "Uploading File(s)"
+          for f in ${{ inputs.files }}; do
+            echo "Following file will be uploaded to ${{ inputs.bucket_name }} $f"
+            FILE=$(basename $f)
+            aws s3 cp --content-type 'charset=UTF-8' $f s3://${{ inputs.bucket_name }}/${{ inputs.bucket_folder }}/$FILE --region ${{ inputs.aws_region }}
+          done
+        else
+          echo "Bucket does not exist, needs to be created first"
+          echo "bucket_exists=false" >> $GITHUB_ENV
+        fi

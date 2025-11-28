@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "address": "0x6976Af8b25C97A090769Fa97ca9359c891353f61",
+    "name": "Sanshi",
+    "verified": "true",
+    "imageUrl": "https://storage.venly.io/venly.market/collections/Sanshi/logo.png",
+    "url": "https://www.sanshinft.com",
+    "description": "Sanshi NFT collection is your key to the decentralization world being built by Sanin Inu",
+    "media": [
+      {
+        "type": "discord",
+        "value": "https://discord.com/invite/sanshinft"
+      },
+      {
+        "type": "twitter",
+        "value": "https://twitter.com/SanshiNFT"
+      },
+      {
+        "type": "telegram",
+        "value": "https://t.me/SANININU"
+      },
+      {
+        "type": "medium",
+        "value": " https://sanininu.medium.com/sanin-an-intro-for-new-members-646b48afaca0"
+      },
+      {
+        "type": "banner",
+        "value": "https://storage.venly.io/venly.market/collections/Sanshi/banner.jpeg"
+      }
+    ]
+  }
+]
