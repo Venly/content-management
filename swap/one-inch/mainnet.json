@@ -1,5 +1,5 @@
 [
-   {
+  {
     "from": {
       "secretType": "ETHEREUM",
       "symbol": "USDC",
@@ -11,7 +11,7 @@
       "tokenAddress": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8"
     }
   },
-    {
+  {
     "from": {
       "secretType": "ETHEREUM",
       "symbol": "PUBLX",
@@ -35,7 +35,7 @@
       "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
     }
   },
-   {
+  {
     "from": {
       "secretType": "ETHEREUM",
       "symbol": "ETH",
@@ -1754,6 +1754,30 @@
   {
     "from": {
       "secretType": "MATIC",
+      "symbol": "USDC",
+      "tokenAddress": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "USDT",
+      "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+    }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
+      "symbol": "USDT",
+      "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+    },
+    "to": {
+      "secretType": "MATIC",
+      "symbol": "USDC",
+      "tokenAddress": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359"
+    }
+  },
+  {
+    "from": {
+      "secretType": "MATIC",
       "symbol": "WETH",
       "tokenAddress": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
     },
@@ -2783,7 +2807,6 @@
       "tokenAddress": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
     }
   },
-
   {
     "from": {
       "secretType": "ARBITRUM",
@@ -2820,7 +2843,6 @@
       "tokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
     }
   },
-
   {
     "from": {
       "secretType": "ARBITRUM",
@@ -2857,7 +2879,6 @@
       "tokenAddress": "0xf97f4df75117a78c1A5a0DBb814Af92458539FB4"
     }
   },
-
   {
     "from": {
       "secretType": "ARBITRUM",
